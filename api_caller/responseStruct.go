@@ -1,4 +1,4 @@
-package main
+package api_caller
 
 type ResponseBody struct {
 	APIVersion    string //`json:"apiVersion"`

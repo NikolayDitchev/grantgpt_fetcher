@@ -1,4 +1,4 @@
-package main
+package grant_doc_fetcher
 
 import (
 	"fmt"
@@ -40,8 +40,6 @@ func (doc *Document) DownloadFile(folderPath string) error {
 	if err != nil {
 		return err
 	}
-
-	//fmt.Println("here")
 
 	return nil
 }

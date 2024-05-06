@@ -1,9 +1,8 @@
-package main
+package api_caller
 
 import (
 	"bytes"
 	"encoding/json"
-	"fmt"
 	"io"
 	"log"
 	"mime/multipart"
@@ -19,22 +18,19 @@ const (
 )
 
 type API_Caller struct {
-	url       *url.URL
-	urlParams url.Values
-	formData  struct {
-		query []byte
-	}
+	url        *url.URL
+	urlParams  url.Values
+	bodyParams map[string][]byte
 
 	pageNumber int
+	pageSize   int
 }
 
-func NewAPI_Caller(query []byte) (apc *API_Caller, err error) {
-	apc = &API_Caller{}
-
-	apc.urlParams = url.Values{
-		"apiKey":   []string{"SEDIA"},
-		"text":     []string{"***"},
-		"pageSize": []string{"100"},
+func NewAPI_Caller(bodyParams map[string][]byte, urlParams url.Values) (apc *API_Caller, err error) {
+	apc = &API_Caller{
+		urlParams:  urlParams,
+		bodyParams: bodyParams,
+		pageNumber: 1,
 	}
 
 	apc.url, err = url.Parse(API_ENDPOINT)
@@ -42,8 +38,10 @@ func NewAPI_Caller(query []byte) (apc *API_Caller, err error) {
 		return nil, err
 	}
 
-	apc.formData.query = query
-	apc.pageNumber = 1
+	apc.pageSize, err = strconv.Atoi(apc.urlParams.Get("pageSize"))
+	if err != nil {
+		return nil, err
+	}
 
 	return
 }
@@ -73,13 +71,13 @@ func (apc *API_Caller) GetResults(resultsChan chan<- []Result) {
 		log.Fatalln(err)
 	}
 
-	if len(jsonResponse.Results) == 0 {
+	resultsChan <- jsonResponse.Results
+
+	if apc.pageNumber*apc.pageSize >= jsonResponse.TotalResults {
 		close(resultsChan)
 		return
 	}
 
-	fmt.Println("here")
-	resultsChan <- jsonResponse.Results
 	apc.pageNumber++
 	apc.GetResults(resultsChan)
 }
@@ -89,18 +87,21 @@ func (apc *API_Caller) createRequest() *http.Request {
 	payload := &bytes.Buffer{}
 	writer := multipart.NewWriter(payload)
 
-	var header textproto.MIMEHeader = make(textproto.MIMEHeader)
-	header.Add("Content-Disposition", `form-data; name="query";`)
-	header.Add("Content-Type", "application/json")
+	for key, value := range apc.bodyParams {
 
-	part, err := writer.CreatePart(header)
-	if err != nil {
-		log.Fatalln(err)
+		var header textproto.MIMEHeader = make(textproto.MIMEHeader)
+		header.Add("Content-Disposition", `form-data; name="`+key+`";`)
+		header.Add("Content-Type", "application/json")
+
+		part, err := writer.CreatePart(header)
+		if err != nil {
+			log.Fatalln(err)
+		}
+
+		part.Write(value)
 	}
 
-	part.Write(apc.formData.query)
-
-	err = writer.Close()
+	err := writer.Close()
 	if err != nil {
 		log.Fatalln(err)
 	}

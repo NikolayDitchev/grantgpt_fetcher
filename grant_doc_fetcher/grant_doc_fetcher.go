@@ -3,7 +3,6 @@ package grant_doc_fetcher
 import (
 	"encoding/json"
 	"fetcher/api_caller"
-	"io"
 	"log"
 	"net/url"
 	"os"
@@ -12,30 +11,15 @@ import (
 )
 
 type GrantDocFetcher struct {
-	query      []byte
 	folderPath string
 
 	resultsChan chan []api_caller.Result
 	apiCaller   *api_caller.API_Caller
 }
 
-func NewFetcher(queryFilePath string, downloadFolderPath string) (fetcher *GrantDocFetcher, err error) {
-	queryFile, err := os.Open(queryFilePath)
-	if err != nil {
-		return nil, err
-	}
+func NewFetcher(query []byte, downloadFolderPath string) (fetcher *GrantDocFetcher, err error) {
 
-	query, err := io.ReadAll(queryFile)
-	if err != nil {
-		return nil, err
-	}
-
-	fetcher = &GrantDocFetcher{
-		query:      query,
-		folderPath: downloadFolderPath,
-	}
-
-	fetcher.resultsChan = make(chan []api_caller.Result)
+	resultsChan := make(chan []api_caller.Result)
 
 	bodyParams := map[string][]byte{
 		"query":    query,
@@ -48,9 +32,15 @@ func NewFetcher(queryFilePath string, downloadFolderPath string) (fetcher *Grant
 		"text":     []string{"***"},
 	}
 
-	fetcher.apiCaller, err = api_caller.NewAPI_Caller(bodyParams, urlParams)
+	apiCaller, err := api_caller.NewAPI_Caller(bodyParams, urlParams)
 	if err != nil {
 		return nil, err
+	}
+
+	fetcher = &GrantDocFetcher{
+		folderPath:  downloadFolderPath,
+		resultsChan: resultsChan,
+		apiCaller:   apiCaller,
 	}
 
 	return

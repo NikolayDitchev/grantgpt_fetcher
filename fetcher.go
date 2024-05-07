@@ -1,7 +1,10 @@
 package main
 
 import (
+	"fetcher/calls_proposals_urls"
 	"fetcher/grant_doc_fetcher"
+	"io"
+	"os"
 )
 
 type Fetcher interface {
@@ -10,12 +13,25 @@ type Fetcher interface {
 
 func FetcherFactory(fetcherType string, data map[string]string) (fetcher Fetcher, err error) {
 
+	file, err := os.Open(data["queryFilePath"])
+	if err != nil {
+		return nil, err
+	}
+
+	query, err := io.ReadAll(file)
+	if err != nil {
+		return nil, err
+	}
+
 	switch fetcherType {
 	case "grantDocFetcher":
-		fetcher, err = grant_doc_fetcher.NewFetcher(data["queryFilePath"], data["downloadFolderPath"])
+		fetcher, err = grant_doc_fetcher.NewFetcher(query, data["downloadFolderPath"])
 		return
+	case "urlFetcher":
+		fetcher, err = calls_proposals_urls.NewFetcher(query, data["downloadFolderPath"])
 	default:
 		return
 	}
 
+	return
 }

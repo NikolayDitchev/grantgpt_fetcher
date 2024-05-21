@@ -1,0 +1,725 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl5-2024-d3-02-08","file_display_name":"Minimisation of environmental, and optimisation of socio-economic impacts in the deployment, operation and decommissioning of offshore wind farms","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:If the project is on the first action 1) than the project results are expected to contribute to at least three of the outcomes a), b), and c). If the project is on the second action 2) than the project results is expected to contribute at least two of the outcomes a), b) and d)Enhanced sustainability by addressing economic, social and environmental aspects (air pollution, waste management, health and safety, job opportunities, wildlife concerns, etc.) of offshore wind farms (a).Enhanced overall sustainability of large-scale production of offshore wind farms based on mainstreamed Life Cycle Analysis addressing social, economic and environmental aspects, as well as improved circularity of offshore wind turbines (b).Improved understanding on the negative and positive impacts of offshore wind farms throughout their lifetime (c).Innovative and cost-effective solutions for the construction and decommissioning of offshore wind farms aiming also the minimisation of the potential impacts to biodiversity and protected species and habitats (d).  
+Scope:The aim is to develop and promote the use of modelling tools and objective holistic assessment metrics for realistic in-depth analysis of (cumulative) impacts of wind installations on the environment and on local communities and to integrate these in design tools for the deployment and decommissioning of offshore wind farms. It will be as well necessary to find innovative solutions to minimize the environmental impact during all stages of the life cycle of offshore wind farms but especially for the construction and decommissioning phase. An assessment framework for installations is needed with nature inclusive design options valuing ‘created habitats’ vs ‘natural habitats’.The actions are expected to address one of the following actions:Action 1: develop design tools which can be used for the planning of offshore floating and fixed-bottom wind farms with the focus to minimize the overall life-cycle environmental impacts (noise, impact on seabed, visual effect, effects on marine life and other species) including floating turbines (e.g. the environmental impacts of fixing/anchoring techniques), reducing carbon footprint of the offshore wind plants across the life cycle, from construction to end of life and reduce the environmental impact in each consecutive step. The tool should make use of existing data of environmental impact studies and should be easy to customise considering different sea basin biodiversity characteristics and new available data. For that reason, a strong participation/commitment of industry players is required to ensure that inventory data from industry of the components is used in the analyses and validation of the tools. The action will deliver recommendations for implementable, simple and measurable criteria to assess at the tendering stage of future project, considering the sustainability and environmental (positive and negative) impacts of offshore wind farms. Action 2) develop innovative and cost-effective solutions (innovative processes, planning processes, supply chains, materials for construction, ….) for all phases of the life cycle of offshore wind farms but especially for the installation, construction and decommissioning phase of offshore wind farms with the aim to reduce the environmental impact as much as possible in these stages of the life cycle of offshore wind farms. In order to increase the integration of the design tools and the innovative solutions, it is important that consortia engage all different stakeholders like regulatory bodies, industry, governments and citizens.This R&amp;I need is identified in the offshore renewable energy strategy (COM(2020) 741 final) that commits the Commission to ‘carry out an analysis of costs and impacts of the decommissioning of offshore installations, with a view to assessing whether, both for the dismantling of the existing installations and for future decommissioning activities, EU-wide legal requirements are needed to minimise environmental, safety, economic impacts’.
+Specific Topic Conditions:Activities are expected to achieve TRL 5 by the end of the project – see General Annex B.
+
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Eligible costs will take the form of a lump sum as defined in the Decision of 7 July 2021 authorising the use of lump sum contributions under the Horizon Europe Programme – the Framework Programme for Research and Innovation (2021-2027) – and in actions under the Research and Training Programme of the European Atomic Energy Community (2021-2025). [[This decision is available on the Funding and Tenders Portal, in the reference documents section for Horizon Europe, under ‘Simplified costs decisions’ or through this link: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf]].
+Specific conditions
+7. Specific conditions: described in the [specific topic of the Work Programme]
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+
+
+Normal
+0
+
+
+21
+
+
+false
+false
+false
+
+FR-BE
+X-NONE
+X-NONE
+
+
+
+
+
+
+
+
+
+
+
+MicrosoftInternetExplorer4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+LatentStyleCount="371">
+
+
+<w:LsdException Locked="false" Priority="9" SemiHidden="true"
+UnhideWhenUsed="true" QFormat="true" Name="heading 2" />
+<w:LsdException Locked="false" Priority="9" SemiHidden="true"
+UnhideWhenUsed="true" QFormat="true" Name="heading 3" />
+<w:LsdException Locked="false" Priority="9" SemiHidden="true"
+UnhideWhenUsed="true" QFormat="true" Name="heading 4" />
+<w:LsdException Locked="false" Priority="9" SemiHidden="true"
+UnhideWhenUsed="true" QFormat="true" Name="heading 5" />
+<w:LsdException Locked="false" Priority="9" SemiHidden="true"
+UnhideWhenUsed="true" QFormat="true" Name="heading 6" />
+<w:LsdException Locked="false" Priority="9" SemiHidden="true"
+UnhideWhenUsed="true" QFormat="true" Name="heading 7" />
+<w:LsdException Locked="false" Priority="9" SemiHidden="true"
+UnhideWhenUsed="true" QFormat="true" Name="heading 8" />
+<w:LsdException Locked="false" Priority="9" SemiHidden="true"
+UnhideWhenUsed="true" QFormat="true" Name="heading 9" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="index 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="index 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="index 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="index 4" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="index 5" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="index 6" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="index 7" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="index 8" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="index 9" />
+<w:LsdException Locked="false" Priority="39" SemiHidden="true"
+UnhideWhenUsed="true" Name="toc 1" />
+<w:LsdException Locked="false" Priority="39" SemiHidden="true"
+UnhideWhenUsed="true" Name="toc 2" />
+<w:LsdException Locked="false" Priority="39" SemiHidden="true"
+UnhideWhenUsed="true" Name="toc 3" />
+<w:LsdException Locked="false" Priority="39" SemiHidden="true"
+UnhideWhenUsed="true" Name="toc 4" />
+<w:LsdException Locked="false" Priority="39" SemiHidden="true"
+UnhideWhenUsed="true" Name="toc 5" />
+<w:LsdException Locked="false" Priority="39" SemiHidden="true"
+UnhideWhenUsed="true" Name="toc 6" />
+<w:LsdException Locked="false" Priority="39" SemiHidden="true"
+UnhideWhenUsed="true" Name="toc 7" />
+<w:LsdException Locked="false" Priority="39" SemiHidden="true"
+UnhideWhenUsed="true" Name="toc 8" />
+<w:LsdException Locked="false" Priority="39" SemiHidden="true"
+UnhideWhenUsed="true" Name="toc 9" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Normal Indent" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="footnote text" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="annotation text" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="header" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="footer" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="index heading" />
+<w:LsdException Locked="false" Priority="35" SemiHidden="true"
+UnhideWhenUsed="true" QFormat="true" Name="caption" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="table of figures" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="envelope address" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="envelope return" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="footnote reference" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="annotation reference" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="line number" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="page number" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="endnote reference" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="endnote text" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="table of authorities" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="macro" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="toa heading" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Bullet" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Number" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List 4" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List 5" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Bullet 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Bullet 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Bullet 4" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Bullet 5" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Number 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Number 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Number 4" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Number 5" />
+
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Closing" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Signature" />
+<w:LsdException Locked="false" Priority="1" SemiHidden="true"
+UnhideWhenUsed="true" Name="Default Paragraph Font" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Body Text" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Body Text Indent" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Continue" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Continue 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Continue 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Continue 4" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Continue 5" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Message Header" />
+
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Salutation" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Date" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Body Text First Indent" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Body Text First Indent 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Note Heading" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Body Text 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Body Text 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Body Text Indent 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Body Text Indent 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Block Text" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Hyperlink" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="FollowedHyperlink" />
+
+
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Document Map" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Plain Text" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="E-mail Signature" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Top of Form" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Bottom of Form" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Normal (Web)" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Acronym" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Address" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Cite" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Code" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Definition" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Keyboard" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Preformatted" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Sample" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Typewriter" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Variable" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Normal Table" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="annotation subject" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="No List" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Outline List 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Outline List 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Outline List 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Simple 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Simple 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Simple 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Classic 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Classic 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Classic 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Classic 4" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Colorful 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Colorful 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Colorful 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Columns 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Columns 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Columns 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Columns 4" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Columns 5" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Grid 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Grid 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Grid 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Grid 4" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Grid 5" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Grid 6" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Grid 7" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Grid 8" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table List 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table List 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table List 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table List 4" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table List 5" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table List 6" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table List 7" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table List 8" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table 3D effects 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table 3D effects 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table 3D effects 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Contemporary" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Elegant" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Professional" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Subtle 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Subtle 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Web 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Web 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Web 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Balloon Text" />
+
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Theme" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<w:LsdException Locked="false" Priority="34" QFormat="true"
+Name="List Paragraph" />
+
+<w:LsdException Locked="false" Priority="30" QFormat="true"
+Name="Intense Quote" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<w:LsdException Locked="false" Priority="19" QFormat="true"
+Name="Subtle Emphasis" />
+<w:LsdException Locked="false" Priority="21" QFormat="true"
+Name="Intense Emphasis" />
+<w:LsdException Locked="false" Priority="31" QFormat="true"
+Name="Subtle Reference" />
+<w:LsdException Locked="false" Priority="32" QFormat="true"
+Name="Intense Reference" />
+
+<w:LsdException Locked="false" Priority="37" SemiHidden="true"
+UnhideWhenUsed="true" Name="Bibliography" />
+<w:LsdException Locked="false" Priority="39" SemiHidden="true"
+UnhideWhenUsed="true" QFormat="true" Name="TOC Heading" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+<w:LsdException Locked="false" Priority="46"
+Name="Grid Table 1 Light Accent 1" />
+
+
+
+
+<w:LsdException Locked="false" Priority="51"
+Name="Grid Table 6 Colorful Accent 1" />
+<w:LsdException Locked="false" Priority="52"
+Name="Grid Table 7 Colorful Accent 1" />
+<w:LsdException Locked="false" Priority="46"
+Name="Grid Table 1 Light Accent 2" />
+
+
+
+
+<w:LsdException Locked="false" Priority="51"
+Name="Grid Table 6 Colorful Accent 2" />
+<w:LsdException Locked="false" Priority="52"
+Name="Grid Table 7 Colorful Accent 2" />
+<w:LsdException Locked="false" Priority="46"
+Name="Grid Table 1 Light Accent 3" />
+
+
+
+
+<w:LsdException Locked="false" Priority="51"
+Name="Grid Table 6 Colorful Accent 3" />
+<w:LsdException Locked="false" Priority="52"
+Name="Grid Table 7 Colorful Accent 3" />
+<w:LsdException Locked="false" Priority="46"
+Name="Grid Table 1 Light Accent 4" />
+
+
+
+
+<w:LsdException Locked="false" Priority="51"
+Name="Grid Table 6 Colorful Accent 4" />
+<w:LsdException Locked="false" Priority="52"
+Name="Grid Table 7 Colorful Accent 4" />
+<w:LsdException Locked="false" Priority="46"
+Name="Grid Table 1 Light Accent 5" />
+
+
+
+
+<w:LsdException Locked="false" Priority="51"
+Name="Grid Table 6 Colorful Accent 5" />
+<w:LsdException Locked="false" Priority="52"
+Name="Grid Table 7 Colorful Accent 5" />
+<w:LsdException Locked="false" Priority="46"
+Name="Grid Table 1 Light Accent 6" />
+
+
+
+
+<w:LsdException Locked="false" Priority="51"
+Name="Grid Table 6 Colorful Accent 6" />
+<w:LsdException Locked="false" Priority="52"
+Name="Grid Table 7 Colorful Accent 6" />
+
+
+
+
+
+
+
+<w:LsdException Locked="false" Priority="46"
+Name="List Table 1 Light Accent 1" />
+
+
+
+
+<w:LsdException Locked="false" Priority="51"
+Name="List Table 6 Colorful Accent 1" />
+<w:LsdException Locked="false" Priority="52"
+Name="List Table 7 Colorful Accent 1" />
+<w:LsdException Locked="false" Priority="46"
+Name="List Table 1 Light Accent 2" />
+
+
+
+
+<w:LsdException Locked="false" Priority="51"
+Name="List Table 6 Colorful Accent 2" />
+<w:LsdException Locked="false" Priority="52"
+Name="List Table 7 Colorful Accent 2" />
+<w:LsdException Locked="false" Priority="46"
+Name="List Table 1 Light Accent 3" />
+
+
+
+
+<w:LsdException Locked="false" Priority="51"
+Name="List Table 6 Colorful Accent 3" />
+<w:LsdException Locked="false" Priority="52"
+Name="List Table 7 Colorful Accent 3" />
+<w:LsdException Locked="false" Priority="46"
+Name="List Table 1 Light Accent 4" />
+
+
+
+
+<w:LsdException Locked="false" Priority="51"
+Name="List Table 6 Colorful Accent 4" />
+<w:LsdException Locked="false" Priority="52"
+Name="List Table 7 Colorful Accent 4" />
+<w:LsdException Locked="false" Priority="46"
+Name="List Table 1 Light Accent 5" />
+
+
+
+
+<w:LsdException Locked="false" Priority="51"
+Name="List Table 6 Colorful Accent 5" />
+<w:LsdException Locked="false" Priority="52"
+Name="List Table 7 Colorful Accent 5" />
+<w:LsdException Locked="false" Priority="46"
+Name="List Table 1 Light Accent 6" />
+
+
+
+
+<w:LsdException Locked="false" Priority="51"
+Name="List Table 6 Colorful Accent 6" />
+<w:LsdException Locked="false" Priority="52"
+Name="List Table 7 Colorful Accent 6" />
+
+
+
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-parent:"";
+mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+mso-para-margin-top:0cm;
+mso-para-margin-right:0cm;
+mso-para-margin-bottom:8.0pt;
+mso-para-margin-left:0cm;
+line-height:107%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri",sans-serif;
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:"Times New Roman";
+mso-bidi-theme-font:minor-bidi;
+mso-fareast-language:EN-US;}
+
+
+Standard application form (HE RIA, IA)
+Template excel for the detailed budget costs breakdown (Lump Sum)
+Presentation - Lump Sum Funding: What do I need to know?
+Decision authorising Lump Sum under Horizon Europe
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE RIA, IA)
+MGA
+Lump Sum MGA v1.0
+Call-specific instructions
+Detailed budget table (HE LS)
+&nbsp;
+Guidance: &quot;Lump sums - what do I need to know?&quot;
+&nbsp;
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 8. Climate, Energy and Mobility
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

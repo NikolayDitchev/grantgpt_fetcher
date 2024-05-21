@@ -1,0 +1,82 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2024-ocean-01-01","file_display_name":"European Blue Parks – Offshore marine protected areas","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Project results are expected to contribute to all the following expected outcomes:  Definition of clear science-based conservation objectives and conservation measures that contribute to the restoration and protection of marine ecosystems and to effective management of protected areas;  Evidence for effective decision-making process at Member States and Associated Countries level to ensure sustainable management of offshore marine protected areas; Contribution to policy development and implementation linked to protecting and restoring marine biodiversity and ecosystems;New offshore marine protected areas proposed and/or established; Improved knowledge about offshore marine ecosystems (including deep sea ecosystems)and biodiversity in view of protection and conservation demo activities; Enhancement of the provision of ecosystem services compatible with the protection and restoration of the offshore ecosystems, leading to sustainable and scalable business models;Active support to the Mission’s Digital Ocean and Water Knowledge system through advances in biological, ecosystem and socio-economic knowledge applied to restoration and conservation;Active support to the Kunming-Montreal Biodiversity Framework;Reinforced EU leadership in international efforts for marine protection, in line with the EU key priorities and international commitments.  
+Scope: Only 8% of offshore marine waters in the EU are covered by marine protected areas (MPAs), compared to 48% of nearshore (0-1 nautical mile) and 27% of territorial (1-12 miles) zone (EEA, 2020). This means that large areas of important habitats offshore remain unprotected (such as soft sediment bottoms or habitats of highly mobile species such as marine mammals), which hinders the achievement of EU and global marine conservation targets to achieve a coherent MPA network. One of the main challenges for the establishment of offshore MPAs is the lack of knowledge about the distribution and condition of marine habitats, as well as pressures affecting them, due to high cost and effort needed for their surveillance and research. This has also been raised by Member States as one of the main issues with the implementation of the Marine Strategy Framework Directive and of the future Nature Restoration Law. Proposals under this topic are expected to show how their activities and results will contribute to achieving the Mission objective 1 – Protect and restore marine and freshwater ecosystems and biodiversity.  Proposals are expected to contribute to the EU Biodiversity Strategy for 2030, including the Marine Action Plan, the Birds, Habitats and Marine Strategy Framework directives and the future Nature Restoration Law as well as relevant international agreements (e.g.: the Agreement under the United Nations Convention on the Law of the Sea on the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction - BBNJ).    The proposed activities should cover all following objectives:  - mapping the distribution and condition of marine (benthic and pelagic) habitats in offshore[1] areas (beyond 12 nautical miles from the coast); - providing the scientific basis for establishing new marine protected areas (or enlarging existing ones) in offshore areas, including strictly protected ones; - assessing pressures (including cumulative ones) in offshore areas and establishing the necessary conservation measures for MPAs, including through elaboration of their management plans and monitoring schemes. Projects are encouraged to actively involve Member States/Associated Countries’ authorities and concerned stakeholders.Proposals should be site-specific, and the number of sites, their size, objectives and management measures of the protected area(s) for demonstration activities have to be ecologically relevant and impactful and contribute to enhance ecosystem services.Projects should build and capitalise on the knowledge base developed and lessons learnt from other projects, initiatives and programmes linked to the field of biodiversity, marine environment and conservation, as well as on the work carried out in relation to Vulnerable Marine Ecosystems, as required under the REGULATION (EU) 2016/2336 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 December 2016 establishing specific conditions for fishing for deep-sea stocks in the north-east Atlantic and provisions for fishing in international waters of the north-east Atlantic and repealing Council Regulation (EC) No 2347/2002.Projects funded under this topic are expected to  show a significant replication potential by identifying areas and locations where the proposed measures could be replicable. An action plan and roadmap needed for the replication and scale up of the proposed measures for offshore marine protected areas are expected to be drawn up by the end of the project, taking into account Marine Spatial Planning plans. For improved coordination and networking, the applicants should set aside resources for activities to engage with other relevant actions funded under Horizon Europe, in particular projects funded under Horizon Europe Cluster 6 topics, Mission Ocean and Waters topics, EMFAF/EMFF and LIFE activities. Additionally, projects should collaborate with projects funded under the topic HORIZON-INFRA-2022-EOSC-01-03 to adopt best practices regarding FAIR and open data sharing as well as with other relevant activities under the Research Infrastructures programme[2].Proposals addressing the EU Outermost Regions[3] are encouraged, given these regions’ natural assets.
+Specific Topic Conditions:Activities are expected to achieve TRL 5-7 by the end of the project – see General Annex B.
+[1]offshore means the area beyond 12 nautical miles from the coast where a Member State has or exercises jurisdiction, including exclusive economic zone or similar zones and the continental shelf.[2]https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures_en[3]https://ec.europa.eu/regional_policy/policy/themes/outermost-regions_en
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Beneficiaries will be subject to the following additional obligations regarding open science practices:If projects collect in-situ data and marine observations, beneficiaries must make them openly available through the European Marine Observation and Data network (EMODnet), based on FAIR (findable, accessible, interoperable, reusable) principles.
+Specific conditions
+7. Specific conditions: described in the [specific topic of the Work Programme]
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE RIA, IA)
+Standard application form (HE CSA)
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE RIA, IA)
+Standard evaluation form (HE CSA)
+MGA
+HE General MGA v1.0
+&nbsp;
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 12. Missions
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

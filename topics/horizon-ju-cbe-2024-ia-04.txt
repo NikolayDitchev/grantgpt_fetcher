@@ -1,0 +1,75 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-ju-cbe-2024-ia-04","file_display_name":"Circular and SSbD bio-based construction \u0026 building materials with functional properties","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:In line with the objectives of the Circular Economy and Zero Pollution Action Plan, the revision of the Construction Products Regulation[1] the Waste Framework Directive[2], but also the EU Construction transition pathway[3] the successful proposals will facilitate the demonstration and deployment of sustainable bio-based construction materials. Successful proposals will also contribute to the implementation of the EU Bioeconomy Strategy and the updated EU Industrial Strategy.Project results should contribute to the following expected outcomes:Uptake of circular bio-based solutions in construction and renovation of buildings, with possible spillovers to other large volume markets (e.g., transport and furniture).Bio-based materials performance meeting market and regulatory requirements.Improved environmental and health &amp; safety profile compared to current equivalent, conventional products.Contribution to improved air quality (including indoor air quality) by preventing air pollution.Increased end user/consumer awareness and acceptance of SSbD bio-based solutions. 
+Scope:Buildings produce about 40% of the world’s CO2 emissions, throughout the phases of material production, construction, useful life of the construction facility and end-of-life of its components, contributing to environmental pollution. To meet the increasing demand for sustainable, circular, energy efficient buildings and construction materials, there is a need to adopt cost effective, environmentally appropriate technologies and upgrade traditional techniques to increase circularity. Bio-based materials and products can often provide more sustainable and circular solutions and at the same time confer useful functional properties. At the same time, their scalability and environmental sustainability needs to be clearly demonstrated compared to conventional building materials.Proposals under this topic should:Demonstrate bio-based products with tailored functional properties for large-scale applications in construction and renovation of buildings. Products in scope are functional elements such as (but not limited to) acoustic and thermal insulation panels, façade elements, interior fittings, foams, membranes, door structures, window frames. Examples of target functionalities include durability; fire retardancy; water barrier, moisture transfer, antimicrobial, antifungal/mould prevention, corrosion prevention among others. While the primary focus should be on construction and building products, proposals can also consider replication of the developed solutions in other large market sectors such as transport and furniture among others.Assess the compatibility of the innovative solutions developed with the built environment in terms of materials and of planning, construction, maintenance, renovation and/or demolition practices. Assess the compliance of products with the relevant regulatory framework and provide recommendations to overcome any identified bottleneck. Perform field trials of the newly developed materials and products involving end users (assessment, training and awareness raising). When applicable, test the compatibility with other components relevant to the final application.Ensure health and safety requirements of workers and end users/consumers are met, including indoor air quality benefits when applicable.Demonstrate improved environmental profiles compared to conventional (fossil or bio-based) materials in the production, use phase and end of life (including disassembly for easier recycling where applicable, reduction of waste and sustainable waste management).Demonstrate sustainable and resource efficient production routes.Include a task to integrate assessment based on the safe-and-sustainable-by-design (SSbD) framework, developed by the European Commission, for assessing the safety and sustainability of chemicals and materials. Under this context, projects are expected to contribute with and develop recommendations that can advance further the application of the SSbD framework. Proposals should seek for links and complementarities and avoid overlaps with past, ongoing and upcoming EU funded projects, including those funded under H2020, HEU and the BBI JU and CBE JU[4]. Synergies with projects from Processes4Planet and the New European Bauhaus Academy initiative are encouraged. Proposals should also describe their contribution to the Specific CBE JU requirements, presented in section 2.2.3.1 of the CBE JU Annual Work Programme 2024[5].
+[1]Brussels, 30.3.2022 COM(2022) 144 final.[2]Brussels, 5.5.2021 COM(2021) 350 final.[3]Construction transition pathway.[4]BARBARA (H2020-BBI-JTI-2016), ReInvent (H2020-BBI-JTI-2017), ECOXY (H2020-BBI-JTI-2016), FIBSUN (HORIZON-JU-CBE-2022), CBE JU project funded under topic HORIZON-JU-CBE-2023-2-S-01 (CBE JU supporting activities for the New European Bauhaus Academy, a network for re-skilling and upskilling towards a sustainable construction ecosystem), HORIZON-CL6-2021-ZEROPOLLUTION-01-06, HORIZON-CL6-2021-CIRCBIO-01-01, HORIZON-CL6-2022-CIRCBIO-02-01, HORIZON-CL6-2023-CIRCBIO-01-08, HORIZON-CL6-2024-CIRCBIO-01-03, HORIZON-CL6-2024-CIRCBIO-02-5, HORIZON-CL6-2024-CLIMATE-01-05[5]https://www.cbe.europa.eu/reference-documents
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions:&nbsp;described in section 2.2.3 Calls for proposals in the CBE JU Annual Work Programme 2024
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+CBE JU Call for proposals 2024
+MGA
+HE General MGA v1.0
+Call-specific instructions
+CBE JU Call for proposals 2024
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

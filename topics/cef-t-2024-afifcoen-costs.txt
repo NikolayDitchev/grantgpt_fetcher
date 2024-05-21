@@ -1,0 +1,70 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/cef-t-2024-afifcoen-costs","file_display_name":"Alternative Fuels Infrastructure Facility - Co-funding Rate","status":"OK"} -->
+
+Description: 
+Objective:The objective is to support the deployment of Alternative Fuel supply infrastructure, contributing to decarbonising transport along the TEN-T network.
+Scope:The following Actions will be supported:Actions supporting the deployment of electricity recharging infrastructure for Heavy-Duty Vehicles, equipped with recharging points of respectively minimum 150kW, 350kW and 1MW power output.Actions supporting the roll-out of hydrogen refuelling infrastructure for Heavy-Duty Vehicles.Actions supporting the roll-out of hydrogen refuelling infrastructure for public transport in bus depots for railways on sections of the TEN-T rail network for which a derogation from the electrification requirement has been granted and on isolated networks, in line with the applicable TEN-T Regulation, or in terminals for refuelling shunting locomotives.Actions supporting the roll-out of hydrogen refuelling and electricity recharging infrastructure dedicated to inland waterway and maritime vessels, vessels, vehicles and equipment for port operations and airports.Actions supporting the deployment of bunkering infrastructure for ammonia supply to maritime and inland waterway vessels and vessels for port operations for TEN-T maritime ports and inland ports.Actions supporting the deployment of bunkering infrastructure for methanol supply to maritime and inland waterway vessels and vessels for port operations for TEN-T maritime ports and inland ports. Costs related to vehicles or vessels will not be eligible, except for vessels in the case of inland waterway and short sea shipping, if an initial number of vessels is needed to kick-start the use of the supported recharging/refuelling infrastructure. In such case, the eligible cost shall be limited to the difference of cost between a fossil-fuel vessel and the zero-emission vessel(s).Costs related to the production of green hydrogen for the purpose of transport will be eligible as synergetic elements under the conditions specified in Section 10.6 of the Work Programme.
+
+
+Conditions: 
+ 
+Conditions
+1.&nbsp;Admissibility conditions: described in section 5 of the call document
+Proposal page limits and layout:&nbsp;described in Part B of the Application Form available in the Submission System
+2. Eligible countries:&nbsp;described in section 6 of of the call document
+3. Other eligibility conditions:&nbsp;described in section 6 of the call document
+4. Financial and operational capacity and exclusion:&nbsp;described in&nbsp;section 7 of the call document
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and thresholds:&nbsp;described in section 9 of the call document
+    
+
+
+    
+    Submission and evaluation processes:&nbsp;described&nbsp;section 8 of the call document and the&nbsp;Online Manual
+    
+
+
+    
+    Indicative timeline for evaluation and grant agreement:&nbsp;described in section 4 of the call document
+    
+
+6. Legal and financial set-up of the grants:&nbsp;described&nbsp;in section 10 of the call document
+&nbsp;
+Documents
+ 
+Call documents:
+Call document CEF-T-2024-AFIFCOEN
+&nbsp;
+Application form and annexes:
+Proposals (including annexes and supporting documents) must be submitted using the forms provided inside the Submission System (NOT the documents available on the Topic Page - these are only for information)
+Application form (Part A and B)
+Detailed budget table per WP
+Timetable (Gantt Chart)
+Letter of support (MS agreement)
+Environmental compliance file
+Financial approval letter (IP)
+Financial approval letter (non-IP)
+Simplified CBA calculator (CEF-T)
+&nbsp;
+
+List of Implementing Partners
+&nbsp;
+Model Grant Agreement:
+CEF Model Grant Agreement MGA
+&nbsp;
+Additional documents:
+CINEA guide on economic appraisal for CEF-T transport projects
+Work Programme 2021-2027 (CEF-T)
+CEF Regulation 2021/1153
+TEN-T Regulation 1315/2013
+EU Financial Regulation 2018/1046
+&nbsp;
+
+Support Info: 
+For help related to this&nbsp;call, please contact:&nbsp;CINEA-CEF-TRANSPORT-CALLS@ec.europa.eu
+
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; Submission of proposals.
+IT Helpdesk&nbsp;&ndash; Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+Online Manual&nbsp;&ndash; Step-by-step online guide through the Portal processes from proposal preparation and submission to reporting on your on-going project. Valid for all 2021-2027 programmes.
+

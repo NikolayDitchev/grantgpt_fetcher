@@ -1,0 +1,78 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl6-2024-climate-02-2","file_display_name":"Closing the research gaps on Essential Biogeochemical Ocean Variables (EOVs) in support of global assessments","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:In line with the European Green Deal and, in particular its climate and biodiversity objectives, successful proposals should advance the scientific understanding to support adaptation and resilience policies of natural and managed ecosystems, to efficiently monitor, assess and project the impacts and effects of climate change, mitigation and adaptation strategies, and to support decision-making and the delivery of solutions for tackling emerging threats at regional, European and global levels.Successful proposal results are expected to contribute to all of the following expected outcomes:Improved key biogeochemical ocean monitoring variables and indicators, GCOS' Essential Climate Variables, GOOS’ Essential Ocean Variables, in support of international global assessment programmes (IPCC, WOA, IPBES, CMIP, CLIVAR, Ocean Health Index, etc) and to foster the development of regional approaches to ocean climate monitoring and reporting, overcoming current limitations and gaps;Improved Earth System Models (ESMs) representing key biogeochemical processes in the ocean with reduced uncertainty of climate change projections at regional scales, and reduced biases (e.g., in CMIP7 models for ocean and polar regions); better scientific understanding and quantification of tipping points and abrupt system changes and associated impacts, including aspects of irreversibility and compound events;Better understanding of the links between the ocean’s physical, biogeochemical and biodiversity components and their variability over time; the impacts of environmental stressors (e.g., warming, extreme events, ocean deoxygenation, and acidification) on ocean health, GHG sources and sinks, biology and ecosystems;Common, agreed standards for climate records content, format, quality and validation methodology;Enabled evidence-based decision–making (e.g., developing early warning ocean climate indicators);Sustained European leadership in ocean–climate–biodiversity science nexus and support to EU programmes, and to global scientific assessments. 
+Scope:Actions should aim at developing innovative approaches to:improve the monitoring, understanding, reporting and projections of essential biogeochemical oceanic processes related to climate and changes over time at regional or sea basin scale (oxygen, nutrients, inorganic carbon, transient tracers, nitrous oxide, ocean colour, particulate matter, dissolved organic carbon, elemental and isotopic tracers, stable carbon isotopes, marine debris); integrate multidisciplinary observation systems (in-situ, airborne, satellite) and improved models;inform models and improve predictions of the Earth system response to ocean acidification and to the ocean biological pump, including the long-term trends in ocean chemistry, beyond the observational record (paleo-ocean acidification), for a better understanding of the multi-decadal reversibility or the hysteresis of ocean processes (like the AMOC). Links should be made with ocean stratification that acts as barrier for water mixing or carbon sequestration;support the development of the ocean component of climate models through a better representation of essential biogeochemical processes, microbe biomass and diversity and enable a better understanding of the links between ocean physical and biogeochemical variability and ocean stratification; the action should contribute to the integration of more biogeochemical parameters, assimilation techniques, models and assessment strategies into ESMs;combine GHG measurements in regions especially critical for GHG fluxes with relevant biogeochemical measurements (e.g., oxygen, nutrients, carbon) to support GHG data analyses and model simulations to improve the understanding of ocean biogeochemical fluxes and turnover of carbon and nitrogen and the quantification of fluxes between basins/regimes and across interfaces (air-sea, water-sediment); focus should be on quantifying GHG reservoir size and change, and potential subsequent impact on GHG fluxes, ocean productivity, ocean acidification, carbon sequestration, oxygen demand and carbonate system. The action should also address the interplay between carbonate chemistry and a variety of biogeochemical and physical processes, including eutrophication and freshwater inflow and outflow in coastal zones. The action should further research the net response of natural ocean CH4 and N2O sources to future warming, including permafrost, and predict the magnitude and timing of the responses of each individual process.Where appropriate, the combination of multiple drivers and/or hazards that contribute to societal and/or environmental risk should be assessed. Actions should identify safe operating spaces for the ocean to provide life-support systems for humanity and the planetary ecosystems, accompanied – where relevant – with long-term strategies for preventing or mitigating impacts. The assessments of cumulative effects should look at existing and past activities in the marine environment but should also allow for foresight in order to inform planning of future activities and support management that is adaptive to future conditions and sustains ecosystems and human well-being.The action funded under this topic should establish a strong collaboration with the projects funded under HORIZON-CL6-2023-CLIMATE-01-8, namely ObsSea4Clim (covering physical EOVs) and BioEcoOcean (covering biological EOVs), in order to ensure delivering the necessary integration of EOVs and help characterize the interplay and dependence between the biological, chemical, and physical properties of the ocean.International cooperation will be essential in integrating and coordinating these different scaled approaches. A strong linkage should be ensured with the ongoing activities under the All-Atlantic Ocean Research and Innovation Alliance, the UN Decade of Ocean Science, GOOS, the Copernicus marine service, GOOS, the Ocean Biogeographic Information System (OBIS), MBON of GEOBON, ICOS, GCOS, and other relevant international Ocean Observing Initiatives. All in-situ data collected through actions funded from this call should follow INSPIRE principles and be available through open access repositories supported by the European Commission (Copernicus, GEOSS, and EMODnet).This topic is part of a coordination initiative between the European Space Agency and the European Commission on Earth System Science. Under the initiative, both institutions aim at coordinating efforts to support complementarities between the Horizon Europe and the European Space Agency FutureEO programmes, and their projects. Proposals under this topic should address networking and collaborative research activities with relevant European Space Agency actions. In particular, the European Space Agency will contribute to this topic with existing and planned projects focused on enhancing the observation capacity and understanding from satellite EO technology of the relevant ocean processes[1]. Proposals should address the collaboration with ongoing or future ESA projects, including those that will be funded through dedicated coordinated invitations to tender, and should towards this end include sufficient means and resources for effective coordination. Applicants are encouraged to contact ESA to organise the joint European Commission-European Space Agency work.Collaboration with the relevant existing European Research Infrastructures and European Open Science Cloud projects is encouraged.Synergies and complementarities should be sought with projects under HORIZON-CL6-2023-CLIMATE-01-8: Closing the research gaps on Essential Ocean Variables (EOVs) in support of global assessments, HORIZON-CL6-2024-CLIMATE-01-6: Ocean models for seasonal to decadal and local to regional climate predictions, and Cluster 5 topics: HORIZON-CL5-2024-D1-01-02: Inland ice, including snow cover, glaciers, ice sheets and permafrost, and their interaction with climate change, HORIZON-CL5-2024-D1-01-01: Enhanced quantification and understanding of natural and anthropogenic methane emissions and sinks, and HORIZON-CL5-2023-D1-01-02: Climate-related tipping points.
+Specific Topic Conditions:Activities are expected to achieve TRL 7-8 by the end of the project – see General Annex B.
+[1] Dedicated ESA invitation to tenders to be launched in 2023 and 2024 for each of the clusters will be published in the ESA-STAR Tender publication system (https://esastar-publication-ext.sso.esa.int).
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions: described in the specific topic of the Work Programme
+&nbsp;
+
+Documents
+Call documents:
+Standard application form
+Standard application form (HE RIA, IA)
+Standard evaluation form
+Standard evaluation form (HE RIA, IA)
+MGA
+HE General MGA v1.0
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 9. Food, Bioeconomy, Natural Resources, Agriculture and Environment
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

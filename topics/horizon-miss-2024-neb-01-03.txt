@@ -1,0 +1,78 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2024-neb-01-03","file_display_name":"Setting up a New European Bauhaus hub for results and impact","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Proposals are expected to contribute to all of the following expected outcomes:  The NEB Facility is based on robust information from ongoing and completed NEB activities and projects, ensuring its high quality and impact.Policy-makers as well as professionals in public administrations and the construction ecosystem can access new knowledge and apply new products, standards, approaches and tools to the regeneration of neighbourhoods in alignment with the NEB values and principles;The NEB Community, projects and stakeholders develop a sense of belonging to the NEB initiative and the findings and results of their projects contribute to setting the direction of the NEB Facility. 
+Scope:A ‘New European Bauhaus hub for results and impacts’ is required to collect, centralise, manage, monitor and exploit the knowledge produced by the NEB projects, the NEB Community and other relevant NEB actions (e.g. projects resulting from EU-funded calls dedicated to NEB across the different EU programmes, NEB Lab) while also ensuring cooperation and collaboration between them. By having an overview of all the knowledge produced, the progress made, the challenges faced and the research gaps yet to overcome, the hub will be an agile instrument that will contribute to informing the implementation of the NEB Facility and will help to increase its impact. Ultimately, it will contribute to advancing the objectives of the NEB in a coherent manner.It will cover all the disciplines relevant for NEB and reflect the transversal, holistic nature of the initiative.Proposals are expected to address all of the following:  Collection of knowledge       Develop and implement a methodology and working methods to collect the knowledge, results, processes and solutions resulting from NEB projects, the NEB Community and other relevant NEB actions (e.g. projects resulting from EU-funded calls dedicated or relevant to NEB across the different EU programmes, NEB Lab, etc.) and other relevant initiatives (e.g. EU Missions and their platforms, Built4People innovation clusters, EUI Portico, URBACT Knowledge Hub, etc.);Conduct and set standards for comparative analysis and presentation of knowledge, results, approaches and solutions resulting from NEB projects, the NEB Community and other relevant NEB actions;    Knowledge Management       Consult the stakeholders inside and outside of the NEB Community that will benefit of the New European Bauhaus Hub for results and impacts and tailor the hub and its actions to their needs;Set up a hub that will centralise, store, process and make publicly available in a user-friendly, tailored and effective way the relevant knowledge produced by NEB projects and NEB relevant actions as well as by the NEB Community;Based on initial information sources and guidance to be provided by the Commission, analyse and develop a consolidated list of EU-funded projects that the Commission will use to build and update a thematic portfolio of projects relevant for the implementation of the NEB initiative in general and for the NEB Facility in particular [1].    Monitoring and analysis       Analyse and summarise the results of NEB projects and relevant actions to turn them into actionable knowledge for all different stakeholders (e.g. for urban design, for the revision of spatial development plans, etc.). Ensure its accessibility and attractiveness;Taking 2024 as baseline, develop a monitoring system to measure the impact of future projects funded by the NEB Facility (including their contributions to climate change mitigation and adaption) as well as the progress with the uptake and deployment of their results, approaches and solutions. Links and synergies with existing assessment systems (e.g. Level(s), NEB Labelling Strategy) and relevant tools (notably the NEB Compass) are encouraged;Learning from the results and achievements of all NEB activities, identify the R&amp;I gaps, bottlenecks, and future needs that could be addressed to facilitate the implementation of the NEB Facility.     The consortium is expected to develop and provide a method and plan detailing how the New European Bauhaus Hub for results and impacts will be operated, kept up-to-date and adapted to emerging needs. It will also ensure that the hub developed uses European Commission's IT tools such as the Open EUROPA Drupal platform[2] and complies with the Europa Component Library[3], the NEB visual identity and the Commission's accessibility and usability rules. The consortium will also ensure that the Commission can access the back office of the hub's system and that the latter can be transferred to another consortium or the Commission at the end of the project. The project is expected to last at least two years.Proposals should demonstrate how they will secure the necessary knowledge and expertise in areas relevant for the NEB[4].
+[1]The project portfolio will be an interactive tool to be developed by the Commission. It will take inspiration in the NEB Dashboard (https://new-european-bauhaus.europa.eu/about/dashboard_en) as well as in other thematic project portfolios developed by the Commission.[2]https://github.com/openeuropa[3]Europa Component Library[4]Such as architecture and civil engineering (incl. sustainable and green architecture, adaptive reuse and historic preservation, smart buildings and home automation); spatial planning (incl. landscape architecture) governance and development; entrepreneurship and venture capital; social sciences; culture and creative industries and sectors; emerging industries; research &amp; innovation; climate, energy and natural resources, urban circularity and regeneration; ecosystem services and nature-based solutions; public health and well-being in cities; urban resilience; social impacts of climate change. Additional transversal areas would also be relevant: research and innovation, monitoring &amp; evaluation; (innovation) procurement; advocacy, communications &amp; citizen engagement; digital services, artificial intelligence, machine learning and use of data; knowledge translation, innovation and evidence-informed policymaking.
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions: described in the [specific topic of the Work Programme]
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE CSA)
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE CSA)
+MGA
+HE General MGA v1.0
+&nbsp;
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+ 
+HE Main Work Programme 2023&ndash;2024 &ndash; 12. Missions
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

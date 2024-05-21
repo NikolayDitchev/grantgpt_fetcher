@@ -1,0 +1,47 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/digital-2024-cloud-data-06-healthcare-ai","file_display_name":"Support for Health Data Access Bodies to foster efficient pathways for AI in healthcare","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:DeliverablesReport on the identified pathways for testing and deployment of AI in health and their limitations and gaps in the current landscape;Description of pathways based on health data access bodies’ services and other key actors such as TEFs and EDIHs, where relevant, in light of the EHDS and the AIA;Guidelines for creating and deploying the necessary capabilities for HDABs to support the development, testing and deployment pathways for AI in healthcare;Reports on the tests and showcases conducted;Recommendations for the implementing of development, testing and deployment pathways of AI in health based on the opportunities offered by the EHDS and the requirements of the AIA. 
+Objective:ObjectiveHealthcare demands continue to increase due to factors like population growth, aging populations, and the prevalence of chronic diseases. Healthcare technologies can help meet these demands by, among others, increasing effectiveness of treatment and diagnostic solutions and efficiency of health systems. The deployment of new medical digital technologies and artificial intelligence (AI) powered solutions for healthcare purposes requires access to real world health data. The amount of data available to drive the development of AI should be as large as possible to limit the introduction of biases that could undermine the effectiveness and safety of healthcare AI solutions or increase inequalities in access to care.The European Health Data Space (EHDS) establishes a common framework for the reuse of health data. It aims to facilitate and streamline access to EU-wide real-world health data for specific purposes such as the development, testing, deployment and uptake of products or services contributing to public health or the training, testing and evaluation of algorithms, including in medical devices, AI systems and digital health applications. The proposal for a Regulation on the EHDS provides for Health Data Access Bodies (HDABs) in each country as trusted anchors to support and supervise the reuse of health data.As part of the wider AI ecosystem in health, such as Testing and Experimentation Facilities (TEFs) for AI and European Digital Innovation Hubs (EDIHs), this action aims to strengthen the role and capabilities of HDABs in streamlining the testing and deployment pathways for healthcare AI solutions.The aim of this action is also to reduce time-to-market and foster the development of new AI-based healthcare products and services that significantly improve patient safety and wellbeing, while preserving privacy and security. This action is not only relevant to the implementation of the EHDS, but also to the implementation of the Artificial Intelligence Act (AIA), which establishes an overarching framework for trustworthy AI, including in healthcare (e.g. medical devices).
+Scope:ScopeThe action comprises the following:Identifying current pathways, i.e. regulatory, organisational and technical processes and means, for the development, testing and deployment of AI in health, as well as limitations, bottlenecks and gaps reducing the overall effectiveness of these pathways; • Designing more effective pathways by leveraging EHDS and Health Data Access Bodies, and possibly Testing and Experimentation Facilities (TEFs) and European Digital Innovation Hubs (EDIHs);Creating and implementing the necessary capabilities at the level of the Health Data Access Bodies to support these pathways for the development, testing and deployment of AI in health, and building around them an appropriate community including where appropriate, data users, data holders, TEFs and EDIHs;Testing and showcasing these pathways with Health Data Access Bodies and the relevant actors in the community, based on specific examples in relevant disease areas, e.g. cancer, mental health or cardiovascular diseases;Providing guidelines and recommendations for improving the development, testing and deployment pathways for AI in health, taking advantage of the opportunities offered by the EHDS. 
+
+
+Conditions: 
+Conditions
+
+
+1.&nbsp;Admissibility conditions: described in section 5 of the call document&nbsp;
+Proposal page limits and layout:&nbsp;described in Part B of the Application Form available in the Submission System
+2. Eligible countries:&nbsp;described in section 6 of of the call document
+3. Other eligibility conditions:&nbsp;described in section 6 of the call document
+4. Financial and operational capacity and exclusion:&nbsp;described in&nbsp;section 7 of the call document
+5.&nbsp;Evaluation and award:
+
+    Award criteria, scoring and thresholds:&nbsp;described in section 9 of the call document
+
+
+    Submission and evaluation processes:&nbsp;described&nbsp;section 8 of the call document and the&nbsp;Online Manual
+
+
+    Indicative timeline for evaluation and grant agreement:&nbsp;described in section 4 of the call document
+
+6. Legal and financial set-up of the grants:&nbsp;described&nbsp;in section 10 of the call document
+Documents
+
+Call documents:
+CALL&nbsp;DOCUMENT&nbsp;
+Standard application form&nbsp;call-specific application form is available in the Submission System 
+Digital Europe General MGA v1.0
+&nbsp;
+Digital Europe Work Programme 2023-2024
+&nbsp;
+Digital Europe Programme Regulation 2021/964
+
+EU Financial Regulation 2018/1046
+
+Support Info: 
+For help related to this&nbsp;call, please contact:&nbsp;HERE
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; Submission of proposals.
+IT Helpdesk&nbsp;&ndash; Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+Online Manual&nbsp;&ndash; Step-by-step online guide through the Portal processes from proposal preparation and submission to reporting on your on-going project. Valid for all 2021-2027 programmes.
+

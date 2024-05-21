@@ -1,0 +1,78 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl4-2024-human-03-02","file_display_name":"Explainable and Robust AI (AI Data and Robotics Partnership) (RIA)","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Projects are expected to contribute to one of the following outcomes:Enhanced robustness, performance and reliability of AI systems, including generative AI models, with awareness of the limits of operational robustness of the system.Improved explainability and accountability, transparency and autonomy of AI systems, including generative AI models, along with an awareness of the working conditions of the system. 
+Scope:Trustworthy AI solutions, need to be robust, safe and reliable when operating in real-world conditions, and need to be able to provide adequate, meaningful and complete explanations when relevant, or insights into causality, account for concerns about fairness, be robust when dealing with such issues in real world conditions, while aligned with rights and obligations around the use of AI systems in Europe. Advances across these areas can help create human-centric AI[1], which reflects the needs and values of European citizens and contribute to an effective governance of AI technologies.The need for transparent and robust AI systems has become more pressing with the rapid growth and commercialisation of generative AI systems based on foundation models. Despite their impressive capabilities, trustworthiness remains an unresolved, fundamental scientific challenge. Due to the intricate nature of generative AI systems, understanding or explaining the rationale behind their outputs is normally not possible with current explainable AI methods. Moreover, these models occasionally tend to 'hallucinate', generating non-factual or inaccurate information, further compromising their reliability.To achieve robust and reliable AI, novel approaches are needed to develop methods and solutions that work under other than model-ideal circumstances, while also having an awareness when these conditions break down. To achieve trustworthiness, AI system should be sufficiently transparent and capable of explaining how the system has reached a conclusion in a way that it is meaningful to the user, enabling safe and secure human-machine interaction, while also indicating when the limits of operation have been reached.The purpose is to advance AI-algorithms and innovations based on them that can perform safely under a common variety of circumstances, reliably in real-world conditions and predict when these operational circumstances are no longer valid. The research should aim at advancing robustness and explainability for a generality of solutions, while leading to an acceptable loss in accuracy and efficiency, and with known verifiability and reproducibility. The focus is on extending the general applicability of explainability and robustness of AI-systems by foundational AI and machine learning research. To this end, the following methods may be considered but are not necessarily restricted to:data-efficient learning, transformers and alternative architectures, self-supervised learning, fine-tuning of foundation models, reinforcement learning, federated and edge-learning, automated machine learning, or any combination thereof for improved robustness and explainability.hybrid approaches integrating learning, knowledge and reasoning, neurosymbolic methods, model-based approaches, neuromorphic computing, or other nature-inspired approaches and other forms of hybrid combinations which are generically applicable to robustness and explainability.continual learning, active learning, long-term learning and how they can help improve robustness and explainability.multi-modal learning, natural language processing, speech recognition and text understanding taking multicultural aspects into account for the purpose of increased operational robustness and the capability to explain alternative formulation[2]. Multidisciplinary research activities should address all of the following:Proposals should involve appropriate expertise in all the relevant sector specific use cases and disciplines, and where appropriate Social Sciences and Humanities (SSH), including gender and intersectional knowledge to address concerns around gender, racial or other biases, etc.Proposals are expected to dedicate tasks and resources to collaborate with and provide input to the open innovation challenge under HORIZON-CL4-2023-HUMAN-01-04 addressing explainability and robustness. Research teams involved in the proposals are expected to participate in the respective Innovation Challenges.Contribute to making AI and robotics solutions meet the requirements of Trustworthy AI, based on the respect of the ethical principles, the fundamental rights including critical aspects such as robustness, safety, reliability, in line with the European Approach to AI. Ethics principles needs to be adopted from early stages of development and design. All proposals are expected to embed mechanisms to assess and demonstrate progress (with qualitative and quantitative KPIs, benchmarking and progress monitoring), and share communicable results with the European R&amp;D community, through the AI-on-demand platform or Digital Industrial Platform for Robotics, public community resources, to maximise re-use of results, either by developers, or for uptake, and optimise efficiency of funding; enhancing the European AI, Data and Robotics ecosystem and possible sector-specific forums through the sharing of results and best practice.In order to achieve the expected outcomes, international cooperation is encouraged, in particular with Canada and India.
+Specific Topic Conditions:Activities are expected to start at TRL 2-3 and achieve TRL 4-5 by the end of the project – see General Annex B.
+[1]A European approach to artificial intelligence | Shaping Europe’s digital future (europa.eu)[2]Research should complement build upon and collaborate with projects funded under topic HORIZON-CL4-2023-HUMAN-01-03: Natural Language Understanding and Interaction in Advanced Language Technologies
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions: described in the [specific topic of the Work Programme]
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE RIA, IA)
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE RIA, IA)
+MGA
+HE General MGA v1.0
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 7. Digital, Industry and Space
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

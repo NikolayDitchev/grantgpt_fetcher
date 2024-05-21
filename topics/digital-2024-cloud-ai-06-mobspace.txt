@@ -1,0 +1,49 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/digital-2024-cloud-ai-06-mobspace","file_display_name":"Common European mobility data space","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:DeliverablesEstablishment of a structure supporting the implementation of the objectives of this action and allowing collaboration beyond the duration of the project.Information exchange platform: A platform for sharing, primarily among participants in the action and in the structure it seeks to establish, insights and data about infrastructure, tools, standards and agreements related to the scope of this action and complementing related initiatives.Coordination roadmap: A comprehensive plan detailing the alignment of various initiatives of actors participating in the action and in the structure it seeks to establish, across different sectors and member states.Recommendations for the development, operation and maintenance of key foundational elements supporting mobility data access and exchange, focusing on addressing gaps in the existing data and service infrastructure.Use cases portfolio: A collection of cross-border use cases implemented by third parties that demonstrate how cooperation and interoperability work in practice including guidelines and standards for the implementation of such use cases more generally, in alignment with existing European initiatives and in compliance with applicable legislation. This deliverable should be prepared in by the consortium with support from third-party beneficiaries.Use case evaluation reports: Detailed assessments for each use case, which include performance results, lessons learned, and recommendations for future projects. This deliverable should be prepared by third parties under the guidance of the consortium. 
+Objective:The objective of this action is to contribute to the effective implementation of the Multi-Country Project (MCP) on European common data infrastructure and services with a focus on the mobility and transport sector. The action will support the creation of the common European mobility data space (EMDS), which will facilitate the access, sharing and reuse of data in the mobility and logistics sectors. It will support the implementation of the Communication on the creation of the EMDS. It aims to contribute to the sustainability of common data infrastructure and promote its large-scale adoption.In line with the European Data Strategy, the action should contribute to creating a fair, competitive, and innovative data economy. It should help make the mobility and transport system smarter, more environmentally friendly and better adapted to the needs of its users, supporting the objectives of the Sustainable and Smart Mobility Strategy. The awarded proposal will have to take into account already existing data sharing initiatives at the European, national and local levels.
+Scope:The awarded proposal should address the following activities:  Provide operational support to the establishment of a sustainable collaboration structure between Member States and other actors, taking into account the potential creation of a European Digital Infrastructure Consortium (EDIC).Support, among the participants in the action and in the structure it seeks to establish, the exchange of information on available infrastructures, solutions, tools, agreements and standards related to the scope of the action, as well as the coordination across initiatives and projects in different countries and domains.Analyse gaps in existing data and services infrastructure and propose measures to support the deployment, operation and maintenance of data and service infrastructure enabling mobility and logistics data access and exchange at the European level.Assist, through financial support to third parties, the development of cross-border use cases focusing on real-life use cases based on mobility and logistics data sharing. These use cases should be implemented in several Member States, follow a coherent approach to interoperability and promote the sharing and reuse of best practices. Indicative areas for use cases are logistics, multimodal passenger mobility, cross-border sharing of e-mobility charging data and cross-border sharing of vehicle and driver data to check compliance with Urban Vehicle Access regulations, in particular Low Emission Zones. All activities under this project will require close collaboration and alignment with existing and evolving EU initiatives related to mobility and transport data, in particular: NAPCORE and relevant National Access Points;DTLF and related projects under CEF;The CEF technical assistance project which aims at identifying and recommending common building blocks and governance models for the EMDS;The deployment action for the common European mobility data space (deployEMDS), especially regarding the development of data space building blocks and governance mechanisms, as well as piloting. Duplication of existing initiatives should be avoided. Compliance is required with applicable EU legislation such as the ITS Directive and its Delegated Regulations and the implementation specifications of the Regulation (EU)2020/1056 on electronic freight transport information.The awarded proposal will have to build on the outcomes of the preparatory action for the EMDS (PrepDSpace4Mobility) fundend under WP 2021-2022, notably the inventory of existing mobility data ecosystems and the analysis of possible common building blocks for the EMDS. The awarded proposal will work in partnership with the Data Spaces Support Centre to ensure alignment with other common European data spaces, especially regarding the cross-sectoral blueprint and building blocks. It will use, in so far as possible and when available, the smart cloud-to-edge middleware platform Simpl1.The awarded proposal is expected to work towards achieving financial sustainability beyond the duration of the project. The awarded proposal should ensure that outcomes and deliverables of the project are owned or usable by a lasting structure supporting the implementation of the MCP in the mobility and transport sector. The active involvement of data providers and users is highly recommended to ensure that the project’s outcomes are designed and structured to meet their needs and to create a stronger sense of ownership. To encourage the participation of diverse actors, the project should make use of financial support to third parties as part of the implementation of cross-border use cases. More information on funding rates and rules for this type of action are available in Appendix 2 and Annex 5 of the model grant agreement. 1. https://digital-strategy.ec.europa.eu/en/news/simpl-streamlining-cloud-edge-federations-major-eu-data-spaces-updated october-2023https://digital-strategy.ec.europa.eu/en/news/simpl-streamlining-cloud-edge-federations-major-eu-data spaces-updated-october-2023
+
+
+Conditions: 
+Conditions
+
+
+1.&nbsp;Admissibility conditions: described in section 5 of the call document&nbsp;
+Proposal page limits and layout:&nbsp;described in Part B of the Application Form available in the Submission System
+2. Eligible countries:&nbsp;described in section 6 of of the call document
+3. Other eligibility conditions:&nbsp;described in section 6 of the call document
+4. Financial and operational capacity and exclusion:&nbsp;described in&nbsp;section 7 of the call document
+5.&nbsp;Evaluation and award:
+
+    Award criteria, scoring and thresholds:&nbsp;described in section 9 of the call document
+
+
+    Submission and evaluation processes:&nbsp;described&nbsp;section 8 of the call document and the&nbsp;Online Manual
+
+
+    Indicative timeline for evaluation and grant agreement:&nbsp;described in section 4 of the call document
+
+6. Legal and financial set-up of the grants:&nbsp;described&nbsp;in section 10 of the call document
+Documents
+Call document is available here
+Standard application form &mdash; call-specific application form is available in the Submission System
+Detailed budget table -&nbsp;available in the Submission System
+&nbsp;
+DIGITAL&nbsp;EUROPE&nbsp;PROGRAMME -&nbsp;General MGA v1Guidance Classification of information in DIGITAL projects
+Guidelines on&nbsp;How to Complete your Ethics Self-Assessment
+Guidance on participation in DEP - restricted calls&nbsp;
+
+&nbsp;
+Digital Europe&nbsp;Work Programme 2023-2024
+Digital Europe Programme&nbsp;Regulation 2021/694
+EU Financial Regulation 2018/1046
+&nbsp;
+
+Support Info: 
+For help related to this call, please contact us&nbsp;here
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; Submission of proposals.
+IT Helpdesk&nbsp;&ndash; Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+Online Manual&nbsp;&ndash; Step-by-step online guide through the Portal processes from proposal preparation and submission to reporting on your on-going project. Valid for all 2021-2027 programmes.
+

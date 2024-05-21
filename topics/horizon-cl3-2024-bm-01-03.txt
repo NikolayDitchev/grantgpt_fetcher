@@ -1,0 +1,83 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl3-2024-bm-01-03","file_display_name":"Advanced user-friendly, compatible, secure identity and travel document management","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Projects’ results are expected to contribute to some or all of the following outcomes:Improved capabilities to validate breeder and identity documents as well as ICAO Type 1 and Type 2 digitalised travel documents;Improved compatibility among tools for verification of travel documents and identity, while guaranteeing not sharing (beyond what’s strictly necessary) or compromising personal data;Enhanced integration with EU current or planned architecture(s) for digital identity frameworks;Contribute to capabilities that strengthen the Schengen area, by providing security at its external borders that also reassure on maintaining the free movement within its borders. 
+Scope:Authentication of documents is relevant for border management, immigration or visa applications. Furthermore, it could also be relevant to combat other illicit activities, such as financial fraud. Facilitation of travel across external EU borders went and is further going through remarkable developments thanks to subsequent technological generations, and updated procedures and regulatory frameworks. From automated border control gates to “no-gate” solutions, and to “seamless travel”; from secure documents, to digitalised travel documents, and to “dematerialised travel documents” and “digital wallets”. All to ease border crossing for travellers, while maintaining border security against illicit or irregular crossings and protecting fundamental rights. This topic aims at exploring and developing enhanced capabilities for securely managing digitalised travel documents used for travel across external borders.The proposed solution should be compatible with planned or possible future EU highly digitalised travel documents formats and travel facilitation systems, and with applicable ICAO current and upcoming schemes. The proposed solutions should be compatible or interoperable with relevant existing digitalised travel documents systems. The proposed solutions should also respect fundamental rights such as privacy and protection of personal data, apply privacy by design of the application and use privacy-enhancing technologies.The operational applicability focus should be on highly digitalised travel documents and “digital identity management” used for travel across external borders. However, the research should include enhancing the security of breeder documents, which risk being “weak links” when they are used to obtain genuine, secure travel documents.The proposed solution should include techniques (including those to increase the robustness against attempts to falsify biometric data) to allow sharing of results from the tools, and share as few data used by the tool as possible to return those results (in order to increase data protection and minimize data leak risks). Leakage or compromising of personal data should be avoided in the transfer of tools or of their results.The proposed solution should ensure secure data collection, access, encryption and decision support for those in relevant roles in the border management processes. Full encryption at transit and rest should be ensured, while enabling fuzzy searches on all metrics of the documents’ data.The proposed solution should include an automated decision support system that helps the work of operators and suggests to end-users (such as border authorities’ staff) which process and which database/tool can be legally used with, or by, a certain technology or database.The developed solutions need to comply with the Ethics Guidelines on Trustworthy AI (2019)[1].Should the project deliver on its goal and be compatible with applicable legislation, EU and Member States authorities should plan to take up the results of the research with the support of the Border Management and Visa Instrument (BMVI).Research projects should consider, build on (if appropriate) and not duplicate previous research, including but not limited to research by other Framework Programmes projects. In particular, proposals should build on achievements and findings of relevant recent EU-funded civil security research projects, including those funded under HORIZON-CL3-2022-BM-01-02: Enhanced security of, and combating the frauds on, identity management and identity and travel documents.Proposals should delineate concrete and clear plans for further development to subsequent TRLs as well as uptake (industrialisation, commercialisation, acquisition and/or deployment in operational contexts) at national and EU level, should the research deliver on its goals.Proposals submitted under this topic are expected to address the priorities of the European Border and Coast Guard and of its Agency (Frontex) and of the European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA). This should start from the definition of requirements and the design phase of their work, including basing on the EBCG Capability Roadmap when available; and on the engagement with the Agencies during the implementation of the project. This perspective should be considered and planned when drafting proposals. Proposals should foresee that Frontex and of eu-LISA will observe projects’ pilots and demonstrations, with the aim of facilitating future uptake of innovations for the border and coast guard community.Synergies across authorities and across communities (such as border management, customs, law enforcement communities) within the civil security sector will be an asset, for example with Fighting Crime and Terrorism (regarding combating crime involving identity fraud).
+[1]https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+The following additional eligibility criteria apply:This topic requires the active involvement, as beneficiaries, of at least 2 Border or Coast Guard Authorities from at least 2 different EU Member States or Associated Countries. For these participants, applicants must fill in the table “Information about security practitioners” in the application form with all the requested information, following the template provided in the submission IT tool.
+If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Eligible costs will take the form of a lump sum as defined in the Decision of 7 July 2021 authorising the use of lump sum contributions under the Horizon Europe Programme – the Framework Programme for Research and Innovation (2021-2027) – and in actions under the Research and Training Programme of the European Atomic Energy Community (2021-2025). [[This decision is available on the Funding and Tenders Portal, in the reference documents section for Horizon Europe, under ‘Simplified costs decisions’ or through this link: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf]].
+Specific conditions
+7. Specific conditions: described in the [specific topic of the Work Programme]
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE RIA, IA)
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE RIA, IA)
+MGA
+
+Lump Sum MGA v1.0
+Call-specific instructions: 
+ Template for Security &amp; eligibility conditions in Horizon Europe 
+
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 6. Civil Security for Society
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

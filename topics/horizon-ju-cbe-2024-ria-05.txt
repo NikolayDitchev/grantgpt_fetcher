@@ -1,0 +1,75 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-ju-cbe-2024-ria-05","file_display_name":"Innovative bio-based food/feed ingredients","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:In line with the objectives of the Circular Economy[1] and Zero Pollution Action Plan[2], as well as the Farm to Fork Strategy[3], the new regulation on the assessment and authorisation of feed additives[4], food additives, food enzymes and food flavourings[5] as well as the regulation for the re-evaluation of programme of approved food additives[6], the successful proposals will contribute to the development of sustainable and healthy bio-based food and feed ingredients other than proteins. Successful proposals will also contribute to the implementation of the EU Bioeconomy Strategy[7], to the updated EU Industrial Strategy[8] and to Europe’s food security and Farm2Fork strategy ambition.Project results should contribute to the following expected outcomes:Increased availability of affordable bio-based functional ingredients for food and feed with high nutritional and health properties.Increased safety and sustainability of food and feed value chains.Reduction of use of food and feed ingredients from unsustainable sources.New and better organoleptic and nutritional properties for healthy food and feed ingredients, increasing consumer acceptance. 
+Scope:Human and animal nutrition are two key areas where the bio-based industries can play an important role in addressing the present societal and climate challenges. Considerable attention is given to the mobilisation of alternative sources of proteins, fibres and carbohydrates, due to the increasing world population and the current unsustainable animal protein production systems. In addition to proteins, fibres and carbohydrates where significant advancements are under way, there is still the need to develop and validate at pilot scale breakthrough innovations in other food and feed ingredients which play an important role in human and animal health such as prebiotics, postbiotics, vitamins, peptides, oligosaccharides, fats, emulsifiers, enhancers of digestibility. In addition to those having a direct role in nutrition, other ingredients have an indirect, but nonetheless key, role in promoting healthier food and feed systems by enhancing organoleptic properties, texture, colour, palatability, digestibility etc. Unlocking this opportunity alongside with the current push to healthier and sustainable food chains makes the market of sustainable food and feed ingredients extremely promising for high tech bio-based applications.Proposals under this topic should:Develop innovative food and/or feed ingredients from sustainably sourced bio-based feedstock. The innovation in scope can be related to i) breakthrough processes to obtain known food/feed ingredients, and/or ii) novel food/feed ingredients. Ingredients in scope include bioactive compounds, antioxidants, prebiotics, postbiotics, vitamins, peptides, oligosaccharides; fats; emulsifiers; taste, texture, palatability and digestibility enhancers; colourants, functional/’precision proteins’ (i.e. proteins obtained, for example but not only, from precision fermentation process) among others. Besides the technical properties of the targeted ingredients (organoleptic, nutritional, prevention of intolerances/allergies), proposals should also consider their affordability. The production of bulk proteins, fibres and carbohydrates used as main nutritional component is not in scope per se; however the development of complex food and feed formulations involving the application of innovative functional ingredients working in synergy with them is in scope.Any production technique is in scope; proposals are required to pay particular attention to environmental, social and economic sustainability of the chosen pathway (including ingredients’ sources and availability/supply and the use of natural resources such as land, water, energy). In addition to production processes, proposals should consider downstream separation and purification processes to meet the targeted quality for final application aligned with food and safety legal requirements. Circular solutions, e.g. exploiting residual streams, are also in scope and could provide additional socio-environmental benefits. In this case proposals need to take particular care and adopt monitoring solutions to ensure that neither pathogens nor contaminants from the starting residual stream is injected back in the loop.Test the properties of the functional ingredients developed, alone and/or in combination and, if applicable, their effect on product formulations according to established testing procedures. Moreover, proposals should test the safety of developed ingredients through in vitro toxicological tests.Address the regulatory aspects relevant to the targeted end market(s), ensuring compatibility in the perspective of potential future scale-up.Involve end users starting from the early stages of development to assess market acceptance of the new ingredients. When addressing consumer products, involve consumers to gain insight of their perception and future chances of market uptake. Proposals must implement the multi-actor approach and ensure adequate involvement of all key actors in the value chains relevant for this topic, in particular involving farmers, feedstock providers, bio-based industry, end users (e.g. consumers and brand owners) and regulatory actors.Proposals should also describe their contribution to the Specific CBE JU requirements, presented in section 2.2.3.1 of the CBE JU Annual Work Programme 2024[9].Proposals should seek for links and complementarities and avoid overlaps with past, ongoing and upcoming EU funded projects, including those funded under H2020, HEU and the BBI JU and CBE JU[10]. Collaboration among projects from the same topic is encouraged.
+[1]Brussels, 11.3.2020, COM(2020) 98 final.[2]Brussels, 12.05.2021, COM(2021) 400 final.[3]With reference to the Farm to Fork target of ‘reducing climate and environmental impact of animal breeding’ Brussels, 20.5.2020, COM(2020) 381 final.[4]Commission Implementing Regulation (EU) 2020/1773 of 26 November 2020.[5]Commission Implementing Regulation (EU) 2020/1823 of 2 December 2020.[6]Commission Implementing Regulation (EU) 2021/148 of 8 February 2021.[7]European Commission, Directorate-General for Research and Innovation, Review of the 2012 European Bioeconomy Strategy, Publications Office, 2018, https://data.europa.eu/doi/10.2777/086770.[8]Brussels, 5.5.2021 COM(2021) 350 final.[9]https://www.cbe.europa.eu/reference-documents[10]Agrimax (H2020-BBI-PPP-2015-2-1), BIOSEA (H2020-BBI-JTI-2016), MAGNIFICENT (H2020-BBI-JTI-2016), EXCornsEED (H2020-BBI-JTI-2017), INGREEN (H2020-BBI-JTI-2018), SUSTAINEXT (HORIZON-JU-CBE-2022), RoboCOOP-EU (HORIZON-JU-CBE-2022).
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions:&nbsp;described in section 2.2.3 Calls for proposals in the CBE JU Annual Work Programme 2024
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+CBE JU Call for proposals 2024
+MGA
+HE General MGA v1.0
+Call-specific instructions
+CBE JU Call for proposals 2024
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

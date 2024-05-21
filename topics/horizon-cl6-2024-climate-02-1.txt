@@ -1,0 +1,77 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl6-2024-climate-02-1","file_display_name":"New knowledge and innovations for climate-smart farming - connecting research stations","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:The European Green Deal gives research and innovation (R&amp;I) a significant role to play in supporting the design and implementation of policies that will ensure the achievement of the EU’s climate objectives. Development and adoption of new knowledge and innovations contributing to climate change mitigation by farmers is a priority to ensure that the objectives of the European Climate Law (climate-neutrality by 2050)[1], the EU zero pollution ambition[2] and the proposal for a nature restoration law[3] are met. Farming is also vulnerable to impacts of climate change; hence research and innovation into the adaptation possibilities is of utmost importance, in line with the EU Adaptation Strategy[4].Generating new knowledge and innovative climate-smart practices and mainstreaming their use has been recognised as a priority at the global level, including by the G-20. The project to be implemented is, therefore, expected to conduct research and innovation activities for climate-smart agriculture that contributes to mitigation of and adaptation to climate change.Project results are expected to contribute to all of the following expected outcomes:The knowledge base of climate-smart farming practices is significantly expanded beyond the state of the art;Additional effective and innovative approaches for climate-smart agriculture in plant and animal production are developed and assessed in real conditions with all relevant actors involved;The widespread adoption by farmers of new knowledge, skills and innovative farming practices that mitigate emissions of greenhouse gases (GHGs) (in particular CO2, methane and nitrous oxide), and that foster adaptation of the sector to climate change, is accelerated. 
+Scope:The overall aim is to establish a three-level network in a phased manner over Cluster 6 work programmes 2021-2022 and 2023-2024. The first level is a network which engages front-runner farmers introducing on-farm trials and demonstration of climate-smart innovations, using existing knowledge (project “Climate Farm Demo”). The second level is a network to connect all advisors on the subject in the Member States, building on achievements of Horizon 2020 projects, EIP-AGRI operational groups and the development of Member States’ AKIS, to ensure the provision of targeted advice (project “ClimateSmartAdvisors”). The third level of the network – the present topic – will engage and strengthen the capacity of experimental research stations and develop new knowledge and innovative solutions for climate-smart agriculture.Proposals should:Using a multi-actor approach, develop practice-oriented new knowledge, skills and innovations for adaptation to and/or mitigation of climate change in agriculture, taking into account a range of farming systems, land uses and pedo-climatic conditions across the EU and Associated Countries;Collect and compare tool-kits for assessing GHG balances at farm level, monitoring of performance in reducing emission, decision-support tools, climate services, etc. for possible use also on average farms;Systematically consider the synergies and trade-offs that exist between productivity, adaptation and mitigation, and between mitigation of different GHGs;Foster the role of ecosystems, where appropriate, in particular those with the most potential to capture and store carbon and to prevent and reduce the impact of natural disasters;Include a task and allocate adequate resources to closely collaborate with projects “Climate Farm Demo” funded under topic HORIZON-CL6-2021-CLIMATE-01-04 and “ClimateSmartAdvisors” funded under topic HORIZON-CL6-2022-CLIMATE-01-03, to test and assess the new knowledge and innovative solutions developed within the project in real conditions within the networks of pilot farms and of advisors, and to scientifically validate the contribution of practices emerging from those networks to the mitigation of or adaptation to climate change;Stimulate networking and collaboration between research stations and similarly focused research projects, including those funded under the mission ‘A Soil Deal for Europe’ and EJP SOIL, to avoid duplications and support cross-fertilisation between them;Foster knowledge exchange within and among Member States and regions, and establish links with EIP-AGRI stand of the EU CAP Network and Member States’ AKIS networks and coordination bodies. The project should operate for at least four years and build on the outcomes of the climate-related projects from various funding sources.The project must implement the multi-actor approach and may involve social innovation.In this topic the integration of the gender dimension (sex and gender analysis) in research and innovation content is not a mandatory requirement.
+[1]Regulation (EU) 2021/1119 of 30 June 2021[2]EU Action Plan: 'Towards Zero Pollution for Air, Water and Soil', COM(2021) 400 of 12 May 2021[3]COM(2022) 304 of 22 June 2022[4]Forging a climate-resilient Europe - the new EU Strategy on Adaptation to Climate Change, COM(2021) 82 of 24 February 2021
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+The following additional eligibility criteria apply: the proposals must apply the multi-actor approach. See definition of the multi-actor approach in the introduction to this work programme part.
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions: described in the specific topic of the Work Programme
+&nbsp;
+
+Documents
+Call documents:
+Standard application form
+Standard application form (HE RIA, IA)
+Standard evaluation form
+Standard evaluation form (HE RIA, IA)
+MGA
+HE General MGA v1.0
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 9. Food, Bioeconomy, Natural Resources, Agriculture and Environment
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

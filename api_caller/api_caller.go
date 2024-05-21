@@ -3,13 +3,14 @@ package api_caller
 import (
 	"bytes"
 	"encoding/json"
+	"fmt"
 	"io"
-	"log"
 	"mime/multipart"
 	"net/http"
 	"net/textproto"
 	"net/url"
 	"strconv"
+	"time"
 )
 
 const (
@@ -18,76 +19,128 @@ const (
 )
 
 type API_Caller struct {
-	url        *url.URL
-	urlParams  url.Values
-	bodyParams map[string][]byte
-
-	pageNumber int
-	pageSize   int
+	client *http.Client
+	url    *url.URL
 }
 
-func NewAPI_Caller(bodyParams map[string][]byte, urlParams url.Values) (apc *API_Caller, err error) {
+func NewAPI_Caller() (apc *API_Caller, err error) {
 	apc = &API_Caller{
-		urlParams:  urlParams,
-		bodyParams: bodyParams,
-		pageNumber: 1,
+		client: &http.Client{
+			Timeout: 4 * time.Second,
+		},
 	}
 
-	apc.url, err = url.Parse(API_ENDPOINT)
-	if err != nil {
-		return nil, err
-	}
-
-	apc.pageSize, err = strconv.Atoi(apc.urlParams.Get("pageSize"))
-	if err != nil {
-		return nil, err
-	}
+	apc.url, _ = url.Parse(API_ENDPOINT)
 
 	return
 }
 
-func (apc *API_Caller) GetResults(resultsChan chan<- []Result) {
+func (apc *API_Caller) GetTopicIDs() (topicIDs chan string) {
 
-	apc.urlParams.Set("pageNumber", strconv.Itoa(apc.pageNumber))
-	apc.url.RawQuery = apc.urlParams.Encode()
-
-	client := &http.Client{}
-
-	res, err := client.Do(apc.createRequest())
-	if err != nil {
-		log.Fatalln(err)
-	}
-	defer res.Body.Close()
-
-	body, err := io.ReadAll(res.Body)
-	if err != nil {
-		log.Fatalln(err)
+	var bodyParams map[string][]byte = map[string][]byte{
+		"query":     GetTopicQuery(),
+		"languages": []byte(`["en"]`),
 	}
 
-	jsonResponse := &ResponseBody{}
-
-	err = json.Unmarshal(body, jsonResponse)
-	if err != nil {
-		log.Fatalln(err)
+	var urlParams url.Values = url.Values{
+		"apiKey":     []string{"SEDIA"},
+		"text":       []string{"***"},
+		"pageSize":   []string{"100"},
+		"pageNumber": []string{"1"},
 	}
 
-	resultsChan <- jsonResponse.Results
+	url, _ := url.Parse(API_ENDPOINT)
+	url.RawQuery = urlParams.Encode()
 
-	if apc.pageNumber*apc.pageSize >= jsonResponse.TotalResults {
-		close(resultsChan)
-		return
-	}
+	topicIDs = make(chan string)
 
-	apc.pageNumber++
-	apc.GetResults(resultsChan)
+	go func() {
+
+		topicIDsMap := make(map[string]int)
+		totalResults := 0
+
+		for {
+			pagesChan, _ := apc.getPages(bodyParams, url)
+
+			for page := range pagesChan {
+				totalResults = page.TotalResults
+
+				for inx := range page.Results {
+
+					id := page.Results[inx].Metadata["identifier"][0]
+
+					if _, exists := topicIDsMap[id]; !exists {
+						topicIDs <- id
+						topicIDsMap[id] = 1
+					}
+				}
+			}
+
+			if len(topicIDsMap) >= totalResults {
+				close(topicIDs)
+				return
+
+			}
+
+			fmt.Println(len(topicIDsMap))
+
+			if len(topicIDsMap) < totalResults {
+				time.Sleep(3 * time.Second)
+			}
+
+		}
+	}()
+
+	return topicIDs
 }
 
-func (apc *API_Caller) createRequest() *http.Request {
+func (apc *API_Caller) getPages(bodyParams map[string][]byte, url *url.URL) (pageChan chan *Page, errorsChan chan error) {
+
+	pageChan = make(chan *Page)
+	errorsChan = make(chan error)
+
+	go func() {
+
+		for {
+
+			body, err := apc.sendRequest(bodyParams, url.String())
+			if err != nil {
+				errorsChan <- err
+				return
+			}
+
+			page := &Page{}
+
+			err = json.Unmarshal(body, page)
+			if err != nil {
+				errorsChan <- err
+				return
+			}
+
+			pageChan <- page
+
+			if page.PageSize*page.PageNumber >= page.TotalResults {
+				close(pageChan)
+				break
+			}
+
+			err = apc.increasePageNumber(url)
+			if err != nil {
+				errorsChan <- err
+				return
+			}
+		}
+	}()
+
+	return
+}
+
+func (apc *API_Caller) sendRequest(bodyParams map[string][]byte, url string) ([]byte, error) {
 
 	payload := &bytes.Buffer{}
 	writer := multipart.NewWriter(payload)
 
-	for key, value := range apc.bodyParams {
+	for key, value := range bodyParams {
 
 		var header textproto.MIMEHeader = make(textproto.MIMEHeader)
 		header.Add("Content-Disposition", `form-data; name="`+key+`";`)
@@ -95,7 +148,7 @@ func (apc *API_Caller) createRequest() *http.Request {
 
 		part, err := writer.CreatePart(header)
 		if err != nil {
-			log.Fatalln(err)
+			return nil, err
 		}
 
 		part.Write(value)
@@ -103,15 +156,46 @@ func (apc *API_Caller) createRequest() *http.Request {
 
 	err := writer.Close()
 	if err != nil {
-		log.Fatalln(err)
+		return nil, err
 	}
 
-	req, err := http.NewRequest(METHOD, apc.url.String(), payload)
+	req, err := http.NewRequest(METHOD, url, payload)
 	if err != nil {
-		log.Fatalln(err)
+		return nil, err
 	}
 
 	req.Header.Set("Content-Type", writer.FormDataContentType())
 
-	return req
+	resp, err := apc.client.Do(req)
+	if err != nil {
+		return nil, err
+	}
+
+	respBody, err := io.ReadAll(resp.Body)
+	if err != nil {
+		return nil, err
+	}
+
+	err = resp.Body.Close()
+	if err != nil {
+		return nil, err
+	}
+
+	return respBody, nil
+}
+
+func (apc *API_Caller) increasePageNumber(url *url.URL) error {
+
+	urlParams := url.Query()
+	pageNumber, err := strconv.Atoi(urlParams.Get("pageNumber"))
+	if err != nil {
+		return err
+	}
+
+	pageNumber = pageNumber + 1
+
+	urlParams.Set("pageNumber", strconv.Itoa(pageNumber))
+	url.RawQuery = urlParams.Encode()
+
+	return nil
 }

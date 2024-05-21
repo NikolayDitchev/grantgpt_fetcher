@@ -1,0 +1,80 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2024-soil-01-06","file_display_name":"Harnessing the multifunctional potential of soil biodiversity for healthy cropping systems","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Activities under this topic contribute to the implementation of the Mission A Soil Deal for Europe’ [1] in particular to its specific objective 4 "reduce soil pollution and enhance restoration" and 6 "improve soil structure to enhance soil biodiversity” dealing with the most urgent soil health challenges. Activities will also contribute to the targets of the EU biodiversity strategy for 2030 and of the Farm to Fork strategy on pesticide use reduction (reducing the use and risk of pesticides by 50% and the use of more hazardous pesticides by 50%), the EU Action Plan on the Development of Organic Production, the Common Agricultural Policy, and will support the objectives of the future Nature Restoration Law and of the UN Convention on Biological Diversity COP-15. Activities will also provide knowledge to improve integrated pest management practices, directly contributing to the achievement of several of the Sustainable Development Goals (SDGs) in particular SDG´s target 12.2 of achieving sustainable management and efficient use of natural resources by 2030.Project results are expected to contribute to all of the following outcomes:Soil and crop health are enhanced, sustaining crop productivity and food security while promoting the stability and resilience of agriculture and increasing agrobiodiversity.The dependence on external inputs in crop management is reduced through effective plant-soil interactions and exploiting the potential of the soil microbiome.Harnessing the role of soil biodiversity through a better knowledge of the relationship between biodiversity and soil functions.The availability of integrated pest management practices is enlarged.Increased and accelerated uptake of good practices which enhance plant and soil health for effective crop management supporting long-term provision of ecosystem services. 
+Scope:Below ground biodiversity plays a major role in soil structure, nutrient supply, water cycling, nutrient uptake by plants, and in the biocontrol of plant pests and diseases. The interactions between communities of soil organisms, crops and their environment (holobiont) profoundly influence crop, soil and agroecosystem health and productivity. Notably, the interplay between soil fauna, soil microbial community, soil chemistry, and plant immune responses can be enhanced to harness the potential of soil ecosystem to defend against pathogens, pests and other detrimental organisms and to promote plant health and productivity. By managing soil ecosystems to enhance soil health through farming practices (e.g., crop rotation, use of microbiome solutions, etc.), it is possible to support plant defences, suppress diseases, improve nutrient availability and enhance plant resilience to various stressors. In addition, agricultural sustainability will be increased and contribute to climate change mitigation.There is a need to develop, test and deploy management practices that, by enhancing soil health, will facilitate, for instance, the management of soil-borne plant pests and diseases (e.g., bacteria, fungi, nematodes, root-feeding insects), and support ground nesting pollinators.Proposed activities should:Develop and test site-specific innovations including management practices, solutions and tools that promote soil biodiversity, enhance soil health, stimulate plant growth, reduce chemical inputs to control soil borne plant diseases and root-feeding insects, and support ground nesting pollinators.Set up demonstration sites to test the proposed innovations and promote the benefits of soil biodiversity and healthy soils not only for growers and the agroecosystem but for the entire food value chain.Assess the social, economic and environmental issues associated with the proposed innovative solution, including trade-offs, the impact on labour, safety culture, and risk management on farms;Generate comprehensive capacity building material, organize trainings or knowledge sharing activities, including the development of guidelines to accelerate the dissemination, uptake and upscale of results.Enhance peer-to-peer learning with relevant stakeholders from farmers and advisors to policy makers and consumers, supporting a coordinated scientific and policy approach towards healthy soils. Proposals should focus on arable crops. Work under this topic should be carried out in various pedo-climatic zones [2] and benefit both the conventional and the organic farming as reflected in the expertise of the consortia. Agroecological approaches such as those developed for example under organic farming should be capitalised on and given due attention in the proposed activities.Proposals must implement the ‘multi-actor approach’ including a range of actors to ensure that knowledge and needs from various sectors such as researchers, farmers, advisors, and industry including SMEs are brought together. Beneficiaries may provide financial support to third parties (FSTP) to implement activities in the demonstration sites and encourage end-user engagement.Proposals should include a dedicated task and appropriate resources to collaborate with other projects funded under this topic as well as to capitalise on activities and results from relevant Horizon projects such as EXCALIBUR, SoildiverAgro, EcoStack, IWMPRAISE, SOILGUARD, WHEATBIOME, TRIBIOME, BIOservicES, SOB4ES, GOOD, AGROSUS and CONSERWA and those to be funded under topic HORIZON-CL6-2023-FARM2FORK-01-7: Innovations in plant protection: alternatives to reduce the use of pesticides focusing on candidates for substitution) and HORIZON-MISS-2024-SOIL-01-05: Soil health, pollinators and key ecosystem functions to avoid duplication, and to exploit complementarities as well as opportunities for increased impact.Proposals should demonstrate a route towards open access, longevity, sustainability and interoperability of knowledge/data and outputs through close collaboration with the Joint Research Centre’s EU Soil Observatory (EUSO), the EU Knowledge Centre for Biodiversity and the project SoilWISE. In particular, proposals should ensure that relevant data, maps and information can potentially be available publicly through the EUSO.Potentially, the projects funded under this topic could also cooperate with living labs and lighthouses that will be created in this and future calls of the Mission ‘A Soil Deal for Europe’.
+[1]Mission implementation plan[2]https://www.eea.europa.eu/data-and-maps/figures/biogeographical-regions-in-europe-2
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+Proposals must apply the multi-actor approach. See definition of the multi-actor approach in the introduction to this Mission.
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Beneficiaries may provide financial support to third parties (FSTP) to implement demonstration sites and encourage stakeholder engagement. The support to third parties can only be provided in the form of grants. The maximum amount to be granted to each third party is EUR 60 000.Applicants should review Annex B of the General Annexes' standard conditions for 'financial support to third parties' for FSTP calls.
+Specific conditions
+7. Specific conditions: described in the specific topic of the Work Programme
+&nbsp;
+
+Documents
+Call documents:
+Standard application form&nbsp;&mdash;&nbsp;call-specific application form is available in the Submission System
+Standard application form (HE RIA, IA)
+Standard evaluation form&nbsp;&mdash;&nbsp;will be used with the necessary adaptations
+Standard evaluation form (HE RIA, IA)
+MGA
+HE General MGA v1.0
+Call-specific instructions
+Information on financial support to third parties (HE)
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 12. Missions
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

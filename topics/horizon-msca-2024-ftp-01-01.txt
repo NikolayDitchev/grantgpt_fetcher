@@ -1,0 +1,83 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-msca-2024-ftp-01-01","file_display_name":"MSCA Feedback To Policy 2024","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Project results are expected to contribute to the following outcomes:Coordinated monitoring and exploitation of the contribution of Horizon 2020 and Horizon Europe MSCA projects[1] to the EU Missions[2];Enhanced interaction between MSCA beneficiaries, researchers and policymakers, on research results and their contribution to policy developments, and greater collaboration among MSCA beneficiaries and researchers themselves particularly in view of possible follow-up partnerships and funding opportunities[3];Detailed MSCA portfolio analysis in the EU Missions areas;Recommendations for strengthening the policy impact of the MSCA;Assessment of the contribution of the MSCA to the ERA policy objectives related to support for researchers’ training and skills development, and intersectoral cooperation;Strengthened synergies and complementarities between the MSCA and other relevant EU-funded initiatives and programmes linked to the EU Missions, researchers’ training, skills and career development and related intersectoral cooperation. 
+Scope:While the bottom-up nature of the MSCA is and will remain its core principle, there is a need to have an overview of the funded research portfolio and make stronger thematic links between MSCA projects, raise visibility of their impact on ERA priority areas and gather stakeholder feedback on ways to maximise the MSCA impact. Given the thematic diversity of MSCA-funded projects, the scope of this call[4] cannot cover all the areas to which the MSCA contribute. It should be seen as a pilot to map areas and types of intervention for possible similar actions in the future that will support a broader policy feedback process.One of the objectives of this action is to support ongoing and planned Commission initiatives[5] which focus on exploiting and assessing the impact of Horizon 2020 and Horizon Europe projects results in relation to thematic and cross-cutting priorities, including the EU Missions.It also aims to assess the extent to which MSCA projects achieve two of the core horizontal policy objectives of the programme: the development of researchers’ training, skills and career and the related promotion of intersectoral collaboration.Activities should therefore include the contribution and impact of MSCA projects in relation to:The EU Missions and societal challenges they address;Researchers’ skills development, including but not limited to the skills needed to tackle the thematic areas of the Missions;Cooperation between academic and non-academic organisations[6], with the emphasis on the business sector. The activities should contribute to strengthening complementarities between ongoing MSCA projects, especially with a view to better exploiting their results and maximising their impact vis-à-vis the thematic and cross-cutting priorities mentioned above.The proposed activities should include:Consolidating the ongoing EU Missions cross-portfolio analysis to make full use of MSCA projects results and analyse their contribution to each individual Mission;Identifying good practice examples of cooperation between academic and non-academic organisations, with a special emphasis on the business sector as well as the main obstacles for stronger intersectoral cooperation in MSCA;Identifying researchers’ training, skills and career development needs (both research-related and transferable) to tackle societal challenges, including those covered by the Missions;Exploring ways to consolidate the available training material developed in MSCA projects, especially on transferrable skills, and exploring how to make it more broadly accessible for further exploitation;Following up the existing policy feedback activities under the MSCA, particularly through coordination with the ongoing Commission activities (cluster events, studies and analyses) and through regular consolidation of the outcomes and deliverables of policy feedback activities;Supporting/complementing existing communication and dissemination efforts by the European Commission[7] to promote and share MSCA success stories and examples of good practice in the thematic and horizontal priorities of this call (EU Missions, intersectoral cooperation, researchers’ training, skills and career development);Identifying good practice of synergies between MSCA projects and other relevant programmes and initiatives;Providing practical recommendations on how to better exploit MSCA project results and enhance impact in the areas of EU Missions, intersectoral cooperation and researchers’ skills and career development in line with the call’s objectives.Analysing trends in research to feed back into the MSCA and Commission R&amp;I policy. Due to their bottom-up nature, the MSCA provide a valuable resource for tracking changing research trends and can provide and evidence base for any changes in the latter stages of Horizon Europe as well as the design of subsequent framework programmes; The expected deliverables should include a combination of analytical reports, ad hoc policy briefs, stakeholders’ events and meetings, policy roundtables and different communication and dissemination support actions, such as:- Studies, analyses, reports looking into trends and developments in MSCA relevant to:The EU Missions, including citizens’ engagement activities;Researchers’ skills and career development and training;Intersectoral cooperation between academia and other sectors (businesses, industry, SMEs, public administration, civil society organisations, etc.), as well as motivation and obstacles to engage in such cooperation;Examples of synergies and complementarities with other EU/national/regional programmes and frameworks. - Consolidation of projects results for policy feedback and communication and dissemination purposes;- Dissemination and networking activities using the results of cluster events and communities of practice identified for the events; consulting project beneficiaries on policy needs, dissemination based on reports and feedback from cluster events; providing input into coordination of cluster events (e.g. suggesting themes, format and structure of cluster events);- Synthesis of coordination activities linked to policy feedback and the improved exploitation of MSCA projects results: e.g. preparatory briefings, follow-up reports, feedback consolidation linked to MSCA cluster events, ad hoc policy briefs and monitoring of exploitation opportunities.The maximum duration of the action is 48 months.
+[1]This refers to MSCA Innovative Training Networks, Individual Fellowships, Research and Innovation Staff Exchanges, COFUND, NIGHT in Horizon 2020, and MSCA Doctoral Networks, Postdoctoral Fellowships, Staff exchanges, COFUND, MSCA and Citizens in Horizon Europe.[2]EU Missions in Horizon Europe | European Commission (europa.eu)[3]E.g. by following up outcomes and feedback received from MSCA cluster events through ensuring interaction with and between stakeholders[4]This call is a relaunch of the call HORIZON-MSCA-2023-FTP-01[5]E.g. Horizon Results Platform, Horizon Results Booster[6]See definitions at the end of this Work Programme part[7]E.g.: Horizon Results Platform and Booster, Euraxess
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+The granting authority can fund a maximum of one project.
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions: described in the MSCA part of the Work Programme
+&nbsp;
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE CSA)
+&nbsp;
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE CSA)
+&nbsp;
+MGA
+HE General MGA v1.0
+&nbsp;
+Call-specific instructions
+&nbsp;
+Information on financial support to third parties (HE)
+&nbsp;
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 2. Marie Skłodowska-Curie Actions
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

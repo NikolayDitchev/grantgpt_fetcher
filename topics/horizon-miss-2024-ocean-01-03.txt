@@ -1,0 +1,84 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2024-ocean-01-03","file_display_name":"Atlantic and Arctic sea basin lighthouse,   Mediterranean Sea basin lighthouse, Baltic and North Sea basin lighthouse - Reducing the environmental impacts of fisheries on marine species and habitats","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Project results are expected to contribute to all the following expected outcomes:Reduced, and where possible elimination of incidental catches of sensitive species and juvenile fish as well as reduced discard and damage to catch, for an accelerated transition towards more sustainable and economically viable fishing practices;Improved effective mitigation measures to protect either or both sensitive species and juvenile fish as well as their habitats;Enhanced knowledge related to incidental catches of both sensitive species, juvenile fish, including spawning grounds, locations of nursery areas as well as recruitment processes;Increased value of seafood-products from sustainable fisheries, e.g. through ecolabelling schemes sustainable certification schemes, etc. 
+Scope:One of the main goals of the Common Fisheries Policy (CFP) is to ensure that EU fishing activities are environmentally sustainable in the long term. Along the same lines, the Technical Measures Regulation includes the objective of contributing to ensure that incidental caches of sensitive marine species are minimised and where possible eliminated so that they do not represent a threat to the conservation status of these species and to provide protection for juvenile and spawning aggregations of fish species.In this context, the Marine Action Plan: 'Protecting and restoring marine ecosystems for sustainable and resilient fisheries' stemming from the EU Biodiversity Strategy seeks to accelerate the transition to more sustainable professional and recreational fishing practices. It puts forward several actions to protect vulnerable and sensitive species and juvenile fish, notably through improving gear selectivity and practices to reduce their by-catch, using technological innovations and practices to prevent incidental catches and reducing the impact of fisheries on marine biodiversity and habitats, including sensitive marine ecosystems.This topic will support the Common Fisheries Policy, the Technical Measures Regulation, the EU Biodiversity Strategy, including the future Nature Restoration Law and the Marine Action Plan, the Habitats, Birds and MSFD directives as well as the EU sea basin strategies.Proposals under this topic are expected to show how their activities and results will contribute to achieve the Mission objectives 'Protect and restore marine and freshwater ecosystems and biodiversity' and 'Make the blue economy carbon- neutral and circular'. Projects should build and capitalise on the knowledge base developed and lessons learnt from other projects, initiatives and programmes linked to the field of biodiversity, marine environment and conservation, including projects and studies funded under Horizon 2020, Horizon Europe; EMFF, EMFAF and LIFE programmes, as well as relevant work done by the International Council for the Exploration of the Sea (ICES)[1], by the General Fisheries commission for the Mediterranean (GFCM)[2] and the Scientific, Technical and Economic Committee for Fisheries (STECF)[3] as well as relevant work done at basin level[4], in the Member States and Associated Countries.In particular, the projects funded under this topic could benefit from cooperation and sharing of information and data through collaboration with Horizon Europe projects selected under the topic on 'Understanding and reducing bycatch of protected species' (HORIZON-CL6-2023-BIODIV-01-5).Proposals under this topic are expected to identify, test, validate and demonstrate in real conditions, a set of suitable innovative and economically viable solutions, technologies, practices and processes to minimise the impact of fisheries on marine ecosystems, specifically aiming at protecting sensitive species and juvenile fish as identified in the Marine Action Plan[5] as well as respecting animal health and welfare.  Each proposal should address one sea basin (i.e.: 1. Atlantic and Arctic basin or 2. Mediterranean Sea basin or 3. Baltic and North Sea basin), where identified solutions will be demonstrated in several relevant fisheries. Proposals should take a holistic approach aiming at protecting marine biodiversity while also avoiding potential negative environmental impacts, including on the seabed.Proposals should also consider the energy efficiency and climate neutrality of the proposed solutions, thus contributing to the energy transition of the EU fisheries sector.Projects should actively involve end-users and fisheries communities in their activities. Activities should be tailored to address regional/sea basin specificities and when relevant, local/regional authorities should be engaged, e.g.: Fisheries Management authorities. Project activities should cover all following issues:demonstrating mitigation measures and sustainable fishing tools, e.g.: innovative gears and techniques improving selectivity and addressing incidental bycatch, such as exclusion devices, use of frangible gear, acoustic deterrent devices, escape panels, and other solutions;demonstrating mitigation measures and sustainable fishing operations, such as restricting fishing activities in targeted areas, temporal and/or spatial closures, safe handling of bycaught species and reducing mortality of discarded species, experimental restocking programmes and other solutions;carrying out specific activities to assess operational feasibility in commercial fishery situations and to support fishers in taking-up the solutions as well as to promote sea-food products from sustainable fisheries. In addition, projects are expected to show a significant replication potential by identifying a range of relevant stakeholders who could replicate the proposed solutions. Action plans and roadmaps needed for the replication and scale up of the solutions for sustainable fishing operation and tools should be drawn up by the end of the project.Proposals addressing the EU Outermost Regions[6] are encouraged, given these regions’ natural assets.
+Specific Topic Conditions:Activities are expected to achieve TRL 6-8 by the end of the project – see General Annex B.
+[1]https://www.ices.dk/Pages/default.aspx[2]https://www.fao.org/gfcm/en/[3]https://stecf.jrc.ec.europa.eu/[4]such as by the Regional Fisheries Management Organizations like the General Fisheries Commission for the Mediterranean (GFCM), the Northeast Atlantic Fisheries Commission and other relevant international bodies[5]Harbour porpoise in the Baltic Proper and the Black Sea, the Iberian Atlantic and the common dolphin in the Bay of Biscay; angel sharks, common skate, guitarfish, Maltese skate, great white shark, sand tiger shark, smalltooth sand tiger shark, spiny butterfly ray, sturgeons, marine turtles, Balearic shearwater and Mediterranean monk seal, European eel, and sensitive marine species at risk of incidental catch and in “unfavourable conservation status” or threatened by extinction.[6]https://ec.europa.eu/regional_policy/policy/themes/outermost-regions_en
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+The following additional eligibility criteria apply: in addition to the standard eligibility conditions, the consortium must carry out demonstration activities in 3 different countries of the basin addressed by the proposal (i.e.: 1. Atlantic and Arctic basin or 2. Mediterranean Sea basin or 3. Baltic and North Sea basin), and include, as beneficiaries, legal entities established in these respective countries.
+If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+To ensure a balanced portfolio covering the 3 different sea basins (1. Atlantic and Arctic sea basin, 2. Mediterranean Sea basin, 3. Baltic and North Sea basin), grants will be awarded to applications not only in order of ranking but at least also to one proposal that is the highest ranked within each sea basin, provided that the applications attain all thresholds.
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Beneficiaries will be subject to the following additional obligations regarding open science practices: If projects collect in-situ data and marine observations, beneficiaries must make them openly available through the European Marine Observation and Data network (EMODnet), based on FAIR (findable, accessible, interoperable, reusable) principles.
+Specific conditions
+7. Specific conditions: described in the [specific topic of the Work Programme]
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE RIA, IA)
+Standard application form (HE CSA)
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE RIA, IA)
+Standard evaluation form (HE CSA)
+MGA
+HE General MGA v1.0
+&nbsp;
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 12. Missions
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

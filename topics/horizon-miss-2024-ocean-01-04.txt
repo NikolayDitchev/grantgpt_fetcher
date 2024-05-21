@@ -1,0 +1,82 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2024-ocean-01-04","file_display_name":"Science for Community – Building the marine Citizen Science data network of the future to valorise data coming from the ocean and increase engagement","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Project results are expected to contribute to all the following expected outcomes:Establishment of a pan-European Marine Citizen Science data network, bringing together actors of marine citizen science around Europe and in neighbouring countries.Adaptation of data and metadata standards and methodological approaches appropriate for use in marine citizen science based on the existing European frameworks, as developed by SeaDataNet, EMODnet and other marine data infrastructures; Increased visibility and impact of Marine Citizen Science activities in Europe.Sharing of good practices on marine citizen science information and data consumption 
+Scope:Marine Citizen Science activities, the public’s participation and collaboration in marine research in order to increase the available scientific knowledge, is gaining more and more momentum in the European Union. Among the various marine citizen science activities, very prominent are the ones that engage actors from different parts of society to contribute to the observation of the coastal zone and the ocean and produce relevant data, related to physical, chemical, geological properties of the marine environment, marine biodiversity and/or human impact (e.g.: marine litter). It is important to capitalise on this interest, both by sustaining and increasing the sense of community and motivation of these actors and by providing them with validated methodological protocols and processes, to ensure that the information and data they collect becomes available and useful for wider use.The objective of this topic is to establish a Marine Citizen Science data network, which will aim to bring together the very important, but scattered and un-coordinated actors of marine citizen science, active in data collection. Such a network will provide a sense of community to these different in nature parties, will increase visibility of marine citizen science data collection activities in Europe and will invest in coordinating these activities by providing a harmonisation framework, which will increase the added value coming from marine citizen science. Such an activity will ensure dual effects towards the Mission’s Ocean cross-cutting enabling actions: it will support targeted engagement of different categories of social actors in the production of credible Marine Knowledge and it will thus directly support the development of the Digital Ocean and Water Knowledge System.Proposals are expected to address all following activities:Establishment of a Marine Citizen Science network  The pan-European Marine Citizen Science data network is expected to bring together actors in marine citizen science data collection domains in the European Union and in neighbouring countries and to build a sense of community between these actors, engaging and coordinating different type of organisations. The core aim of the network will be to support its participants to contact the various marine citizen science data collection communities efficiently and in a manner that will increase the added value of their contribution towards Marine Knowledge. The network should aim to include actors from all different data fields on marine citizen science.A key activity for the establishment of the network consists in the identification, mapping and involvement of the different actors that provide observation and data input to marine citizen science, extending from volunteer or scientific groups (schools, NGOs or universities, tourists) to more structured community contributions that can come from professionals (for instance fishermen) or companies (sailing companies, port authorities, etc.) that are willing to contribute in these initiatives.The network should act as a multiplier of work contacted on marine citizen science data collection from different organisations around Europe and operate as a connection hub for their activities. Through the described actions the network will ensure the higher visibility of marine citizen science data collection activities in Europe and will contribute both to motivate the already engaged actors and to bring in the network more interested parties, by connecting them with the appropriate organisations, providing them with community advice on how to set up their own activities, in line with common standards and sharing the collective knowledge created through the network.The long-term sustainability of the proposed network should be considered.Citizen science activities: information and data collection To increase the added value of the marine citizen science activities, the proposals should ensure that information and data collected are widely usable and integrated in existing knowledge management platforms (e.g.: EMODnet, Blue Economy Observatory, etc.) and in the end be available for use in the European Digital Twin of the Ocean (EU DTO).Specific activities are expected to adapt and make available data and metadata standards appropriate for use in marine citizen science, building on the work developed by SeaDataNet, EMODnet and other marine data infrastructures. These standards should be tailored to the needs of citizen science and ensure that the data collected can be harmonised and used in an effective manner.The proposals should also consider the development of easy-to-use tutorials and easy-to-understand training modules, targeted to different categories of marine citizens science actors collecting data. This material should focus on methodologies to ensure that the data collected is FAIR (findable, accessible, interoperable, reusable), will explain how data is made available and will provide recommendations and guidelines for effective citizen science observing activities. The training materials should also ensure that citizen science activities do not conflict with nature protection objectives.Finally, the proposals are expected to address the development of good practices regarding data and information consumption coming from marine citizen science activities and make these good practices visible at local, national and European level, as well as at the international level, particularly through the UN Decade of Ocean Science for Sustainable Development.Deployment of cost-efficient, citizen science appropriate observing equipment The proposals should ensure the link between marine citizen science actors and the developers of cost-efficient ocean observing sensors and to facilitate the procurement of appropriate and easy to use citizen science devices and equipment that will enhance and harmonise the outputs of marine citizen science in Europe.Proposals are expected to define and implement two use-cases to demonstrate in real conditions the use of affordable, durable, high-efficiency and low-carbon footprint marine observing devices/equipment, relevant and applicable to marine citizen science. Observing devices/sensors that are easy to use, automated, standardised and with direct uploading of date in verified databases should be prioritised.These use-cases will act as pilots, to show, on one side the benefits of using standardised, simple to deploy and use equipment for wide citizen science campaigns and on the other, the benefits and the economies of scale of large procurements of observing devices/equipment for citizen science.These use-cases should also provide insights for the mobilisation of public and private funding to maximise future deployment and use of observation devices/sensors, thus supporting the scaling up of marine citizen science activities in Europe.
+
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Beneficiaries will be subject to the following additional obligations regarding open science practices: If projects collect in-situ data and marine observations, beneficiaries must make them openly available through the European Marine Observation and Data network (EMODnet), based on FAIR (findable, accessible, interoperable, reusable) principles. 
+Grants awarded under this topic will be linked to the following action(s): HORIZON-MISS-2021-OCEAN-05-03 Piloting citizen science in marine and freshwater domains - Grant Agreement n. No 101006482
+Specific conditions
+7. Specific conditions: described in the [specific topic of the Work Programme]
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE RIA, IA)
+Standard application form (HE CSA)
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE RIA, IA)
+Standard evaluation form (HE CSA)
+MGA
+HE General MGA v1.0
+&nbsp;
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 12. Missions
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

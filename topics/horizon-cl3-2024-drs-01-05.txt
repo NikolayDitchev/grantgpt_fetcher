@@ -1,0 +1,82 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl3-2024-drs-01-05","file_display_name":"Cost-effective sustainable technologies and crisis management strategies for RN large-scale protection of population and infrastructures after a nuclear blast or nuclear facility incident","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Projects’ results are expected to contribute to some or all of the following outcomes:Based on existing national practices, improved understanding of the radioactive fallout and methodology regarding robust and rapid monitoring of dose rate and nuclide specific determination with purpose of facilitating safe evacuation after a nuclear or radiological event;Improved tools and methods for risk assessment following a nuclear or radiological event and optimized actions after a disaster that are based on risk analysis rather than probabilitiesIdentification of the relevant range of different protective measures, including medical countermeasures, needed after a RN disaster, and improved protection of population and infrastructures through better analysis of sensor data resulting in adequate protective actions;Improved understanding of contamination and decontamination of population and infrastructure, and improved rapid procedures for decontamination of individuals after a RN-incident;Recommendations on integration of improved technologies and assessment methodologies in the RN crisis managements systems.  
+Scope:A nuclear explosion in any EU member country (or in the European neighbourhood) would lead to disastrous effects for numerous EU citizens and residents. For example, the initial effects from a nuclear explosion in a city will lead to, besides numerous dead and severely injured citizens, destroyed infrastructure. The radioactive plume containing particulate matter may damage ventilation systems and fallout will generate high dose rates. Criticality or other incidents at nuclear power plants and nuclear-powered vessels may occur because of direct attack, sabotage, collateral damage, accidents, loss of infrastructure services such as power and/or water supply or lack of necessary skilled personnel on site. Research on large-scale protection of population and infrastructure in the event of a nuclear explosion need to be undertaken both separately as well as in a RN-perspective. Research activities aimed at updating EU’s possibilities for large-scale protection of population and infrastructure in the event of a nuclear explosion would benefit from being carried out in close cooperation with other EU-members. Research activities should also pertain to improved understanding of the radioactive fallout and assessment of dose rates to the population following a nuclear explosion in order to enable use of cost-effective sustainable technologies in protection of population and infrastructures.In a situation after a RN-incident the time consuming and laborious decontamination procedures for the population must be reduced to a minimum. Therefore, the possibility to identifying the need for decontamination, and above all to assess that there is no need for decontamination would be beneficial as well as the possibility to enter a shelter or other protected area in a safe way.Protective measures in the aftermath of a RN disaster may vary depending on situations. Such measures should be based on evaluated risks rather than probabilities. Starting with sensor- as well as other available data, measures could be optimized from a risk-cost point-of-view resulting in cost-effectiveness.Based on measurement data, appropriate protective actions could be decided upon. If a risk analysis results in a low risk, a lower level of mitigating measures might be needed resulting in lower costs. Then resources can be used in other areas where they are more needed, leading to an overall optimized protection.Protective actions should be based on risk modelling. Such modelling is based on available knowledge of different input quantities resulting in a probability distribution, from which the risk can be calculated applying a consequence function.New technologies should be compatible with RN crisis management systems, strategies for crisis communication and take into account relevant societal and human factors, such as vulnerable group and cultural and linguistic diversities. In order to achieve the expected outcomes, international cooperation is encouraged. The action should take due consideration to EU policies, in particular the SevesoIII and CER Directives.This topic requires the effective contribution of SSH disciplines and the involvement of SSH experts, institutions as well as the inclusion of relevant SSH expertise, in order to produce meaningful and significant effects enhancing the societal impact of the related research/innovation activities.Within this topic, the European Commission encourages all potential participants to create, where possible, opportunities for the affected persons and entities, in particular researchers and innovators previously active in Ukraine as well as Ukrainian researchers and innovators who are unable to return to Ukraine in the given circumstances.
+Specific Topic Conditions:Activities are expected to achieve TRL 6-8 by the end of the project – see General Annex B.
+
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+The following additional eligibility criteria apply:This topic requires the active involvement, as beneficiaries, of at least two first responders’ organisations or agencies, and one representative of local or regional authorities in charge of disaster response, from at least 3 different EU Member States or Associated Countries. For participants with practitioner status, applicants must fill in the table “Information about security practitioners” in the application form with all the requested information, following the template provided in the submission IT tool.
+If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions: described in the [specific topic of the Work Programme]
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE RIA, IA)
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE RIA, IA)
+MGA
+HE General MGA v1.0
+Call-specific instructions: 
+ Template for Security &amp; eligibility conditions in Horizon Europe 
+
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 6. Civil Security for Society
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

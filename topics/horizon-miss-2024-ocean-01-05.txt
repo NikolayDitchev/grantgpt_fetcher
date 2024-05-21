@@ -1,0 +1,79 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2024-ocean-01-05","file_display_name":"Our Blue Future – Co-designing a future vision of a restored ocean and water system in the EU by 2030 and 2050","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:To support the implementation of the European Green Deal, the Mission Restore our Ocean and Waters and the related EU climate, biodiversity and pollution targets, project results are expected to contribute to all of the following expected outcomes: Increased confidence in and support for the transitions required by the European Green Deal, by co-designing possible science-based transition scenarios for reaching the Mission Restore our Ocean and Waters objectives and related EU climate, biodiversity and pollution targets, including environmental, social, economic and political considerations.   Support progress in restoring our ocean and waters, in adapting to climate change, reversing biodiversity loss and pollution, by co-designing inspiring narratives that stimulate effective action by policy-makers, citizens and stakeholders, and by identifying the pathways that are necessary to realise them.   Increased awareness of decision-makers, stakeholders and citizens, including students, through structured science-policy interfaces, in relation to the urgency of the climate, biodiversity and pollution crises and the central role of restoring the entire water system to address these crises.   National, regional and local decision-makers in planning decisions are taking measures to protect and restore their ocean, coastal and water spaces and ecosystems.   
+Scope:This action will develop and co-design transitional alternative futures of the EU, in which the Ocean, seas and waters are conserved or restored to good health. The action will support the co-creation of narratives, and innovative visualisation tools such as maps, related to different scenarios of what the EU and its ocean, seas and water spaces could look like by 2030 and 2050 if innovative solutions to restore our ocean and waters would be applied, so that the targets of the Mission Ocean and Waters and consequently those of the European Green Deal are fully reached. These narratives must be supported by the co-design of different science-based transition pathways together with citizens including students and key stakeholders such as scientists, experts and decision-makers responsible for planning ocean and water spaces. The co-design process should be inclusive, participatory following transdisciplinary and structured science-policy-society interface methodologies and taking into consideration environmental, social, economic and political considerations.Following on from a pan-European vision, proposals should also develop specific regional visions, scenarios and narratives for each of the four Mission lighthouse areas in the Atlantic-Arctic, Danube, Mediterranean Sea, Baltic and North Sea, supported by innovative visualisation tools and co-created by multi-actors such as local stakeholders and citizens. By choosing a minimum of four large scale case-studies, the action should enable the participatory co-design of alternative futures where the Mission objectives have been achieved in the lighthouse area, and develop together with the relevant stakeholders the action pathways and necessary narratives to achieve these alternative futures.Proposals should develop and visualise different scenarios for each of the case-studies, with both 2030- and 2050-time horizons in line with the Mission Restore our Ocean and Waters and EU Green Deal targets. They should at least encompass a business-as-usual scenario, in which current trends are extrapolated, as well as a scenario where European Green Deal and relevant environmental legislation (e.g. Marine Strategy Framework Directive[1], Birds[2] and Habitats[3] Directives, Water Framework Directive[4]) targets for climate, biodiversity and pollution are fully reached through the large-scale deployment of innovative solutions. The change scenario(s) should build on deliverables of relevant Mission related projects[5], best practices on citizen participation and deliberative democracy, national initiatives as well as state-of-the-art models and draw on data and projections from the IPCC, IPBES, European Environment Agency and JRC. Finally, they should rely on and be compatible with the EU Digital Twin Ocean developments and eventually become one of its use-cases.Scenarios of the future should in particular include the deployment at scale of innovative solutions with a special emphasis on nature-based solutions[6], which are proven to be environmentally, economically and socially effective and which address in particular the climate change, biodiversity and pollution driven challenges to the ocean and water system[7], including biodiversity loss and its impacts on marine ecosystems and sectors relying on it, sea level rise, extreme weather, as well as pollution of the seas, coasts and rivers. The scenarios should take the objectives of current EU policies and legislation into consideration for their design.Proposals are expected to develop a map and visualisations as an interactive, dynamic and digital tool and application to be co-created and used by citizens, including schools and planners at EU, national, regional and where applicable local level, using whenever possible the Digital Twin of the Ocean core public infrastructure and its services. This could take the form of an interactive 2D and 3D visual experience of the future envisioned EU and regional landscapes (NUTS 2 and NUTS 3) and ocean and water space incl. the seabed.Proposals are expected to work closely with other Horizon Europe projects, particularly Prep4Blue, the 4 Mission lighthouse CSA projects (EcoDaLLi[8], BlueMissionAA[9], BlueMissionMed[10], BlueMissionBANOS[11]) and other relevant projects, as well as the Mission Ocean and Waters Implementation Support Platform to connect to citizens and stakeholders in the region (incl. the lighthouse citizen assemblies), build on existing activities and strategies at basin-level and to take into account innovative solutions that have already been developed and deployed.This topic should take into consideration contributions of social sciences and humanities (SSH) disciplines and the involvement of SSH experts, institutions as well as the inclusion of relevant SSH expertise, in order to produce meaningful and significant effects enhancing the societal impact of the related research activities.Proposals may draw on experiences of past projects such as ‘A nature-based vision for The Netherlands in 2120’.
+[1]Directive 2008/56/EC of the European Parliament and of the Council of 17 June 2008 establishing a framework for community action in the field of marine environmental policy[2]Directive 2009/147/EC of the European Parliament and of the Council of 30 November 2009 on the conservation of wild birds[3]Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora[4]Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy[5]https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/new-report-analysing-contribution-over-800-eu-funded-projects-mission-restore-our-ocean-and-waters-2023-06-01_en[6]Solutions that are inspired and supported by nature, which are cost-effective, simultaneously provide environmental, social and economic benefits and help build resilience. Such solutions bring more, and more diverse, nature and natural features and processes into cities, landscapes and seascapes, through locally adapted, resource-efficient and systemic interventions[7]https://environment.ec.europa.eu/strategy/zero-pollution-action-plan/zero-pollution-targets_en[8]https://ecodalli.eu/[9]http://bluemissionaa.eu/[10]https://bluemissionmed.eu/[11]https://bluemissionbanos.eu/
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions: described in the [specific topic of the Work Programme]
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE RIA, IA)
+Standard application form (HE CSA)
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE RIA, IA)
+Standard evaluation form (HE CSA)
+MGA
+HE General MGA v1.0
+&nbsp;
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 12. Missions
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

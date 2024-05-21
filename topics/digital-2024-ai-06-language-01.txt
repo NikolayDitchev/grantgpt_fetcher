@@ -1,0 +1,49 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/digital-2024-ai-06-language-01","file_display_name":"Alliance for Language Technologies (SG)","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:DeliverablesIncreased accessibility to language data for the development and adaptation of large language foundation models, in consideration of issues linked to data privacy and security, as well as potential risks of disinformation.A repository of families of existing large language foundation models for public and industrial reuse in the EU.A repository of families of large language models fine-tuned to specific languages, domains or industries.Infrastructure and services for models fine-tuning 
+Objective:Through federating Member States efforts, this action will directly contribute to preserving the linguistic and cultural diversity in Europe while effectively implementing the European Common Data Infrastructure and Service MCP’s objectives in the area of language technologies. By providing the necessary data and model adaptation capacities, the action will have a strong impact on the deployment of large language foundation models and their applications such as generative AI. This federated effort will be established around two work strands.First work strand – Data collection &amp; Fine-TuningThe first work strand will support the language data collection and the adaptation of existing large language foundation models to specific languages, domains or industries so as to support the onboarding of the latest language technologies by the European actors.
+Scope:ScopeData:Leveraging on the Common European Language Data Space and other relevant Data Spaces, this activity will, in compliance with the applicable legislation (e.g. Copyright and GDPR), gather the necessary language data (text, audio, image and other modalities) from a broad array of European industrial, academic and institutional actors, and provide data in sufficient quality and quantity that can be made available to build large language foundation models, ensuring a coherent coverage of all the official languages of the Member States as well as the most socially and economically relevant ones. This will also include providing data required to adapt such large language foundation models to specific languages, domains or industries. The action will also provide a repository of existing European Large Language foundation models as well as models adapted to specific languages, domains or industries. Once sufficiently advanced, the consortium may consider working on a future copyright infrastructure and related issues to allow efficient use of language and other data, while taking into account the interests of the rightsholders.Fine-tuning:This activity will also provide large language models fine-tuned to specific languages, domains or industries as a result of further training of large language foundation models on specific language data. This process involves adapting, evaluating and optimizing foundation models for specific languages, domains or industries. It will facilitate the efficient deployment of these models across various industries, requiring less task-specific data compared to building models from scratch, which is particularly advantageous for SMEs. The action will also include the support for the ongoing maintenance and enhancement of these models, ensuring their adaptability to evolving tasks and domains over time.In addition, this activity will also provide, including through Financial Support to Third Parties, dedicated supports and services, in particular for SMEs, to facilitate the fine-tuning of available models. This supports and services will provide third parties with an infrastructure to fine-tune and evaluate existing models for their purpose. The EuroHPC Joint Undertaking would provide access to their facilities for the adaptation and fine tuning of the models when necessary. The consortium that will carry out this action should be composed by representatives of Member States; public and private organisations, SMEs, RTOs; entities with access to large compute capacities; public and/or private data providers, such as the media or publishing industry.
+
+
+Conditions: 
+Conditions
+
+
+1.&nbsp;Admissibility conditions: described in section 5 of the call document&nbsp;
+Proposal page limits and layout:&nbsp;described in Part B of the Application Form available in the Submission System
+2. Eligible countries:&nbsp;described in section 6 of of the call document
+3. Other eligibility conditions:&nbsp;described in section 6 of the call document
+4. Financial and operational capacity and exclusion:&nbsp;described in&nbsp;section 7 of the call document
+5.&nbsp;Evaluation and award:
+
+    Award criteria, scoring and thresholds:&nbsp;described in section 9 of the call document
+
+
+    Submission and evaluation processes:&nbsp;described&nbsp;section 8 of the call document and the&nbsp;Online Manual
+
+
+    Indicative timeline for evaluation and grant agreement:&nbsp;described in section 4 of the call document
+
+6. Legal and financial set-up of the grants:&nbsp;described&nbsp;in section 10 of the call document
+Documents
+
+Call document is available here
+Standard application form &mdash; call-specific application form is available in the Submission System
+Detailed budget table -&nbsp;available in the Submission System
+&nbsp;
+DIGITAL&nbsp;EUROPE&nbsp;PROGRAMME -&nbsp;General MGA v1
+&nbsp;
+Guidance Classification of information in DIGITAL projects
+Guidelines on&nbsp;How to Complete your Ethics Self-Assessment
+Guidance on participation in DEP - restricted calls&nbsp;
+Digital Europe&nbsp;Work Programme 2023-2024
+Digital Europe Programme&nbsp;Regulation 2021/694
+EU Financial Regulation 2018/1046
+
+Support Info: 
+For help related to this call, please contact us&nbsp;here
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; Submission of proposals.
+IT Helpdesk&nbsp;&ndash; Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+Online Manual&nbsp;&ndash; Step-by-step online guide through the Portal processes from proposal preparation and submission to reporting on your on-going project. Valid for all 2021-2027 programmes.
+

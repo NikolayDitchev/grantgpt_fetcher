@@ -1,0 +1,82 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl5-2024-d2-02-03","file_display_name":"Size \u0026 weight reduction of cell and packaging of batteries system, integrating lightweight and functional materials, innovative thermal management and safe and sustainable by design approach (Batt4EU Partnership)","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Widespread electrification of mobile applications is necessary to achieve the goals of the European Green Deal. A competitive European battery value chain will have to deliver highly performant and safe battery systems in order to enable the necessary uptake of electrified mobility applications.This topic focuses on delivering a safe and sustainable by design approach for batteries reduced in size and weight which will deliver the performance necessary for mobile applications. The objective is to ruggedise energy storage packs by enlarging the environmental and operational conditions in which they can operate, while maintaining a high level of performance and achieving a reduction in the size and weight of the battery pack.Successful projects are expected to deliver on both following points:An increase of the net useful mass and volumetric energy density of the battery system between 10% and 30% compared to the state-of-the-art battery systems.The improvement of the safety by design measures throughout the battery lifetime and during operation. Projects are furthermore expected to deliver innovative thermal management toIncrease performance over the complete operational conditionsEnable fast charging requirements 10%-80% in 10 minutes maximum. The solutions should be demonstrated and validated at application level and should comply with all relevant standards (performance and safety). They are also encouraged to contribute to standardisation of measures for safe thermal management.
+Scope:Projects should achieve size and weight reduction by integrating different technologies such as:Integration of advanced cell technologies/generations, sensing technologies,The use of lightweight and multi-functional materials (including, but not limited to, the use of nanomaterials) that are safe and sustainable by design in alignment with Commission Recommendation (EU/2022/2510) and lightweight structures for battery casing.Improvement of the cell to system ration by adopting innovative packaging approaches to enable smart battery cell concepts. Approaches to reduce the complexity of HV and BMS architecture and substitution by alternatives.  To reach those targets, improvements in both components in the cell and in the pack will be considered.Proposals are expected to also address innovations in the manufacturing processes that result in size and weight reduction of the packs.In addition, projects are expected to improve battery performance and safety by demonstrating innovative thermal management systems, which enhance fast charging capability or high-power application during operational lifetime (heating and cooling). Finally, projects should enhance the safety throughout the full battery lifetime and for failure conditions by developing and demonstrating safe by design measures, for example such as:Thermal propagation measures.Fire retardant properties.Mechanical properties ameliorations.Reliability, default propagation/thermal runaway modelisation and simulation.  The effectiveness of safety measures should be demonstrated by simulation at pack level.The projects are to focus on the battery system level, i.e., on the integration of battery cells into a battery system (e.g., a battery pack), considering mechanical, electrical and thermal aspects.The integration of battery systems into larger systems of application (e.g., into vehicles structure) can be part of scope (e.g. cell to casing integration) as long as it can be demonstrated as a possibility to reduce overall packaging space, battery weight and battery performance improvement.All solutions are expected to consider optimal design for manufacturing, end of life management and LCA analysis and disassembly.The Commission initiative for Safe and Sustainable by Design[1] will set a framework for assessing safety and sustainability of chemicals and materials and which should be considered as a reference in the proposal.Plans for the exploitation and dissemination of results for proposals submitted under this topic should include a strong business case and sound exploitation strategy, as outlined in the introduction to this Destination. The exploitation plans should include preliminary plans for scalability, commercialisation, and deployment (feasibility study, business plan) indicating the possible funding sources to be potentially used (in particular the Innovation Fund).In order to achieve the expected outcomes, international cooperation is encouraged, in particular with the USA.This topic implements the co-programmed European Partnership on Batteries (Batt4EU). As such, projects resulting from this topic will be expected to report on the results to the European Partnership on Batteries (Batt4EU) in support of the monitoring of its KPIs.
+Specific Topic Conditions:Activities are expected to achieve TRL 6-7 by the end of the project – see General Annex B.
+[1] See documents defining the SSbD framework and criteria on: https://ec.europa.eu/info/research-and-innovation/research-area/industrial-research-and-innovation/key-enabling-technologies/advanced-materials-and-chemicals_en
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions: described in the specific topic of the Work Programme
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE RIA, IA)
+Standard application form (HE RIA IA Stage 1)
+MGA
+HE General MGA v1.0
+HE Unit MGA v1.0
+Call-specific instructions
+Detailed budget table (HE LS)
+Information on financial support to third parties (HE)
+Guidance: &quot;Lump sums - what do I need to know?&quot;
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 8. Climate, Energy and Mobility
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

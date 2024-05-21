@@ -1,0 +1,47 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/eu4h-2023-pj-2-1","file_display_name":"Call for proposals: action grants on the safety and quality of new Substances of Human Origin (Breast milk, faecal microbiota transplants) (b) HS-g-23-50.02 Faecal microbiotic transplants (HS-g-23-50.02)","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Policy ContextThe 2019 evaluation of the Union legislation on blood, tissues and cells identified a legal gap in terms of Regulation for some therapies made from substances of human origin (SoHO) that cannot necessarily be defined as blood, tissues, cells or organs. It concerns in particular therapies like human faecal microbiota transplants (FMT) and breast milk (BM), whose use entails the need to avoid transmission of diseases from donors. The revision of the Union legislative frameworks (blood and tissues and cells) aims to cover this gap and it plans to address safety and quality requirements for these therapies.Dedicated guidelines on safety and quality have also to be implemented by a new group of actors with expertise on these therapies. It is estimated that around 200 new entities or establishments, working with BM or FMT, will be regulated under the new SoHO legislation. This action will help actors and establishments for the preparation of the implementation of these new legal requirements.This action implements the EU4Health Programme’s general objective of improving the availability, accessibility and affordability of medicinal products and medical devices, and crisis-relevant products in the Union, and supporting innovation regarding such products (Article 3, point (c) of Regulation (EU) 2021/522) through the specific objectives defined in Article 4, points (c) and (h), of Regulation (EU) 2021/522.
+Objective:Objectives, scope and activitiesThis action aims to bring together sector professionals, for BM (subtopic (a)) and for FMT (subtopic (b)), and to facilitate the implementation of new SoHO guidelines and legislative requirements as well as the compliance with oversight tasks, in order to allow thesafe, effective and qualitative use of these SoHO-based therapies.The activities for both subtopics (a) and (b) are:a) building an expert forum on breast milk and an expert forum on faecal microbiota transplants;b) developing, for each SoHO-based therapy, a common set of draft guidelines on the basis of the expert forum and existing initiatives (e.g. professional societies’ work, work in research actions);c) possible future updating of the guidelines, taking account of the new EU legislative framework;d) providing an implementation plan for establishments/entities in order to implement SoHO requirements, which will also consider the compliance with technical guidelines as well as with oversight provisions (entity and establishment authorisations, preparation process authorisations, inspections, vigilance and traceability); ande) training and dissemination programme.These activities are to be developed taking account the commonalities and specificities of both SoHO-based therapies, i.e. BM and FMT.
+Expected Impact:Expected results and impactThe two sub-topics should provide up-to-date guidelines on:a) technical safety and quality aspects for BM (subtopic (a)) and for FMT (subtopic (b));b) implementation of the legal requirements by establishments preparing these substances covered by both subtopics and applying therapies based on them.They will also create a forum where key experts including Member States authorities can be engaged also in the future whenever the guidelines need to be updated, or when further advice is needed on their implementation.Both subtopics will support the implementation of the new Union legislative framework on SoHO.The result of the subtopic on faecal microbiota will consider the coherence with pharmaceutical actors/legislation, so that actors from both sectors (SoHO and Pharmaceuticals) can look into technical rules for faecal microbiota collected under SOHO and later to be used for manufacturing of pharmaceuticals.
+
+
+Conditions: 
+Conditions
+
+
+1.&nbsp;Admissibility conditions: described in section 5 of the call document&nbsp;
+Proposal page limits and layout:&nbsp;described in Part B of the Application Form available in the Submission System
+2. Eligible countries:&nbsp;described in section 6 of of the call document
+3. Other eligibility conditions:&nbsp;described in section 6 of the call document
+4. Financial and operational capacity and exclusion:&nbsp;described in&nbsp;section 7 of the call document
+5.&nbsp;Evaluation and award:
+
+    Award criteria, scoring and thresholds:&nbsp;described in section 9 of the call document
+
+
+    Submission and evaluation processes:&nbsp;described&nbsp;section 8 of the call document and the&nbsp;Online Manual
+
+
+    Indicative timeline for evaluation and grant agreement:&nbsp;described in section 4 of the call document
+
+6. Legal and financial set-up of the grants:&nbsp;described&nbsp;in section 10 of the call document
+Documents
+
+
+Call documents:
+Call document 
+Standard application form ([ToA])&nbsp;
+Detailed budget table ([ToA])
+EU4Health Programme General MGA v1.1
+EU4Health Work Programme 2024
+EU4Health Regulation 2021/522
+
+EU Financial Regulation 2018/1046
+
+Support Info: 
+For help related to this&nbsp;call, please contact:&nbsp;HaDEA-HP-CALLS@ec.europa.eu
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; Submission of proposals.
+IT Helpdesk&nbsp;&ndash; Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+Online Manual&nbsp;&ndash; Step-by-step online guide through the Portal processes from proposal preparation and submission to reporting on your on-going project. Valid for all 2021-2027 programmes.
+

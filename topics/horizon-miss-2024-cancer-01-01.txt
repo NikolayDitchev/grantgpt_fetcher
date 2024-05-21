@@ -1,0 +1,83 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2024-cancer-01-01","file_display_name":"Use cases for the UNCAN.eu research data platform","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:The aim of this topic is to operationalise the UNCAN.eu research data platform foreseen in the Cancer Mission implementation plan[1], through a series of use-cases. To this goal, proposals are expected to develop tools supporting researchers to access, manage and analyse cancer digital data, building among others on resources developed by EOSC4cancer[2]. Proposal(s) under this topic are expected to contribute to all of the following outcomes:The UNCAN.eu platform is developed by federating a network of cancer data nodes built on European and national computing infrastructures that link different cancer data holders across European countries.Use-cases focusing on the understanding of cancer initiation and progression are designed and implemented by multidisciplinary teams to develop tools and services for working with FAIR data.Researchers and clinicians use the electronic resources provided by the UNCAN.eu platform to access, manage and analyse data of heterogeneous types and belonging to different research domains at an unprecedented scale. 
+Scope:The successful proposal should:Develop the UNCAN.eu platform by integrating and, where relevant, complementing existing or planned data nodes of European research infrastructures and/or other national infrastructures that may link various cancer data holders across Member States and Associated Countries (e.g. hospitals, research centres, comprehensive cancer centres, etc.). The number of Member States involved should be sufficient to demonstrate scalability and flexibility of the UNCAN.eu platform while allowing for stepwise onboarding of more countries.Provide tools, services and workflows to researchers across data nodes for dataset creation, standardisation, data discovery, secure access, management, visualization, harmonization, analysis and other functions as appropriate. This task should capitalise on EOSC4cancer's achievements, integrating and expanding as appropriate the available tools and solutions. It should also take advantage of the European Health Data Space and the European Open Science Cloud frameworks.Design and implement a rich and diverse portfolio of use-cases to inform, steer the development and demonstrate the validity of the UNCAN.eu platform. Use cases should focus on research questions that are in line with the Cancer Mission objectives and that may advance the understanding of mechanisms involved in cancer development and progression beyond the current state of the art. At least one use-case should target a cancer type with a 5-year overall survival of less than 50% from the time of diagnosis. A second use-case should target paediatric cancer.At the same time, use-cases should be functional to the design and implementation of UNCAN.eu to increase the diversity of digital tools and services available for cancer researchers. The mobilisation and integration of a large amount of research and real word data beyond current practice and a balanced participation of clinicians, disease experts and data scientists will be essential to achieve the objectives of this topic. Due attention should be paid to sex and gender, disaggregating the data as appropriate.The successful consortium should develop innovative approaches, to integrate and analyse heterogeneous data from multiple sources and different research domains[3], including the participation of the necessary interdisciplinary set of European infrastructures and national data nodes. In this regard, at least one use-case should integrate imaging, digital pathology and genomic data, using and/or contributing with new data sources to the Genomics Data Infrastructure (GDI)[4] and Cancer Image Europe (EUCAIM)[5].Give emphasis to data being managed and shared in line with the FAIR principles, and the concept of FAIR-by-design is applied wherever possible. The applicants must demonstrate that the necessary data sources are, or will be, effectively and timely available. During the project lifetime, new data sources that might become available at a later stage can be accommodated as well as allowing additional data holders to join the UNCAN.eu platform. Results must be open source and made available through a public repository under a permissive license. Open access data should be provided whenever possible.Give due consideration to, and establish appropriate links with, EU-funded initiatives such as EHDS-related governance and implementation actions[6], the European Network of Cancer Registries[7].Foresee to establish links with the successful proposal resulting from the topic HORIZON-MISS-2024-CANCER-01-02 ‘Support dialogue towards the development of national cancer data nodes'. This topic requires the effective contribution of SSH disciplines and the involvement of SSH experts, institutions as well as the inclusion of relevant SSH expertise, to produce meaningful and significant effects enhancing the societal impact of the related research activities.The Commission will facilitate coordination. Therefore, proposals should include a budget for networking, attendance at meetings, and potential joint activities without the prerequisite to give details of these at this stage. Examples are organising joint workshops, establishing best practices, joint communication or citizen engagement activities with projects funded under other clusters and pillars of Horizon Europe, or other EU programmes, as appropriate.Successful proposal will be asked to join the 'Understanding' cluster for the Mission on Cancer established in 2022[8]. The details of joint activities will be defined during the grant agreement preparation phase and during the life of the project.
+[1]https://research-and-innovation.ec.europa.eu/system/files/2021-09/cancer_implementation_plan_for_publication_final_v2.pdf[2]https://eosc4cancer.eu/[3]Including – but not limiting to – genomics and other omics data, digital pathology, real world data, cancer registries, patient-derived cancer models, lifestyle, socio-economic, occupational and environmental data. In each use-case integration of clinical data from different sources is required.[4]https://gdi.onemilliongenomes.eu/[5]https://cancerimage.eu/[6]https://ehds2pilot.eu/[7]https://encr.eu/[8]In order to address the objectives of the Mission on Cancer, participants will collaborate in project clusters to leverage EU-funding, increase networking across sectors and disciplines, and establish a portfolio of Cancer Mission R&amp;I and policy actions.
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+The page limit of the application is 70 pages.
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+The thresholds for each criterion will be 4 (Excellence), 4 (Impact) and 3 (Implementation). The cumulative threshold will be 12.
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions: described in the [specific topic of the Work Programme]
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE RIA, IA)
+&nbsp;
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE RIA, IA)
+MGA
+HE General MGA v1.0
+Call-specific instructions
+Information on clinical studies (HE)
+
+
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 12. Missions
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

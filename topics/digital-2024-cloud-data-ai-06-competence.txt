@@ -1,0 +1,49 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/digital-2024-cloud-data-ai-06-competence","file_display_name":"Competence Centre for 3D  (deployment)","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Deliverables and expected outcomeDuring the action, the project shall deliver: • Services, open tools, methodologies, best practices, etc. in a knowledge centre accessible by CHIs from the whole European Union, and demonstrate its significant impact on the European CHI ecosystem; • successive iterations of the services, tools, methodologies and best practices, demonstrating that the knowledge centre can efficiently help CHIs as soon as possible during the indicative duration of the action; • common standards in the domain of digital cultural heritage, and particularly in 3D and virtual worlds; • at least five new high-quality 3D objects and virtual worlds scenarios, as defined in the common European data space for cultural heritage, as well as enriching at least 20 existing ones, all made available in the common European data space for cultural heritage; • a long-term data sustainability plan of the Competence Centre incorporating open access and open licensing information and standards. All data and information deployed by the action shall remain accessible at least five years after the end of the project. • Interoperability (both technical and licenses), availability and medium and long-term sustainability of the produced 3D models, data and deliverables needs to be ensured.
+Objective:The online Competence Centre for 3D will support cultural heritage institutions (CHIs) in embracing 3D, advanced technologies and virtual worlds. The objective is to provide strong foundations in the form of knowledge, standards, best practices, skills, methodologies and open tools for CHIs to accelerate their digital transformation to advanced technologies, such as artificial intelligence (AI), three dimensions (3D), extended reality (XR) and virtual worlds, as well as promoting and allowing the reuse of such content in other domains, such as tourism or education. The Competence Centre will bring together CHIs from the whole EU under one single umbrella, building on existing strategies and projects, particularly: • The common European data space for cultural heritage, • The Competence centre for the conservation of cultural heritage,45 • Any other relevant project about 3D, virtual worlds and the digital transformation of CHIs. As a secondary objective, this Competence Centre will also reach out to Ukrainian CHIs to help them preparing to recover and rebuild after the war by identifying stolen, missing or damaged cultural heritage objects and monuments, and eventually allow reconstruction thanks to advanced digitisation, 3D and other advanced digital technologies. It will also collaborate with the Europeana Initiative to prepare one or more Ukrainian aggregators to contribute to the common European data space for cultural heritage
+Scope:This action will develop and deploy an online Competence Centre for 3D, as a rich and targeted reference place for 3D, XR, AI, virtual worlds and other advanced technologies, taken up by CHIs in their digital transformation. It will aim at supporting CHIs to benefit from the opportunities brought by such technologies, being an effective place to learn and refer about the digital transformation of CHIs, allowing 3D reuse of cultural heritage including for immersive experiences and sharing best 45 https://www.4ch-project.eu/ 43 practices on technical, legal and online publishing requirements, as well as increasing cooperation in the sector. As such it will be: • Contributing to the creation and development of standards in the field, including semantic interoperability, in coordination with the data space for cultural heritage. • Bringing together multidisciplinary expertise from the EU and act as a champion for the reuse and digital preservation of European cultural heritage at risk. • Promoting the digital transformation of CHIs and the use of advance technologies following the objectives. • Linking with national authorities in EU member states (plus Ukraine), CHIs and experts to facilitate establishing national 3D competence centres and allowing the availability of the whole knowledge base. The active participation of data providers and users from the project's inception is highly recommended since it will ensure that the Competence Centre is designed and structured to meet their needs, making the data space more relevant and leading to increased adoption rates and a stronger sense of ownership of data providers and users by the end of the project’s runtime.
+
+
+Conditions: 
+Conditions
+
+
+1.&nbsp;Admissibility conditions: described in section 5 of the call document&nbsp;
+Proposal page limits and layout:&nbsp;described in Part B of the Application Form available in the Submission System
+2. Eligible countries:&nbsp;described in section 6 of of the call document
+3. Other eligibility conditions:&nbsp;described in section 6 of the call document
+4. Financial and operational capacity and exclusion:&nbsp;described in&nbsp;section 7 of the call document
+5.&nbsp;Evaluation and award:
+
+    Award criteria, scoring and thresholds:&nbsp;described in section 9 of the call document
+
+
+    Submission and evaluation processes:&nbsp;described&nbsp;section 8 of the call document and the&nbsp;Online Manual
+
+
+    Indicative timeline for evaluation and grant agreement:&nbsp;described in section 4 of the call document
+
+6. Legal and financial set-up of the grants:&nbsp;described&nbsp;in section 10 of the call document
+Documents
+
+Call document can be found here
+Standard application form&nbsp;&mdash; call-specific application form is available in the Submission System 
+Detailed budget table - available in the Submission System
+&nbsp;
+DIGITAL&nbsp;EUROPE&nbsp;PROGRAMME -&nbsp;General MGA v1
+Guidance Classification of information in DIGITAL projects
+Guidelines on&nbsp;How to Complete your Ethics Self-Assessment
+&nbsp;
+Digital Europe&nbsp;Work Programme 2023-2024
+Digital Europe Programme&nbsp;Regulation 2021/694
+EU Financial Regulation 2018/1046
+&nbsp;
+
+Support Info: 
+For help related to this call, please contact us&nbsp;here
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; Submission of proposals.
+IT Helpdesk&nbsp;&ndash; Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+Online Manual&nbsp;&ndash; Step-by-step online guide through the Portal processes from proposal preparation and submission to reporting on your on-going project. Valid for all 2021-2027 programmes.
+

@@ -1,0 +1,51 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/digital-2024-ai-act-06-sandbox","file_display_name":"AI regulatory sandboxes: EU-level coordination and support","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:DeliverablesCommon processes and tools for the operation of AI regulatory sandboxes under the AI Act, and the testing and supervision of a cohorts of projects at EU level.Common platform for sharing information, including a repository of all practices, lessons learnt and outcomes from the testing done in the sandbox. 
+Objective:This topic aims at providing support and coordination at EU level for AI regulatory sandboxes established under the future AI Act, with a view to scaling up the corresponding activities once the AI Act is fully applicable. Depending on the outcome of the legislative process, the corresponding action should also contribute to the implementation at EU level of other tasks related to regulatory sandboxes as envisaged in the AI Act.
+Scope:The action to be supported under this topic will include the following tasks:Supporting the creation and effective cross-border cooperation at EU level between national competent authorities establishing AI regulatory sandboxes as envisaged under the AI Act;Developing common frameworks, processes and tools for supervision of AI projects in the regulatory sandboxes and providing technical and legal support to competent authorities and innovators for their implementation;Organising the practical testing of draft guidelines, tools and processes (developed in the ‘EU AI Innovation Accelerator preparatory action’) and assisting providers of innovative AI systems across Europe selected to participate in sandboxes to comply with the AI Act with the involvement and under the supervision of national competent authorities responsible for the AI Act;Analysing the experience accumulated in the national AI sandboxes with a view to updating the tools and processes tested by innovators and providing conclusions, good practices and lessons learnt for evidence-based regulatory learning and for the development of EU guidelines and other rules implementing the AI Act;Creating a single EU information platform109 providing a one-stop-shop for all AI regulatory sandboxes, enabling the sharing of information and providing a central repository of the tools, knowledge and lessons learnt in the sandboxes. The awarded proposal from this topic should collaborate as appropriate with the one of ‘EU AI Innovation Accelerator preparatory action’ to be supported under the topic proposed in section 2.3.7.1. In particular, it should rely on draft tools, metrics and guidelines developed under the ‘EU AI Innovation Accelerator preparatory action’, while the testing experience in the sandboxes should serve to test and update the deliverables under that action and complement these tools based on the learning experience in the sandboxes. The selection of the providers that can participate in the sandboxes will be based on the eligibility criteria to be defined in the AI Act implementing acts on regulatory sandboxes, but with a priority access for small and medium sized enterprises. All final materials, frameworks and tools developed and validated under this action will be made publicly available and may be used by any provider or user of AI systems. This action should build on the experience and the deliverables from pilot regulatory sandboxes. It should also work with relevant national hubs and initiatives and Member States, including those setting up or planning to set up AI regulatory sandboxes at national level or creating other supporting infrastructure and services to support compliance with the AI Act and accelerate innovation. To build on synergies with other initiatives supported by the EU, this action should establish contacts with TEF, the AI-on-Demand platform, data spaces, EDIHs and EDICs focused on AI in order to work out which existing resources can be offered jointly to AI innovators and which resources would have to be built in future. Close cooperation should also be pursued with international and European Standardisation Organisations (in particular CEN and CENELEC) to take into account progress in the development of AI standards and use them as a basis for the development of the action. Depending on the outcome of the legislative process, other tasks related to sandboxes and envisaged in the AI Act might also have to be addressed under this action.
+
+
+Conditions: 
+Conditions
+
+
+1.&nbsp;Admissibility conditions: described in section 5 of the call document&nbsp;
+Proposal page limits and layout:&nbsp;described in Part B of the Application Form available in the Submission System
+2. Eligible countries:&nbsp;described in section 6 of of the call document
+3. Other eligibility conditions:&nbsp;described in section 6 of the call document
+4. Financial and operational capacity and exclusion:&nbsp;described in&nbsp;section 7 of the call document
+5.&nbsp;Evaluation and award:
+
+    Award criteria, scoring and thresholds:&nbsp;described in section 9 of the call document
+
+
+    Submission and evaluation processes:&nbsp;described&nbsp;section 8 of the call document and the&nbsp;Online Manual
+
+
+    Indicative timeline for evaluation and grant agreement:&nbsp;described in section 4 of the call document
+
+6. Legal and financial set-up of the grants:&nbsp;described&nbsp;in section 10 of the call document
+Documents
+
+Call document is available here
+&nbsp;
+Standard application form &mdash; call-specific application form is available in the Submission System
+Detailed budget table -&nbsp;available in the Submission System
+DIGITAL&nbsp;EUROPE&nbsp;PROGRAMME -&nbsp;General MGA v1
+Guidance Classification of information in DIGITAL projects
+Guidelines on&nbsp;How to Complete your Ethics Self-Assessment
+Guidance on participation in DEP - restricted calls&nbsp;
+&nbsp;
+&nbsp;
+Digital Europe&nbsp;Work Programme 2023-2024
+Digital Europe Programme&nbsp;Regulation 2021/694
+EU Financial Regulation 2018/1046
+&nbsp;
+
+Support Info: 
+For help related to this call, please contact us&nbsp;here
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; Submission of proposals.
+IT Helpdesk&nbsp;&ndash; Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+Online Manual&nbsp;&ndash; Step-by-step online guide through the Portal processes from proposal preparation and submission to reporting on your on-going project. Valid for all 2021-2027 programmes.
+

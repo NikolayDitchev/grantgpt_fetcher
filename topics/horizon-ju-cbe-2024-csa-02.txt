@@ -1,0 +1,76 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-ju-cbe-2024-csa-02","file_display_name":"Mobilize inclusive participation in bio-based systems and supporting the CBE JU widening strategy and its action plan","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:In line with the objectives of the Circular Economy[1] and Zero Pollution Action Plan[2], the Long-term vision for the EU rural areas[3], as well as the Biodiversity Strategy[4], the successful proposals will enhance cooperation and participation of stakeholders from underrepresented countries and regions in the European bio-based economy landscape. Successful proposals will also contribute to the implementation of the EU Bioeconomy Strategy[5] and the updated EU Industrial Strategy[6]. Enhanced synergies and complementarities with actions under the R&amp;I missions ‘A soil deal for Europe’ and ‘Restore our Ocean and Waters’.Project results should contribute to the following expected outcomes:Increased innovation capacity of regional bio-based stakeholders in countries and regions with less mature bio-based ecosystems, especially from the areas covered by the CBE JU Widening Participation Strategy.Greater participation of less represented countries and regions in the CBE JU programme and in all actions of the CBE JU; and inclusive engagement of newcomers from the industrial sector, market operators, civil society and policy makers.Identified and improved connections among actors within local innovation ecosystems (e.g., industry-governance and research-governance), promoting teaming and exchange of best practice across the EU.Full implementation of the CBE JU widening strategy at national and/or regional level through the engagement of relevant national and regional R&amp;I clusters and industrial associations.Synergies with other funding programmes at EU, national or regional level. 
+Scope:Stimulating research activities in countries and regions with underdeveloped R&amp;I capacity for bio-based systems is a stated priority of the CBE JU Strategic Research and Innovation Agenda (SRIA) and is monitored by a specific KPI 10 ‘Improving the participation of regions and countries with high unexploited potential and strategic interest to develop it’.In this context, a dedicated Widening Participation strategy[7] for the CBE JU was endorsed by the CBE JU Governing Board together with its first Action Plan for the period 2023-2024[8], which includes a list of concrete actions to step up the participation of under-represented countries in the CBE JU programme.This CSA is one of the measures aiming at supporting the practical implementation of the CBE JU Widening Participation and its action plans.Proposals under this topic should:A. Foster stakeholder engagement and collaboration:Target stakeholders from countries[9] and regions[10] covered by the CBE JU Widening Participation strategy. The participation in the consortia of stakeholders from other countries and regions is encouraged, if aimed at the exchange of best practice and mutual learning and at fostering capacity building.The development of joint projects could be promoted, facilitating the exchange of knowledge and collaboration between bio-based clusters in different regions. B. Develop capacity building and raise awarenessProvide a support/knowledge transfer platform for all stakeholders in the bio-based economy, especially focussing on attracting newcomers, with a particular attention to industrial representatives. This may cover the creation of an online platform with information resources, webinars or training courses, aiming at the exchange of best practices.Incorporate actions on increasing awareness about CBE JU, via a co-creation/participatory/ trust building approach, including in local languages as appropriate. The proposed activities shall leverage on relevant existing national and regional programmes in the bioeconomy sector, to empower the local biobased sectors.Provide recommendations for the growth of the bio-based sector and for an increased engagement of all stakeholders in the targeted countries and regions, aimed at policy makers and replicators. Recommendations can also cover any newly identified bottleneck preventing the participation of local stakeholders in bio-based activities[11] to increase their engagement, including information and exchange sharing in local languages, as relevant. C. Promote synergiesSynergies with relevant (macro-)regional networks such as the BIOEAST Initiative[12] are encouraged.Analyse the possibility of establishing collaborations with relevant bio-based funding programmes at EU, national or regional level with a particular focus on European Structural and Investment Funds (ERDF, ESF+, CF, EAFRD, EMFF), the implementation of Recovery and Resilience Facility and the Just Transition Fund, to maximise the impact of complementary funding in the bio-based sector.Synergies with relevant EC funded projects is also expected. An inventory of relevant EC funded projects is included in the CBE JU Widening strategy. This list represent the state of the art and should be considered by the applicants when proposing new measures.Proposals may involve financial support to third parties to provide direct support (e.g., in the form of cascading grants) to actions related to teaming. Beneficiaries may provide financial support to third parties. The support to third parties can only be provided in the form of grants. The maximum amount to be granted to each third party is EUR 60 000. A maximum EUR 300 000 of the EU funding can be allocated to this purpose. Proposals should seek for links and complementarities and avoid overlaps with past, ongoing and upcoming EU funded projects, including those funded under H2020, HEU and the BBI JU and CBE JU.
+[1]Brussels, 11.3.2020 COM(2020) 98 final.[2]Brussels, 12.05.2021, COM(2021) 400 final[3]Brussels, 30.6.2021, COM/2021/345 final.[4]Brussels, 20.5.2020, COM(2020) 380 final.[5]European Commission, Directorate-General for Research and Innovation, Review of the 2012 European Bioeconomy Strategy, Publications Office, 2018, https://data.europa.eu/doi/10.2777/086770.[6]Brussels, 5.5.2021 COM(2021) 350 final.[7]https://www.cbe.europa.eu/system/files?file=2023-09/CBE-JU-widening-strategy.pdf.[8]https://www.cbe.europa.eu/system/files?file=2023-09/CBE-JU-widening-action-plan-2023-2024.pdf.[9]EU countries that are included in the list of Horizon Europe Widening Countries and that were underrepresented through the BBI JU programme implementation: Bulgaria, Croatia, Cyprus, Czechia, Estonia, Greece, Hungary, Latvia, Lithuania, Malta, Poland, Portugal, Romania, Slovakia, Slovenia, as defined in Art. 349 TFEU.[10]Regions that are classified as ‘less developed’ or ‘transition’ by cohesion policy, and that were underrepresented through the BBI JU programme implementation. Considering the high number of relevant regions, macro-regional areas (e.g. Central-Eastern European, Mediterranean, Baltic, Atlantic, etc.) could be considered in the development of targeted actions, upon common identified bottlenecks or characteristics (e.g. feedstock availability).[11]The CBE JU Widening Participation action plan 2023-2024 includes in annex the list of identified bottlenecks, resulting from an ad hoc survey and a workshop involving national representatives and national contact points from EU widening countries.[12]www.bioeast.eu
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions:&nbsp;described in section 2.2.3 Calls for proposals in the CBE JU Annual Work Programme 2024
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+CBE JU Call for proposals 2024
+MGA
+HE General MGA v1.0
+Call-specific instructions
+CBE JU Call for proposals 2024
+Information on financial support to third parties (HE)
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

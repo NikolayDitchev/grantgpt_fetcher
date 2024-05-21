@@ -1,0 +1,81 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2024-clima-01-09","file_display_name":"Systemic and cross-sectoral solutions for climate resilience, tailored to the local needs of regions and local authorities","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:In support of the European Green Deal, the Adaptation Strategy and the Mission on Adaptation to climate change, successful proposals will contribute to adapt to climate change in a more systemic way.Projects results are expected to contribute to all of the following expected outcomes:regions and communities are empowered and have actively participated to the development and testing of a range of transformative solutions, which are fit to address local vulnerabilities and risks.regional and local public administrations increase their foresight capacity and anticipate and prepare better for climate disruptions.cross-sectorial climate resilience solutions, which can systemically transform our society and support its preparedness to climate change, have been developed, tested and brought closer to the market. 
+Scope:The growing complexity, interdependencies and interconnectedness of modern societies and economies require that climate action is tackled with a systemic approach. Effectively adapting to climate change relies on cross-sectoral approaches, looking at the system as a whole, and on the inclusion of a variety of actors.Proposals should integrate multi-faceted technological, digital, business, governance and environmental aspects with social innovation into the development of solutions contributing to increase preparedness to changing climate for specific regions, cities or local communities. For example, they should assess and identify management solutions that best minimise and compensate the loss of ecosystem services (e.g., water cycling and cooling that were previously provided by soil and trees) while improving climate preparedness. The proposed solution should address climate risk identified as relevant at regional and local scale, with tailor-made responses and measures taking into account place-based data, socio-economic, identity characteristics, local governance and the regional sustainable and smart specialization strategies when available.In its approach, the proposed solution should go 'far beyond addressing a specific sector', taking into account and addressing wide-ranging impacts. It should take a systemic approach, looking at the interconnections and interdependencies between them. For example, proposals could explore solutions addressing the interlinkages between climate, water, food, soil, biodiversity loss and others, which form a nexus where resource use and availability rely heavily on one another. Considering the current increasing trend of water scarcity (periods of drought followed by storms and floods, with a decreasing overall annual precipitations) tackling the pollution problem linked to these extreme climate events would be relevant. Another example of systemic approach can relate to the integration of multilevel planning, which integrates spatial and urban planning with the design of different services such as transport, mobility, energy, connectivity in a city. Interesting examples in this sense may come for instance from the New European Bauhaus initiative, which intends to accelerate the green transition by combining sustainability with inclusion and aesthetics/quality of experience.Interconnections and interdependencies need to be well understood and are further complicated as amplitude of climate change in the future is uncertain. In the medium and long term, for example, we know that climate change will affect water availability and crop yields with wide-ranging implications and that certain adaptation options (such as broader use of desalination for provision of drinking water to cope with water scarcity) can be energy intensive which compounds the problem of global warming, have local impacts on coastal and marine ecosystems, have side-effects that impact the environment (as is the case of brine from desalination, or water abstractions to produce hydrogen). Furthermore, it is not known to which level those adaption options could be implemented locally based on the relevance of the expected impacts or would be bashed away.Proposals should look to how tackle and possibly minimise trade-offs, maximise co-benefits and leverage opportunities a systemic approach offers to address the challenges of a changing climate in the specific local context. In doing this, they should produce state-of-the-art- analysis in a multidisciplinary approach addressing the science-policy nexus; they should go beyond theoretical research and/or theoretical discussions or the pure understanding and quantifying of the links between the different elements and sectors. On the contrary, proposals should turn them into operational and practical insights and tangible solutions experimented on the regional and local grounds, clearly addressing trade-offs and co-benefits, with a view of achieving optimum outcomes. Proposals should also consider how to turn the proposed solutions into new standards so to allow faster uptake at scale.In addition, proposals should mobilise and include all value chain actors and pay careful attention to matching innovators and solutions providers with end-users/regions interested in testing and further developing the proposed solutions on the ground; they should also foster the development of business models that can support the sustainability of the proposed solutions.Under the Mission approach, collaborations to develop and test effective solutions between regions/local authorities/communities facing similar challenges are highly encouraged and considered as a means to secure a larger impact. To this purpose, while the required demonstration is expected to take place in at least three regions, the proposals should already identify other regions/local authorities/ communities, where reapplication of the proposed approach will be suitable as sharing common climate change challenges. Inclusion already in the proposal of at least three “replicating” regions/local authorities/communities, interested in reapplying the lessons learnt (totally, partially or with the required adjustments) in their territories is required; this could take the form of inclusion in the consortium of one or more partners providing support for the technical exchanges and the knowledge uptake in the “replicating” regions. Replicating regions are not expected to also conduct a demonstration or carry out on the ground activities in the course of the project but they should at least prepare in the course of the project the theoretical framework for implementing the replication through the lessons exchanged with the demonstration regions.Proposals should build (when relevant) upon previous developed or existing knowledge and adaptation solutions, designed and developed from previous projects, including from beyond EU, addressing climate change adaptation and funded by EU and National programmes, in particular the European Union Framework programmes for Research and Innovation (such as Horizon 2020 and Horizon Europe under their different pillars and clusters), as well as the LIFE programme. Synergies with other funding sources (EU and national) should be sought, in order to support common approach towards climate adaptation, sustainability, transfer of knowledge and innovative solution and including to identify opportunities to scale up the solutions demonstrated and to foster their broad deployment across Europe through other programmes such as the LIFE programme, and its integrated projects in particular, the European Regional Development Funds or the Just Transition Fund.Proposals should include a mechanism and the resources to establish operational links and collaboration with Mission Implementation Platform[1] and Climate-ADAPT[2] (. Proposals should also explore synergies with the projects funded under the topic “HORIZON-MISS-2024-CLIMA-01-04: Research the complex interplay between the climate and biodiversity crises towards more systemic approaches and solutions” of this call.Projects funded under this topic will get direct access to participate in the Mission Community of Practice and to the networking activities supported by the Mission Implementation Platform. These networking and joint activities could, for example, involve the participation in joint workshops, the exchange of knowledge, the development and adoption of best practices, or joint communication activities. To this extent, proposals should provide for dedicated activities and earmark appropriate resources.In addition, projects will be requested to feed results and contribution to progress towards the objectives of the Mission to Mission Implementation Platform, as the central Mission action for monitoring, support and visualisation of the Mission progress in Regions in EU Member States and Associated Countries. Regions participating in the projects will also be required to feed their results to the Climate-ADAPT and EEA assessments.Applicants should acknowledge this request and already account for these obligations in their proposal, making adequate provisions in terms of resources and budget to engage and collaborate with the Mission governance.
+Specific Topic Conditions:Activities are expected to achieve TRL 6 to 7 by the end of the project – see General Annex B. 
+[1]Currently managed by MIP4Adapt under the contract CINEA/2022/OP/0013/SI2.884597 funded by the European Union. About MIP4Adapt (europa.eu)[2]The European Climate Adaptation Platform Climate-ADAPT is a partnership between the DG Climate Action and the European Environment Agency.https://climate-adapt.eea.europa.eu/
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+The following additional eligibility criteria apply: proposals must include demonstration activities to be carried out in 3 different regions/localities/ communities located in 3 different Member States /Associated Countries, involving and including as beneficiaries in the consortium legal entities established in these three countries.
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions: described in the [specific topic of the Work Programme]
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE RIA, IA)
+Standard application form (HE CSA)
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE RIA, IA)
+Standard evaluation form (HE CSA)
+MGA
+HE General MGA v1.0
+&nbsp;
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 12. Missions
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

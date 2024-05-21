@@ -1,0 +1,127 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl3-2024-fct-01-05","file_display_name":"Combating hate speech online and offline","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Projects’ results are expected to contribute to all of the following outcomes:Providing Police Authorities and other relevant security practitioners with better, modern and validated tools, methods and training curricula to tackle those activities related to hate speech that are considered as crime or could lead to a crime, notably such activities which are supported by advanced digital technologies, such as in emerging cyber environments;Developing European common approaches, and making them available to policy-makers and security practitioners, for analysing risks/threats, collecting data on hate speech, collecting court-proof evidence and crime attribution, and identifying and deploying relevant security measures related to hate motivated crime and speech, which take into account the European multicultural dimension, legal and ethical rules, cost-benefit considerations, as well as fundamental rights such as the right to freedom of expression, privacy and protection of personal data;Enhancing citizen’s security perception and the hate speech prevention by preparing education and training materials on cultural and societal impacts of hate speech and hate crime. 
+Scope:Hate speech has harmful impacts on the individual victims, or groups of victims, but also on our society at large. Undermining the fundamental values of the EU, such as respect for human dignity, freedom and equality. Under EU law, racist and xenophobic hate motivated crime and speech are illegal. The Framework Decision on combating certain forms of expressions of racism and xenophobia[1] requires the criminalisation of public incitement to violence or hatred based on race, colour, religion, descent or national or ethnic origin. The Commission’s policies address also specific forms of hate speech and hate crime against groups and communities[2] (e.g., antisemitism[3], anti-Muslim hatred or anti-gypsyism[4], hate speech and hate crime relating to gender and sexual orientation[5]. In 2021, the European Commission adopted a Communication[6] which prompts a Council decision to extend the current list of EU crimes in Article 83(1) of the Treaty on the Functioning of the European Union (TFEU) to all forms of hate crime and hate speech. Since 2016, the Commission’s efforts in countering hate speech and hate crime also involve dedicated exchanges and tools in support to national authorities in the context of the High Level Group on combating hate speech and hate crime.Addressing hate speech from all angles increases the chance of combating it in a sustainable manner. Thus, in line with all the above initiatives and with the Victims Rights Directive[7] and the EU Strategy on Victims' Rights[8], the successful proposal is expected to reinforce hate crime training and capacity building for Police Authorities and other relevant security practitioners, in particular to enhance their tools and methods for lawful detection, reporting and data/evidence collection and analysis of the hate speech related activities that are considered as crime or could lead to a crime, notably the ones supported by advanced digital technologies, such as in emerging cyber environments. By doing so, being an innovation action, the successful proposal is expected to build on previously developed tools for related applications (such as text and image matching). The successful proposal should also support the implementation of the voluntary Code of Conduct on countering illegal hate speech online that the European Commission initiated in 2016 with IT companies, the European strategy for a better internet for kids[9], the Digital Services Act[10] and the outcomes of the "Study on digital violent right-wing extremist content and manifestations of hate speech online”[11]. Similarly, any other relevant development, study or initiative should be taken into account. Evolutions in hate crime and hate speech, such as their sparks in times of social or economic crises (e.g. pandemics and wars) should be considered too. In order to derive effective responses and improve the understanding of the cultural and societal aspects of hate speech and hate crime, as well as of the key challenges for combating it, the successful proposal should include local, national and international dimensions, civil society perspectives, and analysis of good practices[12]. An added value of the proposal would be to also develop modern and effective awareness raising campaigns for relevant Civil Society Organisations and Police Authorities in order to pass key messages to potential victims, as well as wide communities, while taking into account European multicultural dimension.The successful proposal should build on the publicly available achievements and findings of related previous national or EU-funded projects, including the ones funded under topics: HORIZON-CL3-2021-FCT-01-03: Disinformation and fake news are combated and trust in the digital world is raised), HORIZON-CL2-2021-DEMOCRACY-01-03: Feminisms for a new age of democracy, HORIZON-CL2-2022-DEMOCRACY-01-04: Education for democracy, HORIZON-CL2-2022-DEMOCRACY-01-05: Evolution of political extremism and its influence on contemporary social and political dialogue and HORIZON-CL2-2022-TRANSFORMATIONS-01-08: Strengthening racial, ethnic and religious equality. It should also seek to exploit potential synergies with the successful proposals funded under topics HORIZON-CL3-2023-FCT-01-06: Enhancing tools and capabilities to fight advanced forms of cyber threats and cyber-dependent crimes, HORIZON-CL3-2023-FCT-01-03: New methods and technologies in service of community policing and transferable best practices, HORIZON-CL2-2023-DEMOCRACY-01-01: Detecting, analysing and countering foreign information manipulation and interference and HORIZON-CL4-2023-HUMAN-01-05: Through AI from Disinformation to Trust.Methods for evaluating proposed solutions should also be developed. In addition, proposals should delineate the plans to develop possible future uptake and upscaling at national and EU level for possible next steps after the project completion.Activities proposed within this topic should address, in a balanced way, both technological and societal dimensions of the issue under consideration.This topic requires the effective contribution of SSH disciplines and the involvement of SSH experts, institutions as well as the inclusion of relevant SSH expertise, in order to produce meaningful and significant effects enhancing the societal impact of the related innovation activities.Proposals funded under this topic are expected to engage with the Europol Innovation Lab during the lifetime of the project, including validating the outcomes, with the aim of facilitating future uptake of innovations for the law enforcement community.
+Specific Topic Conditions:Activities are expected to achieve TRL 6-7 by the end of the project – see General Annex B.
+[1]2008/913/JHA.[2]SWD(2019) 110 final.[3]COM/2021/615 final.[4]COM(2020) 620 final.[5]COM(2022) 105 final.[6]COM(2021) 777 final.[7]DIRECTIVE 2012/29/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCI[8]COM(2020) 258 final[9]COM/2022/212 final.[10]Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 October 2022 on a Single Market For Digital Services and amending Directive 2000/31/EC.[11]https://data.europa.eu/doi/10.2861/462122.[12]In line with the "Key guiding principles on cooperation between law enforcement authorities and civil society organisations": https://commission.europa.eu/system/files/2022-07/kgp-on-cooperation-leas-csos_final.pdf.
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+The following additional eligibility conditions apply:This topic requires the active involvement, as beneficiaries, of at least 2 Police Authorities[[In the context of this Destination, ‘Police Authorities’ means public authorities explicitly designated by national law, or other entities legally mandated by the competent national authority, for the prevention, detection and/or investigation of terrorist offences or other criminal offences, specifically excluding police academies, forensic institutes, training facilities as well as border and customs authorities.]] and at least 2 Civil Society Organisations (CSOs) from at least 3 different EU Member States or Associated Countries. For these participants, applicants must fill in the table “Information about security practitioners” in the application form with all the requested information, following the template provided in the submission IT tool.
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions: described in the [specific topic of the Work Programme]
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE RIA, IA)
+Standard application form (HE RIA IA Stage 1)
+Standard application form (HE CSA)
+Standard application form (HE CSA Stage 1)
+Standard application form (HE RI)
+Standard application form (HE PCP)
+Standard application form (HE PPI)
+Standard application form (HE COFUND)
+Standard application form (HE FPA)
+Standard application form (HE MSCA DN)
+Standard application form (HE MSCA PF)
+Standard application form (HE MSCA SE)
+Standard application form (HE MSCA COFUND)
+Standard application form (HE ERC STG)
+Standard application form (HE ERC COG)
+Standard application form (HE ERC ADG)
+Standard application form (HE ERC POC)
+Standard application form (HE ERC SYG)
+Standard application form (HE EIC PATHFINDER CHALLENGES)
+Standard application form (HE EIC PATHFINDER OPEN)
+Standard application form (HE EIC TRANSITION)
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE RIA, IA)
+Standard evaluation form (HE CSA)
+Standard evaluation form (HE RIA, IA and CSA Stage 1)
+Standard evaluation form (HE PCP PPI)
+Standard evaluation form (HE COFUND)
+Standard evaluation form (HE FPA)
+Standard evaluation form (HE MSCA)
+Standard evaluation form (HE EIC PATHFINDER CHALLENGES)
+Standard evaluation form (HE EIC PATHFINDER OPEN)
+Standard evaluation form (HE EIC TRANSITION)
+Standard evaluation form (HE EIC ACCELERATOR)
+MGA
+HE General MGA v1.0
+HE Unit MGA v1.0
+Lump Sum MGA v1.0
+Operating Grants MGA v1.0
+Framework Partnership Agreement FPA v1.0
+Call-specific instructions
+Detailed budget table (HE LS)
+Information on financial support to third parties (HE)
+Information on clinical studies (HE)
+Guidance: &quot;Lump sums - what do I need to know?&quot;
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 2. Marie Skłodowska-Curie Actions
+HE Main Work Programme 2023&ndash;2024 &ndash; 3. Research Infrastructures
+HE Main Work Programme 2023&ndash;2024 &ndash; 4. Health
+HE Main Work Programme 2023&ndash;2024 &ndash; 5. Culture, creativity and inclusive society
+HE Main Work Programme 2023&ndash;2024 &ndash; 6. Civil Security for Society
+HE Main Work Programme 2023&ndash;2024 &ndash; 7. Digital, Industry and Space
+HE Main Work Programme 2023&ndash;2024 &ndash; 8. Climate, Energy and Mobility
+HE Main Work Programme 2023&ndash;2024 &ndash; 9. Food, Bioeconomy, Natural Resources, Agriculture and Environment
+HE Main Work Programme 2023&ndash;2024 &ndash; 10. European Innovation Ecosystems (EIE)
+HE Main Work Programme 2023&ndash;2024 &ndash; 11. Widening participation and strengthening the European Research Area
+HE Main Work Programme 2023&ndash;2024 &ndash; 12. Missions
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

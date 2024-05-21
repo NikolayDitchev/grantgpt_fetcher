@@ -1,0 +1,52 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/digital-2024-cloud-ai-06-greendeal","file_display_name":"European Green Deal Data Space","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:DeliverablesAwarded proposal(s) are expected to deliver a fully operational Green Deal data space, including:• A GDDS governance mechanism;• A GDDS technical infrastructure for integrating applications and use-cases supporting the initial four focus areas (zero pollution, biodiversity, climate adaptation/mitigation, circular economy) and beyond, while also seamlessly connecting previously fragmented green data infrastructures and operational data ecosystems, whether public or private;• High-value, reusable datasets relevant for the European Green Deal; • Stakeholder mapping and engagement, especially concerning the operational phase of the GDDS after the end of the action;• Policy recommendations about regulatory interventions required to enable data flows and scale up impactful use-cases identified by the action, and to enshrine the institutional roles of stakeholders inside the GDDS, their rights and obligations.
+Objective:The objective of this action is to deploy an operational Green Deal Data Space (GDDS). The Action is expected to take into account all the latest developments in the data strategy and green deal landscape including the results of the Coordination and Support Action on “Preparatory actions for the Green Deal data space”, funded under the WP 2021/221.It should also take into account the results from the Horizon Europe projects funded under HORIZON-CL6-2021-GOVERNANCE-01-17: Common European Green Deal data space to provide more accessible and exploitable environmental observation data in support of the European Green Deal priority actions. The action will deploy a technical infrastructure and governance mechanism for the GDDS and related use cases. It will enable reusing and sharing data from existing relevant data ecosystems and dataspaces, which will feed new services and applications that contribute to reaching the objectives of the Green Deal.1.https://www.greatproject.eu/ 
+Scope:The awarded proposal from this action is expected to focus on data space applications and use cases that contribute to the Green Deal overall, and specifically to the policy objectives set out in four initial focus areas: biodiversity, zero pollution, climate adaptation/mitigation, circular economy. The action will further help supporting and monitoring the implementation of the Council Recommendation on ensuring a fair transition towards climate-neutrality of 16 June 2022, including the primary objective to ensure an effective, fair and effective green and digital transition.2Applications and use cases impacting simultaneously many other relevant areas and clearly demonstrating links with relevant sectoral data spaces (e.g. energy, mobility, etc.) are strongly encouraged. Particularly, synergies and joint-use cases with the following Digital Europe Programme actions are welcome:The operational data ecosystem for the development and operations of ‘Digital Twins’ of the Earth under the ‘Destination Earth’ topic (DestinE)The Digital product passports in the key value chains of electronics (consumer and/or industrial), batteries and at least another two of the priority products identified in the Circular Economy Action Plan The data space for smart communities, validated and refined through cross-sector data pilots, and paving the way for the adoption of Local Digital Twins The awarded proposal will use, in so far as possible and when available, the smart cloud-to-edge middleware platform Simpl3. It will also work in close partnership with the Data Spaces Support Centre4 in order to ensure alignment with the rest of the ecosystem of data spaces implemented with the support of Digital Europe Programme, in particular in view of a data spaces reference architecture; common building blocks, toolboxes and standards; and data governance models. The active participation of data providers and users from the project's inception is highly recommended since it will ensure that the data space is designed and structured to meet their needs, making the data space more relevant and leading to increased adoption rates and a stronger sense of ownership of data providers and users by the end of the project’s runtime.2. https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022H0627(04)3. https://digital-strategy.ec.europa.eu/en/news/simpl-cloud-edge-federations-and-data-spaces-made-simple4. See https://dssc.eu/
+
+
+Conditions: 
+
+&nbsp;Further to the Webinar on this topic organized by DG CNECT and DG ENV and held on 6.03.2024,&nbsp; we invite you to consult the additional information and documentation published in the&nbsp; following&nbsp;link
+
+Conditions
+
+
+1.&nbsp;Admissibility conditions: described in section 5 of the call document&nbsp;
+Proposal page limits and layout:&nbsp;described in Part B of the Application Form available in the Submission System
+2. Eligible countries:&nbsp;described in section 6 of of the call document
+3. Other eligibility conditions:&nbsp;described in section 6 of the call document
+4. Financial and operational capacity and exclusion:&nbsp;described in&nbsp;section 7 of the call document
+5.&nbsp;Evaluation and award:
+
+    Award criteria, scoring and thresholds:&nbsp;described in section 9 of the call document
+
+
+    Submission and evaluation processes:&nbsp;described&nbsp;section 8 of the call document and the&nbsp;Online Manual
+
+
+    Indicative timeline for evaluation and grant agreement:&nbsp;described in section 4 of the call document
+
+6. Legal and financial set-up of the grants:&nbsp;described&nbsp;in section 10 of the call document
+Documents and additional information
+Call document is available here
+Standard application form &mdash; call-specific application form is available in the Submission System
+Detailed budget table -&nbsp;available in the Submission System
+&nbsp;DIGITAL&nbsp;EUROPE&nbsp;PROGRAMME -&nbsp;General MGA v1Guidance Classification of information in DIGITAL projects
+Guidelines on&nbsp;How to Complete your Ethics Self-Assessment
+Further to the Webinar on this topic organized by DG CNECT and DG ENV and held on 6.03.2024,&nbsp; we invite you to consult additional information and documentation published in the following&nbsp;&nbsp;link
+
+Guidance on participation in DEP - restricted calls&nbsp;
+
+&nbsp;Digital Europe&nbsp;Work Programme 2023-2024
+Digital Europe Programme&nbsp;Regulation 2021/694
+EU Financial Regulation 2018/1046
+&nbsp;
+
+Support Info: 
+For help related to this call, please contact us&nbsp;here
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; Submission of proposals.
+IT Helpdesk&nbsp;&ndash; Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+Online Manual&nbsp;&ndash; Step-by-step online guide through the Portal processes from proposal preparation and submission to reporting on your on-going project. Valid for all 2021-2027 programmes.
+

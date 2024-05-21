@@ -1,0 +1,83 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2024-cancer-01-03","file_display_name":"Accessible and affordable tests to advance early detection of heritable cancers in European regions","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:For an increasing number of cancers with underlying heritable genetic risk, early detection and diagnosis are possible. Moreover, cancer incidence and mortality across Europe are increasing and show substantial variation, with Central and Eastern European regions and countries particularly affected[1]. Decisive action on early detection using easy-to-use, specific and sensitive, affordable and accessible genetic multi-omics[2] or other biomarker-based tests[3] will contribute to diagnosing and treating cancer with an underlying heritable genetic risk at an earlier, potentially curable stage, and with fewer side-effects.Proposals should aim to deliver results through validating, piloting, and upscaling genetic, multi-omics, or other biomarker-based tests for early detection of cancers with underlying heritable genetic risk in routine healthcare, which are directed and tailored towards and contribute to all of the following expected outcomes:People and their families at heritable genetic risk of developing cancer, will benefit from the outcomes of evidence-based, tailored, affordable and accessible early detection, based on accessible and affordable tests;Civil society, foundations, and innovators will seize opportunities to respectively co-create, support or commercialise early detection programmes based on genetic, multi-omics or other biomarker-based tests.Regional[4], and national policymakers and authorities in Member States and Associated Countries will engage in piloting, scaling up or implementing suitable early detection and treatment of people and their families with underlying heritable genetic risk in European regions based on genetic, multi-omics or other biomarker-based accessible and affordable tests, including legislative policies. 
+Scope:There is a need to validate, pilot, and upscale easy-to-use genetic, multi-omics or other biomarker-based tests for early detection of cancers with an underlying heritable genetic risk, for uptake in regional or national healthcare systems. Proposals should address all of the following:Validate easy-to-use, affordable and accessible genetic, multi-omics or other biomarker-based cancer tests for early detection of cancers with an underlying heritable genetic risk for uptake in regional or national healthcare systems. Validation may include for example clinical studies, socio-economic or technological feasibility studies.Stratify the to-be-tested population by sex, gender, age or other determinants.Be compliant with GDPR and take into account socio-economic status, limited health literacy, limited awareness of disease symptoms and access for people in remote and rural areas[5].Tests can be based on, for example, polygenic cancer risk scores, algorithms, machine learning, biomarkers, cell lines, organoids, liquid biopsies, medical devices, or wearables and other digital applications.Co-create with end-users, including (citizens, and health professionals, such as psychologists) living in the targeted regions, aspects such as the innovation life cycle, priority definition, design, development, testing and piloting stages as well as risk assessment, counselling, health education, and acceptability.Extensively pilot and upscale genetic, multi-omics or other biomarker-based testing for use in early detection programmes in at least three regions across at least three different Member States or Associated Countries. One of the three targeted regions should be within the following Member States: Bulgaria, Croatia, Cyprus, Czech Republic, Estonia, Greece, Hungary, Latvia, Lithuania, Malta, Poland, Portugal, Romania, Slovakia or Slovenia.Preferably work together with one of the EIT-Health KIC networks[6] to establish appropriate contacts, and support relevant entrepreneurship, education, training, capacity building or innovation aspects for interested stakeholders in the targeted regions. This topic requires the effective contribution of Social Sciences and Humanities (SSH) disciplines and the involvement of SSH experts, institutions as well as the inclusion of relevant SSH expertise, in order to produce meaningful and significant effects enhancing the societal impact of the related research activities.Successful results are expected to be communicated to the Knowledge Centre on Cancer (KCC)[7] to foster their uptake within the EU.The Commission will facilitate coordination. Therefore, successful proposals will be asked to join the 'Prevention and Early Detection' cluster for the Mission on Cancer established in 2022[8] and should include a budget for networking, attendance at meetings, and potential joint activities without the prerequisite to give details of these at this stage. Examples are: organising joint workshops, establishing best practices, joint communication or citizen engagement activities with projects funded under other clusters and pillars of Horizon Europe, or other EU programmes, as appropriate. The details of joint activities will be defined during the grant agreement preparation phase and during the life of the project.
+Specific Topic Conditions:Activities are expected to achieve TRL 5 to 7 by the end of the project – see General Annex B. 
+[1]Cancer inequalities registry: https://cancer-inequalities.jrc.ec.europa.eu/[2]Such as (epi)genomics, transcriptomics, proteomics, metabolomics, integrated omics.[3]Test to detect cancer before the onset of disease. Tests to detect treatment resistance or relapse were the focus of the EIC Accelerator Challenge: Novel biomarker-based assays to guide personalised cancer treatment.[4]Such as Managing authorities in regions: https://ec.europa.eu/regional_policy/in-your-country/managing-authorities_en; ERRIN - https://errin.eu/ and EUREGHA – https://www.euregha.net/ Background - Regions - Eurostat (europa.eu).[5]For example, by considering mobile or digital healthcare services or working with a patient navigator.[6]https://eithealth.eu/in-your-region/[7]Hosted by the European Commission's Joint Research Centre (JRC). Especially through the ’European Guidelines and Quality Assurance Schemes for Breast, Colorectal and Cervical Cancer Screening and Diagnosis‘, and the 'European Cancer Information System (ECIS)’ and the 'European Cancer Inequalities Registry (ECIR)', see https://knowledge4policy.ec.europa.eu/cancer_en.[8]In order to address the objectives of the Mission on Cancer, participants will collaborate in project clusters to leverage EU-funding, increase networking across sectors and disciplines, and establish a portfolio of Cancer Mission R&amp;I and policy actions.
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+The following additional eligibility criteria apply: A written commitment is required from the supportive administrative entity of the geographical area in which the action proposed will be implemented, expressed by a letter of intent annexed to the proposal and signed by that entity.
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+The thresholds for each criterion will be 4 (Excellence), 4 (Impact) and 3 (Implementation). The cumulative threshold will be 12.
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+In order to ensure a balanced Cancer Mission project portfolio and to achieve the Mission’s goal, grants will be awarded to applications not only in order of ranking but also to one application that fully addresses cancer in children, adolescents or young adults (meaning people between birth and the age of 24), provided that the application attains all thresholds.
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions: described in the [specific topic of the Work Programme]
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE RIA, IA)
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE RIA, IA)
+MGA
+HE General MGA v1.0
+Call-specific instructions
+Information on clinical studies (HE)
+
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 12. Missions
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

@@ -1,0 +1,72 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-hlth-2024-disease-17-01","file_display_name":"Pandemic preparedness and response: Maintaining and enhancing the preparatory work for a co-funded European partnership for pandemic preparedness","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:This topic aims at supporting activities that are enabling or contributing to one or several expected impacts of destination 3 “Tackling diseases and reducing disease burden”. To that end, proposals under this topic should aim for delivering results that are directed, tailored towards and contributing to all of the following expected outcomes:Investments in research and innovation on pandemic preparedness are balanced and better co-ordinated along the whole research continuum from basic research, over pre-clinical research to clinical research;Research funders, policymakers and the research community dispose of an enhanced research and innovation framework for the European partnership for pandemic preparedness, including the Partnership’s objectives, governance and ways of working/operationalisation;Research funders, policymakers and the research community are aligned towards common objectives and have a common understanding of the long-term Strategic Research and Innovation Agenda for the Partnership;Research funders, policymakers and the research community work towards a valued network of clinical trial sites that has the capacity to implement well-coordinated large-scale multi-country quality trials in different target populations, which are able to smoothly transition to public health interventions relevant for cross-border health threats in response to a public health emergency;Healthcare providers, European and international stakeholders engage with an extended number of EU-wide appropriate partners through the research and innovation framework for the partnership. 
+Scope:The COVID-19 pandemic illustrated how unilateral research initiatives may lead to a fragmented research landscape, with substantial room for efficiency gains in the development of the highly needed evidence to guide policy actions when facing an emergency. A coordination and support action[1] is working towards improving the EU’s preparedness to predict and respond to emerging infectious health threats by better coordinating funding for research and innovation at EU, national (and regional) level towards common objectives and an agreed Strategic Research and Innovation Agenda. This work should be complemented by efforts towards establishing, maintaining and enhancing a network of ever-warm clinical trials sites and infrastructures for clinical research, ready to be pivoted in case of a pandemic or epidemic episode. In addition, this work should be extended to additional partners, primarily from the EU and Horizon Europe associated countries. Participation from widening countries should be ensured, promoting an inclusive approach in the design and governance of the partnership.The partnership will contribute to building a coherent European Research Area (ERA), enabling Member States, Associated Countries and the European Commission to rapidly and jointly support research and innovation in pandemic preparedness.The Partnership is expected to continue to build on existing pandemic preparedness networks and research infrastructures and work in synergy with the Health Emergency Preparedness and Response Authority (HERA).Proposals should include all of the following activities:Provide administrative and organisational support to prepare, ensure a smooth start and transition towards the European partnership for pandemic preparedness that will eventually take over these tasks;Actively engage with relevant stakeholders and initiatives in the area of pandemic preparedness, ensuring collaboration and coordination, and avoiding duplication; e.g. the Global Health EDCTP3 Joint Undertaking, GloPID-R, WHO R&amp;D blueprint, ACT Accelerator, etc.;Implement strong communication and dissemination activities at EU level and in Member States and Associated Countries, on the purpose, activities and outputs of the European partnership for pandemic preparedness, ensuring a continuous dialogue, both outside and during epidemic/pandemic episodes;As relevant, apply a cross-cutting, interdisciplinary One Health approach. This topic requires the effective contribution of social sciences and humanities (SSH) disciplines and the involvement of SSH experts, institutions as well as the inclusion of relevant SSH expertise, in order to produce meaningful and significant effects enhancing the societal impact of the related research activities.
+[1]Project BE READY / grant agreement number 101057795, funded under topic HORIZON-HLTH-2021-DISEASE-04-06 "Building a European partnership for pandemic preparedness".
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes.
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System.
+&nbsp;
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+&nbsp;
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes.
+In recognition of the opening of the US National Institutes of Health’s programmes to European researchers, legal entities established in the United States of America may exceptionally participate as a beneficiary or affiliated entity, and are eligible to receive Union funding.Coordinators of projects must be legal entities established in an EU Member State or Associated Country.
+&nbsp;
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes.
+&nbsp;
+5.&nbsp;Evaluation and award:
+Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes.
+The thresholds for each criterion will be 4 (Excellence), 4 (Impact) and 3 (Implementation). The cumulative threshold will be 12.
+Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual.
+Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes.
+&nbsp;
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes.
+&nbsp;
+Specific conditions
+7. Specific conditions:&nbsp;described in the specific topic of the Work Programme.
+&nbsp;
+Documents
+Call documents:
+Standard application form (HE CSA)&nbsp;- call-specific application form is available in the Submission System
+Standard evaluation form (HE CSA)
+
+HE&nbsp;General MGA v1.0
+
+Information on clinical studies (HE)
+
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 4. Health
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA&nbsp;&mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

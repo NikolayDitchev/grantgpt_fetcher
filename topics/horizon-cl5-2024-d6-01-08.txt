@@ -1,0 +1,87 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl5-2024-d6-01-08","file_display_name":"Improved transport infrastructure performance – Innovative digital tools and solutions to monitor and improve the management and operation of transport infrastructure","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Projects are expected to contribute to ALL of the following outcomes (with a clear baseline for each use case):Better interconnection of transport infrastructure and transport means resulting in optimised door-to-door mobility for passengers and goods by assuring at least 30% reduction of average delay (time lost per vehicle per km).Reduction of transport operation costs by 20% for transport operators along with 20% reduction of fossil fuels consumption in transport.Assessment and redesign of existing infrastructure (e.g. cycling lanes, walking paths, charging points, parking spaces etc.) in order to ensure its effective and safe use by different transport modes. Different infrastructure types should be assessed in each of the pilot demonstrations and safe coexistence of various forms of mobility enhanced (e.g. soft, active, shared mobility).Increase in the robustness of transport infrastructure by reducing the infrastructure failure probability by 30%.Reduce the transport emissions of greenhouse gases and other pollutants by 30% by 2030 in the pilot demonstrations.Reduce the number of accidents involving infrastructure users and infrastructure workers by 50% in the pilot demonstrations.  
+Scope:Innovative digital tools and solutions will allow to upgrade transport infrastructure ensuring an improved performance and safety, together with a reduction of emissions and better inclusiveness. Increasing the performance of multi-modal transport infrastructure can be achieved through improving the efficiency of the assets and by the cross-modal data management. Digital solutions are key to reduce drastically disruptions in traffic flows, increase transport efficiency and lower its dependency on fossil fuels.Transport infrastructure needs to be capable of harvesting the benefits from digitalisation at management and operations levels, as well as in relation with the user. Digitalisation can support the achievement of sustainability targets and provide a better service to infrastructure end users, including enhanced public transport services. Digital technologies, such as big data, the Internet of Things, Digital Twins, together with Artificial Intelligence and Machine Learning techniques provide a great potential for developing mobility solutions.The integration between transport infrastructure and digital technologies will help achieve personalised seamless passenger and freight journeys transport across different transport modes. This integration will consider safety and security starting from the design phase, while simultaneously automating and accelerating the decision process at every level from maintenance to traffic management.Special attention should be given to the accessibility of new digital tools from persons with disabilities and older persons, in order to ensure that this segment of the population is also able to participate fully and benefit from digital progress. As set by the Green Deal, priorities should be given for projects allowing modal shift from road to more sustainable mode such rail and inland waterways.Proposals will have to address all of the following points:Improve performance of transport infrastructure and increase multimodality with the use of, for example: IoT, edge computing and decentralised artificial intelligence, or other digital tools in view of its potential to facilitate real-time decision-making, improve safety and to save bandwidth and energy. Develop solutions for self-monitoring, self-reporting, non-intrusive/non-destructive inspection and testing methods, including advanced predictive modelling and structural safety assessment.Demonstrate ability to process internal and external raw data, such as sensor data, into smart data and related cloud architecture that can be deployed to optimize infrastructure management processesBuilding on the common European mobility data space and the Digital Transport and Logistics Forum (DTLF), facilitate the seamless use and provision of data and information to the end user across the transport infrastructure network and logistic chain, with a view to progress advancing towards smart mobility concepts for passengers and freight.Enhance prediction of demand from individual behaviours, enabling appropriate modal capacity and demand management.Propose digital solutions contributing to a more inclusive, comfortable, accessible and flexible infrastructures and multi-modal services.Include at least three pilot demonstrations of the proposed solutions in operational environment (minimum at TRL7) on land and inland waterways transport infrastructure.Evaluate the qualitative and quantitative impact of the proposed measures with a clear baseline for each pilot demonstration.  For rail infrastructure the solutions will need to be harmonised with the EU-RailRAIL Programme projects implementing the Flagship Area 1, 3 and 5[1]. Proposals should consider results from previous calls on infrastructure maintenance, digitalisation, and on edge-IoT, and focus on validation of innovative solutions (i.e. robotics, IoT, edge computing and AI).If the activities proposed involve the use and/or development of AI-based systems and/or techniques, the technical and social robustness of the proposed systems is to be described in the proposal.
+Specific Topic Conditions:Activities are expected to achieve TRL 7 by the end of the project – see General Annex B.
+[1] See EU-Rail Multi Annual Work programme at https://shift2rail.org/wp-content/uploads/2022/03/EURAIL_MAWP_final.pdf
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).
+The following exceptions apply: subject to restrictions for the protection of European communication networks.
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions: described in the specific topic of the Work Programme
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE RIA, IA)
+Standard application form (HE RIA IA Stage 1)
+&nbsp;
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE RIA, IA)
+&nbsp;
+MGA
+HE General MGA v1.0
+HE Unit MGA v1.0
+&nbsp;
+Call-specific instructions
+Detailed budget table (HE LS)
+Information on financial support to third parties (HE)
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 8. Climate, Energy and Mobility
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

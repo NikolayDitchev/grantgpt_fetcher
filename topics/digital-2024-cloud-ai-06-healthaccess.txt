@@ -1,0 +1,49 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/digital-2024-cloud-ai-06-healthaccess","file_display_name":"Supporting patients’ access to their health data in the context of healthcare services for citizens across the EU","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:DeliverablesReview report with review, analysis, and mapping of precursor projects with standards, technologies, and digital solutions, justifying the chosen solution for broader adoption;Documentation on the deployment of the necessary NCPeHs, MyHealth@EU services and infrastructures for the cross-border exchange of health data to support patient access;Open-source solution for patients’ access to their health data, including the integration with MyHealth@EU; • Large-scale deployment of the solution, with the aim of covering a large number of Member States; User acceptance reports;Report on efforts to raise user awareness and assess ethical, legal, and societal implications of the technical deployment. 
+Objective:The action will enable patients to access their health data in the context of healthcare provision for individual citizens (i.e., ‘primary use’ of health data) thus contributing to reaching the digital target of 100% of EU citizens having access to electronic health records by 2030 as set by the Digital Decade Policy Programme1. It will scale up and leverage the results from existing projects, frameworks and technologies, such as the services implemented in the ‘MyHealth@EU’2 infrastructure supported under EU4Health, the European Electronic Health Record Exchange Format (EEHRxF)3, the EU Digital Covid Certificate (EU DCC), or the EU Digital Identity Wallet. Therefore, it will contribute to the technical implementation and large-scale deployment actions foreseen in the proposal for a Regulation on the European Health Data Space (EHDS)4.1. Decision 2022/2481 of the European Parliament and of the Council of 14 December 2022 establishing the Digital Decade Policy Programme 20302. https://health.ec.europa.eu/ehealth-digital-health-and-care/electronic-cross-border-health-services_en3. https://digital-strategy.ec.europa.eu/en/library/recommendation-european-electronic-health-record-exchange-format4. https://health.ec.europa.eu/ehealth-digital-health-and-care/european-health-data-space_en
+Scope:Proposal(s) under this action should expand the geographical coverage of the services offered through MyHealth@EU allowing patients’ access to their consolidated health data and cross-border health data exchanges. Furthermore, it should deploy at scale the EU Digital Identity Wallet in the national eID ecosystems in health and deploy solutions enabling patients to access their translated health data on the basis of MyHealth@EU services.The outcomes of projects launched under EU4Health, Digital Europe and Horizon Europe programmes should be used and leveraged to accelerate the uptake of patient-mediated services in MyHealth@EU. In addition, the awarded proposal(s) will have to review and map the work performed under other EU-funded actions and projects in the field of eID for health, in particular those enabling digital identification and access of patients to their health data, such as the POTENTIAL project5 that is piloting the EU Digital Identity Wallet for claiming ePrescriptions. In particular, eID should be enabled for registration and login of patients accessing their health data. Due to the sensitivity of health data, the use of the EU Digital Identity Wallet as a highly secure privacy enhancing eID means recognized throughout the Union is strongly encouraged. The solution that awarded proposal(s) will deploy should ensure ubiquitous access, i.e. a mobile-first approach should be favoured. In addition, the solution should be designed with accessibility in mind, to ensure equal access to health data. Patients should be able to view and consult their health data in their country and abroad, potentially use online services, control, and allow access to their health data and carry out transactions through the online healthcare system.The solution is to enable patients to access priority categories of data as proposed in the EHDS, i.e. patient summaries, ePrescriptions, hospital discharge reports, images and imaging reports, and laboratory results. To test this solution, the action should engage with relevant user communities, including cancer patients, survivors and their families, persons with different disabilities, older people, and should seek their feedback. Overall, the proposal(s) under this action are expected to cover the following tasks:Review and Map Projects: Evaluate and chart relevant ongoing projects for standards tech methods of electronic identification of patients and digital solutions for MyHealth@EU development.Design Consolidated Patient Solution: Create a unified patient data access solution, building on past projects, for cross-border use regardless of Member State, aligning with EEHRxF and collaboration with NCPeHs and patients.Deploy NCPeH and MyHealth@EU: Establish NCPeHs and MyHealth@EU services for cross-border health data exchange, enhancing data consolidation.Scale Solution: Roll out the solution widely in healthcare settings, linking to MyHealth@EU's NCPeHs, including user-facing features and backend APIs. Test Patient Access Acceptance: Collaboratively assess patient access via MyHealth@EU, working closely with NCPeHs and stakeholders, reporting on user experience, especially in cancer-related domains.Engage Users and Assess Implications: Involve users and stakeholders in design, assessing ethical, legal, and societal impacts during technical deployment. The solution should cover a large number of Member States. The active participation of data providers and users from the project's inception is highly recommended since it will ensure that the action is designed and structured to meet their needs, making the action more relevant and leading to increased adoption rates and a stronger sense of ownership of data providers and users by the end of the project’s runtime.5. Potential - For European Digital Identity (digital-identity-wallet.eu)
+
+
+Conditions: 
+Conditions
+
+
+1.&nbsp;Admissibility conditions: described in section 5 of the call document&nbsp;
+Proposal page limits and layout:&nbsp;described in Part B of the Application Form available in the Submission System
+2. Eligible countries:&nbsp;described in section 6 of of the call document
+3. Other eligibility conditions:&nbsp;described in section 6 of the call document
+4. Financial and operational capacity and exclusion:&nbsp;described in&nbsp;section 7 of the call document
+5.&nbsp;Evaluation and award:
+
+    Award criteria, scoring and thresholds:&nbsp;described in section 9 of the call document
+
+
+    Submission and evaluation processes:&nbsp;described&nbsp;section 8 of the call document and the&nbsp;Online Manual
+
+
+    Indicative timeline for evaluation and grant agreement:&nbsp;described in section 4 of the call document
+
+6. Legal and financial set-up of the grants:&nbsp;described&nbsp;in section 10 of the call document
+Documents
+Call document is available here
+Standard application form &mdash; call-specific application form is available in the Submission System
+Detailed budget table -&nbsp;available in the Submission System
+&nbsp;
+DIGITAL&nbsp;EUROPE&nbsp;PROGRAMME -&nbsp;General MGA v1Guidance Classification of information in DIGITAL projects
+Guidelines on&nbsp;How to Complete your Ethics Self-Assessment
+Guidance on participation in DEP - restricted calls&nbsp;
+
+&nbsp;
+Digital Europe&nbsp;Work Programme 2023-2024
+Digital Europe Programme&nbsp;Regulation 2021/694
+EU Financial Regulation 2018/1046
+&nbsp;
+
+Support Info: 
+For help related to this call, please contact us&nbsp;here
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; Submission of proposals.
+IT Helpdesk&nbsp;&ndash; Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+Online Manual&nbsp;&ndash; Step-by-step online guide through the Portal processes from proposal preparation and submission to reporting on your on-going project. Valid for all 2021-2027 programmes.
+

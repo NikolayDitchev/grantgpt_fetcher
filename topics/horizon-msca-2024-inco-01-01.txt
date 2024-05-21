@@ -1,0 +1,78 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-msca-2024-inco-01-01","file_display_name":"MSCA International Cooperation 2024","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Project results are expected to contribute to the following outcomes:Broader and more strategic promotion of international cooperation opportunities offered through MSCA;Monitoring progress, opportunities and challenges in MSCA bilateral and bi-regional cooperation with main international partner countries and regions;Strengthening complementarities with other relevant promotion and cooperation initiatives funded through Horizon Europe or other EU programmes. 
+Scope:The objective is to foster international cooperation in MSCA in Horizon Europe, through a dedicated support action to complement and ensure coordination between existing promotion channels at local level, and ensure consistency with formal R&amp;I policy dialogues at bilateral and regional levels. Focus should be given:At bilateral level on countries having concluded bilateral Science and Technology Agreements with the EU (Algeria, Argentina, Australia, Brazil, Canada, Chile, China, Egypt, India, Japan, Jordan, Korea, Mexico, Morocco, New Zealand, South Africa, Switzerland, Tunisia, Ukraine and the United States).At regional level, on bi-regional research and innovation policy dialogues, established notably with the African Union, ASEAN, LAC, Mediterranean partner countries, Eastern Partnership countries and Western Balkans. Based on the outcomes of a study[1] on the MSCA international dimension in Horizon 2020, activities to be implemented should include:Policy support to bilateral/bi-regional cooperation: assessing main cooperation trends, opportunities and challenges related to local developments in the R&amp;I/higher education domain; identifying possible gaps versus joint priorities and participation of prominent local stakeholders; reviewing existing cooperation mechanisms (info relays, training, co-funding schemes) relevance and efficiency for MSCA; identifying main existing or planned cooperation initiatives to build upon, as well as major local players, networks and associations to be prioritized; qualitative monitoring of the participation in the different MSCA calls; preparing background reports ahead of joint committee meetings and regional dialogues; providing contributions to newsletters and periodic reports from existing information relays, e.g. Euraxess Worldwide, EU Delegations.Promotion of MSCA cooperation opportunities: identifying main local/bilateral or bi-regional events to target for MSCA promotion and opportunities for ad-hoc events co-located with bilateral/regional policy dialogues; liaising with local MSCA info relays, including local NCPs, Euraxess Worldwide offices, EU Delegations/S&amp;T Counsellors, National Erasmus+ Offices, Enterprise Europe Network and other stakeholders/association representatives to identify coordinated promotion plans; organising MSCA promotion and training sessions (including through the physical participation of EU trainers when relevant); liaising with the EU NCP coordination platform to coordinate promotion activities with MSCA NCPsCross cutting activities: analysing consistency with EU R&amp;I bilateral and bi-regional, cooperation roadmaps and action plans, people-to-people dialogues, synergies with promotion events and activities related to Horizon Europe, including ERC or COST and other EU programmes (in particular Erasmus+). The expected duration of the action is 36 months.
+[1]https://op.europa.eu/en/publication-detail/-/publication/b15de047-216e-11ea-95ab-01aa75ed71a1/language-en/format-PDF/source-112180987
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+The granting authority can fund a maximum of one project.
+The evaluation committee will be composed partially or fully by representatives of EU institutions.
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions: described in the [specific topic of the Work Programme]
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE CSA)
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE CSA)
+MGA
+HE General MGA v1.0
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 2. Marie Skłodowska-Curie Actions
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

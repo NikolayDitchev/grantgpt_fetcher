@@ -1,0 +1,75 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-ju-cbe-2024-ia-07","file_display_name":"Innovative conversion of biogenic gaseous carbon into bio-based chemicals, ingredients, materials","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:In line with the objectives of the Circular Economy[1] and Zero Pollution Action Plan[2], as well as the 2021 Communication on Sustainable Carbon Cycles targets[3], the successful proposals will facilitate the deployment of sustainable products based on conversion of biogenic gaseous carbon from renewable resources. Successful proposals will also contribute to the implementation of the EU Bioeconomy Strategy[4] and the updated EU Industrial Strategy[5].Projects results are expected to contribute to all of the following expected outcomes:Industrial symbiosis in the bio-based sector to reduce GHGs emissions.Improved environmental performances and resource efficiency of bio-based processes.Improved and upscaled CCU technologies in the bio-based systems[6].Enhanced carbon removal potential of bio-based systems as storage of carbon from biogenic gaseous emissions into circular and/or long-lasting bio-based chemicals and/or ingredients and/or materials[7]. 
+Scope:Biogenic gaseous carbon[8] from bio-based systems and biorefineries can be used as a sustainable feedstock to replace fossil carbon to obtain chemicals (including polymers), ingredients and materials while further contributing to reducing CO2 emissions and to increasing carbon sequestration in circular and/or long-lasting bio-based products and materials. The resulting innovative value chains have the potential to turn a problem (related to carbon gaseous emissions in the atmosphere) into an opportunity for EU socio-economic growth and global strategic autonomy for raw materials, while mitigating negative impacts to climate change and biodiversity preservation. Bio-based industry can lead the way to such untapped potential providing examples which could be in the future adapted and replicated also by big emitters of CO2, including those out of the scope of this topic.Proposals under this topic should focus on carbon in gaseous emissions from biomass-based systems and industrial biorefineries or any other bio-based operation (including emissions from primary sectors) as main feedstock for further conversion. Biogenic gaseous carbon emissions from plants dedicated to the production of bioenergy from biomass combustion and from syngas are not in scope.Proposals under this topic should:Demonstrate the efficient capture and further conversion of biogenic gaseous carbon from selected source(s) into ingredients, chemicals and polymers and/or materials within the scope of the CBE. Different conversion routes are in scope.Demonstration should address the implementation of necessary measures to maximize productivity of targeted output.The demonstration should also address: i) flexible and economically viable systems for capture and/or potential purification of selected biobased gaseous stream based on the specific characteristics of the selected feedstock and targeted use ii) efficient recovery and purification of obtained ingredients/chemicals/materials proving the fulfilment of requirements for targeted applications.Assess the replication/adaptation potential of the proposed technological approach(es) to other sources of biogenic carbon through the analysis of the range of current/potential sources of biogenic carbon emissions from biorefineries/bio-based industrial activities.Include a task to integrate assessment based on the safe-and-sustainable-by-design (SSbD) framework, developed by the European Commission, for assessing the safety and sustainability of chemicals and materials. Under this context, projects are expected to contribute with and develop recommendations that can advance further the application of the SSbD framework. Where applicable, a comparison with the fossil-based counterparts of the same chemicals/ingredients/materials should be added.Assess the carbon removal[9] potential of the developed technologies, and apply monitoring systems to allow for reporting and verification to be recognised as contributing to EU climate and environmental objectives (following the upcoming European certification framework[10]). Proposals should seek for links and complementarities and avoid overlaps with past, ongoing and upcoming EU funded projects, including those funded under H2020, HEU and the BBI JU and CBE JU [11], Horizon 2020 and Horizon Europe[12] and Processes4Planet PPP[13]. Collaboration among projects from the same topic are encouraged.Proposals should also describe their contribution to the Specific CBE JU requirements, presented in section 2.2.3.1 of the CBE JU Annual Work Programme 2024[14].
+[1]Brussels, 11.3.2020 COM(2020) 98 final.[2]Brussels, 12.05.2021, COM(2021) 400 final.[3]‘At least 20% of the carbon used in the chemical and plastic products should be from sustainable non-fossil sources (i.e. waste, sustainable biomass and atmosphere) by 2030, in full consideration of the EU’s biodiversity and circular economy objectives and of the upcoming policy framework for bio-based, biodegradable and compostable plastics’ COM(2021) 800 Communication on Sustainable Carbon Cycles.[4]European Commission, Directorate-General for Research and Innovation, Review of the 2012 European Bioeconomy Strategy, Publications Office, 2018, https://data.europa.eu/doi/10.2777/086770.[5]Brussels, 5.5.2021 COM(2021) 350 final.[6]‘…we need to recycle carbon from waste streams, from sustainable sources of biomass or directly from the atmosphere, to use it in place of fossil carbon in the sectors of the economy that will inevitably remain carbon dependent. The circular economy and the sustainable bioeconomy sectors can address this objective and should promote technological solutions for carbon capture and use (CCU) and the production of sustainable synthetic fuels or other non-fossil based carbon products.’ COM(2021) 800 Communication on Sustainable Carbon Cycles.[7]The ‘carbon storage products’ is one of the carbon removal activities defined in the proposal for a Regulation establishing a Union certification framework for carbon removals COM (2022) 672, together with permanent removal and carbon farming. In the same proposed regulation, the concept of long-lasting is mentioned (although not fully defined) in: Article 2 - Definitions ‘..For the purposes of this Regulation, the following definitions apply: (a) ‘carbon removal’ means either the storage of atmospheric or biogenic carbon within geological carbon pools, biogenic carbon pools, long-lasting products and materials, and the marine environment, or the reduction of carbon release from a biogenic carbon pool to the atmosphere..’, Article 6 Long-term storage ‘…An operator or group of operators shall demonstrate that a carbon removal activity aims at ensuring the long-term storage of carbon’[8]CBE SRIA 2022, glossary: biogenic gaseous carbon = Carbon in gaseous emissions from biomass-based industrial ecosystems and biorefineries or any other bio-based operation; https://www.cbe.europa.eu/reference-documents.[9]See glossary of the CBE JU Annual Work Programme 2024 (https://www.cbe.europa.eu/reference-documents).[10]Proposal_for_a_Regulation_establishing_a_Union_certification_framework_for_carbon_removals.pdf. [11]REDwine, HICCUPS and SynoProtein.[12]For example, BioRECO2VER, ENGICOIN, BIOCONCO2, CELBICON, VIVALDI, CO2SMOS.[13]HORIZON-CL4-2024-TWIN-TRANSITION.[14]https://www.cbe.europa.eu/reference-documents
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions:&nbsp;described in section 2.2.3 Calls for proposals in the CBE JU Annual Work Programme 2024
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+CBE JU Call for proposals 2024
+MGA
+HE General MGA v1.0
+Call-specific instructions
+CBE JU Call for proposals 2024
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

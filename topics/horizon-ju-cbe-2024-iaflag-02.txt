@@ -1,0 +1,75 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-ju-cbe-2024-iaflag-02","file_display_name":"Bio-based dedicated platform chemicals via cost-effective, sustainable and resource-efficient conversion of biomass","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Projects are overall expected to address the EU Bioeconomy Strategy[1] and its action plan, the EU Zero pollution ambition for a toxic-free environment under the Chemicals Strategy for Sustainability[2] and the Zero Pollution Action Plan, the EU Industrial strategy[3], the EU Biodiversity strategy 2030[4], as well as the co-implementation of the Transition Pathway[5] for the chemicals industry.Project results should contribute to the following expected outcomes:Sustainable, large-scale production of bio-based platform chemicals with dedicated[6] chemical structures and availability of a broader range of bio-based chemicals meeting market and technical performance requirements, hence also facilitating the market uptake of bio-based solutions.Improved circularity and resource efficiency of bio-based value chains via practical application of circular bioeconomy, encompassing the resource- and energy-efficient, cascading use of sustainably-sourced biomass.Significantly improved sustainability, strategic autonomy, resilience and competitiveness of the European chemical industry and with cascading impact in other downstream sectors.Reduce the fossil feedstock dependence of chemicals production and/or minimising biomass imports dependencies of the bio-based industries.Significant improvement of environmental and safety performance across the value chain against specified fossil and/or bio-based benchmarks.New skilled job opportunities and investments in the bio-based sectors.Societal relevance and social acceptance of circular bio-based solutions and products. 
+Scope:Overall, bio-based platform chemicals, according to their chemical structure, can be classified as dedicated, drop-ins or smart drop-ins[7]. There is often medium/high TRL maturity when it comes to the production of bio-based dedicated chemicals. However, cost competitiveness and the sustainability of production can often be hindering factors for further upscaling and uptake of dedicated bio-based platform chemicals.Proposals under this topic should:Demonstrate cost-effective, sustainable and resource-efficient large scale production processes for obtaining one or more bio-based dedicated platform chemicals. Both upstream and downstream process aspects are in scope. The overall objective should target improving process efficiency, lowering CAPEX/OPEX, lowering the E-factor (process waste) and improving process safety. Enabling process technologies in scope include chemical, physicochemical, biotech or hybrid technologies, as well as process intensification and symbiosis concepts, if applicable to attain improvements in resource efficiency and sustainability performance.Indicate clearly the targeted feedstock(s), including availability and process flexibility aspects in relation to feedstock composition, if relevant. The cascading valorisation of secondary biomass and residual streams is also in scope.Validate (end TRL: 5 and above) the further conversion and integration of produced chemicals into final products. The chosen bio-based chemical(s) should be validated in market-relevant application(s).Include a task to integrate assessment based on the safe-and-sustainable-by-design (SSbD) framework, developed by the European Commission, for assessing the safety and sustainability of chemicals and materials.[8] Under this context, projects are expected to contribute with and develop recommendations that can advance further the application of the SSbD framework.[9] Proposals should implement the multi-actor approach (MAA) and ensure adequate involvement of all key actors in the value chains relevant for this topic and across the sustainable circular bio-based system, including B2B end-users and feedstock providers.Proposals may consider making existing/new industrial assets (e.g., labs, test rigs, etc.) accessible to researchers, SMEs, etc., for visiting, or training and testing bio-based processes.Proposals should seek for links and complementarities and avoid overlaps with past, ongoing and upcoming EU funded projects, including those funded under H2020, HEU and the BBI JU and CBE JU[10].Proposals should also describe their contribution to the Specific CBE JU requirements, presented in section 2.2.3.1 of the CBE JU Annual Work Programme 2024[11].
+[1]Updated Bioeconomy Strategy 2018. [2]The EU’s chemicals strategy for sustainability towards a toxic-free environment.[3]Brussels, 5.5.2021 COM(2021) 350 final.[4]Biodiversity strategy for 2030[5]Transition pathway.[6]See glossary of the CBE JU Annual Work Programme 2024 (https://www.cbe.europa.eu/reference-documents).[7]See glossary of the CBE JU Annual Work Programme 2024 (https://www.cbe.europa.eu/reference-documents).[8]See document defining the framework and criteria: Safe and sustainable by design.[9]More specifically, provide thresholds that can support the criteria definition and improvements for the assessment SSbD methodologies, including any specificities related with bio-based chemicals. Recommendations should also include identification of data gaps, especially safety, environmental, but also socio-economic factors, as well as priorities for data collection.[10]Examples from the BBI JU/CBE JU portfolio include, without the list being exclusive: LUCRA (IA), COUNTLESS (IA), PULP2VALUE (IA-DEMO), BIOFOREVER (IA-DEMO), AFTERBIOCHEM (FLAGSHIP), PEFERENCE (FLAGSHIP), WASTE2FUNC (IA-DEMO) and others.[11]https://www.cbe.europa.eu/reference-documents
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions:&nbsp;described in section 2.2.3 Calls for proposals in the CBE JU Annual Work Programme 2024
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+CBE JU Call for proposals 2024
+MGA
+HE General MGA v1.0
+Call-specific instructions
+CBE JU Call for proposals 2024
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

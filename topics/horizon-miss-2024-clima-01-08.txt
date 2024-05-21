@@ -1,0 +1,81 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2024-clima-01-08","file_display_name":"Demonstration of approaches by regions and local authorities focused on increasing climate resilience of the most vulnerable social groups (just climate resilience)","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Projects results are expected to contribute to all of the following expected outcomes:Examples of equitable adaptation measures are made available for replication, fostering just resilience transformation.Appropriate guidance for decision-makers is produced on equitable adaptation options design and implementation, shared and made available for wide reapplication.Regional and local public administrations increase their capacity to involve, understand and cater for the needs of vulnerable and marginalised groups. 
+Scope:Despite efforts to adapt to climate change in Europe, the most vulnerable people in society are still the most affected, due to their age, health, place of residence, or socio-economic status [1], while often contributing the least to climate change. Projected climate change, an ageing society and persisting socio-economic inequalities mean that differences in vulnerability and exposure to climate change are likely to continue. In addition, adaptation responses may worsen existing inequalities or even create new ones.Vulnerable and marginalised groups are particularly exposed to the impacts of climate change, especially high temperature and flooding. Moreover, nearly half of city hospitals and schools are in areas with strong urban heat island effects, thus exposing their vulnerable users to high temperatures. With approximately 10% of schools and 11% of hospitals across Europe located in potential flood-prone areas, the areas at higher risk of floods tend to have higher proportions of disadvantaged people than areas at lower risk of floods.The climate adaptation measures in place do not benefit everyone in society to the same extent. For example, the most vulnerable groups tend to have lower access to green spaces and are least able to pay for flood insurance or flood-proofing measures.Proposals should identify, develop, test and demonstrate equitable adaptation actions and solutions, increasing adaptive capacity, reducing vulnerability and risks and addressing specific climate vulnerabilities identified as relevant at regional and local scale, taking into account place-based climate data, socio-economic information, and local governance.Proposals should specifically address how the most vulnerable[2] groups in relation to their age, gender, health, socio-economic status or other social vulnerability characteristic would be catered for. This should include how these groups are identified; how they are meaningfully included in the development of the adaptation actions (process); and in what ways they are expected to benefit from these actions (outcome).Regional and/or local authorities should be directly involved in the development of equity-oriented policies and measures so as to assure their up-take during the course of the project and their continuous application beyond the end of the project. As a limited capacity and availability for engagement of the target groups might prevent them from directly participating in the consortium, the proposal should include specific considerations on how to ensure that insights from the target group are reflected in the project; how solutions can be co-designed with the target group; and on how the outcomes and results can be used on the ground. Proposals should also leverage the methodologies and approaches toolbox for citizens engagement made available by other projects [in particular CLIMAS[3] and AGORA[4] funded by the Horizon Europe Mission Work Programme], and initiatives [such as the JRC Competence Centre on Participatory and Deliberative Democracy], and by the Missions Implementation Platform[5].Under the Mission approach, collaborations to develop and test effective solutions between regions/local authorities/communities facing similar challenges are highly encouraged and considered as a means to secure a larger impact. To this purpose, while the required demonstration is expected to take place in at least three regions / local communities, the proposals should already identify other regions/local communities/ communities, where reapplication of the proposed approach will be suitable as sharing common climate change challenges. Inclusion already in the proposal of at least three “replicating” regions/local authorities/communities, interested in reapplying the lessons learnt (totally, partially or with the required adjustments) in their territories is required; this could take the form of inclusion in the consortium of one or more partners providing support for the technical exchanges and the knowledge uptake in the “replicating” regions. Replicating regions are not expected to also conduct a demonstration or carry out on the ground activities in the course of the project but they should at least prepare in the course of the project the theoretical framework for implementing the replication through the lessons exchanged with the demonstration regions.Proposals should build (when relevant) upon existing knowledge and lessons learnt on questions of climate justice, vulnerability and inequality including from other regions in the world. Similarly, they should build on adaptation solutions designed and previously developed from previous projects addressing climate change adaptation, funded by EU and National programmes, in particular the European Union Framework programmes for Research and Innovation (such as Horizon 2020 and Horizon Europe under their different pillars and clusters), as well as the LIFE programme and also beyond EU. Synergies with other funding sources (EU and national) should be sought, in order to support common approach towards climate adaptation, sustainability, transfer of knowledge and innovative solution and including to identify opportunities to scale up the solutions demonstrated and to foster their broad deployment across Europe through other programmes such as the LIFE programme, and its integrated projects in particular, the European Regional Development Funds or the Just Transition Fund. Regions with Territorial Just Transition Plans are encouraged to participate in this call to strengthen their climate adaptation capacity, secure the sustainability of regional investments and avoid maladaptation.”Proposals should include a mechanism and the resources to establish operational links and collaboration with Mission Implementation Platform and Climate-ADAPT[6].Projects funded under this topic will get direct access to participate in the Mission Community of Practice and to the networking activities supported by the Mission Implementation Platform. These networking and joint activities could, for example, involve the participation in joint workshops, the exchange of knowledge, the development and adoption of best practices, or joint communication activities. To this extent, proposals should provide for dedicated activities and earmark appropriate resources. In addition, projects will be requested to feed results and contribution to progress towards the objectives of the Mission to the Mission Implementation Platform, as the central Mission action for monitoring, support and visualisation of the Mission progress in Regions in EU Member States and Associated Countries. Regions participating in the projects will also be required to feed their results to the Climate-ADAPT and EEA assessments. Applicants should acknowledge this request and already account for these obligations in their proposal, making adequate provisions in terms of resources and budget to engage and collaborate with the Mission governance.
+Specific Topic Conditions:Activities are expected to achieve TRL 6 to 7 by the end of the project – see General Annex B. 
+[1]EEA Briefing no. 09/2022 – “Towards just resilience: leaving no one behind when adapting to climate change” - ISBN: 978-92-9480-479-2 - ISSN: 2467-3196 - doi: 10.2800/043692[2]Vulnerability as defined by the IPCC as the propensity or predisposition to be adversely affected. Vulnerability encompasses a variety of concepts and elements including sensitivity or susceptibility to harm and lack of capacity to cope and adapt. In line with the EU Gov reporting guidelines (Art 17 d, 2021b), vulnerable groups definition also covers gender, displaced peoples, minorities &amp; other.[3]https://cordis.europa.eu/project/id/101094021[4]https://cordis.europa.eu/project/id/101093921[5]Currently managed by MIP4Adapt under the contract CINEA/2022/OP/0013/SI2.884597 funded by the European Union. About MIP4Adapt (europa.eu)[6]The European Climate Adaptation Platform Climate-ADAPT is a partnership between the DG Climate Action and the European Environment Agency.https://climate-adapt.eea.europa.eu/
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+The following additional eligibility criteria apply: proposals must include demonstration activities to be carried out in 3 different regions/localities/ communities located in 3 different Member States /Associated Countries, involving and including as beneficiaries in the consortium legal entities established in these three countries.
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions: described in the [specific topic of the Work Programme]
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE RIA, IA)
+Standard application form (HE CSA)
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE RIA, IA)
+Standard evaluation form (HE CSA)
+MGA
+HE General MGA v1.0
+&nbsp;
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 12. Missions
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

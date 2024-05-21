@@ -1,0 +1,77 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2024-soil-01-03","file_display_name":"Towards a dynamic monitoring system to assess status and spatiotemporal changes of soil erosion at European scale","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Activities under this topic will help to progress towards the objective of the Mission ‘A Soil Deal for Europe’, in particular specific objective 5 “Prevent erosion”. Activities will also contribute to the EU Soil Strategy 2030, the Common Agricultural Policy and its Common Monitoring and Evaluation Framework (CMEF), the framework of indicators in the proposed Soil Monitoring Law, and the EU Sustainable Development Goals (SDGs) indicator set for monitoring progress towards SDG 15 and SDG 2.Project results are expected to contribute to all of the following outcomes:Enhanced knowledge on multi-process soil erosion dynamics (e.g., water, wind, tillage, etc.) across Europe based on a combination of novel computer-based estimates and monitoring activities for better estimation of policy impact.Further validation of soil loss by water and wind erosion indicators at continental scale with local/regional assessments which can be used for policy making and implementation (e.g., in the Common Agricultural Policy, the Soil Strategy for 2030 or the proposed directive of soil monitoring and resilience).Best management practices that significantly reduce erosion adjusted to different pedo-climatic conditions in Europe and various cropping systems are compiled and more widely known by relevant stakeholders including land managers such as farmers.A robust soil erosion monitoring network is established across EU and Associated Countries to further develop estimates and validate gross erosion rates at parcel level. 
+Scope:Current EU/European estimates on soil loss by water and wind erosion are long-term averages performed with empirical models, which, in agricultural areas, are subject to huge uncertainties. Policies such as the Common Agricultural Policy (CAP) would benefit from more up to-date and annual estimates. Improved estimates would contribute to developing a process-based model, which can incorporate management practices and their potential for reducing soil loss by water, and wind erosion in agricultural fields and facilitate the adoption of the best practices. Other processes such as tillage erosion or gullies can also be considered. Existing partially explicit parcel data (e.g., LPIS-GSA), data from the EU Land use and land cover survey (LUCAS) and the latest updates from the COPERNICUS platform could/should be used to improve current pan-European modelling frameworks.Proposed activities should:Create a network of stakeholders to monitor soil loss by water and wind erosion across EU Member States and Horizon Europe Associated Countries in different crop conditions (including managed grasslands).Develop a monitoring scheme to implement, test and validate methods for assessing soil loss by soil erosion at European (continental) scale.Develop process-based models at continental scale, which consider soil erosion factors such as management practices applied by farmers, rainfall intensity, soil properties, topography and other biophysical attributes.Incorporate both field observations and latest state-of-the-art Copernicus products to better quantify and calibrate soil erosion factors.Quantify the impact of different management practices (e.g., cover crops, reduced tillage, plant residues, mulching, grass margins, crop rotation, terraces, etc.) on reducing soil erosion.Link those scientific outputs (e.g. improved soil erosion factors, impact of management practices) with the Good Agricultural and Environmental Conditions (GAEC) requirements of the CAP (e.g., impact of management practices such as cover crops or reduced tillage in CAP GAECs).Provide landowners and various stakeholders with best information on soil losses and with recommendations on the most suitable management practices to reduce soil loss. Proposals should include a dedicated task and appropriate resources to collaborate and capitalise on activities and results from projects financed under other Work Programme topics of the Mission ‘A Soil Deal for Europe’, in particular AI4SoilHealth, Benchmarks and Soil O-Live.Cooperation with international networks in UNCCD, FAO Global Soil Partnership and the IPCC is encouraged to upscale the produced knowledge at global scale.Proposals should demonstrate a route towards open access, longevity, sustainability and interoperability of knowledge and outputs through close collaboration with the EU Soil Observatory (EUSO) and the project SoilWISE. In particular, to ensure that relevant data, maps and information can potentially be used and displayed in the EUSO.
+
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions: described in the specific topic of the Work Programme
+&nbsp;
+
+Documents
+Call documents:
+Standard application form&nbsp;&mdash;&nbsp;call-specific application form is available in the Submission System
+Standard application form (HE RIA, IA)
+Standard evaluation form&nbsp;&mdash;&nbsp;will be used with the necessary adaptations
+Standard evaluation form (HE RIA, IA)
+MGA
+HE General MGA v1.0
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 12. Missions
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

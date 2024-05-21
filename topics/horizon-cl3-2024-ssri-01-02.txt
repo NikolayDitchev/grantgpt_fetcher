@@ -1,0 +1,84 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl3-2024-ssri-01-02","file_display_name":"Accelerating uptake through open proposals for advanced SME innovation","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Projects’ results are expected to contribute to some or all of the following outcomes:Development of a mature technological solution addressing EU security policy priorities in the areas addressed by the Cluster 3 work programme;Facilitated access to civil security market for small innovators; Improved cooperation between public buyers and small supply market actors for a swifter uptake of innovation in response to short to mid-term needs;Stronger partnerships between small and medium EU security industry and technology actors to ensure the sustainability of the EU innovation capacity in the civil security domain and reduce technological dependencies from non-EU suppliers in critical security areas.  
+Scope:Europe’s 25 million small and medium enterprises (SMEs) are the backbone of the EU economy. SMEs can bring innovation to societal challenges, including the security of EU citizens. Innovative SMEs and high-tech start-ups can transform and modernise EU security capabilities.However, despite the innovation capacity of EU SMEs, these often experience difficulties in finding their way to the public markets. These include red tape in public contracts, access to new customers, access to finance, industrial competition and IP valorisation. These difficulties are exacerbated in markets that show restrictions of different kind, as it is the case of security.Knowing that SMEs require additional support to reach the security buyers and that the collaboration opportunities offered by the projects of the Pillar II of Horizon Europe can be a catalyst for uptake, this topic aims to offer a collaborative environment for small and medium innovators to tailor their innovations to the specific needs of civil security end-users.Applicants are invited to submit proposals for technology development along with the following principles:Focus on mature technological solutions addressing EU security policy priorities in the areas addressed by the Cluster 3 work programme.Not overlapping with the scope of the topics included in the other destinations of this work programme.Fostering collaboration between SMEs from different Member States and Associated Countries.Involving security end-users in the role of validator and potential first-adopter of the proposed innovations.Fostering collaboration schemes between small companies and research and technology organisations and/or big industrial players aimed at fostering innovative technology transfer or creating innovative business models that facilitate access to market and strengthen the innovation capacity of EU SMEs and start-ups in the domain of civil security. Examples of activities to plan in the proposed projects include, but are not limited to: assimilating market requirements; facilitating access to additional funding; approaching potential public buyers; assess competitive landscape; supporting in innovation management (methodological and process innovation, business model innovation, market innovation); assist in IP management and exploitation; provide guidance for expansion to future markets, etc.The participation of research and technology organisations should not focus on own technology development but on supporting the small industrial players in accelerating the technology transfer of innovative security solutions for their further development and production.It is encouraged that one SME takes the coordinator role[1]. Exceptions to this requirement should be duly justified.The projects should have a maximum estimated duration of 2 years.Under this topic, projects should address the one of the following areas of Fighting Crime and Terrorism (FCT, Option A), Disaster-Resilient Society (DRS, Option B), Resilient Infrastructure (INFRA, Option C) Border Management (BM, Option D). Some examples of domains that could be addressed:.Option A: Some examples of domains that could be addressed under the FCT area are: (indicative and non-exhaustive): mobile forensics; deepfake detection; detection of counterfeiting (fake items, fake currency bills) or of falsified/forged documents (passports, ID cards); detection and countering of advanced forms of malware, as well as non-cash payment frauds and other cyber-scams.Option B: Some examples of domains that could be addressed under the DRS area are (indicative and non-exhaustive): data and satellite/remote sensing information exploitation, positioning and localisation tracking and tracing, monitoring and surveillance for disaster prevention.Option C: some examples of domains that could be addressed under the INFRA area are: (indicative and non-exhaustive): physical access control, autonomous systems used for infrastructure protection, positioning and localisation tracking and tracing, monitoring and surveillance of environments and activities.Option D: under the BM area are (indicative and non-exhaustive): facilitated border checks; secure documents and identity management for border crossings; border surveillance; detection of drugs, explosives, Chemical, Biological, Radiological and Nuclear (CBRN), weapons and/or other dangerous materials in customs environment; detection of stolen, smuggled, illicit or illegal goods (cigarettes, art, cultural goods, wildlife) in a customs environmentIn this topic, projects should address the EU security policy priorities in the areas addressed by the Cluster 3 work programme.In this topic, the integration of the gender dimension (sex and gender analysis) in research and innovation content should be addressed only if relevant in relation to the objectives of the research effort.
+Specific Topic Conditions:Activities are expected to achieve TRL 6-7 by the end of the project – see General Annex B.
+[1]If a MIDCAP is included in the proposal, it could also take the role of coordinator.
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+The following additional eligibility conditions apply:Consortia must include, as beneficiaries:- A minimum of three (3) to a maximum of seven (7) partners.- At least 2 SMEs from 2 different Member States.- At least 1 end-user organisation in the areas addressed by the proposal, namely one of the following options:Option A "Fighting Organised Crime and Terrorism’’Option B ‘"Disaster-Resilient Society’’Option C "Resilient Infrastructure’’ andOption D ‘"Border Management’’, provided that the applications attain all thresholds. - At least 2 Member States must be represented in the consortium.Participation of non-SME industries and Research and Technology Organisations (RTOs) is not excluded, but it must be limited to 15% of the budget.At least 50% of the budget must be allocated to SMEs.
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+To ensure a balanced portfolio, grants will be awarded to applications not only in order of ranking but at least also to one project that is the highest ranked within each of the following four options:Option A "Fighting Organised Crime and Terrorism’’Option B ‘"Disaster-Resilient Society’’Option C "Resilient Infrastructure’’ andOption D ‘"Border Management’’, provided that the applications attain all thresholds (and subject to available budget). 
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Eligible costs will take the form of a lump sum as defined in the Decision of 7 July 2021 authorising the use of lump sum contributions under the Horizon Europe Programme – the Framework Programme for Research and Innovation (2021-2027) – and in actions under the Research and Training Programme of the European Atomic Energy Community (2021-2025). [[This decision is available on the Funding and Tenders Portal, in the reference documents section for Horizon Europe, under ‘Simplified costs decisions’ or through this link: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf]].
+Specific conditions
+7. Specific conditions: described in the [specific topic of the Work Programme]
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE RIA, IA)
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE RIA, IA)
+MGA
+
+Lump Sum MGA v1.0
+Call-specific instructions: 
+ Template for Security &amp; eligibility conditions in Horizon Europe 
+
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 6. Civil Security for Society
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

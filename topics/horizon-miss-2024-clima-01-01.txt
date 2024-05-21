@@ -1,0 +1,80 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2024-clima-01-01","file_display_name":"Bringing available and actionable solutions for climate adaptation to the knowledge of the regions and local authorities","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:In support of the European Green Deal, the Adaptation Strategy and the Mission on Adaptation to climate change, the successful proposal will specifically complement and reinforce the work of the Mission Implementation Platform, by addressing Missions’ current untapped potential, as highlighted in Commission’s Communication COM(2023) 457 final[1] and underlying ”Study supporting the assessment of EU missions and the review of mission areas. Mission Adaptation to Climate Change assessment report”[2].Proposals are expected to contribute to all of the following expected outcomes:The project serves information and offers the latest available solutions on adaptation to climate change to regional and local authorities, namely via a number of multilingual communications products, services and activities. It does so by closely cooperating with and under the umbrella of the Mission Implementation Platform[3], which continues to be stakeholders’ main contact point to engage with Adaptation Mission.Knowledge and understanding of the policy implications of adaptation solutions is increasingly utilised in the policy cycles at EU, national, and regional and local levels.The wide range of solutions tested and deployed in the context of the EU Mission on Adaptation to Climate Change and the good practices emerged in its Community of Practice are harvested, analysed and systematised to support the implementation of the Mission.The Mission actors (i.e., Secretariat and regions and local authorities participating in the Adaptation Mission) get comprehensive and structured information on available solutions identified, developed, tested, and deployed via relevant funding programmes and at various level of governance. Such comprehensive and structured information is also shared with the “National Adaptation Hubs” created by HORIZON-MISS-2024-CLIMA-01-02, in cooperation and coordination with the Mission Implementation Platform. 
+Scope:Regional, local authorities are the target group of the proposed activities and the customers of the in-depth knowledge provision on solutions; as such they are not expected to participate as part of the consortium, but they should receive tailor made services from the project funded by this action, which should primarily use the Mission Implementation Platform’s channels to feed them with new information products, also based on the needs (already) expressed by them (e.g. see Analysis of information provided by the signatories of the charter of the Mission Adaptation to Climate Change when adhering to the Charter[4]).It is expected that the project will have a duration of about 2 years.The proposal should address all of the following aspects:Support and closely cooperate with the ongoing Mission Implementation Platform, in close contact with the Mission’s Secretariat, to avoid duplications and by structurally analysing and summarising the good practices shared and discussed by regions and local authorities in the context of the Mission Implementation Platform’s Community of Practice, both as part of Community of Practice’s events and as part of the online discussion in the Mission Portal’s restricted webpages. Moreover, where possible, the project will seek to use existing channels to serve information products to Mission’s regions and local authorities so as to avoid duplications, namely using those established by the Mission Implementation Platform and in the Mission Portal.Seek cooperation with existing platforms and initiatives fostering climate adaptation in EU Member States and Associated Countries (in particular the Mission Portal[5] hosted by the European Environment Agency, the NCP4missions[6] and the TRAMI[7] projects or followers). This is to avoid duplication of efforts and make sure Mission’s regions and local authorities have easy access to such information and communications products. In particular, any communications action should be integrated as much as possible into the existing Mission portal, in cooperation with the European Environment Agency. Moreover, particular attention should also be given to make appropriate links with the Joint Research Centre’s Risk Data Hub[8], if relevant. Produce a detailed inventory of adaptation solutions, in coordination with the Mission Implementation Platform, in which each solution should be classified according to how it could help to address the needs of the biogeographical zones or most recurring climate risks. The results of such an inventory should be made available, also leveraging the Mission Implementation Platform, to all local, regional and national players, so to facilitate their access to all scientific available previous knowledge. The solutions should be analysed, and their inventory structured in line with the Mission Implementation Plan[9]’s approach (in particular, adopting a priority scope along the Plan’s “key community systems and enabling conditions”) in view of ensuring maximum coherence. These solutions should also be proactively promoted with the regions and local authorities participating in the Adaptation Mission.Local, regional and even national players who have already financed and/or experimented with solutions may also need to be given the opportunity to “publicize” effective solutions that can be scaled up or replicated elsewhere.Give particular attention to available solutions at National, regional and local levels, including those of cross-border nature. As the current scope and support by the Mission Implementation Platform to the Community of Practice is limited in terms of number of regions and local authorities involved, the proposal should also identify and analyse available solutions in regions that are not directly involved with the Mission’s Community of Practice – and in turn feed those to the Community of Practice discussions. To retrieve such information, the project funded under this topic is expected to closely cooperate with the project stemming from the topic HORIZON-MISS-2024-CLIMA-01-02 and the different projects in the Adaptation Mission Portfolio. It should closely build on solutions identified or discussed along the multi-level governance axis (also defined as “National hubs”), in turn supporting it with hands-on knowledge products that can be disseminated within its own structures. This cooperation will also be key to ensure that information-sharing targeting the regions and the local authorities is also tailored to the specific National governance context, to maximize its impacts and provide a basis for transforming information-sharing into building up know-how and skills.The proposals should identify and harvest knowledge and solutions from relevant Horizon Europe projects, with particular attention to projects funded by the Adaptation Mission calls (including demonstrators) and projects identified as 'mission-relevant’ in other EU funding programme (e.g., LIFE, Interreg) or legacy projects from Horizon2020 or FP7, as well as from partnerships, and from the other EU Missions, in particular the cities, soil and ocean missions. The proposals should also build on previous analyses or information already harvested by mission-relevant projects, in particular past and ongoing coordination and support actions (including but not limited to Regilience[10], NetworkNaturePlus[11], MAIA[12], MAGICA[13]). This is to avoid duplications of efforts and to improve the overall understanding of the wide range of solutions available to regions and local authorities.As the scope of the EU Mission on Adaptation to Climate Change goes beyond Horizon Europe, the proposal should also structurally consider solutions identified, developed, tested, and deployed via other relevant funding programmes (in particular the EU cohesion policy incl. ERDF, INTERREG, as well as LIFE Programme, the Digital Europe Programme, etc.), initiatives (including Cohesion4Transitions, etc.), and actors (JRC, EIB, EBRD, etc.). Moreover, the scope should not be limited to EU programmes and initiatives only, but rather look at National and regional opportunities as well (funding programmes, national or regional hubs or initiatives, including the potential of relevant business-led or private initiatives).Develop multilingual operational information and communication products aiming at facilitating regions and local authorities’ understanding of the said solutions and their effectiveness, through a dedicated communications strategy tailored to the different target audiences within the regions and local authorities (in particular policy makers, practitioners and social partners). The proposals should also provide tools to support the authorities in the development and implementation of such solutions in their regional and local contexts (i.e., know-how).When bringing available solutions to the knowledge of the regions and of the local authorities, the proposal should also include a dedicated task aiming at feeding the EU policy cycle by identifying good practices that merit particular attention by EU policymakers in view of strengthening policy innovation in coming cycles (feedback to policy task). 
+[1]COM(2023) 457 final: com_2023_457_1_en_act_part1.pdf (europa.eu)[2]https://op.europa.eu/en/publication-detail/-/publication/52e75b81-537f-11ee-9220-01aa75ed71a1/language-en[3]Currently managed by MIP4Adapt under the contract CINEA/2022/OP/0013/SI2.884597 funded by the European Union. About MIP4Adapt (europa.eu)[4]https://research-and-innovation.ec.europa.eu/system/files/2023-03/ec_rtd_charter-signatories-survey-report.pdf[5]https://climate-adapt.eea.europa.eu/en/mission/   [6]https://cordis.europa.eu/project/id/101121092[7]https://cordis.europa.eu/project/id/101056814[8]https://drmkc.jrc.ec.europa.eu/risk-data-hub#/[9]Mission Implementation Plan of Mission Adaptation, page 7 box 1, link: Implementation Plans for the EU Missions (europa.eu)[10]https://cordis.europa.eu/project/id/101036560[11]https://cordis.europa.eu/project/id/101082213[12]https://cordis.europa.eu/project/id/101056935[13]https://cordis.europa.eu/project/id/101056920
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Grants awarded under this topic will be linked to the following action(s): Call for tenders CINEA/2022/OP/0013.Collaboration with MIP4Adapt, the Mission Implementation Platform, is essential, and projects must ensure that appropriate provisions for activities and resources aimed at enforcing this collaboration are included in the work plan of the proposal. The collaboration with the Mission Implementation Platform must be formalized through a Memorandum of Understanding to be concluded as soon as possible after the projects' starting date. 
+Specific conditions
+7. Specific conditions: described in the [specific topic of the Work Programme]
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE RIA, IA)
+Standard application form (HE CSA)
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE RIA, IA)
+Standard evaluation form (HE CSA)
+MGA
+HE General MGA v1.0
+&nbsp;
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 12. Missions
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

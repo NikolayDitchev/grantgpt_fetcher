@@ -1,0 +1,80 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2024-cancer-01-02","file_display_name":"Support dialogue towards the development of national cancer data nodes","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Data is an essential resource to improve our understanding of cancer, advance prevention and early detection strategies, facilitate the delivery of personalised care, and better address the quality of life of cancer patients and survivors.The Cancer Mission supports the creation of the European Initiative to Understand Cancer (UNCAN.eu, a federated European cancer research data infrastructure) and the European Cancer Patient Digital Centre (ECPDC, a European network of national digital infrastructures for cancer patients)[1].The proposal under this topic is expected to contribute to all of the following outcomes:Advance the process of establishing National cancer data nodes[2], by the scaling-up or improvement of existing national health data infrastructures and by fostering their links to the European Health Data Space infrastructures for primary and secondary data uses.Potential barriers that may prevent the effective implementation of UNCAN.eu and ECPDC digital platforms are identified and a way forward to address them proposed. 
+Scope:The proposal should address all of the following:Foster the development of national cancer data nodes through policy dialogues at national level with relevant actors in the research and innovation community, digital health and public health policy.Identify and build synergies between European infrastructures related to health data access and health data sharing for primary and secondary data uses (e.g. MyData@eu, HealthData@eu, ELIXIR, BBMRI, and others), and other initiatives relevant for the UNCAN.eu and ECPDC platforms.Identify challenges and barriers to the effective future implementation of the UNCAN.eu and the ECPDC platforms at national and European levels and propose operational solutions to overcome them.Identify population subgroups with poor digital skills and geographical areas with limited digital resources that might prevent the use of those platforms and propose solutions to reduce the digital divide. The involvement of cancer research centres, digital infrastructures, public health bodies, policy makers and cancer patient organisations will ensure that the UNCAN.eu and ECPDC platforms will deliver effective outcomes for researchers, clinicians, healthcare providers, cancer patients, survivors, and caregivers.Due consideration should be given to EU-funded initiatives, infrastructures and projects such as: EOSC4cancer[3] canSERV[4], the European Cancer Information System[5], and the successful proposals resulting from the topics; HORIZON-MISS-2024-CANCER-01-01, HORIZON-MISS-2024-CANCER-01-06.This topic requires the effective contribution of Social Sciences and Humanities (SSH) disciplines and the involvement of SSH experts, institutions as well as the inclusion of relevant SSH expertise, to produce meaningful and significant effects enhancing the societal impact of the related research activities.The Commission will facilitate coordination. Therefore, successful proposals should include a budget for networking, attendance at meetings, and potential joint activities without the prerequisite to give details of these at this stage. Examples are: organising joint workshops, establishing best practices, joint communication or citizen engagement activities with projects funded under other clusters and pillars of Horizon Europe, or other EU programmes, as appropriate. Successful proposals will be asked to join the 'Understanding' and ‘Quality of Life’ clusters for the Mission on Cancer established in 2022 and 2023. The details of joint activities will be defined during the grant agreement preparation phase and during the life of the project.
+[1]https://research-and-innovation.ec.europa.eu/system/files/2021-09/cancer_implementation_plan_for_publication_final_v2.pdf[2]Cancer data nodes are built on European and national computing infrastructures that link different cancer data holders across European countries. Cancer data nodes can encompass medical images, digital pathology, clinical data, genomics and other omics data, cancer models, environmental and other relevant data for cancer research.[3]https://eosc4cancer.eu/[4]https://www.canserv.eu/[5]https://ecis.jrc.ec.europa.eu/info/cancer_registries.html
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+The thresholds for each criterion will be 4 (Excellence), 4 (Impact) and 3 (Implementation). The cumulative threshold will be 12
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions: described in the [specific topic of the Work Programme]
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE CSA)
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE CSA)
+MGA
+HE General MGA v1.0
+Call-specific instructions
+Information on clinical studies (HE)
+
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 12. Missions
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

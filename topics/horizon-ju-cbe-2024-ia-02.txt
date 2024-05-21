@@ -1,0 +1,75 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-ju-cbe-2024-ia-02","file_display_name":"Sustainable micro-algae as feedstock for innovative, added-value applications","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:In line with the objectives of the Bioeconomy Strategy[1] and the Zero Pollution Action Plan[2], successful proposals will facilitate the deployment of industrial systems based on sustainable bio-based feedstock. These systems will also contribute to new EU strategy for a Sustainable Blue Economy implementation and address the EC Communication Towards a Strong and Sustainable EU Algae Sector,[3] by demonstrating improved environmental performances, maximum resource- and energy-efficiency, and optimal cascading use of bio-based feedstock, aiming for ‘zero waste’ and ‘zero-pollution’ operations. Contribution to the objectives of the R&amp;I Mission ‘Restore our Oceans and Waters by 2030, in particular objective 3 ‘Make the blue economy carbon- neutral and circular’.Project results should contribute to the following expected outcomes:Implementation of (environmentally and economically) sustainable micro-algae-based biorefinery processes.Availability of a broader range of micro-algae-based products meeting market requirements.Social acceptance of circular bio-based solutions and products.Decreased energy, water, nutrients and in general resource requirements for micro-algae production and processing with respect to state-of-art.Improved environmental impact with respect to fossil- and/or bio-based state-of-the-art counterparts (if existing). 
+Scope:The valorisation of micro-algae and cyanobacteria into bio-based products is increasing but still relatively limited. Past R&amp;I activities related to strain, process and technology developments have brought significant progress for high-value/low-volume specialties based on micro-algae, produced in bioreactors. At the other end of the spectrum, low-value/higher volume products are produced at large scale in open ponds. There is a range of products for which production technologies are available, but not cost competitive. Presently there is a need to upscale production technologies, including downstream separation and purification, which would allow to cover the mid-price range of products in a cost-effective way, thereby contributing to increasing the market penetration of micro-algae derived chemicals and products.Proposals under this topic should:Demonstrate optimised production, harvesting, and product extraction from micro-algae[4], cyanobacteria and/or other phototrophic bacteria, including aspects related to automation and control when applicable, including a specific focus on downstream separation and purification (quality and purity) of end products depending on final application requirements. Products in scope are those ingredients and intermediates in the medium price range, for which process technologies exist but are currently not cost-competitive enough to meet market demands. The objective is broadening the range of viable products beyond the high-end products for niche markets whose high value presently justifies the use of high-cost technologies.Reduce OPEX and CAPEX with respect to state-of-art, demonstrate the downstream conversion of the produced feedstock into added value products with clear market applications. Cascading and circular use of by-products and side streams is also fully in scope.Ensure that production and conversion of the feedstock are cost-competitive, resources efficient and sustainable (in terms of land use, water use, energy use including RES when it provides added value to the overall business case, nutrients intake, CO2 and effluents). Regarding the optimized production, consider strain selection, optimization, accumulation (intracellular storage) and extraction of desired products, their yield, stability, toxicity, and quality, including purity.Include a task to integrate assessment based on the safe-and-sustainable-by-design (SSbD) framework, developed by the European Commission, for assessing the safety and sustainability of chemicals and materials[5]. Under this context, projects are expected to contribute with and develop recommendations that can advance further the application of the SSbD framework.[6] Proposals must apply the concept of the ‘multi-actor approach’ and ensure adequate involvement of all key actors in the value chains relevant for this topic, across the sustainable circular bio-based system, including end users and consumers (when targeting B2C products).Proposals should also describe their contribution to the Specific CBE JU requirements, presented in section 2.2.3.1 of the CBE JU Annual Work Programme 2024[7].Proposals should seek for links and complementarities and avoid overlaps with past, ongoing and upcoming EU funded projects, including those funded under H2020, HEU and the BBI JU and CBE JU[8], and should ensure a link and synergy with the ‘Restore our Oceans and Waters’ Mission[9] and parallel activities supporting the EU Algae initiative. Collaboration among projects from the same topic are encouraged.
+[1]Updated Bioeconomy Strategy 2018.[2]Brussels, 12.05.2021, COM(2021) 400 final.[3]COM(2022) 592 final ‘Towards a Strong and Sustainable EU Algae Sector’.[4]Phototrophic, heterotrophic and mixed micro-algae strains are in scope[5]See document defining the framework and criteria: Safe and sustainable by design.[6]More specifically, provide thresholds that can support the criteria definition and improvements for the assessment SSbD methodologies, including any specificities related with bio-based chemicals. Recommendations should also include identification of data gaps, especially safety, environmental, but also socio-economic factors, as well as priorities for data collection.[7]https://www.cbe.europa.eu/reference-documents[8]Previous BBI JU projects: SpiralG (H2020-BBI-JTI-2017), MULTI-STR3AM (H2020-BBI-JTI-2019), SCALE (H2020-BBI-JTI-2020), MAGNIFICENT (H2020-BBI-JTI-2016), ABACUS (H2020-BBI-JTI-2016), VALUEMAG (H2020-BBI-JTI-2016), REDWine (H2020-BBI-JTI-2020). Previous Horizon2020 projects: SABANA, BIOSEA, ASTRAL, NOMORFILM, INCOVER, SATGAE, VOLATILE, NENU2PHAR, PRODIGIO, ProFuture, NewTecAqua, NextGenProteins, WATER2RETURN. HORIZON projects: CIRCALGAE, REALM. Mission Ocean projects: LOCALITY, AlgaePro BANOS.[9]In particular to Objective 3: Make the blue economy carbon-neutral and circular.
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions:&nbsp;described in section 2.2.3 Calls for proposals in the CBE JU Annual Work Programme 2024
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+CBE JU Call for proposals 2024
+MGA
+HE General MGA v1.0
+Call-specific instructions
+CBE JU Call for proposals 2024
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

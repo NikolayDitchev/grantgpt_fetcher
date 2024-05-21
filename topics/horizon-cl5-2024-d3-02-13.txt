@@ -1,0 +1,82 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl5-2024-d3-02-13","file_display_name":"Support to the activities of the SET Plan Key Action area Renewable fuels and bioenergy","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Engagement of stakeholders is pivotal in the transition to a clean energy system and the achievement of the zero-emissions target.Project results are expected to contribute to both of the following outcomes:Consolidation of strong and sustainable networks in the technology area of renewable fuels &amp; bioenergy covered through the Strategic Energy Technology (SET) Plan and its integrated roadmap.Cooperation among ETIPs or similar stakeholders fora, support to existing SET Plan Implementation Plan and advancement towards more interconnected activities, both in terms of contents and implementation mechanisms.  
+Scope:In 2015, the launch of the Energy Union saw the SET Plan incorporated as the Energy Union’s fifth pillar on ‘Research, Innovation and Competitiveness’. Through the Communication “Towards an Integrated Strategic Energy Technology (SET) Plan”, the Integrated SET Plan set ambitious R&amp;I targets which remain relevant and essential in the new context of the European Green Deal and the Recovery Plan for Europe.Proposals should address the following SET Plan sector: renewable fuels &amp; bioenergy.They should take into consideration the coordination needs of the sector and the emerging policy priorities for their implementation, as well as the coordination with other initiatives/projects, to avoid overlaps.Proposals will support the update and the execution/realisation of the Implementation Plan launched in 2018 by the Implementation Working Group (IWG) in renewable fuels and bioenergy, taking into account the DNSH (do-not-significant-harm-principle). This IWG needs to update the targets included in its implementation plan to comply with the new policy framework of the European Green Deal and the Fit For 55 implementing legislative package, and in particular the targets of the Renewable Energy Directive, the REFuelEU Aviation and the FuelEU Maritime for 2030 and 2050, as well as the targets of the ETS for transport and buildings. Other EU policies and legislation such as the REPowerEU Plan, the Net-Zero Industry Act and the Recovery and Resilience Facility, the Clean Energy Transition Partnership and the European Research Area in the field of Energy should be also addressed.Proposals should count on the participation of research organisations and/or companies (industry) committed in principle to execute all or some of the SET Plan related R&amp;I activities specified in the Implementation Plan. In this sense, proposals shall detail, to the extent possible, the financial contributions from public and private funding sources at national level needed for the execution of the R&amp;I activities and explain which processes or mechanisms will be put in place to execute and monitor the R&amp;I activities. They should generate and provide input to national and EU policy initiatives, like the National Energy and Climate Plans, the Recovery and Resilience Plans, the Cohesion policy and the Regional Development policy funds, the support to REPowerEU funds, the Agricultural Fund for Rural Development, the Strategic Technologies for Europe Platform, the Net-Zero Europe Platform, and possible emerging initiatives of Common European Interest in the sector, taking into account biodiversity.Proposals shall support the monitoring of the renewable fuels and bioenergy sector development, collecting and analysing data of projects in the area, industrial scale plants, industry’s perspectives and SET Plan countries’ policies and strategic plans, such as the National Energy and Climate Plans and the Recovery and Resilience Plans, as well as the information on financing sources and instruments. They should create databases and information tools for project developers. They should assist the IWG renewable fuels and bioenergy to its annual report to the SET Plan through SETIS Information System on the progress of the execution of the implementation plan.Furthermore, proposals should develop a dissemination and exploitation strategy and implement dissemination and networking activities with other existing ETIPs and IWGs (e.g. joint workshops, thematic conferences, webinar series, regular exchanges, etc.).This topic requires the effective contribution of SSH disciplines and the involvement of SSH experts, institutions as well as the inclusion of relevant SSH expertise, to produce meaningful and significant effects enhancing the societal impact of the related research activities.Proposals submitted under this topic are encouraged to include actions designed to facilitate cooperation, across Europe, with other projects and to ensure the accessibility and reusability of data produced during the project.The indicative project duration is 3 years.
+
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Eligible costs will take the form of a lump sum as defined in the Decision of 7 July 2021 authorising the use of lump sum contributions under the Horizon Europe Programme – the Framework Programme for Research and Innovation (2021-2027) – and in actions under the Research and Training Programme of the European Atomic Energy Community (2021-2025). [[This decision is available on the Funding and Tenders Portal, in the reference documents section for Horizon Europe, under ‘Simplified costs decisions’ or through this link: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf]].
+Specific conditions
+7. Specific conditions: described in the [specific topic of the Work Programme]
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE CSA)
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE CSA)
+MGA
+Lump Sum MGA v1.0
+&nbsp;
+Call-specific instructions
+Detailed budget table (HE LS)
+Guidance: &quot;Lump sums - what do I need to know?&quot;
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 8. Climate, Energy and Mobility
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

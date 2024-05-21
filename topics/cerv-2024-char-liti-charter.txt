@@ -1,0 +1,33 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/cerv-2024-char-liti-charter","file_display_name":"Capacity building and awareness raising on the EU Charter of Fundamental Rights","status":"OK"} -->
+
+Description: 
+Scope:Capacity building and awareness raising on the EU Charter of Fundamental RightsThe Charter Strategy underlines the importance of strengthening the application of the Charter in the Member States, through awareness raising and capacity building initiatives. Accordingly, projects under this priority are intended to raise the fundamental rights knowledge of relevant actors. Building on the central role of civil society organisations and human rights defenders, funded projects could involve national, regional and local authorities as partners (co-applicants), with the aim of supporting joint capacity building and awareness raising efforts.The projects funded under this priority could address the capacity building and awareness raising needs on the Charter in general, or they could focus on one or several of the topics below:• Rights enshrined in the Charter and awareness of the Charter’s scope of application. In accordance with its Article 51, the Charter is applicable to Member States only when they are implementing EU law. Given the specific scope of application of this instrument, unlike that of international human rights agreements, and considering the increasing number of references to the Charter in the case law of the Court of Justice of the EU, there is a specific need to promote an understanding of when the Charter applies, i.e. when EU law is being implemented, and of the fundamental rights enshrined in the Charter. Relevant projects could therefore focus on the scope of application of the Charter and/or on the contents of an individual Charter right and/or several rights.• Protecting fundamental rights in the digital age. To follow up on the Annual Charter Report 2021 on fundamental rights in the digital age, the aim of the priority is to protect fundamental rights by strengthening accountability for the use of automation where rights are at stake. This includes approaches for addressing and combatting bias and multiple/intersectional discrimination based on gender and on other grounds including ethnic and racial origin, caused or intensified by the use of artificial intelligence systems. Projects could aim to develop guidelines (including measures that ensure gender sensitive implementation), technical benchmarks and tools, including for algorithm-audits. Projects are expected to develop a concrete tool or a benchmark process in an area of the applicant’s choice with demonstrated relevance for fundamental rights, without prescribing the area or the type of the tool (e.g. it could be software, a benchmark data set, a simulation environment, a procedure).
+
+
+Conditions: 
+1.&nbsp;&nbsp; Eligible countries:&nbsp;as described in the Call document.
+2.&nbsp;&nbsp; Eligibility and admissibility conditions: as described in the Call document.&nbsp;
+3.&nbsp; &nbsp;Proposal page limits and layout:&nbsp;Please refer to Part B of the standard proposal template.
+4.&nbsp; &nbsp;Evaluation:&nbsp;Evaluation criteria, scoring, threshold and&nbsp;process are described in the Call document.
+5.&nbsp;&nbsp; Indicative timetable for evaluation and grant agreement: as described in the Call document.
+Publication of the call:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 20 March 2024
+Deadline for submitting applications:&nbsp; 18 September 2024 17:00 (Brussels Time)
+Evaluation period:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;October 2024 - February 2025
+Information to applicants:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; March 2025
+Signature of grant agreement:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; June 2025
+&nbsp;
+6.&nbsp;&nbsp; Proposal templates, guidance and model grant agreements (MGA):
+Standard proposal template
+Call document
+Citizens, Equality, Rights and Values (CERV) 2023-2024 Work Programme
+Mono/Multi-beneficiary Model Grant Agreement
+Visit the&nbsp;Citizens, Equality, Rights and Values programme&nbsp;page from the European Commission's website for further information.&nbsp;
+
+
+Support Info: 
+For help related to this call, please contact:&nbsp;EACEA-CERV@ec.europa.eu&nbsp;(include Call ID in the subject line &ldquo;CERV-2024-CHAR-LITI&rdquo;)
+You may also contact the&nbsp;National Contact Point&nbsp;located in your country.
+Funding &amp; Tenders Portal FAQ&nbsp;&nbsp;&ndash; Submission of proposals.
+IT Helpdesk&nbsp;&ndash; Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+Online Manual&nbsp;&ndash;&nbsp;Step-by-step online guide through the Portal processes from proposal preparation and submission to reporting on your on-going project. Valid for all 2021-2027 programmes.
+

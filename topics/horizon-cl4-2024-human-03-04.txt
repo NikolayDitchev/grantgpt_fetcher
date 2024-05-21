@@ -1,0 +1,83 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl4-2024-human-03-04","file_display_name":"Facilitate the engagement in global ICT standardisation development (CSA)","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Share information about global sectorial ICT standardisation ecosystems and engagement of European stakeholders in global standardisation settings.Projects are expected to contribute to the following outcomes:Set-up of a facility to support participation of European specialists in international ICT Standard Developing Organisations (SDOs) and global fora and consortia, which should increase the influence of Europe into ICT standardisation, including representation in leadership and key positions, to promote incorporation of European requirements, values and interests in ICT standardisation;Develop and update sectorial ICT standardisation landscape and gap analysis of ICT standardisation needs in support of EU policies as outlined in the Rolling Plan for ICT standardisation;Cooperate, synchronise and achieve capacity building with other similar initiatives or European players including from EU (and national) funded R&amp;I projects; provide a forum for foresight analysis in different sectors;Increase awareness on ICT standardisation development;Financially support standardisation meetings in Europe of international SDOs and global fora and consortia, so that European players have easier conditions for participation.  
+Scope:This action will contribute to the objectives spelled out in the EU Standardisation Strategy and meeting the objectives of the European Green Deal and Europe’s Digital Decade, in particular to supporting the EU’s leading position in global standards-setting as a forerunner in key technologies and promoting EU core values, by supporting and empowering the participation of European stakeholders in the development of open technical specifications and standards with the aim to strengthen European competitiveness and sovereignty, promoting EU values and ethics, and strengthen the take-up, scalability and cross-sector interoperability of their technological solutions. This action will among the others support the Commission’s effort to address the critical issues related to internet, trusted and secured chips, or data standards as described in the EU Standardisation Strategy.The aim is to reinforce the presence of EU and associated states experts in the global ICT standardisation scene, by setting up an ICT standardisation observatory and a facility supporting the participation of key European specialists (especially from SMEs, societal stakeholders and Academia) in key international and global Standard Developing Organisations[1]. In particular, the project should foresee actions related to topics in the Rolling Plan for ICT standardisation as well as related to internet standardisation.The action will also contribute to the objective of promoting EU cutting-edge innovation that fosters timely standards, by coordinating with other EU funded projects and action that may contribute with their results to ICT standardisation, as well as with EU supported PPPs and Joint Undertakings, seeking for synergies.To achieve these objectives, proposals under this topic should provide for:Landscape and gap analysis of international ICT standardisation, including identification of sectors and areas, in particular within the field of internet standardisation, quantum network, IoT, 6G mobile communication, data, edge computing, artificial intelligence, eGovernment, block chain / DLT, cyber security, smart cities &amp; communities, data centres, trusted chips, robotics, circular economy certification etc.Setting up of a management facility to support contributions and leadership (e.g. chairing of technical committees, convenor positions) of European specialists (incl. from SMEs and academia) in activities in relation to international standardisation including in global ICT SDOs, fora and consortia.When relevant, support financially the hosting standardisation meetings and workshops in Europe to ease the participation of European experts;Facilitation of a foresight committee, which liaises with relevant on-going developments in EU and national Member States funded R&amp;I projects, in particular with projects having identified standardisation outputs or with potential relevant results to contribute to standardisation, including as well other coordination and support actions, and relevant European Partnerships;Promotion of the relevance and benefits of ICT standardisation, especially for European industry competitiveness, driving sustainability, sovereignty, supporting objectives of the European green deal and EU values and ethics. The proposal will also include actions, including development of tools and materials, to promote education on ICT standardisation; The proposal should take into account the previous activities carried out the observatory and facilities for funding experts within the topics ICT-40-2017 implemented by the StandICT.eu project and ICT-45-2020 implemented under StandICT.eu2023 project (see http://www.standict.eu).In order to achieve the expected outcomes, international cooperation is strongly encouraged.In this topic the integration of the gender dimension (sex and gender analysis) in research and innovation content is not a mandatory requirement.
+[1]Such us ISO, IEC, ISO/IEC JTC1, ITU-T, 3GPP, IETF, OneM2M, W3C, OASIS, IEEE
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Eligible costs will take the form of a lump sum as defined in the Decision of 7 July 2021 authorising the use of lump sum contributions under the Horizon Europe Programme – the Framework Programme for Research and Innovation (2021-2027) – and in actions under the Research and Training Programme of the European Atomic Energy Community (2021-2025). [[This decision is available on the Funding and Tenders Portal, in the reference documents section for Horizon Europe, under ‘Simplified costs decisions’ or through this link: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf]].
+Beneficiaries may provide financial support to third parties. The support to third parties can only be provided in the form of grants. The maximum amount to be granted to each third party is EUR 50 000, allowing a third-party fully to explore an application.As the primary purpose of the action is to support EU and Associated Countries experts in the global ICT standardisation scene, a minimum of 70% of the total requested EU contribution shall be allocated to financial support to third parties, selected through open calls. Financial support for these specialists should be typically in the order of EUR 1.000 – 10.000 by use financial support to third parties (FSTP).Beneficiaries will define the process of selection of specialists through open calls. They will also define the process that will lead to a selection of a pool of evaluators that will evaluate the applications received in the open calls through the use of FSTP.
+Specific conditions
+7. Specific conditions: described in the [specific topic of the Work Programme]
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE CSA)
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE CSA)
+MGA
+Lump Sum MGA v1.0
+Call-specific instructions
+Detailed budget table (HE LS)
+Information on financial support to third parties (HE)
+Guidance: &quot;Lump sums - what do I need to know?&quot;
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 7. Digital, Industry and Space
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

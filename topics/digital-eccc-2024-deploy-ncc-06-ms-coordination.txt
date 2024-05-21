@@ -1,0 +1,50 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/digital-eccc-2024-deploy-ncc-06-ms-coordination","file_display_name":"Deploying The Network of National Coordination Centres with Member States","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Outcomes and deliverables• Strengthened Cybersecurity Community to support the European Cybersecurity Industrial, Technology and Research Competence Centre 50• Uptake of cybersecurity solutions• Strengthened cybersecurity capacities of stakeholders• Synergetic activities that strengthen the role of NCCs
+Objective:With the creation of the European Cybersecurity Industrial, Technology and Research Competence Centre (Regulation (EU) 2021/887), the National Coordination Centres (NCCs) – working together through a network – will contribute to achieving the objectives of this regulation and to foster the Cybersecurity Competence Community in each Member State, contributing to acquire the necessary capacity. National Coordination Centres can also support priority areas such as the implementation of EU legislation (Directive (EU) 2022/2555, the proposed Cyber Resilience Act38, Cybersecurity Act39). The objective is to support the operation of the NCCs and to enable them to support the cybersecurity community, including SMEs, for the uptake and dissemination of state-of-the-art cybersecurity solutions and strengthen cybersecurity capacities.
+Scope:The National Coordination Centre should carry out the following tasks:• Acting as contact points at the national level for the Cybersecurity Competence Community to support the EECCC in achieving its objectives and missions;• Providing expertise and actively contributing to the strategic tasks of the ECCC, taking into account relevant national and regional challenges for cybersecurity in different sectors;• Promoting, encouraging and facilitating the participation of civil society, industry in particular start-ups and SMEs, academic and research communities and other actors at Member State level in cross-border projects and cybersecurity actions funded through all relevant Union programmes;• Providing technical assistance to stakeholders by supporting the stakeholders in their application phase for projects managed by the ECCC, and in full compliance with the rules of sound financial management, especially on conflict of interests. This should be done in close coordination with relevant NCPs set up by Member States;• Seeking to establish synergies with relevant activities at national, regional and local levels, such as addressing cybersecurity in national policies on research, development and innovation in the area of, and in particular in those policies stated in the national cybersecurity strategies;• Where relevant, implementing specific actions for which grants have been awarded by the ECCC, including through provision of financial support to third parties in line with Article 204 of Regulation (EU, Euratom) 2018/1046 under the conditions specified in the grant agreements concerned; such support should in particular aim at strengthening the uptake and dissemination of state-of-the-art cybersecurity solutions (notably by SMEs); 38 Regulation (EU) No 526/2013 (Cybersecurity Act) (OJ L 151, 7.6.2019, p. 15–69). 39 https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52022PC0454 49• Promoting and disseminating the relevant outcomes of the work of the Network and the ECCC at national, regional or local level;• Assessing requests for becoming part of the Cybersecurity Competence Community by entities established in the same Member State as the NCC;•Advocating and promoting involvement by relevant entities in the activities arising from the ECCC, the Network of National Coordination Centres, and the Cybersecurity Competence Community, and monitoring, as appropriate, the level of engagement with actions awarded for cybersecurity research, developments and deployments.The aim is also to provide essential support in the domain of cybersecurity in the form of financial support to third parties. The funding should foremost facilitate the adoption and widespread use of state-of-the-art cybersecurity solutions. This should equip organisations with the latest and most effective tools and strategies available for cybersecurity, fortifying their overall cybersecurity capabilities, and helping them to become more resilient and better prepared to face the evolving challenges posed by cyber threats in the digital age. Such support should be in synergy with other actions undertaken by NCCs, such as their role as contact point, promotion of participation in cross-border projects and actions, establishing synergies with other activities, and fostering links with the ECCC and other relevant national and European actions such as the Digital Innovation Hubs. This topic targets exclusively National Coordination Centres which have been recognised by the Commission as having the capacity to manage funds to achieve the mission and objectives laid down in the Regulation establishing the European Cybersecurity Industrial, Technology and Research Competence Centre and the Network of National Coordination Centres. Indicatively 50% of the grant will be distributed via financial support to third parties. These actions aim at the operation of National Coordination Centres, which occupy a central role in the cybersecurity landscape as foreseen in Regulation (EU) 2021/887. Due to the synergetic role, they play with regards activities at national, regional and local levels, such as addressing cybersecurity in national policies on research, development and innovation in the area of, and in particular in those policies stated in the national cybersecurity strategies, they must be able to handle sensitive information, and be protected against possible dependencies and vulnerabilities in cybersecurity to pre-empt foreign influence and control. As previously noted, participation of non-EU entities entails the risk of highly sensitive information about security infrastructure, risks and incidents being subject to legislation or pressure that obliges those non-EU entities to disclose this information to non-EU governments, with an unpredictable security risk. Therefore, based on the outlined security reasons, the actions relating to SOCs are subject to Article 12(5) of Regulation (EU) 2021/694, in consistency with WP 2021/2022.
+
+
+Conditions: 
+Conditions
+
+
+1.&nbsp;Admissibility conditions: described in section 5 of the call document&nbsp;
+Proposal page limits and layout:&nbsp;described in Part B of the Application Form available in the Submission System
+2. Eligible countries:&nbsp;described in section 6 of of the call document
+3. Other eligibility conditions:&nbsp;described in section 6 of the call document
+4. Financial and operational capacity and exclusion:&nbsp;described in&nbsp;section 7 of the call document
+5.&nbsp;Evaluation and award:
+
+    Award criteria, scoring and thresholds:&nbsp;described in section 9 of the call document
+
+
+    Submission and evaluation processes:&nbsp;described&nbsp;section 8 of the call document and the&nbsp;Online Manual
+
+
+    Indicative timeline for evaluation and grant agreement:&nbsp;described in section 4 of the call document
+
+6. Legal and financial set-up of the grants:&nbsp;described&nbsp;in section 10 of the call document
+Documents
+
+Call document is accessible&nbsp;here
+Standard application form&nbsp;&mdash;&nbsp;call-specific application form is available in the Submission System
+Detailed budget table - available in the Submission System
+
+DIGITAL EUROPE PROGRAMME&nbsp;General MGA v1.0
+
+Guidance Classification of information in DIGITAL projects
+Guidelines on&nbsp;How to Complete your Ethics Self-Assessment
+Guidance on participation in DEP - restricted calls&nbsp;
+&nbsp;
+WORK PROGRAMME&nbsp;-&nbsp;Cybersecurity Work Programme&nbsp;2023-2024
+Digital Europe -&nbsp;Regulation 2021/694
+EU Financial Regulation 2018/1046
+
+Support Info: 
+For help related to this&nbsp;call, please contact us&nbsp;here
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; Submission of proposals.
+IT Helpdesk&nbsp;&ndash; Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+Online Manual&nbsp;&ndash; Step-by-step online guide through the Portal processes from proposal preparation and submission to reporting on your on-going project. Valid for all 2021-2027 programmes.
+

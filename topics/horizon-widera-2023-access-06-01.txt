@@ -1,0 +1,81 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-widera-2023-access-06-01","file_display_name":"Hop on Facility","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:The Hop On Facility allows for legal entities from low R&amp;I performing countries to join already selected collaborative R&amp;I actions, subject to the agreement of the respective consortium and provided that legal entities from such countries are not yet participating in it. The scheme aims to improve the inclusiveness of Horizon Europe by involving more research institutions from Widening countries under Horizon Europe Pillar 2 and EIC Pathfinder actions.Main selection criteria are excellence and added value of the new partner performing a relevant additional task in the project. All consortium partners need to agree on the accession of the new partner whereas the R&amp;I relevance and complementarity needs to be demonstrated. The accepted application will trigger a GA amendment with the service in charge of the related topic.Project results are expected to contribute to the following expected outcomes:At system level, it mobilises excellence in the Widening countries, increases visibility of the participants from the Widening countries, improves knowledge circulation, and reduces lack of participation of the Widening countries in specific thematic domains;At organisation level, it opens up silos of established closed consortia, improves research excellence of the Widening country’s institutions in specific fields, enlarges outreach of the participants’ R&amp;I actions and provides access to new talent pools;At the level of the beneficiary, new competencies and skills for working in transnational projects including research management and dissemination and exploitation are acquired. 
+Scope:The Hop On Facility integrates one additional participant from a Widening country to an ongoing project under Pillar 2 or the EIC pathfinder scheme while topping up a relevant task or work package and the cost incurred by the additional participant. This will happen on a voluntary basis without affecting the freedom of choice for the consortium and the principle of excellence. The Hop On Facility is open to all topics under Pillar 2 and the EIC pathfinder. Applications with activities that contribute to the policy objective of the transition towards a green and digital economy are especially encouraged.The action will be part of an existing project with a valid Grant Agreement. Applications must demonstrate the R&amp;I added value of the new partner and present a visible and distinct work package for the acceding partner. The proposal should include a detailed description of the profile of the new partner and its role in the existing project. The additional partner and task should be presented in a dedicated proposal template with the Description of the Action (DOA) of the ongoing action uploaded as an annex. Selected consortia will be invited to submit an amendment request for accession of a new partner, modification of the description of the action and upgrade of the budget.The budget increase must be exclusively for the benefit of the new partner with the exception of a coordination fee of up to 10% of the increased budget to be allocated to the coordinator of the consortium. The coordinator may request the coordination fee and provide an explanation on the additional integration efforts for the new partner.
+
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+Legal entities established in Widening countries may join already selected actions, subject to the agreement of the respective consortium and provided that legal entities from such countries are not yet participating in it.
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+The proposal will be evaluated by independent experts focusing on the added value of the new partner and the work-package(s) or task(s) assigned to this institution in the context of the ongoing project. The ongoing project as such is not subject of the evaluation. In case of proposals receiving equal score in the ranking procedure, a preference will be given to those proposals with a particular relevance to green or digital transitions of the economy.
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions: described in the [specific topic of the Work Programme]
+&nbsp;
+
+Documents
+Call documents:
+Customised application form&nbsp;available on the submission call page.
+&nbsp;
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE RIA, IA)
+&nbsp;
+MGA
+HE General MGA v1.0
+&nbsp;
+Information on clinical studies (HE)
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 11. Widening participation and strengthening the European Research Area
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

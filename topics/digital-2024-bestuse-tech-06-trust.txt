@@ -1,0 +1,45 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/digital-2024-bestuse-tech-06-trust","file_display_name":"European Digital Identity and Trust Ecosystem (Standards and Sample Implementation)","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:DeliverablesSupport for two successive waves of large-scale pilotsto test the deployment of the EU Digital Identity Wallet in priority use cases, including pilots using EBSI to support the EU Digital Identity Wallet in cross border use cases, deploying the EU Digital Identity Wallet in national eID ecosystems by Member States. The second round of grants should help enhance technical specifications and implementation guidelines for the wallet and its eco-system and prepare its application in a new range of use cases, enabling it to support interaction with a wide range of public and private services and related attestations.
+Objective:ObjectiveThe action aims to support the implementation of the European Digital Identity and Trust Ecosystem and manage the transition between the current and future frameworks supplementing or replacing the current digital service infrastructure (eID) by the EU Digital Identity Wallet framework. For this purpose, Member States and other participants to the European Digital Identity Ecosystem shall be enabled to rely on a set of specifications and tools supporting the implementation of the wallet, other identity means and trust services.Furthermore, in support of the new European Digital Identity and Trust Ecosystem the following digital service infrastructures for trust services in support of European cross border digital transactions will be defined, developed adjusted and maintained in cooperation with Member States where necessary and appropriate for the purpose of supporting digital solutions across policy domains’ specific projects, enabling "interoperability by design" and ensuring accessibility for persons with disability and older persons:the European Trust Services Ecosystem allowing companies, citizens and administrations to validate European qualified trust service providers supporting the governance of the eIDAS regulatory system;the eID component ensuring legal, organisational, semantic and technical interoperability for accessible and secure digital operations that require cross-border identity recognition as well as future frameworks supplementing or replacing it;further improvement of the EU Digital Identity Wallet covering the specification as well as the reference implementation (Software) and potentially necessary central components maintained by the Commission.eDelivery as a standards-based solution for safe and cryptographically secured data exchange over the internet, which underpins much of the data exchange between Member States and/or the Commission and Member States in multiple Domains;eSignature maintaining the standards-based approach for safe and cryptographically secured communication of intent in digital transactions. The library for electronic signature is re-used by multiple European trust services leveraging the opportunities created by the eIDAS regulation;eArchiving preserving data in an open, interoperable and sustainable way. In addition to supporting actions from the previous WP, during this new period eArchiving will also review its standards with stakeholders, create new specifications following the common data spaces development, develop the curriculum of digital preservation skills to support capacity building, establish an EU cross-border network of digital preservation experts and deploy and promote the new eArchiving certification initiative. 
+Scope:ScopeThe action will be implemented using grants and focuses on pilot implementations of the EU Digital Identity Wallet and its ecosystem by public and private sector service providers validating technical references, standards, components and solutions, with regards to new use cases for exchanging digital attestations of attributes and identity credentials by means of a personalised digital wallet. These activities could also include innovative technical solutions based on electronic ledgers such as those developed by EBSI where the use of blockchain is assessed as adding value.
+
+
+Conditions: 
+Conditions
+
+
+1.&nbsp;Admissibility conditions: described in section 5 of the call document&nbsp;
+Proposal page limits and layout:&nbsp;described in Part B of the Application Form available in the Submission System
+2. Eligible countries:&nbsp;described in section 6 of of the call document
+3. Other eligibility conditions:&nbsp;described in section 6 of the call document
+4. Financial and operational capacity and exclusion:&nbsp;described in&nbsp;section 7 of the call document
+5.&nbsp;Evaluation and award:
+
+    Award criteria, scoring and thresholds:&nbsp;described in section 9 of the call document
+
+
+    Submission and evaluation processes:&nbsp;described&nbsp;section 8 of the call document and the&nbsp;Online Manual
+
+
+    Indicative timeline for evaluation and grant agreement:&nbsp;described in section 4 of the call document
+
+6. Legal and financial set-up of the grants:&nbsp;described&nbsp;in section 10 of the call document
+Documents
+
+Call documents:&nbsp;CALL DOCUMENT
+Standard application form&nbsp;&mdash; call-specific application form is available in the Submission System 
+Digital Europe General MGA v1.0
+Digital Europe Work Programme 2023-2024
+&nbsp;
+Digital Europe Programme Regulation 2021/964
+&nbsp;
+EU Financial Regulation 2018/1046
+
+Support Info: 
+For help related to this&nbsp;call, please contact:&nbsp;HERE
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; Submission of proposals.
+IT Helpdesk&nbsp;&ndash; Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+Online Manual&nbsp;&ndash; Step-by-step online guide through the Portal processes from proposal preparation and submission to reporting on your on-going project. Valid for all 2021-2027 programmes.
+

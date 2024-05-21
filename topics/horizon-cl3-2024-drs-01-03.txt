@@ -1,0 +1,80 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl3-2024-drs-01-03","file_display_name":"Harmonised / Standard protocols for the implementation of alert and impact forecasting systems as well as transnational emergency management in the areas of high-impact weather / climatic and geological disasters","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Projects’ results are expected to contribute to some or all of the following outcomes:Enhanced links between scientific community and first and second responders promoting user-targeted research and faster transfer of science results into best practices;Enhanced adoption of novel technologies such as advanced Earth Observation capabilities and capabilities such as those from Earth Observation space technologies into prevention and management practices and tools;Improvement of meteorological input (wind, temperature, precipitation, soil humidity) for extremes related to heat and drought (forest fires, heatwave, agricultural damage, low water for hydro power), especially concerning the support of counter activities;Improved methods for cross-border and cross-sectoral knowledge transfer about risk, vulnerability, exposure, and monitoring methods;Development of common technical standards of alert and impact forecasting systems that cope more efficiently with transboundary emergencies and for GIS-based information systems dealing with high-impact weather / climatic and geological disasters management during emergencies;Identification of needs and opportunities for transferring advanced scientific results into enhancement in disaster logistics and responses, including tailor-made education and training programmes for emergency management teams.  
+Scope:Europe is confronted with increasingly intense and sometimes unexpected consequences of natural disasters ranging from floods and heavy rain events to droughts and large-scale forest fires even in hitherto not affected regions, as well as other geohazards such as volcanic eruptions and landslides. To respond to these emerging challenges an integrated transnational emergency management is needed efficiently linking systems available at the European level such as, for example, the Copernicus Emergency Management Service, with national, regional or local systems. Furthermore, an evaluation of applied disaster risk reduction methods is required, in particular alert and impact forecasting systems, to identify potential for improvement and constant innovation.Knowledge transfer (cross-border and cross-sectoral) about natural hazards-related risks and emergency management is essential to increase the resilience of societies. A vital dialogue and exchange of good practice examples among scientific and technical communities, stakeholders, policymakers and local communities is needed. In particular, the level of awareness of EU citizens for local risks can be increased by new approaches to visualise risks, vulnerability and exposure through e.g. impact forecasting data and mapping including satellite data and information. Emergency management plays a crucial role in this regard, taking into account the ongoing urbanization and economic growth, which put a lot of pressure on areas such as floodplains and their ability to absorb and store water.Currently, there are no harmonised / standardised European methods for identifying vulnerability and exposure on the basis of which alert and impact forecasting systems are established, allowing this information to be used by civil protection authorities in a timely manner to improve disaster preparedness, communication to local authorities and population, evaluation logistics etc. Recent flash floods in Belgium, Germany and Luxembourg in July 2021 have shown that this lack of protocols hampered the efficient implementation of early warning and preparedness actions prior to the disaster event.This topic is part of a coordination initiative between ESA and the EC on Earth System Science. Under the EC-ESA Earth System Science Initiative both institutions aim at coordinating efforts to support complementary collaborative projects, funded on the EC side through Horizon Europe and on the ESA side through the ESA FutureEO programme. Proposals should include a work package, means and resources for coordination with complementary projects funded under the Science for Society element of the ESA FutureEO programme. The projects(s) should establish a close coordination and collaboration with the relevant ESA relevant actions and projects (https://eo4society.esa.int).In this context it is important to remind that standardisation should support operations and policymaking to supplement it but should by no means substitute it. While standardisation of technology may be more straightforward, the right balance does especially have to be sought for processes. The action should ensure close synergies with standardisation activities on European and international level.This topic requires the effective contribution of SSH disciplines and the involvement of SSH experts, institutions as well as the inclusion of relevant SSH expertise, in order to produce meaningful and significant effects enhancing the societal impact of the related research/innovation activities.In order to achieve the expected outcomes, international cooperation is also encouraged.
+
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+The following additional eligibility criteria apply:This topic requires the active involvement, as beneficiaries, of at least one organisation representing each of the following:- Practitioners (first and/or second responders),- Local and/or regional authorities,- Standardisation organisations,from at least 3 different EU Member States or Associated Countries.For participants with practitioner status, applicants must fill in the table “Information about security practitioners” in the application form with all the requested information, following the template provided in the submission IT tool.
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions: described in the [specific topic of the Work Programme]
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE RIA, IA)
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE RIA, IA)
+MGA
+HE General MGA v1.0
+Call-specific instructions: 
+ Template for Security &amp; eligibility conditions in Horizon Europe 
+
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 6. Civil Security for Society
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

@@ -1,0 +1,52 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/esf-2024-soc-imp","file_display_name":"Social innovation call for proposals: actions to develop impact performance intelligence services for the social impact investing market actors","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:The expected outcome of this call is to promote informed and better investment decisions, greater market transparency, and performance benchmarking, with the objective to promote investments in social purpose entities (social enterprises, social start-up, impact firms, etc.) through enhanced data capabilities services, and impact management tools and practicesHence, this call will match the need expressed by many actors in the market, which are showing an increasing data hunger, not enough addressed by current public and private initiatives.
+Scope:The objective of the call is to promote the provision of enhanced data capabilities services, as well as impact management tools and practices to social purpose entities (such as –but not exclusively- social enterprises, social economy entities, social start-up, impact firms) to increase their social impact investment capacity. A stronger, more transparent, and better functioning market for social impact investment is instrumental to deliver on the European Pillar of Social Rights by promoting investments in many of the areas covered by its principles, and especially the following: 3. Equal opportunities, 4. Active support to employment, 5. Secure and adaptable employment, 11. Chilcare and support to children, 12. Social protection, 17. Inclusion of people with disabilities, 18. Long-term care, 19. Housing and assistance for the homeless, and 20. Access to essential services.
+
+
+Conditions: 
+1.   Eligible countries: as described in the Call document.
+&bull;	EU Member States (and their overseas countries and territories) ;
+&bull;	EEA countries, in accordance with the EEA Agreement;
+&bull;	EU acceding countries, candidate countries and potential candidate countries, in line with the agreements concluded with them.
+&bull;	Third countries having signed an agreement to participate in the strand or a third country listed in the EaSI work programme if necessary for the achievement of the objectives of an action.
+Do note that for certain calls only EU Member States and EEA countries are eligible
+&nbsp;
+2.   Eligibility and admissibility conditions: as described in the Call document.
+Applications must be submitted before the call deadline and electronically via the Funding &amp; Tenders Portal Electronic Submission System. Paper submissions are NOT possible.
+Applications (including annexes and supporting documents) must be submitted using the forms provided inside the Submission System.
+Applications must be complete and contain:
+- Application Form (Part A)
+- Application Form (Part B)
+- Annexes and supporting documents (to be uploaded as PDF files).
+At proposal submission, the lead applicant will have to confirm that it has the mandate to act for all applicants; that the information in the application is correct and complete and that the participants comply with the conditions for receiving EU funding (especially eligibility, financial and operational capacity, exclusion, etc). Before signing the grant, each beneficiaries and affiliated entities will have to confirm this again by signing a declaration of honour (DoH).
+Applications must be readable, accessible and printable, not exceeding [70]&nbsp;pages.
+&nbsp;
+3.   Evaluation
+The award criteria for this call are as follows (see full details in call text point 9, pages 25 &amp; 26):
+
+&nbsp;
+4.   Indicative timetable for evaluation and grant agreement: as described in the Call document.
+
+&nbsp;
+5.   Proposal templates, guidance and model grant agreements (MGA):
+Call document:&nbsp;https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/esf/wp-call/2024/call-fiche_esf-2024-soc-imp_en.pdf
+Standard proposal template:&nbsp;&nbsp;https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/temp-form/af/af_esf-socpl_en.pdf
+Mono/Multi-beneficiary Model Grant Agreement
+Core:&nbsp;https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_esf-socpl_en.pdf
+Annex 1 to Grant Agreement:&nbsp;https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/temp-form/gap/doa_esf-socpl_en.docx&nbsp;
+Annotated Grant Agreement: Aga_en.pdf (europa.eu)&nbsp;: Please be aware that the Manual is being slightly developed following the new Programmes using the Portal. That is why it is marked &ldquo;draft&rdquo;.
+&nbsp;
+
+Support Info: 
+
+-&nbsp;&nbsp;&nbsp;&nbsp;Funding &amp; Tenders Portal FAQ&nbsp;: FAQ on submission of proposals
+-&nbsp;&nbsp;&nbsp;&nbsp;IT Helpdesk&nbsp;: Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+-&nbsp;&nbsp;&nbsp;&nbsp;Online Manual&nbsp;: The Online Manual is Step-by-step online guide through the Portal processes from proposal preparation and submission to reporting on your ongoing project. Valid for all 2021-2027 programmes. (roles &amp; access rights, proposal submission and evaluation, grant management, amendments, etc.). Each explanation leads to the corresponding &ldquo;IT How to&rdquo; page (see here after).
+-&nbsp;&nbsp;&nbsp;&nbsp;IT How to - IT How To - Funding Tenders Opportunities (europa.eu)&nbsp;: Detailed instructions on how to apply for EU funding, from how to register your organisation,&nbsp;how to manage the roles and access rights to your organisations, proposals and&nbsp;to how to submit your proposal. It gives also detailed&nbsp;instructions on and on how to manage your grant if you are selected.
+-&nbsp;&nbsp;&nbsp;&nbsp;Support overview (europa.eu)&nbsp;:&nbsp;Page gathering all support tools (overview, guidance and manuals, FAQ's, helpdesk, support videos)
+-&nbsp;&nbsp;&nbsp;&nbsp;ESF+ direct (EaSI) | European Social Fund Plus (europa.eu)&nbsp;;
+For help related to this call, if you did not find an answer in the various support means, please contact: EMPL-SOCIAL-IMPACT@ec.europa.eu
+
+

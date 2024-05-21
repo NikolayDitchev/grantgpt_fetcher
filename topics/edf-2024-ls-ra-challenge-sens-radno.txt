@@ -1,0 +1,52 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/edf-2024-ls-ra-challenge-sens-radno","file_display_name":"Multi-sensor integration for robust autonomous drone navigation – Organisation of a technological challenge","status":"OK"} -->
+
+Description: 
+Objective:The proposals must address the organisation of a technological challenge on autonomous drone navigation in non-permissive environments based on the preliminary evaluation plan provided as part of the call documents (cf. Annex 4a). This includes the collection of data recorded by the participating teams during field tests, the annotation of this data, and the sharing of the resulting databases.
+Scope:The proposals should address the organisation of a technological challenge on HLT based on the preliminary evaluation plan provided as part of the call document (cf. Annex 4a). This includes the collection, annotation and distribution of data, and the writing of the evaluation plans.Types of activitiesThe following table lists the types of activities which are eligible for this topic, and whether they are mandatory or optional (see Article 10(3) EDF Regulation):          Types of activities (art 10(3) EDF Regulation)      Eligible?                (a)      Activities that aim to create, underpin and improve knowledge, products and technologies, including disruptive technologies, which can achieve significant effects in the area of defence (generating knowledge)      Yes(optional)            (b)      Activities that aim to increase interoperability and resilience, including secured production and exchange of data, to master critical defence technologies, to strengthen the security of supply or to enable the effective exploitation of results for defence products and technologies (integrating knowledge)      Yes(mandatory)            (c)      Studies, such as feasibility studies to explore the feasibility of new or upgraded products, technologies, processes, services and solutions      Yes(optional)            (d)      Design of a defence product, tangible or intangible component or technology as well as the definition of the technical specifications on which such a design has been developed, including any partial test for risk reduction in an industrial or representative environment      Yes(optional)            (e)      System prototyping of a defence product, tangible or intangible component or technology      No            (f)      Testing of a defence product, tangible or intangible component or technology      No            (g)      Qualification of a defence product, tangible or intangible component or technology      No            (h)      Certification of a defence product, tangible or intangible component or technology      No            (i)      Development of technologies or assets increasing efficiency across the life cycle of defence products and technologies      No       Accordingly, the proposals must cover at least the following tasks as part of mandatory activities:Integrating knowledge:   Setting up of the hardware and software infrastructures for testing autonomous navigation technologies in the framework of the technological challenge.       Collection of sensor data from the participating teams, labelling/annotation of the data with the expected outputs against which the system outputs will be evaluated (“ground truth”) or establishment of such expected outputs as needed, and quality assessment, distribution, and curation of databases.Organisation of the evaluation campaigns, and in particular:     coordination of the exchanges with the other stakeholders on the evaluation plans and elaboration of these plans;management of the field and data-based test campaigns and of the objective measurements of the performances of the systems submitted to the tests by the participating teams according to the protocols and metrics described in the evaluation plans;organisation of the debriefing workshops.           The proposals should substantiate synergies and complementarities with foreseen, ongoing or completed activities for the objective and comparative evaluation of the performances of autonomous navigation technologies.Functional requirementsThe proposed solutions should enable to measure the performances of the tested systems according to detailed evaluation plans based on the preliminary evaluation plan provided as part of the call documents (see Annex 4a). Key aspects of the foreseen detailed evaluation plans and associated data management should be described in the proposals.Proposals should in particular describe:the scenarios, nature and size of the test ranges, and the environmental conditions;the set up for establishing the reference positions of drones during field tests and the expected positioning accuracy;the nature and volume of data annotation;the quality control of the annotations;the framework for trusted sharing of data;the detailed programme of the data-based and field test campaigns;the evaluation procedures (rules and tools to implement the metrics) and significance tests to be performed on measurements. The proposed scenarios should be representative of a wide range of situations encountered in military operations, including communications and GNSS loss, possibly due to jamming and spoofing attacks.Trust should be ensured in the quality of the data annotation. Part of the data should be subject to double annotation by two independent annotators and the inter-annotator agreement should be analysed. The statistical significance of the measured results should be estimated.The detailed programme of the field test campaigns should be based on the hypothesis that at least four teams will participate. The possibility to accommodate for additional participants beyond this baseline and the impact on the field test programme should be described in the proposals.During the challenge, drafts of the detailed evaluation plans should be submitted for discussion to the participating teams and to any stakeholder designated by the funding authority, early enough to take into account the feedback for the actual evaluation campaigns. Any evolution of the evaluation plans should take into account several factors: technical possibilities and costs, scientific relevance of the measurement, and representativeness of the metrics and protocols with respect to military needs. The justification of any change that is not subject to a consensus should be documented.
+Expected Impact:The outcome should contribute to:collaboration, knowledge sharing, and new partnerships that drive collective progress in autonomous drone navigation at the EU level;improved knowledge and understanding on the capabilities of European industry to integrate sensors in UAS;improved technologies for autonomous navigation of drone swarms, and more generally improved performance of combat drones;certification of technologies for autonomous drone navigation;improved capabilities of the European Member State armed forces to prepare the use of drones in difficult environments involving GNSS jamming, communications jamming, and various obstacles. 
+
+
+Conditions: 
+1. Admissibility conditions: described in section 5 of the call document
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in section 6 of the call document &nbsp;
+3. Other eligibility conditions: described in section 6 of the call document
+4. Financial and operational capacity and exclusion: described in section 7 of the call document
+5. Evaluation and award:
+Award criteria, scoring and thresholds: described in section 9 of the call document
+Submission and evaluation processes: described section 8 of the call document and the Online Manual
+Indicative timeline for evaluation and grant agreement: described in section 4 of the call document &nbsp;
+6. Legal and financial set-up of the grants: described in section 10 of the call document &nbsp;
+ 
+Call documents:&nbsp;
+Call document&nbsp;
+&nbsp;
+Templates for proposals should be downloaded from the Submission System (available at the opening of the call), the links below are examples only:
+-&nbsp;EDF Standard&nbsp;application&nbsp;form&nbsp;
+-&nbsp;Detailed budget table (EDF LS RA)
+-&nbsp;Participant information&nbsp;(including previous projects, if any)
+-&nbsp;List of infrastructure, facilities, assets and resources
+-&nbsp;Actual indirect cost methodology declarations&nbsp;(if actual indirect costs used)
+-&nbsp;Ownership control declarations&nbsp;(including for associated partners and subcontractors involved in the action)
+-&nbsp;PRS declaration&nbsp;(if the project requires access to Galileo PRS information)&nbsp;
+&nbsp;
+
+EDF, ASAP and EDIRPA Lump Sum MGA &mdash; Multi &amp; Mono V1.0&nbsp;
+
+&nbsp;
+Additional documents:&nbsp;
+EDF Annual Work Programme 
+EDF Regulation 2021/697&nbsp;
+EU Financial Regulation 2018/1046&nbsp;
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment&nbsp;
+EU Grants AGA &mdash; Annotated Model Grant Agreement&nbsp;
+Funding &amp; Tenders Portal Online Manual&nbsp;
+Funding &amp; Tenders Portal Terms and Conditions&nbsp;
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+For help related to this&nbsp;call, please contact:&nbsp;DEFIS-EDF-PROPOSALS@ec.europa.eu
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; Submission of proposals.
+IT Helpdesk&nbsp;&ndash; Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+Online Manual&nbsp;&ndash; Step-by-step online guide through the Portal processes from proposal preparation and submission to reporting on your on-going project. Valid for all 2021-2027 programmes.
+

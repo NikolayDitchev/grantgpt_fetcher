@@ -1,0 +1,80 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-msca-2024-rr-01-01","file_display_name":"MSCA Researchers at Risk 2024","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Project results are expected to contribute to the following outcomes:A more consistent and sustained level of coordination and preparedness for supporting researchers at risk at European, national and institutional level;Improved support to researchers at risk through the provision of policy recommendations, as well as advice and assistance on their implementation;A more sustainable and professionalised support network/structure/system for researchers at risk across Europe, facilitating access to funding and networking opportunities, creating level playing field for applicants to European and national R&amp;I programmes, and raising the quality of submitted proposals;More synergies between initiatives supporting researchers at risk funded by EU programmes (such as Horizon Europe and Erasmus+) and national or institutional actors;Increased exposure of researchers at risk to the industry and to the non-academic sector;Greater awareness in Europe and beyond on why researchers are at risk and ways to support them. 
+Scope:To build on the available results of past and on-going Researchers at Risk initiatives[1] further support is envisaged towards national and international organisations working with researchers at risk and aiming to enhance and professionalise their activities. It should further facilitate and strengthen cooperation and linkages between European, national and institutional initiatives and programmes, increasing awareness on why researchers are at risk, as well as identifying and delivering the best possible solutions to the challenges these researchers are confronted with.The support action should be aligned with the general objectives of the MSCA, in particular scientific excellence, skills and career development, inter-sectoral mobility, equal opportunities and inclusiveness, attractive working conditions, work/life balance, while fostering open science, innovation and entrepreneurship. It should not duplicate other actions foreseen under Horizon Europe or other EU-funded programmes such as Erasmus+, but rather build synergies between these programmes. The activities carried out under this support action should complement actions in Member States and third countries associated to Horizon Europe.The expected duration of the action is 36 months.
+[1]Eg. Inspireurope (Inspireurope - SAR Europe) ; Inspireurope+ ; MSCA4Ukraine
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+The granting authority can fund a maximum of one project.
+The evaluation committee will be composed partially or fully by representatives of EU institutions.
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions: described in the MSCA part of the Work Programme
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE CSA)
+&nbsp;
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE CSA)
+&nbsp;
+MGA
+HE General MGA v1.0
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 2. Marie Skłodowska-Curie Actions
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

@@ -1,0 +1,87 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl5-2024-d6-01-02","file_display_name":"Scenario-based safety assurance of CCAM and related HMI in a dynamically evolving transport system (CCAM Partnership)","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Project results are expected to contribute to all of the following expected outcomes:   Safe scaling up of the deployment of CCAM systems for all levels of automation, including systems that for part of the driving phases rely on human-machine interaction.Assurance of vehicle safety despite system changes, e.g., due to software updates and data exchanges between vehicles and the infrastructure.Facilitating the introduction of fast developing technological innovations in the CCAM system’s functionality, such as AI.  
+Scope:To ensure the safety of CCAM, it is essential that vehicles are not only safe during the (first) type approval, but also during their complete lifetime in a fast-changing road transport system. Changes can result from the evolution of the CCAM system itself, for example, as a result of increasing connectivity using V2X communication, the use of AI-based systems, and OTA (over-the-air) software updates. The traffic system, in which CCAM systems are being deployed, is changing at a rapid pace as well, with an increased market share of vehicles with higher levels of automation, new (personal) mobility devices and autonomous mobility robots (e.g., for package delivery). At the same time, the way CCAM systems interact with humans in traffic is changing. Until full automation in transport is reached, the human driver will keep on playing an essential role. Also, the interaction with other road users will change, supported by technologies that allow a CCAM system to communicate its intentions to other road users. As a consequence of these innovations and developments, the safe deployment of CCAM systems needs an extension of the safety validation procedures and certification schemes, taking advanced human-machine interaction and a continuous in-service monitoring approach into account. Due to the many different scenarios and variations that can occur realistically and that consequently need to be tested, it should be possible that a large part of the assessment is performed in a virtual simulation environment. The proposed actions are expected to address all of the following aspects:   Developing a validation methodology for scenario-based safety assurance of AI-based CCAM functions. Trustworthiness of the AI-algorithms depends on how well the system responds to scenarios in its Operational Design Domain (ODD) – specificity and how it responds in case it ends-up outside its ODD – robustness. Consequently, methods need to be developed on the use of scenarios to describe the ODD of AI-based systems.Connectivity. Developing validation procedures for CCAM systems that rely on V2X for safety-critical functions i.e., the inclusion of the connectivity context. Ensuring aspects of reliability, trustworthiness and cyber-security with respect to V2X is essential. The approach to V2X connectivity is technology neutral.Continuous Safety Assurance approach. Developing an approach for a continuous safety validation methodology, to monitor the safety state of deployed CCAM systems in operation (real traffic) during its service life, following type approval. Performance metrics for the reliability of the monitored data, including cyber-security aspects, and indicators for the safety state should be proposed. Also needed is the development of requirements for the monitoring system for use in future standardisation, regarding the exchange of data and safety performance indicators with service organisations and authorities.Validating the virtual approach. Developing tools that ensure the relevant degree of detail and the appropriate representation of other road users’ behaviour (incl. Vulnerable Road Users such as pedestrians and/or bicyclists) in virtual scenario-based testing. This includes methods to deal with perception, localisation, and world modelling errors in the validation procedures.Human Machine Interaction. Developing a safety assurance methodology that incorporates the assessment of Human Machine Interaction (both driver-vehicle and vehicle-road user) concepts for higher levels of automation (conformity checks as well as test set-ups with suitable metrics) ensuring safe communication between driver and vehicle and between vehicle and other road users, making Human Machine Interaction inclusive (i.e. in terms of age, mental and physical ability, cultural aspects, etc.).  Proposed actions are expected to develop recommendations for harmonisation and standardisation and to feed into on-going discussions regarding EU type vehicle approval rules as well as in the framework of the UNECE.Actions should be based on the outcomes of previous methodologies developed in HEADSTART[1], as well as research funded under HORIZON-CL5-2021-D6-01-02[2].Upcoming CCAM projects, in particular in the area of large-scale demonstrations, validation, digital infrastructure and key enabling technologies should be taken into account to ensure compatibility.Links should be established with the Mobility Data Space initiatives from Digital Europe, federated data infrastructure projects (Gaia-X, International Data Spaces, Big Data Value - BDV). In order to achieve the expected outcomes, international cooperation is encouraged, in particular with Japan and the United States but also with other relevant strategic partners in third countries.This topic implements the co-programmed European Partnership on ‘Connected, Cooperative and Automated Mobility’ (CCAM). As such, projects resulting from this topic will be expected to report on results to the European Partnership ‘Connected, Cooperative and Automated Mobility’ (CCAM) in support of the monitoring of its KPIs.
+Specific Topic Conditions:Activities are expected to achieve TRL 5 by the end of the project – see General Annex B.
+[1]https://www.headstart-project.eu/[2] “Common approaches for the safety validation of CCAM systems”
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).
+The following exceptions apply: subject to restrictions for the protection of European communication networks.
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions: described in the specific topic of the Work Programme
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE RIA, IA)
+Standard application form (HE RIA IA Stage 1)
+&nbsp;
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE RIA, IA)
+&nbsp;
+MGA
+HE General MGA v1.0
+HE Unit MGA v1.0
+&nbsp;
+Call-specific instructions
+Detailed budget table (HE LS)
+Information on financial support to third parties (HE)
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 8. Climate, Energy and Mobility
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

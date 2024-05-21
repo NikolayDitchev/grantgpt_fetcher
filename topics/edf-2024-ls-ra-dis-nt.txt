@@ -1,0 +1,52 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/edf-2024-ls-ra-dis-nt","file_display_name":"Non-thematic research actions targeting disruptive technologies for defence","status":"OK"} -->
+
+Description: 
+Objective:The specific challenge is to lay the foundations for radically new future technologies of any kind with unexpected impact that aims to bring radical technological superiority over potential adversaries. This topic also encourages the driving role of new actors in defence research and innovation, including excellent researchers, ambitious high-tech SMEs and visionary research centres of big companies, universities or research and technology organisations.
+Scope:The proposals are sought for cutting-edge, high-risk/high-impact research leading to game-changing impact in a defence context. They must have the following essential characteristics:a disruptive impact in a defence context: the proposals need to clearly address how the proposed solutions would create a disruptive effect when integrated in a realistic military operation;radical vision: the proposals must address a clear and radical vision, enabled by a new technology concept that challenges current paradigms. In particular, research to advance on the roadmap of a well-established technological paradigm, even if high-risk, will not be funded;breakthrough technological target: the proposals must target novel and ambitious scientific or technological breakthroughs that can be experimentally assessed, and the suitability of the concept for new defence applications must be duly demonstrated. Basic research without a clear technological objective targeting defence applications will not be funded. The inherently high risks of the research proposed must be mitigated by a flexible methodology to deal with the considerable science-and-technology uncertainties and for choosing alternative directions and options.The proposals must address disruptive technologies and should include clear descriptions of the proposed criteria to assess work package completion.The proposals may address any area of interest for defence, such as, but not limited to, the following ones:Measurement and monitoring of physiological and cognitive state;Optimisation of cognitive performance in human-machine interaction, including for human-robot teaming;Blockchain applications (e.g., for Identification of Friend or Foe);Tools and applications improving cybersecurity talents screening;Artificial intelligence and robotic autonomous systems;System health monitoring and through life-cycle interoperability;Solutions for mechanical and “green” chemical recycling of waste of soldier individual equipment (uniforms, helmets, boots, rucksacks, plastic elements, harness, etc.);Concepts and corresponding technologies to ensure a safe water reuse throughout the entire water cycle of a deployable camp or a deployed combat group, including with microbial safety and hygiene considerations;Synthetic fuel production from waste and biomass for military use;High Power Microwave (HPM) Electronic Waveform Technology countering electronic systems;Technologies for advanced Printed Circuit Boards (PCB) for defence electronics. Types of activitiesThe following table lists the types of activities which are eligible for this topic, and whether they are mandatory or optional (see Article 10(3) EDF Regulation):          Types of activities (art 10(3) EDF Regulation)      Eligible?                (a)      Activities that aim to create, underpin and improve knowledge, products and technologies, including disruptive technologies, which can achieve significant effects in the area of defence (generating knowledge)      Yes(mandatory)            (b)      Activities that aim to increase interoperability and resilience, including secured production and exchange of data, to master critical defence technologies, to strengthen the security of supply or to enable the effective exploitation of results for defence products and technologies (integrating knowledge)      Yes(optional)            (c)      Studies, such as feasibility studies to explore the feasibility of new or upgraded products, technologies, processes, services and solutions      Yes(optional)            (d)      Design of a defence product, tangible or intangible component or technology as well as the definition of the technical specifications on which such a design has been developed, including any partial test for risk reduction in an industrial or representative environment      Yes(optional)            (e)      System prototyping of a defence product, tangible or intangible component or technology      No            (f)      Testing of a defence product, tangible or intangible component or technology      No            (g)      Qualification of a defence product, tangible or intangible component or technology      No            (h)      Certification of a defence product, tangible or intangible component or technology      No            (i)      Development of technologies or assets increasing efficiency across the life cycle of defence products and technologies      No       Functional requirementsThis call topic is open to any technology with a high disruption potential. The proposals should describe the targeted functionalities and the foreseen means to measure progress toward the achievements of these functionalities.
+Expected Impact:Scientific and technological contributions to the foundation of a future technology with disruptive applications in the area of defence.Enhanced innovation capacity of the European defence industry by identifying and exploring ground-breaking concepts and approaches or by applying technologies and concepts previously not applied in the defence sector.Enhanced competitiveness of the European defence industry and creation of new defence markets.Enhanced defence research and innovation capacity across Europe by involvement of actors that can make a difference in the future such as excellent researchers, ambitious high-tech SMEs or visionary departments of big companies, universities or research and technology organisations. 
+
+
+Conditions: 
+1. Admissibility conditions: described in section 5 of the call document
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in section 6 of the call document &nbsp;
+3. Other eligibility conditions: described in section 6 of the call document
+4. Financial and operational capacity and exclusion: described in section 7 of the call document
+5. Evaluation and award:
+Award criteria, scoring and thresholds: described in section 9 of the call document
+Submission and evaluation processes: described section 8 of the call document and the Online Manual
+Indicative timeline for evaluation and grant agreement: described in section 4 of the call document &nbsp;
+6. Legal and financial set-up of the grants: described in section 10 of the call document &nbsp;
+ 
+Call documents:&nbsp;
+Call document&nbsp;
+&nbsp;
+Templates for proposals should be downloaded from the Submission System (available at the opening of the call), the links below are examples only:
+-&nbsp;EDF Standard&nbsp;application&nbsp;form&nbsp;
+-&nbsp;Detailed budget table (EDF LS RA)
+-&nbsp;Participant information&nbsp;(including previous projects, if any)
+-&nbsp;List of infrastructure, facilities, assets and resources
+-&nbsp;Actual indirect cost methodology declarations&nbsp;(if actual indirect costs used)
+-&nbsp;Ownership control declarations&nbsp;(including for associated partners and subcontractors involved in the action)
+-&nbsp;PRS declaration&nbsp;(if the project requires access to Galileo PRS information)&nbsp;
+&nbsp;
+
+EDF, ASAP and EDIRPA Lump Sum MGA &mdash; Multi &amp; Mono V1.0&nbsp;
+&nbsp;
+&nbsp;
+Additional documents:&nbsp;
+EDF Annual Work Programme 
+EDF Regulation 2021/697&nbsp;
+EU Financial Regulation 2018/1046&nbsp;
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment&nbsp;
+EU Grants AGA &mdash; Annotated Model Grant Agreement&nbsp;
+Funding &amp; Tenders Portal Online Manual&nbsp;
+Funding &amp; Tenders Portal Terms and Conditions&nbsp;
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+For help related to this&nbsp;call, please contact:&nbsp;DEFIS-EDF-PROPOSALS@ec.europa.eu
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; Submission of proposals.
+IT Helpdesk&nbsp;&ndash; Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+Online Manual&nbsp;&ndash; Step-by-step online guide through the Portal processes from proposal preparation and submission to reporting on your on-going project. Valid for all 2021-2027 programmes.
+

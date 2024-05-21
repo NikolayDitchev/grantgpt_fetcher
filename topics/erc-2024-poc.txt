@@ -1,0 +1,755 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/erc-2024-poc","file_display_name":"ERC PROOF OF CONCEPT GRANTS","status":"OK"} -->
+
+Description: 
+Objective:ObjectivesThe ERC Proof of Concept Grants aim at facilitating exploration of the commercial and social innovation potential of ERC funded research and are therefore available only to Principal Investigators whose proposals draw substantially on their ERC funded research.
+Scope:Size of ERC Proof of Concept GrantsThe financial contribution will be awarded as a lump sum of EUR 150 000 for a period of 18 months. The ERC expects that normally proof of concept activities should be completed within 12 months. However, to allow for those projects that require more preparation time, the grant agreements will be signed for 18 months. Extensions of the duration of proof of concept projects may be granted only exceptionally.The lump sum will cover the beneficiaries' direct and indirect eligible costs for the project: if the project is implemented properly the amounts will be paid regardless of the costs actually incurred. The lump sum has been designed to cover the beneficiaries’ personnel costs, subcontracting, purchase costs, other cost categories and indirect costs.Profile of the ERC Proof of Concept Eligible Principal InvestigatorAll Principal Investigators in one of the main grants are eligible to participate and apply for an ERC Proof of Concept Grant. Principal Investigators in an ongoing main grant or in a main grant that has ended less than 12 months before 1 January 2024 are eligible to apply. For further information please see the ERC Work Programme 2024.
+
+
+Conditions: 
+General conditions
+1. Admissibility and Eligibility conditions: The conditions specific to the ERC&nbsp;grants are described in the ERC Work Programme 2024 under the heading 'Admissibility and eligibility criteria' and in the ERC Rules for Submission and Evaluation. An overview is provided below: 
+Admissible and eligible proposals: 
+All proposals must be complete, readable, accessible, and be submitted before the relevant deadline. Please pay attention to the new feature: As of 2024, applications to the Proof of Concept Grant will be evaluated and selected in TWO instead of three rounds, based on two specific cut-off dates. Incomplete proposals may be declared inadmissible (see ERC Proof of Concept Grant proposal submission and description below).
+The content of the proposal must relate to the objectives and to the grant type set out in the call, as defined in this Work Programme. If a proposal is considered not to relate to the objectives of the grant and/or call for proposals, it will be declared ineligible. Where there is a doubt on the admissibility or eligibility of a proposal, the evaluation may proceed pending a decision of the Responsible Authorising Officer following the opinion of the admissibility and eligibility review committee. If it becomes clear before, during, or after the evaluation phase, that one or more of the admissibility or eligibility criteria have not been met, the proposal will be declared inadmissible or ineligible and it will be rejected.
+ A  maximum of three Proof of Concept Grants may be awarded per main grant  project, except for Synergy Grant, in which case a maximum of six Proof  of Concept Grants may be awarded per ERC funded project. Proof of  Concept Grants may run in parallel provided they comply with the  eligibility conditions set out in the Work Programme under which they  have been awarded.
+Eligible Principal Investigator:
+All Principal Investigators in one of the main grants are eligible to participate and apply for an ERC Proof of Concept Grant. Principal Investigators in an ongoing main grant, or Principal Investigators in a main grant that has ended after 1 January 2023, are eligible to apply, subject to any restrictions provided in Annex 3 to this Work Programme. Principal Investigators may submit only one proposal under the Work Programme 2024 Proof of Concept call. If further submissions are made at different cut-off dates, only the first admissible and eligible proposal will be considered.
+A Principal Investigator whose proposal was rejected on the grounds of a breach of research integrity in the calls for proposals under Work Programmes 2022 or 2023 may not submit a proposal to the ERC-2024-PoC call.
+Synergy Grant Principal Investigators are eligible to apply to the ERC-2024-PoC call only with the written consent of all Principal Investigators in the same Synergy Grant project.
+Eligible Host Institution:
+The host institution (Applicant Legal Entity) must engage the Principal Investigator for at least the duration of the Proof of Concept project, as defined in the grant agreement, and must be established in a Member State or an Associated Country as a legal entity created under applicable national law.
+To be eligible, legal entities from a Member State or Associated Country that are public bodies, research organisations, or higher education institutions (including private research organisations and private higher education institutions) must have a gender equality plan or an equivalent strategic document in place for the duration of the project. The gender equality plan or equivalent must fulfil the mandatory requirements listed in Annex 5 to this Work Programme. Please also refer to Annex 3 - Countries Associated to Horizon Europe and Restrictions Applying to Some Legal Entities. The Principal Investigator (PI) can submit the PoC proposal with a different Host Institution (HI) than the  one where the ERC main frontier research grant is currently (or was)  implemented, provided that this other HI complies with the eligibility  criteria described in the ERC Work Programme 2024.
+
+&nbsp;
+Proposal submission and description:
+An&nbsp;Information for Applicants&nbsp;guidance  is published on the ERC&nbsp;website and on the EU&nbsp;Funding &amp; tenders  opportunities Portal: it describes in detail how the submission forms  should be completed.&nbsp;FAQs&nbsp;(Frequently Asked Questions) are also available.
+ATTENTION: use the new Part A and Part B forms specific to the ERC&nbsp;PoC  Lump Sum call under Horizon Europe -&nbsp; please download the latest version  at the submission link below.
+A complete PoC proposal is composed of:
+&bull; Administrative Part A form, including the Ethics Review Table  (available in section 4): is an electronic form, available at step 5 of  the submission process, once the draft proposal is created through the  submission link below.
+(NB: To access the submission tool, you need first to register to the&nbsp;Funding &amp; tender opportunities Participant Portal.)
+
+&bull;&nbsp;Proposal Part B form&nbsp;and annexes: download the two  templates available from the submission link below (at step 5, after  creation of draft proposal), fill in, upload in PDF format only and  submit it via the submission tool.
+&nbsp;- Part B (Proposal description): will provide detailed descriptions of the PoC project, its objectives, planning, execution, and required resources.
+&nbsp;&nbsp;&nbsp; It will comprise the following required elements:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - The idea and justification of the breakthrough innovation potential: max. 3 pages
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - The approach and methodology to explore the innovation potential: max. 6 pages
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - The strategic lead and project management of the Principal Investigator: max. 1 page.
+-&nbsp;Host Institution Binding Statement of Support&nbsp;Letter&nbsp;(NB:  For Principal Investigators in a Synergy grant, only the host  institution of the Principal Investigator applying to the PoC call must  confirm its association with and its support to the project and the  Principal Investigator.)
+-&nbsp;If applicable, an&nbsp;Ethics review self-assessment&nbsp;(with documentation related to ethics or security issues)&nbsp;and&nbsp;Letters of support or intent from potential stakeholders&nbsp;can be uploaded (in PDF format only).
+
+Proposal templates&nbsp;are provisional and will be available after entering the submission tool below.
+To ensure fairness to all applicants&nbsp;a strict limit of ten pages  (excluding the headers, references, and the risk mitigation table) will be applied to the length of proposals.&nbsp;Only  the material that is presented within this limit will be  evaluated&nbsp;(reviewers will only be asked to evaluate, and will be under  no obligation to read beyond, the material presented within the page  limit). The following parameters must be respected for the layout: A4  Page format, Times New Roman (or Arial or similar) Font type, at least  11 Font size, Single line spacing, 2 cm side margins, 1,5 cm top and  bottom margins.
+Complete proposals must be submitted electronically via the submission tool available through the&nbsp;Funding &amp; Tenders Portal. Further detailed guidance in the 'IT HOW TO' wiki site.
+Early registration and submission is strongly recommended and should be done&nbsp;as early as possible before&nbsp;the call deadline.
+&nbsp;
+2. Eligible countries: 
+The conditions specific to the ERC are described in the ERC Work Programme 2024 under the heading Admissibility and Eligibility criteria and in Annex 3. An overview is provided below:
+The ERC actions are open to&nbsp;researchers of any nationality&nbsp;who intend to conduct their research activity in any Member State or Associated Country.&nbsp;Principal Investigators&nbsp;may be of&nbsp;any age and nationality&nbsp;and may reside in any country in the world at the time of the application.
+
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+
+
+3. Financial and operational capacity and exclusion: 
+Financial capacity:&nbsp;Please refer to the&nbsp;ERC Rules of submission and evaluation under Horizon Europe&nbsp;section 4, Award Decision and Preparation of Grant Agreements.
+Operational capacity: &nbsp;As indicated in the ERC Work Programme 2024, pages 43-44: Applicants that are subject to the administrative sanction of exclusion or are in one of the exclusion situations set out by the EU Financial Regulation are banned from receiving EU grants and can NOT participate. See articles 136 and 141 of the EU Financial Regulation, as well as important information on possible exclusion and registration of economic operators in the Commission&rsquo;s Early Detection and Exclusion System (EDES) on the final page of this Work Programme.
+Security:&nbsp;Please refer to the ERC Work Programme 2024, Annex 4.
+Exclusion:&nbsp;Please refer to the ERC Work Programme 2024, Page 72 :&nbsp;Applicants  that are subject to the administrative sanctions of exclusion or are in  one of the exclusion situations set out by the Financial Regulation are  banned from receiving EU grants and can NOT participate.
+&nbsp;
+4.&nbsp;Evaluation and award:
+The conditions specific to ERC are described in the ERC Work Programme 2024,&nbsp;under the heading &quot;Evaluation criterion&quot; and &quot;Evaluation outcome&quot;, as well as in the&nbsp;ERC Rules for Submission and Evaluation.&nbsp;An overview is provided below:
+Evaluation criteria:
+Proof of Concept Grants are awarded in  relation to an ERC-funded project under one of the main grants. The  evaluation of admissible and eligible proposals will look into ideas  stemming from ERC-funded projects and will select among them the most  competitive for further development towards an innovation.&nbsp;The  activities to be funded will draw substantially on the ERC-funded  research under the main frontier research grant.
+For ERC Proof of Concept grants, excellence  is the sole criterion of evaluation. It will be applied in conjunction  to the evaluation of both: (1) the breakthrough innovation potential,  approach, and methodology of the project; (2) the strategic lead and  project management of the Principal Investigator.
+The detailed evaluation elements applying to the excellence of the project and the Principal Investigator are set out in the ERC Work Programme 2024.
+
+Evaluation      process:
+Experts will evaluate independently&nbsp;each admissible and  eligible proposal&nbsp;in a single-step process,&nbsp;and mark it as &quot;very good&quot;,  &quot;good&quot; or &quot;fail&quot; for each of the three evaluation elements: 1.a  Breakthrough innovation potential; 1.b Approach and methodology of the project, and  1.c. the strategic lead and project management of the Principal Investigator.
+In order to be considered for funding,  proposals will have to be awarded a pass mark (&ldquo;very good&rdquo; or &ldquo;good&rdquo;) by  a majority of experts on each of the evaluation elements. A proposal  which fails one or more of the elements will not be ranked and will not  be funded.
+If there is not enough budget to fund all the  proposals which pass all three evaluation elements, those proposals  which pass all three evaluation elements will be ranked according to the  marks which they received from experts sorted by the order in which the  evaluation elements appear above. Proposals will be funded in order of  this ranking.
+If necessary, experts will meet as an  evaluation panel in order to determine a priority order for proposals  which have the same ranking.
+A Seal of Excellence  will be awarded to proposals that have received a pass mark in all  three of the evaluation elements set out in this Work Programme, but  cannot be funded due to lack of budget available to the call.
+
+Indicative timeline for      evaluation of the ERC-2024-PoC call are set out in the ERC Work Programme 2024,&nbsp;under  the heading &ldquo;Summary of complementary funding and prizes with indicative budget  and timetable.&nbsp;The timetable is also available on our&nbsp;ERC Website Funding-Proof of Concept page&nbsp;(under &quot;ongoing evaluation&quot; and &quot;upcoming calls&quot;).
+Grant amount and duration&nbsp;of the grant agreement:
+The financial contribution will be awarded as a lump sum of&nbsp;EUR 150 000&nbsp;for a period of&nbsp;18 months.  The ERC expects that normally proof of concept activities should be  completed within 12 months. However, to allow for those projects that  require more preparation time, the grant agreements will be signed for  18 months. Extensions of the duration of proof of concept projects may  be granted only exceptionally.
+The indicative budget for the ERC-2024-PoC call is EUR 30 000 000.
+&nbsp;
+5. Legal and financial set-up of the grants: is described in the ERC Work Programme 2024, under the heading &ldquo;Grant amount, duration and assessment&rdquo;.
+See also:&nbsp;Multi &amp; Mono Grant Agreement for Lump Sum Grants. 
+&nbsp;
+6. Open Science: 
+Open science is a core principle of the ERC.  The ERC is committed to the principle of open access to the published  output of research, including in particular, peer-reviewed articles and  monographs. It also supports the basic principle of open access to  research data and data-related products such as computer code,  algorithms, software, workflows, protocols or any other forms of  research output. The ERC considers that providing free online access to  all these materials can be the most effective way of ensuring that the  results of the research it funds can be accessed, read and used as the  basis for further advancement.
+Under Horizon Europe, beneficiaries of ERC  grants must ensure immediate open access to all peer-reviewed scientific  publications relating to their results as set out in the&nbsp;Model Grant Agreement used for ERC actions.  Open access has to be provided with full re-use rights. Beneficiaries  must ensure that they or the authors retain sufficient intellectual  property rights to comply with their open access requirements.  Publishing costs can be considered as eligible costs provided that the  publishing venue (e.g. journal, book) is fully open access.
+In addition, beneficiaries of ERC grants funded under this ERC Work Programme 2024  will be covered by the provisions on research data management as set  out in the Model Grant Agreement used for ERC actions. In particular,  whenever a project generates research data, beneficiaries are required  to manage it in line with the principles of findability, accessibility,  interoperability, and reusability as described by the FAIR principles  initiative, and establish a data management plan within the first six  months of project implementation. Open access to research data should be  ensured under the principle &lsquo;as open as possible, as closed as  necessary&rsquo;. These provisions are designed to facilitate access, re-use  and preservation of the research data generated during the ERC funded  research work.
+&nbsp;
+
+Call documents:
+- Standard application form (HE ERC POC): call-specific application form is available in the Submission System
+- Information to Applicants to the ERC&nbsp;Proof of Concept Grant Call:&nbsp; https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/information-for-applicants_he-erc-poc_en.pdf
+- ERC Guide for Reviewers applying to the Proof of Concept call: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/experts/guide-for-peer-reviewers_he-erc-poc_en.pdf
+- ERC Work Programme 2024 
+- ERC Rules of Submission
+- How to complete your ethics self-assessment
+- 
+
+Normal
+0
+
+
+
+
+false
+false
+false
+
+EN-GB
+X-NONE
+AR-SA
+
+
+
+
+
+
+
+
+
+
+
+MicrosoftInternetExplorer4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+LatentStyleCount="376">
+
+
+<w:LsdException Locked="false" Priority="9" SemiHidden="true"
+UnhideWhenUsed="true" QFormat="true" Name="heading 2" />
+<w:LsdException Locked="false" Priority="9" SemiHidden="true"
+UnhideWhenUsed="true" QFormat="true" Name="heading 3" />
+<w:LsdException Locked="false" Priority="9" SemiHidden="true"
+UnhideWhenUsed="true" QFormat="true" Name="heading 4" />
+<w:LsdException Locked="false" Priority="9" SemiHidden="true"
+UnhideWhenUsed="true" QFormat="true" Name="heading 5" />
+<w:LsdException Locked="false" Priority="9" SemiHidden="true"
+UnhideWhenUsed="true" QFormat="true" Name="heading 6" />
+<w:LsdException Locked="false" Priority="9" SemiHidden="true"
+UnhideWhenUsed="true" QFormat="true" Name="heading 7" />
+<w:LsdException Locked="false" Priority="9" SemiHidden="true"
+UnhideWhenUsed="true" QFormat="true" Name="heading 8" />
+<w:LsdException Locked="false" Priority="9" SemiHidden="true"
+UnhideWhenUsed="true" QFormat="true" Name="heading 9" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="index 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="index 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="index 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="index 4" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="index 5" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="index 6" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="index 7" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="index 8" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="index 9" />
+<w:LsdException Locked="false" Priority="39" SemiHidden="true"
+UnhideWhenUsed="true" Name="toc 1" />
+<w:LsdException Locked="false" Priority="39" SemiHidden="true"
+UnhideWhenUsed="true" Name="toc 2" />
+<w:LsdException Locked="false" Priority="39" SemiHidden="true"
+UnhideWhenUsed="true" Name="toc 3" />
+<w:LsdException Locked="false" Priority="39" SemiHidden="true"
+UnhideWhenUsed="true" Name="toc 4" />
+<w:LsdException Locked="false" Priority="39" SemiHidden="true"
+UnhideWhenUsed="true" Name="toc 5" />
+<w:LsdException Locked="false" Priority="39" SemiHidden="true"
+UnhideWhenUsed="true" Name="toc 6" />
+<w:LsdException Locked="false" Priority="39" SemiHidden="true"
+UnhideWhenUsed="true" Name="toc 7" />
+<w:LsdException Locked="false" Priority="39" SemiHidden="true"
+UnhideWhenUsed="true" Name="toc 8" />
+<w:LsdException Locked="false" Priority="39" SemiHidden="true"
+UnhideWhenUsed="true" Name="toc 9" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Normal Indent" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="footnote text" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="annotation text" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="header" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="footer" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="index heading" />
+<w:LsdException Locked="false" Priority="35" SemiHidden="true"
+UnhideWhenUsed="true" QFormat="true" Name="caption" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="table of figures" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="envelope address" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="envelope return" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="footnote reference" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="annotation reference" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="line number" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="page number" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="endnote reference" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="endnote text" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="table of authorities" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="macro" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="toa heading" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Bullet" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Number" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List 4" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List 5" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Bullet 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Bullet 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Bullet 4" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Bullet 5" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Number 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Number 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Number 4" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Number 5" />
+
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Closing" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Signature" />
+<w:LsdException Locked="false" Priority="1" SemiHidden="true"
+UnhideWhenUsed="true" Name="Default Paragraph Font" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Body Text" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Body Text Indent" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Continue" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Continue 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Continue 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Continue 4" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="List Continue 5" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Message Header" />
+
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Salutation" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Date" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Body Text First Indent" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Body Text First Indent 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Note Heading" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Body Text 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Body Text 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Body Text Indent 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Body Text Indent 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Block Text" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Hyperlink" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="FollowedHyperlink" />
+
+
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Document Map" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Plain Text" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="E-mail Signature" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Top of Form" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Bottom of Form" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Normal (Web)" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Acronym" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Address" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Cite" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Code" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Definition" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Keyboard" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Preformatted" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Sample" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Typewriter" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="HTML Variable" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Normal Table" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="annotation subject" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="No List" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Outline List 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Outline List 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Outline List 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Simple 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Simple 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Simple 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Classic 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Classic 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Classic 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Classic 4" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Colorful 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Colorful 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Colorful 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Columns 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Columns 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Columns 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Columns 4" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Columns 5" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Grid 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Grid 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Grid 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Grid 4" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Grid 5" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Grid 6" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Grid 7" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Grid 8" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table List 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table List 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table List 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table List 4" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table List 5" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table List 6" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table List 7" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table List 8" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table 3D effects 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table 3D effects 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table 3D effects 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Contemporary" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Elegant" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Professional" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Subtle 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Subtle 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Web 1" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Web 2" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Web 3" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Balloon Text" />
+
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Table Theme" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<w:LsdException Locked="false" Priority="34" QFormat="true"
+Name="List Paragraph" />
+
+<w:LsdException Locked="false" Priority="30" QFormat="true"
+Name="Intense Quote" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<w:LsdException Locked="false" Priority="19" QFormat="true"
+Name="Subtle Emphasis" />
+<w:LsdException Locked="false" Priority="21" QFormat="true"
+Name="Intense Emphasis" />
+<w:LsdException Locked="false" Priority="31" QFormat="true"
+Name="Subtle Reference" />
+<w:LsdException Locked="false" Priority="32" QFormat="true"
+Name="Intense Reference" />
+
+<w:LsdException Locked="false" Priority="37" SemiHidden="true"
+UnhideWhenUsed="true" Name="Bibliography" />
+<w:LsdException Locked="false" Priority="39" SemiHidden="true"
+UnhideWhenUsed="true" QFormat="true" Name="TOC Heading" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+<w:LsdException Locked="false" Priority="46"
+Name="Grid Table 1 Light Accent 1" />
+
+
+
+
+<w:LsdException Locked="false" Priority="51"
+Name="Grid Table 6 Colorful Accent 1" />
+<w:LsdException Locked="false" Priority="52"
+Name="Grid Table 7 Colorful Accent 1" />
+<w:LsdException Locked="false" Priority="46"
+Name="Grid Table 1 Light Accent 2" />
+
+
+
+
+<w:LsdException Locked="false" Priority="51"
+Name="Grid Table 6 Colorful Accent 2" />
+<w:LsdException Locked="false" Priority="52"
+Name="Grid Table 7 Colorful Accent 2" />
+<w:LsdException Locked="false" Priority="46"
+Name="Grid Table 1 Light Accent 3" />
+
+
+
+
+<w:LsdException Locked="false" Priority="51"
+Name="Grid Table 6 Colorful Accent 3" />
+<w:LsdException Locked="false" Priority="52"
+Name="Grid Table 7 Colorful Accent 3" />
+<w:LsdException Locked="false" Priority="46"
+Name="Grid Table 1 Light Accent 4" />
+
+
+
+
+<w:LsdException Locked="false" Priority="51"
+Name="Grid Table 6 Colorful Accent 4" />
+<w:LsdException Locked="false" Priority="52"
+Name="Grid Table 7 Colorful Accent 4" />
+<w:LsdException Locked="false" Priority="46"
+Name="Grid Table 1 Light Accent 5" />
+
+
+
+
+<w:LsdException Locked="false" Priority="51"
+Name="Grid Table 6 Colorful Accent 5" />
+<w:LsdException Locked="false" Priority="52"
+Name="Grid Table 7 Colorful Accent 5" />
+<w:LsdException Locked="false" Priority="46"
+Name="Grid Table 1 Light Accent 6" />
+
+
+
+
+<w:LsdException Locked="false" Priority="51"
+Name="Grid Table 6 Colorful Accent 6" />
+<w:LsdException Locked="false" Priority="52"
+Name="Grid Table 7 Colorful Accent 6" />
+
+
+
+
+
+
+
+<w:LsdException Locked="false" Priority="46"
+Name="List Table 1 Light Accent 1" />
+
+
+
+
+<w:LsdException Locked="false" Priority="51"
+Name="List Table 6 Colorful Accent 1" />
+<w:LsdException Locked="false" Priority="52"
+Name="List Table 7 Colorful Accent 1" />
+<w:LsdException Locked="false" Priority="46"
+Name="List Table 1 Light Accent 2" />
+
+
+
+
+<w:LsdException Locked="false" Priority="51"
+Name="List Table 6 Colorful Accent 2" />
+<w:LsdException Locked="false" Priority="52"
+Name="List Table 7 Colorful Accent 2" />
+<w:LsdException Locked="false" Priority="46"
+Name="List Table 1 Light Accent 3" />
+
+
+
+
+<w:LsdException Locked="false" Priority="51"
+Name="List Table 6 Colorful Accent 3" />
+<w:LsdException Locked="false" Priority="52"
+Name="List Table 7 Colorful Accent 3" />
+<w:LsdException Locked="false" Priority="46"
+Name="List Table 1 Light Accent 4" />
+
+
+
+
+<w:LsdException Locked="false" Priority="51"
+Name="List Table 6 Colorful Accent 4" />
+<w:LsdException Locked="false" Priority="52"
+Name="List Table 7 Colorful Accent 4" />
+<w:LsdException Locked="false" Priority="46"
+Name="List Table 1 Light Accent 5" />
+
+
+
+
+<w:LsdException Locked="false" Priority="51"
+Name="List Table 6 Colorful Accent 5" />
+<w:LsdException Locked="false" Priority="52"
+Name="List Table 7 Colorful Accent 5" />
+<w:LsdException Locked="false" Priority="46"
+Name="List Table 1 Light Accent 6" />
+
+
+
+
+<w:LsdException Locked="false" Priority="51"
+Name="List Table 6 Colorful Accent 6" />
+<w:LsdException Locked="false" Priority="52"
+Name="List Table 7 Colorful Accent 6" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Mention" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Smart Hyperlink" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Hashtag" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Unresolved Mention" />
+<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+Name="Smart Link" />
+
+
+
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-parent:"";
+mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+mso-para-margin:0cm;
+mso-pagination:widow-orphan;
+font-size:10.0pt;
+font-family:"Times New Roman",serif;}
+
+Guidance on how to handle security sensitive research projects 
+Additional documents:
+Horizon Europe Regulation
+Association agreements to Horizon Europe
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+Multi &amp; Mono Model Grant Agreement for Lump Sum Grants
+MGA used for ERC actions under Horizon Europe (HE General MGA)
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Lump Sum MGA v1.0
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Please read carefully all provisions below before the preparation of your application.
+ERC Proof of Concept Grant Applicants' Mailbox&nbsp;- for queries related to the call.
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+ERC National Contact Points (NCPs)&nbsp;&ndash;  get guidance, practical information and assistance on participation in  Horizon Europe. There are also NCPs in many non-EU and non-associated  countries (&lsquo;third-countries&rsquo;).
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+&nbsp;
+

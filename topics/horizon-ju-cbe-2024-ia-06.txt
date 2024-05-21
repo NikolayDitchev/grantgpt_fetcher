@@ -1,0 +1,75 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-ju-cbe-2024-ia-06","file_display_name":"Innovative bio-based adhesives and binders for circular products meeting market requirements","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:In line with the objectives of the Circular Economy[1] and Zero Pollution Action Plan[2], the EU Chemicals Strategy for Sustainability and the Transition Pathway for the Chemical Industry and its co-implementation, the successful proposals will facilitate the deployment of sustainable bio-based adhesives. Successful proposals will also contribute to the implementation of the EU Bioeconomy Strategy[3] and the updated EU Industrial Strategy[4].Project results should contribute to the following expected outcomes:Diversification of the bio-based adhesives and binders product portfolio and increase of their range of application.Product performance meeting market and regulatory requirements.Proof-of-concept demonstration of new bio-based adhesive and binder applications under representative conditions.Improved sustainability and circularity compared to existing market counterparts.Improved health and safety profile compared to existing market products.Increased end user/consumer awareness and acceptance of SSbD bio-based solutions. 
+Scope:Adhesives and binders are used in several sectors; their strength, ease of application and stability are of significant help in the manufacture and service of products. However, certain conventional fossil-based products can present significant health and safety and environmental issues at production, use and end of life phases. The chemical composition of and volatile substances released from conventional synthetic adhesives and binders raise health and safety concerns; moreover they are often based on formaldehyde or epoxy resins, some of which are under scrutiny as candidate substances of concern. Bio-based solutions could represent safer alternatives, provided they match application requirements in terms of cost, performance and end of life.Proposals under this topic should:Demonstrate the cost-competitive and resource efficient production of SSbD bio-based adhesives and/or binders, as alternatives to conventional fossil-based chemicals posing environmental and health &amp; safety concerns.Demonstrate that the developed adhesives and/or binders meet target application requirements in terms of technical performances, such as shelf life and durability, load-bearing, fire resistance, resistance to chemicals and temperature, mechanical strength etc. Besides the technical properties of the adhesives and binders, proposals should also consider their application to the final product(s), targeting solutions allowing easy assembly/installation and debonding, as well as compatibility with recycling streams, for improved circularity of the product.Include a task to integrate assessment based on the safe-and-sustainable-by-design (SSbD) framework, developed by the European Commission, for assessing the safety and sustainability of chemicals and materials.[5] Under this context, projects are expected to contribute with and develop recommendations that can advance further the application of the SSbD framework.[6]. Where applicable, a comparison with the fossil-based and/or bio-based state-of-the-art counterparts should be added. Proposals must implement the multi-actor approach and demonstrate the involvement of all concerned key actors in the bio-based systems, such as researchers and technology providers, bio-based processing industries, waste management operators, end-users and consumers.Proposals should seek for links and complementarities and avoid overlaps with past, ongoing and upcoming EU funded projects, including those funded under H2020, HEU and the BBI JU and CBE JU.[7] Collaboration among projects from the same topic are encouraged.Proposals should also describe their contribution to the Specific CBE JU requirements, presented in section 2.2.3.1 of the CBE JU Annual Work Programme 2024[8].
+[1]Brussels, 11.3.2020 COM(2020) 98 final.[2]Brussels, 12.05.2021, COM(2021) 400 final.[3]European Commission, Directorate-General for Research and Innovation, Review of the 2012 European Bioeconomy Strategy, Publications Office, 2018, https://data.europa.eu/doi/10.2777/086770.[4]Brussels, 5.5.2021 COM(2021) 350 final.[5]See document defining the framework and criteria: Safe and sustainable by design.[6]More specifically, provide thresholds that can support the criteria definition and improvements for the assessment SSbD methodologies, including any specificities related with bio-based adhesives. Recommendations should also include identification of data gaps, especially safety, environmental, but also socio-economic factors, as well as priorities for data collection.[7]For example from the BBI JU/CBE JU portfolio, CHAMPION (H2020-BBI-JTI-2019), VIOBOND (H2020-BBI-JTI-2020), VIPRISCAR (H2020-BBI-JTI-2017), SusBind (H2020-BBI-JTI-2017), SuperBark (HORIZON-JU-CBE-2022).[8]https://www.cbe.europa.eu/reference-documents
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions:&nbsp;described in section 2.2.3 Calls for proposals in the CBE JU Annual Work Programme 2024
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+CBE JU Call for proposals 2024
+MGA
+HE General MGA v1.0
+Call-specific instructions
+CBE JU Call for proposals 2024
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

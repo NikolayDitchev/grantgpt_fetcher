@@ -1,0 +1,87 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl5-2024-d6-01-04","file_display_name":"AI for advanced and collective perception and decision making for CCAM applications (CCAM Partnership)","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Project results are expected to contribute to all of the following expected outcomes:Approaches for resilient collective awareness, which can eventually be used in e.g. complex models of collective behaviour.Advanced collective awareness, decision making and triggering of actions for CCAM applications, enabled by new concepts and tools built on advancements in Artificial Intelligence (AI), including Hybrid Intelligence (HI).CCAM solutions evolving from reactive into predictive system state awareness (including driver state and road user diversity), decision making and actuation, enhancing road safety.Understanding of AI-related ethical issues and user needs, together with capabilities, limitations and potential conflicts of AI based systems for CCAM, including a definition and a measure of human-like control.Increased user acceptability and societal benefit of CCAM solutions, based on explainable, trustworthy and human-centric AI. Interactions with AI-based vehicles are understandable, human-like and reflect human psychological capabilities. 
+Scope:Today’s mobility landscape is rapidly changing, as is seen in the recent boom in the detection of advanced and/or complex urban scenarios that add new challenges to the development of CCAM technologies. These novel scenarios are especially emerging with the establishment of new urban traffic regimes and cultures, such as restricted zones, shared zones, and cycle-streets, which need to be taken into account when designing and developing CCAM solutions.To integrate and tackle complex traffic scenarios, CCAM technologies will require highly advanced decision-making based on enhanced collective awareness – the stage beyond on-board perception, advancing on e.g. results from projects under CL5-2022-D6-01-05[1] – incorporating information from multiple sources and including interpretation for the aggregation of this information. Developing collective awareness should take into account the state of the vehicle, the driver and the road user environment. It can also involve the tracking of other road users' behaviour and generating predictions on a short horizon, which can be based on the input from advanced behavioural models, e.g. those developed within CL5-2022-D6-01-03[2] projects. The integration of these findings will lead to collective awareness for CCAM.The use of multiple sources (sensors and sensor fused information, maps, infrastructure, other road users, and localisation systems) and the sharing of the overall situational information and related intentions of the vehicle and that of its direct environment will be an important building block towards collective awareness. Eventually, in future work this can be incorporated in complex, self-organised bottom-up models of collective behaviour based on the change/modelling of individual interactions. Collective awareness should create a larger time window in safety critical situations and generate benefits for the overarching mobility system, which include efficient traffic management and improved traffic flow as it incorporates situation prediction capabilities and environmental benefits (which can eventually include e.g. smart charging strategies).AI is a key enabler to bring these increasing amounts of information together, with decision-making enabled both at vehicle level (including safety critical decisions) and at a mobility system level. In order to continue to define the role and limits of AI and of emerging new developments within AI, this topic recommends exploring Hybrid Intelligence (HI) as such a new subset of AI. Hybrid Intelligence is the process of developing and mobilising Artificial Intelligence (AI) to expand on human intelligence and expertise, thereby ensuring human-like control of CCAM operations. Applying an HI approach will allow CCAM technologies to integrate human expertise and intentionality into its decision-making in order to generate meaningful and appropriate actions that are aligned with ethical, legal and societal values. This will be essential to foster user acceptability, trust and adoption, especially when appropriate SSH expertise is included.Proposed R&amp;I actions are expected to address all of the following aspects:  Methods to establish collective awareness of CCAM applications that are resilient to faulty sources, thereby ensuring safe operations. Guidance for failsafe designs should be developed.Methods to embed an HI approach in the entire action chain towards collective awareness (from basic perception to driving functions) to allow for seamless operation and real-time decision-making while enabling human-like control of CCAM applications by combining system and domain knowledge (of the vehicle and its technologies on one hand and of the transport environment including all the human interactions on the other, thereby understanding of potential risks and capabilities and needs of other road users). Tooling will be required to deliver situational awareness information in a structured way, based on multiple sources and in real-time. In addition, the development and integration of ethical goal functions to support collective awareness should be included. Work is expected to be based on:   At least perception systems, sensor fusion, high-level world models/maps, vehicle positioning information. Guidance on common reference systems for positioning and time for synchronisation should be included in order to secure robustness and traceability.Relationships between the vehicle and forecasted intentions of other road users (e.g. a pedestrian crossing the street at a zebra crossing), as such including spatial temporal relation of elements in the driving-situation.     This topic requires the effective contribution of SSH disciplines including ethics and the involvement of SSH experts, institutions as well as the inclusion of relevant SSH expertise, in order to produce meaningful and significant effects enhancing the societal impact of the related research activities.Proposals should monitor and align relevant developments under this topic with on-going discussions regarding EU type vehicle approval rules as well as in the framework of the UNECE.In order to achieve the expected outcomes, international cooperation is encouraged in particular with Japan and the United States but also with other relevant strategic partners in third countries.This topic implements the co-programmed European Partnership on ‘Connected, Cooperative and Automated Mobility’ (CCAM). As such, projects resulting from this topic will be expected to report on results to the European Partnership ‘Connected, Cooperative and Automated Mobility’ (CCAM) in support of the monitoring of its KPIs.
+Specific Topic Conditions:Activities are expected to achieve TRL 5 by the end of the project – see General Annex B.
+[1] “Artificial Intelligence (AI): Explainable and trustworthy concepts, techniques and models for CCAM”[2] “Human behavioural model to assess the performance of CCAM solutions compared to human driven vehicles”
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).
+The following exceptions apply: subject to restrictions for the protection of European communication networks.
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions: described in the specific topic of the Work Programme
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE RIA, IA)
+Standard application form (HE RIA IA Stage 1)
+&nbsp;
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE RIA, IA)
+&nbsp;
+MGA
+HE General MGA v1.0
+HE Unit MGA v1.0
+&nbsp;
+Call-specific instructions
+Detailed budget table (HE LS)
+Information on financial support to third parties (HE)
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 8. Climate, Energy and Mobility
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

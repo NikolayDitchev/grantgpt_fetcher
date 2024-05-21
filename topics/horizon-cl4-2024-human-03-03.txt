@@ -1,0 +1,82 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl4-2024-human-03-03","file_display_name":"Digital Humanism - Putting people at the centre of the digital transformation (CSA)","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Create an active network and cross disciplinary communities on digital humanism bringing together ICT experts, ethnologists, sociologists and experts in fundamental rightsHelp defining and strengthening EU’s approach to a human-centred digital transformation through cross-disciplinary, world class foundational and application oriented researchFormulate approaches how to transform and strengthen European standards (rule of law, social market economy, fundamental rights, social standards and social partnership) into the digital realm including the take up of those standards by digital actors and in particular those developing new digital environment (e.g. data scientists, start-ups, investors)Formulate a list of recommendations and roadmaps to address current gaps or issues that are preventing the development of digital solutions that will reinforce - and not undermine - digital humanism across the societyPropose a concrete framework for measuring and promoting progress of the promotion and putting into practice of the digital rights and principles declaration in the context of the Digital Decade policy programme. This will include concrete indicators, source of information at national and European level, as well as the identification of existing, and development of new, capacity tools to support the uptake of identified best practice uses of digital technologies in support of digital humanism. This work will notably feed the review of the Digital Decade Policy Programme and of the solemn declaration in 2026. 
+Scope:A horizontal and holistic approach is needed for creating a more resilient, inclusive and democratic European society, prepared and responsive to opportunities, societal changes, threats and disasters, addressing inequalities and providing protection and high-quality public services such as health care, and empowering all citizens to act in the green and digital transitions.While digital technologies bring strong advantages coming along with a promise of freedom and innovation, negative aspects have also become visible in the last years. These include the monopolization of the information space, increasing levels of fake news and disinformation, strong power of online platforms, cyber threats and crimes, privacy breaches, strong market disparities as well as an economic order that claims human experience as free raw material for commercial practices of extraction, prediction and sales (Zuboff, 2019).Digital Humanism is here defined as the continuing search for a European answer to keep up high civilization standards stemming from enlightenment and the humanist era, and to further develop them in the digital world. In line with European values, such a digital environment should enable all Europeans to make full use of digital and technologies, to have a society where geographical distance matters less, so that all Europeans can benefit from the digitalisation in their daily activities (ranging from work, learning, to enjoying culture or leisure activities) but also in their interactions with governments, and participation in democratic processes.This requires intense, cross-disciplinary work of computer (and technology) sciences with legal, economic, sociological, philosophical and other kinds of expertise as a co-development exercise. To support in-depth, early-on collaboration between computer sciences and the whole wealth of humanities and social sciences to put new algorithms and models into a broader context, proposals under this topic should:Support the development of cross-disciplinary communities and networks in relation to digital transformation of society. It is thus critical to foster greater exchanges between social sciences and technological communities.Support the cross-disciplinary co-development of new theoretical models and approaches of the impact of digital technologies in our societies, starting with human and societal needs.Showcasing success stories and examples of engagement of the digital community seeking to develop concrete ways to progress toward a more human-centred digital world and draw concrete conclusions from these.Mapping out collaborative research to develop concrete tools and frameworks for ensuring that all actors of the European digital ecosystem (policy makers, business, startup developers, investors, NGOs) can integrate in their work and activities the values that form a human centred digital transformation and develop a roadmap for the possible development of research activitiesDevelop a conceptual framework as well as tools and indicators to monitor and promote the progress of the ‘declaration on digital rights and principles’ and its six chapters (putting people at the centre of the digital transformation; solidarity and inclusion; freedom of choice; participation in the digital public space; safety, security and empowerment; sustainability), notably to feed the review of the Digital Decade Policy Programme and of the solemn declaration in 2026. This project is also relevant in the policy context of the Digital Decade policy programme (“The Path to the Digital Decade”), which sets a European approach for its digital transformation based on values and technological leadership. For the first time, societal and human centred objectives are fully integrated into a comprehensive governance mechanism at EU level including monitoring of the progress made by the digital transformation in reaching our collective values and quantitative digital targets (skills, infrastructures, digitalisation of business and public services).
+
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes.
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System.
+&nbsp;
+2. Eligible countries: described in Annex B of the Work Programme General Annexes.
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+&nbsp;
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes.
+&nbsp;
+If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes.
+&nbsp;
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes.
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual.
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes.
+    
+
+&nbsp;
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes.
+Eligible costs will take the form of a lump sum as defined in the Decision of 7 July 2021 authorising the use of lump sum contributions under the Horizon Europe Programme – the Framework Programme for Research and Innovation (2021-2027) – and in actions under the Research and Training Programme of the European Atomic Energy Community (2021-2025). [[This decision is available on the Funding and Tenders Portal, in the reference documents section for Horizon Europe, under ‘Simplified costs decisions’ or through this link: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf]].
+Specific conditions
+7. Specific conditions: described in the specific topic of the Work Programme.
+&nbsp;
+
+Documents
+Call documents:
+Standard application form (HE CSA)&nbsp;&mdash;&nbsp;call-specific application form is available in the Submission System
+Standard evaluation form (HE CSA)&nbsp;&nbsp;&mdash;&nbsp;will be used with the necessary adaptations
+Lump Sum MGA v1.0&nbsp;&mdash;&nbsp;Model Grant Agreement
+Call-specific instructions
+Detailed budget table (HE LS)
+Guidance: &quot;Lump sums - what do I need to know?&quot;
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 7. Digital, Industry and Space
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

@@ -1,0 +1,49 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/digital-2024-cloud-data-ai-06-genome","file_display_name":"1+ Million Genomes: sustainability and uptake","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Deliverables and expected outcome• Documentation agreed by Member States about ethical, legal, privacy-related and economic aspects of 1+MG implementation necessary to operate an EDIC on genomics.• Sustainability roadmap for the EDIC• Data on clinical utility and economic aspects of genomics (costs/savings) for economic models and policymaking.• Frameworks for 1+MG data/metadata standards’ maintenance and data quality assurance.
+Objective:The objective of this action is to enable sustainable operation and uptake of the European Genomic Data Infrastructure (GDI)77 that implements the EU Member States’ initiative 1+ Million Genomes (1+MG). According to statements by Member States’ representatives in 1+MG, establishing a European Digital Infrastructure Consortium (EDIC) to operate and maintain the European GDI is the preferred option for the sustainability of the initiative and data infrastructure. This action will support preparatory work for the creation and for the operation of an EDIC, facilitate strategic orientation of the 1+MG initiative and support expert work to enable the uptake of genomics for healthcare and public health purposes, as well as the data aspects of the 1+MG Framework.
+Scope:The action will support Member States’ work enabling creation and operation of an EDIC on genomics in line with the Decision (EU) 2022/2481 of the European Parliament and of the Council of 14 December 2022 establishing the Digital Decade Policy Programme 2030 and to prepare the future EDIC for playing a focal role in facilitating the uptake of genomics and the European genomic data infrastructure in the contexts of healthcare delivery and public health policy. The EDIC will play an essential role in the effort to ensure public trust in genomics, enable broad uptake by healthcare professionals, e.g. by enhancing digital skills and auxiliary data services, and to raise awareness among policymakers regarding the benefits of application and integration of genomics in healthcare systems’ services and in public health policy measures. The EDIC will also need to define its relationship with the EHDS. Finally, the EDIC is expected to be involved in the implementation of data-related guidelines constituting the 1+MG Framework, in particular regarding (meta)data standards and data quality assurance. To this end the action is expected to: 77 The European Genomic Data Infrastructure will be deployed by the GDI project funded under the Digital Europe programme (project number 101081813, topic DIGITAL-2021-CLOUD-AI-01-FEI-DS-GENOMICS). 67 • support workshops, working groups, meetings with private and public stakeholders, necessary for creating the EDIC for the 1+MG initiative and supporting its implementation roadmap, • make analysis and proposals on the necessary legal and ethical enablers and arrangements specific to this EDIC, • map the gaps, challenges and unmet needs, and propose the respective actions for the EDIC, as necessary to establish the EDIC sustainability roadmap including legal, ethical, organisational and economic aspects, and covering implementation for research, healthcare and public health purposes, • explore the implications of the European Health Data Space (EHDS) Regulation and operationalise the EDIC’s participation in the HealthData@EU infrastructure, • establish the evidence base for the health impact and economic implications of genomics (costs/benefits) to inform the relevant health economic models and health policy decisions, • explore models for public-private partnerships for genomics in healthcare, • maintain and promote the use of the Maturity Level Model (MLM) developed by the “Beyond 1 Million Genomes” (B1MG) project to ensure coordinated alignment across healthcare systems towards implementation and equity in access to genomics medicine, • design actions to promote the literacy level and education of citizens, health professionals and policy makers on genomic medicine across Europe, • establish frameworks that are necessary to ensure that the data made available to users via 1+MG meet the agreed data standards and data quality requirements, including specific roles for the EDIC. This action should build on / align with the outcomes of the B1MG and GDI projects and goals of the Genome of Europe project, while clearly defining its distinct scope and deliverables. In particular, the data infrastructure developed and deployed by the GDI project and the respective data governance will form the cornerstone of the future EDIC. The action should also take into account and leverage the synergies with the future European Health Data Space and the respective preparatory projects (e.g. TEHDAS, HealthData@EU pilot). Moreover, the results of other relevant past and ongoing projects under Horizon 2020, Horizon Europe, EU4Health and IMI2/IHI should be duly considered to avoid duplication of efforts.
+
+
+Conditions: 
+Conditions
+
+
+1.&nbsp;Admissibility conditions: described in section 5 of the call document&nbsp;
+Proposal page limits and layout:&nbsp;described in Part B of the Application Form available in the Submission System
+2. Eligible countries:&nbsp;described in section 6 of of the call document
+3. Other eligibility conditions:&nbsp;described in section 6 of the call document
+4. Financial and operational capacity and exclusion:&nbsp;described in&nbsp;section 7 of the call document
+5.&nbsp;Evaluation and award:
+
+    Award criteria, scoring and thresholds:&nbsp;described in section 9 of the call document
+
+
+    Submission and evaluation processes:&nbsp;described&nbsp;section 8 of the call document and the&nbsp;Online Manual
+
+
+    Indicative timeline for evaluation and grant agreement:&nbsp;described in section 4 of the call document
+
+6. Legal and financial set-up of the grants:&nbsp;described&nbsp;in section 10 of the call document
+Documents
+
+Call document can be found here
+Standard application form &mdash; call-specific application form is available in the Submission System 
+Detailed budget table - available in the Submission System
+&nbsp;
+DIGITAL&nbsp;EUROPE&nbsp;PROGRAMME -&nbsp;General MGA v1
+Guidance Classification of information in DIGITAL projects
+Guidelines on&nbsp;How to Complete your Ethics Self-Assessment
+&nbsp;
+Digital Europe&nbsp;Work Programme 2023-2024
+Digital Europe Programme&nbsp;Regulation 2021/694
+EU Financial Regulation 2018/1046
+&nbsp;
+
+Support Info: 
+For help related to this call, please contact us&nbsp;here
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; Submission of proposals.
+IT Helpdesk&nbsp;&ndash; Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+Online Manual&nbsp;&ndash; Step-by-step online guide through the Portal processes from proposal preparation and submission to reporting on your on-going project. Valid for all 2021-2027 programmes.
+

@@ -1,0 +1,82 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl3-2024-fct-01-08","file_display_name":"Tracing of cryptocurrencies transactions related to criminal purposes","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Projects’ results are expected to contribute to all of the following outcomes:The attractiveness of use of cryptocurrencies by criminals and terrorists is limited, with better tractability of cryptocurrency transactions;Lawful tools and methods for Police Authorities to better trace virtual currency transactions related to criminal activities;Recommendations are provided for better regulation of the cryptocurrencies market as well as for better regulation of the exchange of transnational information on funds transfers, harmonizing and promoting standards to enhance the tracing of money flows in the context of criminal investigations; andModern training curricula for Police Authorities, Prosecutors, as well as judicial actors are developed on tracing, seizing and handling cryptocurrencies in the course of investigation. 
+Scope:Cryptocurrencies are a widely used method by criminals, including terrorists, to transfer or conceal funds due to their anonymity, ease of use and lack of international borders and restrictions (exactly same aspects that make use of traditional bank routes difficult for them). With the raise of crime-as-a-service market, and growth in the number of connected transactions, use of cryptocurrency as one of the money laundering typology better tracing of cryptocurrency transactions is crucial to keep the ground in the fight against crime and terrorism. On top of it all, clandestine cryptocurrency activities are increasingly facilitated by new developments such as high privacy decentralised exchanges, which while used by perpetrators frustrate the efforts of Police Authorities to detect and recover criminal assets as well as to prevent fraudulent transactions. The future of cryptocurrencies and the extent to which criminals and terrorists will use them will depend on factors such as anonymity, future regulation, law enforcement activities and security of the systems. Innovation should explore these considerations and propose mitigation measures, from legal, organisational, and technical perspectives (including the development of tools and relevant trainings to enhanced tractability of cryptocurrencies transactions. Proposals should also propose cooperation model(s) and tools for the exchange of information between relevant authorities.The successful proposal should build on the publicly available achievements and findings of related previous national or EU-funded projects. Coordination among the successful proposal from this topic as well as with the successful proposals under topic HORIZON-CL3-2023-FCT-01-06: Crime as a service should be envisaged to avoid duplication, and to exploit complementarities as well as opportunities for increased impact.Proposals funded under this topic are expected to engage with the Europol Innovation Lab during the lifetime of the project, including validating the outcomes, with the aim of facilitating future uptake of innovations for the law enforcement community.In this topic the integration of the gender dimension (sex and gender analysis) in research and innovation content should be addressed only if relevant in relation to the objectives of the research effort.
+Specific Topic Conditions:Activities are expected to achieve TRL 6-7 by the end of the project – see General Annex B.
+
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+The following additional eligibility conditions apply:This topic requires the active involvement, as beneficiaries, of at least 3 Police Authorities[[In the context of this Destination, ‘Police Authorities’ means public authorities explicitly designated by national law, or other entities legally mandated by the competent national authority, for the prevention, detection and/or investigation of terrorist offences or other criminal offences, specifically excluding police academies, forensic institutes, training facilities as well as border and customs authorities.]] from at least 3 different EU Member States or Associated Countries. For these participants, applicants must fill in the table “Information about security practitioners” in the application form with all the requested information, following the template provided in the submission IT tool.
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions: described in the [specific topic of the Work Programme]
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE RIA, IA)
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE RIA, IA)
+MGA
+HE General MGA v1.0
+&nbsp;
+Call-specific instructions: 
+Template for Security &amp; eligibility conditions in Horizon Europe 
+
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 6. Civil Security for Society
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

@@ -1,0 +1,113 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-eic-2024-eusic-prize-04","file_display_name":"The European Social Innovation Competition 2024","status":"OK"} -->
+
+Description: 
+Specific Challenge:The European Social Innovation Competition (EUSIC) aims at stimulating the potential of social innovation to provide solutions to societal challenges and to foster sustainable and inclusive growth in Europe. This competition looks for new entrepreneurial solutions responding to the most burning social needs, creating social relationships and enabling new collaborations in an innovative way and bringing effective solutions to systemic social challenges.This competition is open, among others, to non-profit and for-profit organisations, such as entrepreneurs and social enterprises, corporate responsibility departments of private companies, Non-Governmental Organizations (NGOs), Civil Society Organisations (CSOs), educational institutions and universities.The competition will directly support the three solutions that best tackle the defined challenge with a prize of EUR 75.000, EUR 50.000 and EUR 25.000 for the 1st, 2nd, and 3rd ranked winners.Objectives and ScopeThe European Social Innovation Competition 2024 will focus on social innovation in Digital Democracy.In the era of rising populism, disinformation, (deep)fake news, hate speech, polarization, radicalisation, foreign interference, and lack of political participation of groups of society, this year’s topic aims to:incentivise, support and reward social innovations that will help identify and tackle disinformation, encourage democratic governance models in online services, tools and business models;connect actors in emerging democratic practices, such as, for instance, the public consultation and deliberation platforms based on Decidim;promote the creation and adoption of digital commons such as open source, open hardware and open data solutions;raise awareness amongst the public about democratic values in the virtual and digital world;build grassroots communities and strengthen civil society, based on participation, collaboration, deliberation and building spaces for dialogue based on democratic valuesand develop digital organisational and/or business models driven by democratic principles as well as supporting equal access, open and shared technologies. The European Social Innovation Competition 2024 will emphasise the importance of digital social innovation to strengthen the Union democratic space where social economy actors and civil society play a crucial role In light of this, it will support innovative solutions to achieve the above aims in a range of different ways (e.g., through new, scalable digital technologies or innovative use and commercialization of existing ones). Digital technologies and data are tools and assets for social innovators to build new sustainable and community-driven business models which will ultimately bring positive impacts to democracy and societal changes.The EUSIC 2024 Competition will showcase social innovators’ concrete ideas to promote civic engagement and mobilisation through innovative digital services promoting the general interest and democratic principles in the Union. In such situations innovative actors are producing, sustaining and governing collective goods efficiently by innovative and collaborative means and offer new solutions to challenges for democratic systems.The Competition will look for technological and non-technological social innovations, with a particular focus on new participatory and engagement models, breakthroughs, socially sustainable or breakthrough, market-creating and deep-tech innovations embracing the objectives of this year’s edition, which, consequently, will have a positive impact on civic engagement, local prosperity as well as sustainable economic growth.Expected resultsThe European Social Innovation Competition aims at raising awareness about social innovation across a wide audience, sparking the creation of new socially innovative ideas creating a network of like-minded practitioners and supporting finalists to transform their ideas into structured businesses.
+
+
+Conditions: 
+General conditions
+1. Admissibility conditions:&nbsp;
+
+Applications must be submitted before the 11 June 2024 (17:00:00).&nbsp;
+Applications must be submitted electronically via the Funding &amp; Tenders Portal Electronic Submission System (accessible via the Topic page in the Search Funding &amp; Tenders section). Paper submissions are NOT possible.
+Applications (including annexes and supporting documents) must be submitted using the forms provided inside the Submission System (NOT the documents available on the Topic page &mdash; they are only for information).
+Applications must be complete and contain all the requested information and all required annexes and supporting documents:
+-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application Form Part A &mdash; contains administrative information about the applicant organisations (to be filled in directly online)
+-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application Form Part B &mdash; contains the technical description of the application (to be downloaded from the Portal Submission System, completed and then assembled and re-uploaded as PDF in the system)
+-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mandatory annex: there is no mandatory annex.
+&nbsp;
+
+Your application must be readable, accessible, printable.
+Applications are limited to maximum 15 pages (Part B). Evaluators will not consider any additional pages.
+&nbsp;
+You may be asked at a later stage for further documents (for legal entity validation, bank account validation, ethics review, declaration of honour, etc).&nbsp;&nbsp; 
+
+Proposal page limits and layout:&nbsp; applications are limited to 15 pages (Part B). Evaluators will not consider any additional pages.
+2. Eligible countries:&nbsp;
+In order to be eligible, the applicant has to be:
+-&nbsp;A natural person or a&nbsp;legal entity&nbsp;established in one of the Member States (including overseas countries and territories, (OCTs)) or&nbsp;Associated Countries to Horizon Europe.&nbsp;
+3. Other eligibility conditions:
+- Winners of all categories, both from the Challenge and the Impact Prizes, of previous editions of the European Social Innovation Competition are not eligible.
+- Applicants that have already received an EU or Euratom prize CANNOT receive a second prize for the same activities.
+&nbsp;
+4. Financial and operational capacity and exclusion: described in article 7 of the&nbsp;Rules&nbsp;of contest&nbsp;and on&nbsp;&nbsp;Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+Applications will be subject to a formal evaluation by a jury.
+If admissible and eligible, the applications will be evaluated and ranked against the following&nbsp;award criteria:
+&nbsp;
+
+- award criterion 1: Degree of innovation: the degree to which any new product, service and/or      organisational or business model is new for its given context in      connection to the challenge of the competition. The idea must be new and      innovative within its given socio-economic and geographical cont
+- award criterion 2: Usability and inclusiveness: whether the proposed solution is easy to use and affordable and can engage the largest part of EU citizens, irrespective of their background or computer skills;
+- award criterion 3: Positive social Impact: the potential of the proposal to tackle the competition challenge, fostering collaboration and partnerships with relevant stakeholders. The applicant must demonstrate how the proposed solution will contribute to solving year&rsquo;s challenge;
+- award criterion 4: Viability and sustainability: the financial and environmental sustainability of the proposal, including a sustainability plan to make the solution durable in the medium- or long-term
+- award criterion 5: Scalability and replicability: the idea's potential to scale and be replicated across sectors, governance levels or at regional, national, European or global level;
+- award criterion 6: Decentralisation and governance: improvements in transparency and accountability (while respecting privacy and/or anonymity)
+&nbsp;
+Maximum points: 60 points.
+Individual thresholds: 6/10 points.
+Overall threshold: 36 points. 
+&nbsp;
+Applications must pass both all the individual thresholds AND the overall threshold. The prizes will be awarded to the applications with the three best scores. Other applications will be rejected.
+
+
+
+Applications will be subject to a formal evaluation by a&nbsp;jury.
+&nbsp;
+&nbsp;
+
+If there are more than 60 applications, there will be a pre-selection phase to select the best 60 applications to pass to jury review. Otherwise, all admissible and eligible applications will pass directly to jury review.
+The pre-selection panel and jury usually have a different composition, but jury members may participate in the pre-selection panel.
+The pre-selection panel/jury will evaluate each application against the award criteria.
+&nbsp;
+For applications with the same score, the pre-selection panel/jury will determine a priority order according to the following approach: The score for the criterion No 1 will be given a weight of 2 and the score for criterion No 2 will be given a weight of 1.5. If two or more applications still tie for any rank, the prize will be equally divided and awarded to all applications with the same score. On the basis of the evaluation by the jury (and after the mandatory checks: ethics review, security scrutiny, legal entity validation, non-exclusion, double funding and plagiarism, etc), the awarding authority will decide on the award of the prizes to the 3 winners.
+The 3 winners ranked 1st, 2nd and 3rd will receive a prize.&nbsp;
+&nbsp;
+ 
+
+The call is open until 11 June 2024 (17:00:00).
+The jury members will evaluate the proposals received between June and October 2024.
+Information on the evaluation results/&nbsp; award will take place in October - March 2025.&nbsp;&nbsp;
+&nbsp;
+&nbsp;
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions: described in the&nbsp;Rules&nbsp;of contest
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Rules of contest
+Guidance: &quot;Lump sums - what do I need to know?&quot;
+Additional documents:
+
+EIC WORK Programme 2024
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 10. European Innovation Ecosystems (EIE)
+HE Main Work Programme 2023&ndash;2024 &ndash; 12. Missions
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+
+European IP Helpdesk&nbsp;- assists you on intellectual propoerty issues.
+
+
+&nbsp;
+

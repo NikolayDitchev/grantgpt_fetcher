@@ -1,0 +1,78 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl4-2024-human-02-34","file_display_name":"Support for transnational activities of National Contact Points in the thematic areas of Digital, Industry and Space (CSA)","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Projects are expected to contribute to the following outcomes:Improved and professionalised NCP services across Member States and Associated Countries, thereby supporting access to Horizon Europe calls, lowering the entry barriers for newcomers, and raising the average quality of proposals submitted;A more consistent level of NCP support services across Member States and Associated Countries;Facilitating participation of new players in projects in each thematic area;Matchmaking activities to link up potential participants from widening countries with emerging consortia in each thematic area. Matchmaking should use a variety of possible tools;Increased cooperation of NCPs with the Enterprise Europe Network;Integration of the different components of Cluster ‘Digital, Industry and Space’ and of the respective stakeholders. 
+Scope:Building on the three existing NCP networks of Cluster 4 ‘Digital, Industry and Space’, proposals should facilitate trans-national co-operation amongst National Contact Points (NCPs), encouraging cross-border activities, sharing good practices and raising the general standard of support to programme applicants.Proposers may wish to foresee specialised services covering different thematic areas of the cluster, drawing on the expertise of the predecessor networks. Proposers should adopt the best practices identified in each predecessor network, aiming for standardised and coordinated services to all stakeholders in the Cluster 'Digital, Industry and Space'. A close collaboration amongst the proposals should be put in place, to ensure the cohesion of the services in the three thematic areas of Digital, Industry and Space, with a single entry point with enhanced common functionalities, and a common visual identity. Proposers should also enhance opportunities for collaboration across the cluster, and identify opportunities in other clusters and the EU Missions of Horizon Europe.Given the importance of human-centric approaches in this cluster, the proposals should attract new types of player to the cluster, for instance social innovation players, makers and youth associations. Appropriate expertise from social sciences and humanities (SSH) should be included.In view of the coordinated plan on advanced materials, the 'Industry' network and the 'Digital' network should align the support for advanced materials and 2D materials, as well as synergies for advanced materials with other parts of Horizon Europe.Special attention should be given to enhancing the competence of NCPs, including helping less experienced NCPs rapidly acquire the know-how built up in other countries. Particular attention should be paid to enhancing the participation from widening countries of Horizon Europe.Where relevant, synergies should be sought with the Enterprise Europe Network to organise matchmaking activities in accordance with Annex IV of the NCP Minimum Standards and Guiding Principles.For the 'Digital' network, the estimated project size is EUR 2.5 million; for the 'Industry' network EUR 1.5 million; and for the 'Space' network EUR 1.0 million.
+
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes.
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System.
+&nbsp;
+2. Eligible countries: described in Annex B of the Work Programme General Annexes.
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+&nbsp;
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes.
+&nbsp;
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes.
+&nbsp;
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes.
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual.
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes.
+    
+
+&nbsp;
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes.
+&nbsp;
+Specific conditions
+7. Specific conditions: described in the specific topic of the Work Programme.
+&nbsp;
+
+Documents
+Call documents:
+Standard application form (HE CSA)&nbsp;&mdash;&nbsp;call-specific application form is available in the Submission System
+Standard evaluation form (HE CSA)&nbsp;&mdash;&nbsp;will be used with the necessary adaptations&nbsp;
+HE General MGA v1.0&nbsp;&mdash;&nbsp;Model Grant Agreement&nbsp;
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 7. Digital, Industry and Space
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

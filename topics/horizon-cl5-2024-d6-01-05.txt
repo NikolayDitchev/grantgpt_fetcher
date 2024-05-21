@@ -1,0 +1,85 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl5-2024-d6-01-05","file_display_name":"Robust Knowledge and Know-How transfer for Key-Deployment Pathways and implementation of the EU-CEM (CCAM Partnership)","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Project results are expected to contribute to all of the following outcomes:Extended and up to date CCAM Knowledge Base[1], including CCAM projects, demonstration and deployment initiatives, standards, facilitating the exchange of best practices and the deployment of CCAM services.Well established network of experts and forum for stakeholders in the different thematic R&amp;I fields of CCAM.Strong collaboration and cooperation between all CCAM stakeholders through effective collaboration mechanisms fostering exchanges of results from projects and CCAM initiatives, in terms of practices, experiences, tools and methodologies supporting the transition to large-scale deployment.Increased and high-quality exchanges and cooperation between the EU Member States/Associated countries,EU CCAM common evaluation methodology (EU-CEM) widely used in Europe.Good level of understanding and awareness of CCAM among citizens, decision and policy makers in Europe. 
+Scope:A common basis for CCAM Knowledge in Europe is available today with the online CCAM Knowledge Base[2] which constitutes a one stop shop for all relevant R&amp;I initiatives, tools, methodologies, regulations and standards in the field. Targeted content will be available for some stakeholder categories. The Knowledge Base should be expanded and further adapted to the needs of all relevant stakeholders. Results and lessons learned from the EU, national and international projects should be made available and accessible to targeted user groups. Proposed actions should in particular provide support for stakeholders to move into operations by identifying key building blocks and standards for deploying pilot services and enable capacity building for key actors of different use cases /applications domains as well as for citizens and non-experts on how to use CCAM systems and services and to become aware of new developments and related risks.The EU Common Evaluation Methodology (EU-CEM) developed in project “FAME” funded under CL5-2021-D6-01-06[3] aims at becoming the basic methodology for all CCAM related evaluations to support collaboration, exchange and harmonisation. The methodology will need to be implemented for existing and innovative use cases by CCAM projects and aligned with national mobility strategies and approaches. Training programmes for CCAM projects will be necessary to integrate the methodology and to collect feedback on lessons learned during its implementation.A States Representatives Group (SRG)[4] has been created within the CCAM Partnership to ensure a continuous dialogue at European and national level for the sharing of information on CCAM R&amp;I to increase coordination between European and national R&amp;I funding schemes, and among national programmes. To carry out its mission efficiently, the SRG will need support to collect and analyse information on national R&amp;I initiatives and to implement cooperation activities.To successfully contribute to the expected outcomes, proposed actions are expected to address all of the following aspects:  Ensure the maintenance and expansion of the Knowledge Base to support the CCAM stakeholder community and CCAM Partnership for the identification of future needs for R&amp;I, testing and demonstration initiatives and for moving into operations (minimum block requirements, standards and common definitions to run pilot services across Europe). The content of the Knowledge Base should support the monitoring of the progress made on the targets and impacts set by the CCAM Partnership[5]. More specifically, the proposed action should regularly collect from the CCAM Partnership projects the data and information needed to track the KPIs set out in the CCAM SRIA[6], using a survey developed and maintained in agreement with the Partnership.Identify further needs for targeted content for specific stakeholder categories and in particular, develop content that is accessible to non-experts, thereby supporting capacity building of the general public. The proposed action should define the above-mentioned stakeholder categories, and develop a subsequent communication strategy (content, material, media, etc.) using realistic and accessible terms to address different target groups (including non-experts).Provide effective dissemination and concertation mechanisms and means for the stakeholder community (e.g., workshops, symposia, international cooperation, capacity building content for non-experts) and organise the EUCAD2027 event (as a conference with a side exhibition and demonstration site) together with the European Commission and the CCAM Partnership, to enable the exchange of experiences and practices, stimulate collaboration and cooperation between all CCAM stakeholders (including at international level) and reach consensus on challenges and future R&amp;I needs within the thematic clusters of the Partnership.Facilitate the work of the CCAM SRG and stimulate the cooperation between EU Member States/Associated Countries for improved coordination of activities in the areas identified as priorities by the SRG. Provide an analysis of initiatives in EU Member States/Associated countries and support the SRG in identifying areas for R&amp;I cooperation.Ensure representation of European stakeholders in international cooperation, information exchange and harmonisation initiatives on CCAM. Provide a global output on CCAM activities to support the development of European agendas by exploring potential opportunities and R&amp;I domains for international cooperation.Continue to evaluate and update the EU-CEM through targeted discussions with EU Member States/Associated countries in order to align the CEM with national mobility strategies and regulations, also looking at both national and regional transport and mobility data to ensure compatibility.Support the practical implementation of the EU-CEM (for existing and innovative use-cases) and provide training programmes for CCAM projects to integrate the methodology.Assess the level of awareness and attitudes of European citizens, decision- and policy makers about CCAM as well as their intention to use through regular surveys and workshops. Results should be published in the Knowledge Base and mechanisms should be provided to integrate findings into the EU-CEM. A link should be established with existing survey initiatives in place at EU and Member States’/Associated countries’ levels. This action should be grounded in a co-creative process. In order to achieve the expected outcomes, international cooperation is encouraged, in particular with Japan and the United States but also with other relevant strategic partners in third countries.This topic implements the co-programmed European Partnership on ‘Connected, Cooperative and Automated Mobility’ (CCAM). As such, projects resulting from this topic will be expected to report on results to the European Partnership ‘Connected, Cooperative and Automated Mobility’ (CCAM) in support of the monitoring of its KPIs.
+[1] https://www.connectedautomateddriving.eu[2]https://www.connectedautomateddriving.eu/about/[3]https://cordis.europa.eu/project/id/101069898[4] https://www.ccam.eu/what-is-ccam/governance/ccam-states-representatives-group/[5]  See KPIs included in the CCAM Strategic Research and Innovation Agenda (SRIA)[6]Ibid
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Eligible costs will take the form of a lump sum as defined in the Decision of 7 July 2021 authorising the use of lump sum contributions under the Horizon Europe Programme – the Framework Programme for Research and Innovation (2021-2027) – and in actions under the Research and Training Programme of the European Atomic Energy Community (2021-2025). [[This decision is available on the Funding and Tenders Portal, in the reference documents section for Horizon Europe, under ‘Simplified costs decisions’ or through this link: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf]].
+Specific conditions
+7. Specific conditions: described in the specific topic of the Work Programme
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE CSA)
+&nbsp;
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE CSA)
+&nbsp;
+MGA
+Lump Sum MGA v1.0
+&nbsp;
+Call-specific instructions
+Detailed budget table (HE LS)
+Information on financial support to third parties (HE)
+Guidance: &quot;Lump sums - what do I need to know?&quot;
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 8. Climate, Energy and Mobility
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

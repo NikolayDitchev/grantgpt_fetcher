@@ -1,0 +1,52 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/edf-2024-ls-ra-challenge-sens-radnp","file_display_name":"Multi-sensor integration for robust autonomous drone navigation – Participation in a technological challenge","status":"OK"} -->
+
+Description: 
+Objective:To fulfil their missions, the next generation of unmanned aerial systems (UAS) are expected to offer an increased level of autonomy. Their effective deployment necessitates key features of swarming and navigation to target positions when GNSS availability is contested or lost and more generally in non-permissive environments. The use of various types of sensors (e.g. inertial, optical, infrared, hyperspectral, radar, LIDAR, acoustic, etc.) and intelligent information fusion are needed to provide the necessary capabilities to tackle these technical and operational challenges. Such intelligent navigation payloads should be usable on a wide range of unmanned assets, including in swarm formations, while having a low SWaP-C (Size, Weight, Power and Costs). Their performances should be measured in a quantitative, objective and comparable way.
+Scope:The proposals must address technological solutions for autonomous aerial drone navigation in non-permissive environments. These solutions must be evaluated through the testing environment set up in the framework of the technological challenge.Types of activitiesThe following table lists the types of activities which are eligible for this topic, and whether they are mandatory or optional (see Article 10(3) EDF Regulation):          Types of activities (art 10(3) EDF Regulation)      Eligible?                (a)      Activities that aim to create, underpin and improve knowledge, products and technologies, including disruptive technologies, which can achieve significant effects in the area of defence (generating knowledge)      Yes(mandatory)            (b)      Activities that aim to increase interoperability and resilience, including secured production and exchange of data, to master critical defence technologies, to strengthen the security of supply or to enable the effective exploitation of results for defence products and technologies (integrating knowledge)      Yes(optional)            (c)      Studies, such as feasibility studies to explore the feasibility of new or upgraded products, technologies, processes, services and solutions      Yes(optional)            (d)      Design of a defence product, tangible or intangible component or technology as well as the definition of the technical specifications on which such a design has been developed, including any partial test for risk reduction in an industrial or representative environment      Yes(optional)            (e)      System prototyping[1] of a defence product, tangible or intangible component or technology      No            (f)      Testing of a defence product, tangible or intangible component or technology      No            (g)      Qualification[1] of a defence product, tangible or intangible component or technology      No            (h)      Certification[1] of a defence product, tangible or intangible component or technology      No            (i)      Development of technologies or assets increasing efficiency across the life cycle of defence products and technologies      No       Accordingly, the proposals must cover at least the following tasks as part of mandatory activities:Generating knowledge:   Research on new approaches for robust autonomous navigation of unmanned aerial vehicles and systems in non-permissive environments.Participation to the evaluation campaigns organised in the framework of the technological challenge, including:     contribution to the exchanges with the other stakeholders for elaborating the evaluation plans;participation of the unmanned aerial systems and software modules in experimental field and data-based test campaigns managed by the challenge organisers, whereby performance measurements are conducted to assess navigation capabilities;collection and sharing of sensor data;participation to debriefing workshops.           The proposals should substantiate synergies and complementarities with foreseen, ongoing or completed activities in the field of autonomous drone navigation.Functional requirementsThe proposed technologies should meet the following functional requirements:The unmanned aerial vehicles and systems should be able to accurately estimate their positions and to go to a designated target area with high reliability in non-permissive environments, where GNSS signals and communications may be degraded or lost.The performances for these abilities should be measured through the test campaigns conducted in the framework of the technological challenge, using protocols and metrics based on those described in the preliminary evaluation plan provided as part of the call documents. Details about how the proposed approaches and systems will address the tasks outlined in the preliminary evaluation plan should be described in the proposals. Any relevant system performances measured in the context of previous technological challenges should be mentioned in the proposals.Systems should be able to record the data acquired through their sensors to enable full replay of flights and reproduction of experiments in a software environment. The types of data that can be shared with other teams should be described in the proposals.The proposed approaches should be relevant for future integration and operational missions, especially in terms of SWaP-C. The user interfaces should help users and in particular pilots to understand and anticipate the system behaviours. 
+Expected Impact:enhanced UAS capabilities with highly autonomous operation modes for EU Member States armed forces, contributing to collaborative combat and tactical cloud capabilities;competitiveness, efficiency, and innovation capacity of the European defence technological and industrial base, which contributes to the Union strategic autonomy and its freedom of action. 
+[1][2][3]
+
+Conditions: 
+1. Admissibility conditions: described in section 5 of the call document
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in section 6 of the call document &nbsp;
+3. Other eligibility conditions: described in section 6 of the call document
+4. Financial and operational capacity and exclusion: described in section 7 of the call document
+5. Evaluation and award:
+Award criteria, scoring and thresholds: described in section 9 of the call document
+Submission and evaluation processes: described section 8 of the call document and the Online Manual
+Indicative timeline for evaluation and grant agreement: described in section 4 of the call document &nbsp;
+6. Legal and financial set-up of the grants: described in section 10 of the call document &nbsp;
+ 
+Call documents:&nbsp;
+Call document&nbsp;
+&nbsp;
+Templates for proposals should be downloaded from the Submission System (available at the opening of the call), the links below are examples only:
+-&nbsp;EDF Standard&nbsp;application&nbsp;form&nbsp;
+-&nbsp;Detailed budget table (EDF LS RA)
+-&nbsp;Participant information&nbsp;(including previous projects, if any)
+-&nbsp;List of infrastructure, facilities, assets and resources
+-&nbsp;Actual indirect cost methodology declarations&nbsp;(if actual indirect costs used)
+-&nbsp;Ownership control declarations&nbsp;(including for associated partners and subcontractors involved in the action)
+-&nbsp;PRS declaration&nbsp;(if the project requires access to Galileo PRS information)&nbsp;
+&nbsp;
+
+EDF, ASAP and EDIRPA Lump Sum MGA &mdash; Multi &amp; Mono V1.0&nbsp;
+
+&nbsp;
+Additional documents:&nbsp;
+EDF Annual Work Programme 
+EDF Regulation 2021/697&nbsp;
+EU Financial Regulation 2018/1046&nbsp;
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment&nbsp;
+EU Grants AGA &mdash; Annotated Model Grant Agreement&nbsp;
+Funding &amp; Tenders Portal Online Manual&nbsp;
+Funding &amp; Tenders Portal Terms and Conditions&nbsp;
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+For help related to this&nbsp;call, please contact:&nbsp;DEFIS-EDF-PROPOSALS@ec.europa.eu
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; Submission of proposals.
+IT Helpdesk&nbsp;&ndash; Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+Online Manual&nbsp;&ndash; Step-by-step online guide through the Portal processes from proposal preparation and submission to reporting on your on-going project. Valid for all 2021-2027 programmes.
+

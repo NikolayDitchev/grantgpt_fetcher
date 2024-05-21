@@ -1,0 +1,85 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl5-2024-d6-01-11","file_display_name":"Effects of disruptive changes in transport: towards resilient, safe and energy efficient mobility","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Research is expected to contribute to all the following outcomes:Transport systems that are resilient, i.e. prepared for disruptive changes of different kinds, and thereby supporting continuously improved traffic safety.Resilience to unexpected events (pandemics, natural disasters, political decisions, conflicts, energy and fuel disruptions, raw materials and component supply vulnerabilities etc.) as an integrated principle in the design and development of future transport systems.Increased understanding how sudden changes in the availability of transport means e.g. through dramatic weather events or emission induced ban of certain vehicles in a city, affect the safety of transport system users, and the underlying psychological effects for users’ reactions.  
+Scope:The importance of a robust transport systems becomes highly evident in times of rapid, changes that are neither planned, scheduled nor predicted. The COVID-19 pandemic has pointed at several issues (e.g. delivery of essential goods, ensuring uninterrupted and safe public transport operations for essential workers etc.) that need to be addressed to secure future resilience of the transport system and to ensure that the level of transport safety is not only maintained, but also meeting more demanding targets. For instance, the decreased use of public transport during the pandemic has to some extent led to increases in both biking and walking, but also an increased use of cars in some parts of the world. At the same time, decreased traveling has meant fewer vehicles on the roads in certain areas, whereas others have seen an increase of delivery vehicles, as home deliveries have surged. Likewise, the current energy market realities have made even more pressing the need of an energy efficient mobility system that could absorb disruptions in the fuel supply chain.Digital tools/services and new transport means (e.g. urban air mobility and micro mobility), new ways how to use the infrastructure (e.g. even more shared spaces with different types of vehicles, both highly automated and manually controlled) in a more energy efficient manner and new behaviour should be included in the research.In order to provide safe and resilient transport for all, many aspects are expected to be considered in a clearly multidisciplinary approach. Proposed actions are expected to address at least three out of the following aspects:Scenarios of disruptive changes that can make a transport system unstable should be identified, the consequences on transport safety be analysed, and solutions to tackle them developed. This includes safety implications of rapid changes / new incentives (sometimes contradictory to previous ones, e.g. regarding the use of public transport in a pandemic situation).Analysis of how socio-economic differences may affect the safety of individuals in case of disruptive changes (e.g. individual mobility options are determined by the socio-economic status).Study of how the concept of resilience at the system level can be applied and used for the improvement of transport safety.Evaluation of the potential and development of recommendations on how to improve transport safety and resilience through suburban planning and future housing developments with their effects on the demand for transport and through the design of transport infrastructure networks.  A definition of resilience in the context of transport systems should be provided, and factors of transport safety and energy efficiency that are essential to take into account should be determined. Moreover, scenarios for disruptive changes should be identified that can make a transport system instable, the consequences on transport safety be analysed, and solutions to tackle them be developed. Hence, a structured method to secure safety as an integrated part in resilient transport systems should be provided.A solid foundation for this research is the Safe System Approach. It requires the inclusion of relevant expertise in social sciences and humanities (SSH) and will benefit from international cooperation.
+
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Eligible costs will take the form of a lump sum as defined in the Decision of 7 July 2021 authorising the use of lump sum contributions under the Horizon Europe Programme – the Framework Programme for Research and Innovation (2021-2027) – and in actions under the Research and Training Programme of the European Atomic Energy Community (2021-2025). [[This decision is available on the Funding and Tenders Portal, in the reference documents section for Horizon Europe, under ‘Simplified costs decisions’ or through this link: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf]].
+Specific conditions
+7. Specific conditions: described in the specific topic of the Work Programme
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE RIA, IA)
+&nbsp;
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE RIA, IA)
+&nbsp;
+MGA
+Lump Sum MGA v1.0
+&nbsp;
+Call-specific instructions
+Detailed budget table (HE LS)
+Information on financial support to third parties (HE)
+Guidance: &quot;Lump sums - what do I need to know?&quot;
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 8. Climate, Energy and Mobility
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

@@ -1,0 +1,148 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-er-ju-2024-fa2-sns","file_display_name":"EU-RAIL – SNS SYNERGY: DIGITAL \u0026 AUTOMATED TESTING AND OPERATIONAL VALIDATION OF THE NEXT EU RAIL COMMUNICATION SYSTEM","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:The project stemming from this topic should address all the following work streams and it is expected to provide:Workstream 1: Development of a future proof telecom architecture including all necessary network elements, based on 5G SA, IMS/SIP Core, MCX and more generally on 3GPP standards, and conform to all FRMCS Specifications from UIC, 3GPP and ETSI. This must include pre-commercial versions of on-board equipment (TOBA, Telecom On-Board Architecture) and of the corresponding Trackside Gateway ensuring the relevant management of telecom streams, independently of carried services, and then facilitating the bearer flexibility of the solution.The action to be funded under this topic should ensure application communication support by FRMCS Multipath using data paths via MNO and FRMCS/RMR.Workstream 2: Testing of key functions necessary for daily operations of trains, including safety related functions, with the adequate quality of service and all necessary telecom interfaces and protocols: voice operational functions (necessary for the daily operations of trains, in the continuity of GSM-R operational functions, including safety related functions such as the voice emergency call), ETCS level 2 support, ATO over ETCS (GoA1/2), additional FRMCS features such as Messaging, Train Control &amp; Management System (TCMS), CCTV and Passenger Information System (PIS) using video over Mission Critical (MC) Data if video is needed. Demonstration of possible additional supporting functions, like Key Management System (KMS), Public Key Infrastructure (PKI), location and positioning and time sync to support train operations is also required. Cybersecurity should also be ensured and be an integral part of developments (protection by design).Quality of service should be ensured, adapted to service categories, such as critical services or essential services. Interoperability between manufacturers equipment (infrastructure and board), particularly for cross-border situations, but also for multi-sourced systems, should be demonstrated.Development of associated test specifications and test plans, including definition of common acceptance test criteria and performance metrics necessary to carry out testing and validation in the next phases of the action to be funded under this topic is also expected.Workstream 3: Validation and return on experience: the action to be funded under this topic should:Validate the capacity of the systems to meet KPIs and Fault Configuration Accounting Performance Security (FCAPS) in order to estimate and predict service behaviour.deliver technical inputs for Migration strategy to move from GSM-R to FRMCS;include the necessary return of experience (from the results of the action to be funded under this topic, and also possible national FRMCS testing campaigns) to provide feedback to specifications (refinement of possible gaps and input to future specifications) and ultimately, start pilots (or initial deployments in safe operational and economic conditions). 
+Scope:To successfully address the expected outcomes, the action to be funded under this topic should research, develop, and deliver all the following capabilities:Workstream 1: Development of a future proof telecom architecture including all necessary network elements (TRL7):Telecommunication equipment, compliant with FRMCS specifications and ready for integration and testing:   core network telecom elements compliant with 3GPP 5G Stand-Alone;5G Base Transceiver Stations (BTS) and related access elements managing FRMCS frequencies;IMS (IP Multimedia Subsystem) and/or Session Initiation Protocol (SIP) elements, as per FRMCS Specifications;MCX servers and clients in all relevant network elements;application servers, typically for voice services;IP addressing compliant to FRMCS Specifications;Railway trackside gateways with all specified FRMCS interfaces;On-board TOBA with all specified FRMCS interfaces (OBapp, OBom, OBrad, etc.), multi-frequency capabilities and multipath capabilities;Dispatchers with hybrid (GSM-R / FRMCS) capabilities;Voice cabs with hybrid (GSM-R / FRMCS) capabilities;Registration telecom systems (SIM Cards or equivalent).    FRMCS-ready signalling equipment (or simulators, able to reproduce behavior):   ETCS compliant with OBapp interface and FRMCS-ETCS defined protocols (SS 037);Interface to Key Management System (Subset-137);ATO GoA1/2, with compliant OBapp interface and FRMCS-ATO defined protocols.    The validation of Cab Radios to the applicable version of FRMCS Specifications and/or other relevant technical specifications including TOBA interfaces.The assessment of adapted antennas to equip trains for testing, based on outcomes from other projects[1].The adaptation to FRMCS system of monitoring solutions (voice / ETCS), to be used during test runs. Workstream 2: Testing of key functions (TRL 7): The integration at on-board level and infrastructure level of all above-mentioned equipment.The definition of a comprehensive list of tests (in view of its execution in this call topic), in line with Chapter 5 of the CCS TSI:   Conformance testing for all equipment.Functional testing in laboratory condition:     Local systems (network attachment, local binding, security credentials, etc.);End-to-end entities and items (FRMCS System);More globally, the complete functional testing of all these products as per FRMCS V2 Specifications.      Functional testing in field condition:     Conventional line test runs;High-speed test runs;Interworking for GSM/R (Voice);ETCS Transition scenario (GSM-R to FRMCS and FRMCS to GSM-R);The testing in “real” conditions of FRMCS / GSM-R coexistence (trackside / on-board):Frequency management (Change of FRMCS frequencies 900 (N100) / 1900 (N101) / MNO/ other) between 2 networks -Cross-borders scenarios for the various mission critical services (Voice and Data)       Breakdown simulations / Degraded Modes;        More globally, the complete functional testing of all these products as per FRMCS V2 Specifications.          A precise and complete campaign of measures (conventional line, high-speed line and cross border conditions) to define radio parameters ensuring the required qualities of service (preparing the evolution of SS-093 /O-2475 evolutions), including mitigation of potential impacts from interferences.Interoperability testing between manufacturers: the following elements should be tested:   Network provider 1 / Network provider 2 (at level of network elements, typically core and access);On-board provider 1 / Network provider 2;On-board provider 1 / Trackside gateway provider 2;MCX Client /MCX Server.     Workstream 3: Validation and return on experience: The Flagship Project stemming from this topic is expected to provide a return on experience from the laboratory and in field tests and provide detailed feedback, which will be used to conclude a release of specifications for the next EU railway communication system. Coordination with the EU-Rail System pillar (and ERA through it) is required. It will also leverage outcomes and results in the context of standardisation by submitting the results to the appropriate standardization organizations such as ETSI, 3GPP etc, to work towards the evolution of 5G in the right direction. This part will necessitatea strong partnership between the communication/networking industrial stakeholders and the railway use case industrial actors. To contribute to FRMCS specifications Version 3 that are as ready as possible for deployment in different Member States' contexts, this project needs to consider the return of experience of any national FRMCS testing and validation project that shares its results with this project[2].Assumptions for the scheduling of the operations: The applicants to this topic can consider for their activities planning the following assumptions:The V2 specifications, as described, in the EU-Rail System Pillar Report on “FRMCS V2 and V3 Scope and Planning” dated 05/07/2023 (version 1.3)[3], will be delivered to ERA in stable draft in March 2024 in order to launch a EECT review process. The final draft will be delivered to ERA in October 2024 after this review process. An ERA technical opinion will be released. Collaboration work required with other FAsThe action to be funded under this Destination should take into account the results of the work from FP2-R2DATO, most notably, regarding the work to be done in the Automation Cluster on ATO over ETCS.Interaction with the EU-Rail System PillarThe EU-Rail System Pillar aims to guide, support and secure the work of the EU-Rail Innovation Pillar (i.e. to ensure that research is targeted on commonly agreed and shared customer requirements and operational needs, compatible and aligned to the system architecture), and the Innovation Pillar will impact the scope of the System Pillar where new technologies or processes mean that innovations can drive a change in approach, as well as delivering detailed specifications and requirements.In this respect, the proposal should allocate necessary resources that would be dedicated to areas linked to the System Pillar conceptual and architecture works – particularly addressing specification development (the interaction is illustrated in the System Pillar – Innovation Pillar interaction note (Annex VI of this Work Programme)). The alignment of the activities will primarily take place during the Grant Preparation Phase and ramp up phase of the awarded proposal, and there will be continued, structured and regular interaction through the life of the project.A dedicated link between the action to be funded under this Destination and the EU-Rail System Pillar should be established, in particular for workstreams 2 and 3.Interaction with other relevant actionsWork under this topic should link to other relevant actions, financed by the European Commission e.g., in the context of 5G PPP, and the Connecting Europe Facility (CEF2). Link to other external initiatives, such as national activities, can also be relevant.Gender dimensionIn this topic the integration of the gender dimension (sex and gender analysis) in research and innovation content is not a mandatory requirement.
+Specific Topic Conditions:All activities are expected to achieve a TRL 6/7. The output should be included as part of the EU-Rail Standardisation and TSI Input plan, and follow the associated processes linked to the ERA Change Control Management process. See General Annex B for a guide to the TRL definitions and criteria to be used.
+[1]Reference to D3.4 “Antenna system speciffications for adaptable commnications in railway environment” from X2RAIL-3: https://projects.shift2rail.org/s2r_ip2_n.aspx?p=X2RAIL-3[2]The Commission and ERA will be informed about national projects and will share information about them based on Article 10 of Commission Implementing Regulation (EU) 2023/1695 of 10 August 2023 on the technical specification for interoperability relating to the control-command and signalling subsystems of the rail system in the European Union and repealing Regulation (EU) 2016/919 OJ L 222, 8.9.2023, p. 380–560 ELI: http://data.europa.eu/eli/reg_impl/2023/1695/oj[3]https://rail-research.europa.eu/wp-content/uploads/2023/08/20230718-FRMCS-report-final.pdf
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Regarding admissibility conditions and related requirements, part A of the Horizon Europe Work Programme 2023-2024 General Annexes applies, with the following exception: the limit for a full Innovation Action application is set to 120 pages.
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+The award criteria included in the General Annexes of the Horizon Europe – Work Programme 2023-2024 are complemented with additional criteria as specified in Annex VIII to this Work Programme.
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+The granting authority can fund a maximum of one project.
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+In addition, as specified in section 2.3.8.1 of this WP 2024, and considering the key contributing role of this topic, in designing the dissemination and communication activities, the proposal should consider that the “Flagship Project” will be part of the overall EU-Rail Programme and the planning of key events – demonstrations, participations to fairs, etc. – will be coordinated at Programme level and by the “Stakeholder Relations and Dissemination” structure of the JU.
+The funding rate of the action is 60% of the eligible costs to achieve the leverage effect established in the SBA. Each Consortia may decide internally different funding rates in line with the provisions of Article 34 of Horizon Europe nevertheless complying with the overall funding rate of 60%.
+Eligible costs will take the form of a lump sum as defined in the Decision of 7 July 2021 authorising the use of lump sum contributions under the Horizon Europe Programme – the Framework Programme for Research and Innovation (2021-2027) – and in actions under the Research and Training Programme of the European Atomic Energy Community (2021-2025). [[This decision is available on the Funding and Tenders Portal, in the reference documents section for Horizon Europe, under ‘Simplified costs decisions’ or through this link: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf]].
+The starting date of grants awarded under this topic may be as of the submission date of the application. Applicants must justify the need for a retroactive starting date in their application. Costs incurred from the starting date of the action may be considered eligible.
+As specified in section 2.3.8.1 of this WP 2024, in order to facilitate the contribution to the achievement of the EU-Rail objectives, the options regarding 'linked actions' of the EU-Rail Model Grant Agreement and the provisions therein, is enabled in the corresponding EU-Rail Grant Agreements.The action that is expected to be funded under this topic will be complementary to the following projects:FP2-R2DATO (GA number: 101102001)FP6-FutuRe (GA number: 101101962) Please note that the list is non-exhaustive as additional Linked Projects may follow at a later stage of the programme implementation to complement the activity.
+Specific conditions
+7. Specific conditions: described in the [specific topic of the Work Programme]
+Indicative budget
+The total indicative budget in term of Total Project Costs for the project stemming from this topic is indicatively up EUR 68.0 million, which is built from the expected leverage effect up to 5x out of a total maximum EU contribution estimated at EUR 13.5 million. The additional leverage effect is expected to be reached through either reduced co-funding rate, and including with possible external investments (e.g. national funding), and/or possible Private members both in-kind contributions to operational and additional activities.
+Applicant Private[[As defined in Article 2(5) of Council Regulation (EU) 2021/2085.]] Members of the EU-Rail part of consortia responding to this topic should provide in-kind contributions to additional activities to be declared via the template model available on the F&amp;T portal. The amount of total in-kind contributions (i.e. in-kind contributions for operational activities and in-kind contributions for additional activities) should be no less than 1.263[[In order to support a leverage factor of no less than the ratio between the contribution from members other than the Union and the Union financial contribution, as on the basis of Articles 88 and 89 of Council Regulation (EU) 2021/2085.]] times the funding request, in aggregate, of these applicant Private Members. Any discrepancy must be well and duly justified.
+In this respect, the grant agreements will set, in principle, annual deliverable on in-kind contributions for the projects selected under this topic, as well as mandatory reporting requirements, for those applicants who are Private Members of EU-Rail.
+Indicative project duration
+30 months
+Special skills and/or capabilities expected from the Applicants
+Applicants should ensure that their proposals and consortium reflect the aggregated expertise:
+
+    Expertise from railway infrastructure managers and railway undertakings which should allow:
+    
+        hosting the demonstrations and providing test trains/facilities;
+        verfying all necessary operational processes
+    
+    
+    Expertise from railway and telecom suppliers (system integrators, manufacturers and/or technology providers), which should allow:
+    
+        proposing operational and technological innovative solutions to identified use cases and functional needs related to the application of the FRMCS V2 Specifications;
+        the capability in executing the lab or field tests.
+    
+    
+    Expertise from research institutes and academia, which should allow
+    
+        planning, developing, studying, testing and evaluating solutions, systems and demonstrators together with the previous categories of expertise,
+        supporting any possible scientific or methodological issues that may arise during the performance of the action
+        contributing to other aspects of the innovation cycle, as well as to the procedural aspects for validation, certification, etc.
+    
+    
+    Complementary expertise from other sectors and parties, with particular attention to SMEs and Start-ups, which may contribute to enhance the actions&rsquo; outcome.
+
+Contribution to the monitoring and implementation, standardisation of the EU-Rail Programme
+The action resulting from this topic is identified as a &ldquo;flagship project&rdquo; expected to perform, by the completion of the research and innovation lifecycle, &ldquo;large scale demonstrations&rdquo;, in the meaning of Council Regulation (EU) 2021/2085. Hence, the action is a key contributor to the achievement of the objectives identified in the Master Plan[[Master Plan available at https://rail-research.europa.eu/wp-content/uploads/2022/03/EURAIL_Master-Plan.pdf.]] as further detailed in the Multi-Annual Work Programme[[MAWP available at https://rail-research.europa.eu/wp-content/uploads/2022/03/EURAIL_MAWP_final.pdf.]].
+In this respect, applicants are expected to deliver relevant information (data, results, etc.) as mutually agreed, to the JU and the Linked Project[s] to contribute to the advancement of the Innovation and System Pillars[[Refer to the Multi-Annual Work Programme available at https://rail-research.europa.eu/wp-content/uploads/2022/03/EURAIL_MAWP_final.pdf]] activities, as well as in view of the development and implementation of EU policy and legislation (including Technical Specifications for Interoperability and Common Safety Methods) and the development of European standards. As specified in section 2.3.8.1 of this WP 2024, and to facilitate contributions to European or international standards, the EU-Rail grant agreements will include an additional obligation related to standards. Beneficiaries must inform EU-Rail (up to four years after the end of the action) if the results can be reasonably expected to contribute to European or international standards.
+As part of its internal control and management framework, the JU will perform series of reviews and maturity checkpoints to assess the overall progress against the project plan and against the performance and TRL targets. Depending on the outcome of these reviews and maturity checkpoints(s), the scope of the project may be revised and/or funding reduced in accordance with the provisions of the relevant grant agreement. Mitigation actions may be requested by the JU as condition for continued funding.
+The proposal should consider the necessary resources &ndash; FTE and/or other &ndash; to ensure the monitoring of the &ldquo;Flagship Project&rdquo; via regular reporting, reporting of data for the Programme KPIs, etc. The EU-Rail Governance and Process Handbook is available here: https://rail-research.europa.eu/wp-content/uploads/2023/01/EU-Rail-Governance-and-Process-Handbook.pdf
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System from the 25th of January 2024
+
+    Application form - Part B (HE EU-RAIL, IA)
+    Application form - Part B (HE EU-RAIL, RIA)
+
+Evaluation form
+
+    Evaluation form (HE EU-RAIL, RIA/IA)
+
+Model Grant Agreement (ToMGA)
+
+    Lump Sum MGA v1.0
+
+Europe's Rail - Work Programme 2024
+
+    WP 2024
+
+Europe's Rail Master Plan
+
+    Master Plan
+
+Europe's Rail - Multi Annual Work Programme
+
+    MAWP
+
+&nbsp;
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+&nbsp;
+Questions &amp; Answers Release 1: 16 February 2024
+
+Questions &amp; Answers Release 2: 10 April 2024
+Questions &amp; Answers Release 3: 29 April 2024
+&nbsp;
+
+&nbsp;
+
+Support Info: 
+EU-RAIL JU Call Helpdesk: info-call@rail-research.europa.eu. Please note that the deadline for addressing queries related to EU-RAIL JU call for proposals to the Q&amp;A functional mailbox (info-call@rail-research.europa.eu) is Wednesday 22 May 2024 at 17:00 (Brussels Local Time).
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

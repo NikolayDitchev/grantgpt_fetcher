@@ -1,0 +1,79 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl5-2024-d3-02-05","file_display_name":"PV-integrated electric mobility applications","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Photovoltaic power generation is pivotal to a clean energy system and the achievement of the net zero-emissions target. To this end, it is important to enhance affordability, sustainability and exploit the modularity and synergies of application of PV technologies.Consequently, project results are expected to contribute to all of the following expected outcomes:  Open new market opportunities for Vehicle-Integrated Photovoltaics (VIPV) in road transport.Reduce usage of the electricity grid and increase the range of electric vehicles.Cost and energy efficient climate-neutral road transport. 
+Scope:PV technology can contribute to improved features of electric mobility systems not just in terms of CO2 (and air-pollution) emissions reduction but also regarding product aesthetics and user experiences. Proposals are expected to:1. Demonstrate Vehicle Integrated PV concepts (VIPV),   Including different cell, interconnection and encapsulation technologies (with high efficiency under lower and varying lighting conditions) having a flexible design (size, shape/curvature, lightweight, aesthetics) and antifouling property, with PV providing a significant part of the vehicle’s energy consumption under various climatic conditions.Considering cost optimisation and environmental friendliness of VIPV integration that meets automotive specifications and safety/repair/maintenance standards (crash, emergency, resistance, reliability, long-lasting lifetime and high number of lifecycles) for various types and vehicle uses (including the provision of grid services);With a vehicle usage model that maximises the ratio of using solar power and performance for VIPV, considering various light intensity variations, climatic conditions and uses while minimising energy losses.Involving multidisciplinary consortia including at least one vehicle manufacturer.  2. Demonstrate PV Charging Stations (EVs, electric buses, etc.) able to provide a significant part of the charging demand despite the PV intermittence, guarantee the balance of the public grid, and reduce the public grid energy cost, with optimal charging/discharging start time for EVs, through its arrival time, departure time, initial and final state of charge (SOC), to achieve peak shaving, valley filling and other types of grid services, while reducing the costs of energy from the public grid.A plan for the exploitation and dissemination of results should include a strong business case and sound exploitation strategy, as outlined in the introduction to this Destination. The exploitation plan should include preliminary plans for scalability, commercialisation, and deployment (feasibility study, business plan) indicating the possible funding sources to be potentially used (in particular the Innovation Fund).Applicants can seek possibilities of involving the EC JRC. The JRC may provide characterisation, validation and certification of the performance of photovoltaic solar devices. It may also perform pre-normative research to develop appropriate characterisation methods for such devices as a precursor to the adoption of international standards as well as addressing stability, lifetime and environmental issues. This task shall be performed within the European Solar Test Installation (ESTI) an accredited ISO17025 calibration laboratory for all photovoltaic technologies.
+Specific Topic Conditions:Activities are expected to achieve TRL 6-7 by the end of the project – see General Annex B.
+
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+The Joint Research Centre (JRC) may participate as member of the consortium selected for funding.
+If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions: described in the [specific topic of the Work Programme]
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE RIA, IA)
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE RIA, IA)
+MGA
+HE General MGA v1.0
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 8. Climate, Energy and Mobility
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

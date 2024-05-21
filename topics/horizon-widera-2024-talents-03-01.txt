@@ -1,0 +1,83 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-widera-2024-talents-03-01","file_display_name":"ERA Talents","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:The ERA Talents action aims to boost interoperability of careers in the academic and non-academic sectors and improve employability of R&amp;I talents across sectors. The action has a centre of gravity in Widening countries. It fits within the overall Union policy of promoting more attractive research careers, implemented through Action 4 of the ERA Policy Agenda 2022-2024, and responds to the Council Conclusions on “Deepening the European Research Area: Providing researchers with attractive and sustainable careers and working conditions and making brain circulation a reality”[1].Projects are expected to contribute to several of the following outcomes:Strengthened R&amp;I human capital base in Widening countries with more entrepreneurial and better-trained researchers, innovators, research managers and/or other R&amp;I talents;Boosted R&amp;I support capacity in academic and non-academic organisations;A more balanced geographical and cross-sectoral talent circulation;Increased access for private entities to public R&amp;I institutions, including R&amp;I infrastructures and their know-how across Europe and beyond;Increased excellence of the research performing organisation in Widening countries;A more structured and impactful collaboration between the academic and non-academic sectors;Increased research, entrepreneurial and other transferable skills for the R&amp;I talents exchange in the action;Improved employability and sustainable career prospects for R&amp;I talents within the academic and non-academic sectors. 
+Scope:ERA Talents scheme promotes inter-sectoral collaboration in R&amp;I through cross-sectoral exchange of staff with a focus on Widening countries. With Action 4 of the ERA Policy Agenda (2022-2024), the European Commission aims, amongst other targets, to support and incentivise transformations towards a more geographically balanced talent circulation, increased interoperability of careers across different sectors, and improved employability of researchers and other R&amp;I talent. Within this scope, ERA Talents seeks to support the training and mobility of researchers, innovators, and/or other R&amp;I talents across sectors, focusing on Widening countries.The proposals should address one or both of following aspects related to improving training and lifelong learning opportunities for researchers, innovators, and other research and innovation talents. In particular:training in skills and competences following specific demand from other sectors (notably the business sector), leading to improved employability of individuals, increased access to knowledge for the host organisation, and overall strengthened interoperability of careers between the sectors involved; skills can particularly include entrepreneurship, use of digital tools, knowledge valorisation, intellectual property rights, and the greening of society;training to build R&amp;I support capacity in both the academic and non-academic sectors, such as administrative, managerial, and technical staff supporting R&amp;I activities and capacities in their organisations (e.g., data stewards, research managers and administrators, research infrastructure operators, knowledge valorisation officers). Proposals must involve organisations from the academic and non-academic sectors, exploit the complementary competences of the participating organisations and create synergies between them. It is expected that this action creates a win-win situation for all consortium partners by upskilling their human capital, thereby strengthening their future competitiveness and level of excellence.Secondments:should be open to researchers, innovators, and other R&amp;I talents (for example administrative, managerial, and technical staff supporting R&amp;I activities and capacities in their organisations) at any career stage;should be between different sectors (from academic to non-academic or vice versa) or between non-academic participants; secondments can take place between academic participants only in the specific case of other R&amp;I talents (for example, administrative, managerial, and technical staff supporting R&amp;I activities and capacities in their organisations);should involve at least one participant from a Widening country;should in principle be cross-border, but in exceptional and justifiable cases, secondments can also take place within the same Widening country, e.g., to strengthen local innovation ecosystems;can only take place between independent legal entities;may be split into several stays with one or several participating organisations, but cannot exceed 24 months in total for the same staff member. Budget &amp; applicable contribution: At least 70% of EU requested contribution should be dedicated to the beneficiaries from the Widening countries.The grant covers expenses related to the participating organisations and individual staff members hosted/seconded (e.g., administrative costs, training costs, travel and subsistence costs, salaries for seconded staff, and costs associated with dissemination, communication and knowledge valorisation).Proposals are requested to estimate the number of secondees the mobility opportunity will be provided for. The proposals, if funded, are expected to establish a Personal Career Development Plan for seconded staff, including where relevant a return plan for the seconded staff, in particular if the sending organisation is located in a Widening country. The return plan should define the support package after the secondments are ended. Approaches promising improved and more sustainable career prospects for the secondees will be regarded positively during evaluation, thus maximising the impact of the action on employability, knowledge sharing and long-term collaboration.Specific attention should be paid to gender equality objectives, in line with the organisations’ commitments through their adopted gender equality plans and in line with the ERA objectives, as appropriate.Grants should have an expected duration of up to 4 years.
+[1]https://data.consilium.europa.eu/doc/document/ST-8621-2021-INIT/en/pdf
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+Applications must be submitted by a consortium including at least three independent legal entities established in three different EU Member States or Associated Countries as beneficiaries, at least two of which are established in a different Widening Country. Participation as coordinators to the call is limited to legal entities established in Widening countries, as defined in the Horizon Europe regulation.Applicants must include participants from both academic[[Academic sector means public or private higher education establishments awarding academic degrees, public or non-profit research organisations for whom one of the main objectives is to pursue research or technological development, and International European Research Organisations (IERO).]] and non-academic sectors[[Non-academic sector means any socio-economic actor not included in the academic sector and fulfilling the requirements of the Horizon Europe Rules for Participation. This includes all fields of future workplaces of researchers and research and innovation talents, e.g., industry, SMEs, independent research infrastructures (e.g., ERICs), government, non-academic public bodies, private research organisations, civil society organisations, international organisations, cultural institutions, hospitals, etc.]]. Umbrella organisations or national/regional associations may participate in the action.
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+The following rules for dealing with ex-aequo applications apply: In the first place, ex-aequo proposals will be prioritised according to geographical diversity criteria, defined as proposals with coordinators established in a Widening Country, not otherwise represented as coordinators higher up the ranking list. The method described in Points 1), 2), 3) and 5) of General Annexes Part F (Procedure/Evaluation procedure and ranking) will then be applied to the remaining equally ranking proposals in the group. This rule establishing the priority order serves to better spread the impact of the action and to strengthen the efficiency of the ‘Widening participation and strengthening the European Research Area’ programme.
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions: described in the specific topic of the Work Programme
+Applicable contribution:The grant covers expenses related to the ERA Talents participating organisations and individual talents hosted/seconded (such as administrative costs, recruitment costs, training costs, travel and subsistence costs and salaries for seconded staff, and costs associated with dissemination &amp; communication and knowledge valorisation).Information on clinical studies (HE)
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE CSA)
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE CSA)
+MGA
+Lump Sum MGA v1.0
+Call-specific instructions
+Detailed budget table (HE LS)
+Guidance: &quot;Lump sums - what do I need to know?&quot;
+Information on clinical studies (HE)
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 11. Widening participation and strengthening the European Research Area
+HE Main Work Programme 2023&ndash;2024 &ndash; 12. Missions
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA&nbsp;&mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+&nbsp;
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

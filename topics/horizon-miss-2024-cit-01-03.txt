@@ -1,0 +1,81 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2024-cit-01-03","file_display_name":"Mobility Management Plans and Behavioural Change","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Projects are expected to contribute to all the following outcomes:Better understanding of schemes’ conditions and users’ motivations leading to the uptake of urban mobility management schemes, including identification of levers as well as of challenges and barriers preventing their rapid and wide replication and uptake;Enhanced societal acceptance (e.g. measured by actual uptake) of mobility management schemes by relevant categories of “destination” organisations and their users: e.g. schools, universities, hospitals and other health facilities, tourism and leisure sectors, shopping malls, private companies;Shift towards low- and zero-emission means of mobility, such as active mobility (e.g. walking and cycling), public transport, shared mobility services or micromobility and a decrease in the use of motorised vehicles, in particularly internal combustion engine driven ones (e.g. through low emission zones);Broader acceptance and uptake of smart and bi-directional electric vehicle recharging of electric vehicles to alleviate the need to invest in distribution grid extension due to the increase in the number of electric vehicles used in cities, and to facilitate locally powered zero-emission mobility in cities across electric mobility modes including public transport;Guidelines and recommendations for national, regional and local authorities, EU institutions, public and private organisations, introducing the benefits of mobility management schemes and how relevant policy levers and regulations facilitate travels' behaviour change and support sustainable mobility choices by different mobility management scheme users. 
+Scope:The shift towards a decarbonised transport system is considered as challenging compared to other sectors of the economy. Achieving urban mobility decarbonisation can involve a variety of policy and technology measures and solutions. However, technological innovations alone are not sufficient for achieving a decarbonised urban transport system. They should be complemented by measures tapping into changes that target travel patterns and generate a shift in the daily mobility behaviour.Urban mobility management plans are developed by organisations in the public domain (by local and regional authorities) and the private domain (companies, organisations, and institutions) to promote sustainable urban transport as laid out in the Urban Mobility Framework[1] to reach climate neutrality, reduce congestion, air pollutant emissions, noise and other harmful effects of overreliance on fossil fuels-based transport.In the context of consultations for the preparation of the new Urban Mobility Framework, the support for mobility management plans has been voiced, with a majority of the respondents being in favour of adopting those plans by “travel destination” such as organisers of big events, companies with more than 200 employees, universities, shopping centres/retail areas, primary and secondary schools as well as hospitals.It is not clear however how many mobility management schemes exist. When they exist, they seem not always fully taken up by their target users. In consequence, they do not lead to the desired behavioural change resulting in a shift towards sustainable mobility choices. Therefore, projects should identify and address specific bottlenecks and barriers that prevent the uptake of sustainable mobility management schemes across the EU and propose solutions that could lead to the desired behaviour change of citizens, aimed at more sustainable and decarbonised urban transport with all its related co-benefits in view of decarbonising the transport sector in line with the European Green Deal.A closely related challenge is the uptake of electromobility that requires an increase for clean electricity and the related infrastructure enhancement, notably distribution grids in cities. It is relevant to promote vehicle-to-grid solutions, to alleviate the needs to invest in distribution grid extension. In this regard, behavioural change is key to enable and incentivise electric vehicles users to participate in balancing the grid through smart and bidirectional charging.The objective of this topic is to explore, analyse and evaluate the effectiveness of mobility management schemes (influencing behavioural change, travel demand and travel supply) in achieving a decarbonised and energy-efficient urban mobility system. To this end, projects should:Take stock of existing studies, analyse in a structured way and provide an overview of mobility managements schemes in the European urban area in both the public and the private domain, which seek to increase the use of sustainable transport modes infrastructure;Identify, analyse and assess leverages as well as barriers in the uptake of mobility management schemes for the most important target groups;Co-design with and engaging the organisations proposing the mobility schemes, identify and assess potential behaviour-related solutions to those barriers that ensure a successful uptake of mobility management systems. Those solutions should differentiate between specific target groups, in particular students, employees, customers and patients of relevant categories of organisations: schools, universities, hospitals and other health facilities, tourism and leisure sectors, shopping malls, private companies, living in European urban, peri-urban and rural areas. Identify user groups that are more motivated to change their behaviours and prepared to act as frontrunners, thus leading to a more rapid adoption;Propose recommendations that support and incentivise the uptake of sustainable mobility choices by organisations and users;Propose recommendations to support the uptake of smart and bidirectional recharging for electric vehicles and related demand side management schemes in cities to enable electric vehicles (EV) participation in electricity markets as active customers that can feed the electricity stored in EV batteries back to the power grid during the peak hours to help balance the growing the electricity demand (thus avoiding need for investments into grids);Establish incentives to promote renewable based e-mobility schemes notably smart and bidirectional charging in cities to reduce reliance on fossil fuels including via support and awareness raising schemes;Encourage new mobility behaviour by means of marketing, information and awareness raising campaigns. This topic requires the effective contribution of social sciences and humanities (SSH) disciplines and the involvement of SSH experts, institutions as well as the inclusion of relevant SSH expertise, in order to produce meaningful and significant effects enhancing the societal impact of the related research activities. At least half of the four cities should be among the 112 cities selected for the EU Mission on Climate-neutral and Smart Cities[2].
+[1]1_EN_ACT_part1_v7.docx (europa.eu)[2] The EU Mission on Climate-Neutral and Smart Cities aims to deliver 100 climate-neutral and smart cities by 2030 and ensure that these cities act as experimentation and innovation hubs to enable all European cities to follow suit by 2050. On 28 April 2022, the Commission announced the 100 EU cities that will participate in the Mission. In addition, 12 cities have been selected from countries associated or expected to be associated the Horizon Europe programme.
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+The following additional eligibility criteria apply:At least four cities should be part of the consortium as beneficiaries. The cities must each be situated in different EU Member States or countries associated to Horizon Europe, ensuring geographical balance.
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Grants awarded under this topic will be linked to the following action(s):HORIZON-MISS-2021-CIT-02-03Collaboration with the Cities Mission Platform[[Conceived through the Horizon 2020 project NetZeroCities - Accelerating cities' transition to net zero emissions by 2030, Grant Agreement n. 101036519, and scaled up through the topic HORIZON-MISS-2021-CIT-02-03: Framework Partnership Agreement (FPA) for the Climate-Neutral and Smart Cities Mission Platform]] is essential and projects must ensure that appropriate provisions for activities and resources aimed at enforcing this collaboration are included in the work plan of the proposal. The collaboration with the Mission Platform must be formalized through a Memorandum of Understanding to be concluded as soon as possible after the project starting date.
+Specific conditions
+7. Specific conditions: described in the specific topic of the Work Programme
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE CSA)
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE CSA)
+MGA
+HE General MGA v1.0
+HE Unit MGA v1.0
+Call-specific instructions
+Information on financial support to third parties (HE)
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 12. Missions
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

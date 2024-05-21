@@ -1,6 +1,6 @@
 package api_caller
 
-type ResponseBody struct {
+type Page struct {
 	APIVersion    string //`json:"apiVersion"`
 	Terms         string //`json:"terms"`
 	ResponseTime  int    //`json:"responseTime"`

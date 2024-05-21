@@ -1,0 +1,50 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/euratom-2024-nuclear-prize-rp","file_display_name":"Nuclear Innovation Prize 2025: Radiation Protection","status":"OK"} -->
+
+Description: 
+Scope:Euratom-funded research in fission that encompasses radioactive waste management, safety of reactor systems and radiation protection benefits from consistent success in pursuing excellence across a broad range of nuclear science and technologies. Researchers and engineers are constantly challenging state of the art in the field and improving evolving technologies. This creates conditions for innovations beyond technologies and scientific breakthroughs, leading to a more dynamic and competitive European industry for the benefit of all citizens and society as a whole.The Euratom programme, together with Member States’ actions, has continuously helped maintain a high level of competences, underpinned by sound and advanced research. The Commission, in its efforts to further engage with the public and private sectors and all relevant stakeholders in the nuclear field, is seeking to identify potential disruptive innovations across product developments and their supply chain – from research to market, where researchers and engineers play a critical role.Objectives:The Nuclear Innovation Prize highlights and rewards excellence in nuclear innovation in this field of research as well as the quality of the talented researchers and companies involved. The second contest will be organised at the next Euratom Research and Training Conference(s) in Safety of Reactor Systems and Radioactive Waste Management (FISA 2025 – EURADWASTE’25).There are three specific categories:  Nuclear Innovation Prize in safety of reactor systems.Nuclear Innovation Prize in safety of radioactive waste management.Nuclear Innovation Prize in radiation protection. Participants are free to submit an application(s) on any technological innovation in the areas of application of fission safety that encompass radioactive waste management, reactor systems and radiation protection science and technology and have been developed within fields covered in Annex I of the Euratom Research and Training Programme 2021-2025. A separate application must be submitted for each category. These applications should have a market potential or should have been taken up (or recognised) by industry, safety or radiation protection stakeholders to be further developed for the market or for use by regulators.The European Commission will publish the specific rules of the contest in 2024[1]. It will launch and manage the contest and award the prizes based on the decision of independent experts.The complete application should include:a technical description of the innovation;a state-of-the-art assessment of the innovation;an account, in general terms, of the market potential for exploiting the innovation. The Funding and Tenders Portal contains the Model Rules of Contest for prizes.Essential award criteria: The prizes will be awarded, after the contest has closed, to the participants(s) who, in the opinion of the jury, best address the following cumulative criteria:  Originality and replicability: The extent to which the idea is innovative, original and a first-of-a-kind use of the technology in industry or in the domain of application. The description should be clear, logically presented and well-illustrated.Technical excellence: The extent to which the innovation is demonstrably state-of-the-art and based on excellent science and engineering.Economic impact and exploitation of the innovation: The extent to which the submission demonstrates understanding and awareness of the relevant innovation aspects, including market potential, needs and business opportunities. Eligibility criteria:1. The contest is open to researchers, research teams or industrial participants eligible for funding under the Euratom Research and Training Programme 2021-2025.2. The researcher, research team or industrial participant must obtain permission from the owner of the intellectual property rights to submit an application and provide supporting documentation.Expected results:By awarding the Nuclear Innovation Prize, the Commission will showcase at both FISA and EURADWASTE conferences innovations in this research sector. This will give visibility to the most dynamic, forward-looking and innovative researchers, research teams or industrial participants. This visibility will provide greater potential for valorising research, and the contest will stimulate nuclear research in the EU to develop a stronger innovation and entrepreneurial culture in line with the Commission’s industrial strategy.The Commission applies an equal opportunities policy. With a view to promoting gender balance in the nuclear field, the Commission would particularly welcome applications from women.Prize amounts:(1) Nuclear Innovation Prize in safety of reactor systems.1st prize: EUR 50 000, 2nd prize: 30 000, 3rd prize: EUR 20 000.(2) Nuclear Innovation Prize in safety of radioactive waste management.1st prize: EUR 50 000, 2nd prize: 30 000, 3rd prize: EUR 20 000.(3) Nuclear Innovation Prize in radiation protection.1st prize: EUR 50 000, 2nd prize: 30 000, 3rd prize: EUR 20 000.
+[1] On the Funding &amp; Tenders Portal (https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/programmes/horizon), but also actively publicised elsewhere to maximise participation.
+
+Conditions: 
+Conditions
+
+1.&nbsp;Admissibility conditions: described in section 5 of the Rules of Contest
+Proposal page limits and layout:&nbsp;described in Part B of the Application Form available in the Submission System
+2. Eligible countries:&nbsp;described in section 6 of of the the Rules of Contest
+3. Other eligibility conditions:&nbsp;described in section 6 of the Rules of Contest
+4. Financial and operational capacity and exclusion:&nbsp;described in&nbsp;section 7 of the Rules of Contest
+5.&nbsp;Evaluation and award: described in sections 8 and 9 of the the Rules of Contest
+
+    Award criteria, scoring and thresholds:&nbsp;described in section 9 of the Rules of Contest
+
+
+    Submission and evaluation processes:&nbsp;described in sections 8 and 11 of the Rules of Contest, and in the&nbsp;Online Manual
+
+
+    Indicative timeline for evaluation and grant agreement:&nbsp;described in section 4 of the Rules of Contest
+
+6. Legal and financial set-up:&nbsp;described&nbsp;in section 10 of the Rules of Contest
+Documents
+
+
+Call documents:
+Rules of Contest
+
+The application form is available upon starting the submission
+Euratom Work Programme 2023-2025 
+Euratom Regulation 2021/765
+EU Financial Regulation 2018/1046
+HE Framework Programme and Rules for Participation Regulation 2021/695
+Commission Decision (EU, Euratom) 2015/444
+Rules for Legal Entity Validation, LEAR, Appointment and Financial Capacity Assessment
+General Data Protection Regulation (GDPR)
+EU Grants AGA - Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+For help related to this&nbsp;call, please contact: RTD-FISSION@ec.europa.eu
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; Submission of proposals.
+IT Helpdesk&nbsp;&ndash; Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+Online Manual&nbsp;&ndash; Step-by-step online guide through the Portal processes from proposal preparation and submission to reporting on your on-going project. Valid for all 2021-2027 programmes.
+

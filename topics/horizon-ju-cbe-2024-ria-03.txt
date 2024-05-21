@@ -1,0 +1,75 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-ju-cbe-2024-ria-03","file_display_name":"Sustainable, bio-based alternatives for crop protection","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:In line with the objectives of the Circular Economy[1] and Zero Pollution Action Plan[2], as well as the Farm to Fork Strategy[3] and the Biodiversity Strategy[4] , notably to the targets to reduce by 50% the overall use and risk of chemical pesticides and reduce the use by 50% of the more hazardous pesticides by 2030, the successful proposals will contribute to the transition to an sustainable and environmental friendly agriculture through the development of sustainable bio-based products for crop protection. Successful proposals will also contribute to the implementation of the EU Bioeconomy Strategy[5], the updated EU Industrial Strategy[6] and to the objectives of the EU R&amp;I Mission ‘A Soil Deal for Europe’. Project results should contribute to the following expected outcomes:Increased availability of widely accessible and cost-efficient alternatives for prevention and (bio)control of plant pest with improved environmental performance (e.g., reduced effects on non-target organisms, natural resources, humans and the environment).Reduced reliance on hazardous plant protection products and favour low risk plant protection solutions, to sustain crop productivity and food security while contributing to sustainable agriculture and/or forestry.Minimised pesticides impact on human and animal health, terrestrial and aquatic ecosystems, drinking water, soils and the food chain. 
+Scope:FAO estimates that up to 40 % of food crops are lost due to plant pests and diseases globally every year. Plant protection products (PPPs) are used to protect crops and other plants from pests and diseases. Biopesticides are a promising alternative to chemical synthetic pesticides and tend to have lower health and environmental risks.The development of sustainable bio-based alternatives to chemical synthetic pesticides in the EU remains challenging, as each feedstock source requires specific considerations on logistics, processing and transformation technologies, as well as final product development and validation. In addition, food and feed safety as well as human health aspects need to be fully elaborated to enable a placing on the market of the end-products.Moreover, the lack of alternatives to deal with some pests and diseases affect agricultural sustainability and poses a challenge for food security. Further efforts will be needed to support farmers in the transition to achieve the ambitious targets of the Farm to Fork Strategy. In addition, climate change is altering pests’ behaviour and geographical distribution, which may further increase the risk of introducing pests to new areas and the severity of the impact.Proposals under this topic should:Develop and test innovative processes for obtaining safe and sustainable bio-based alternatives for crop protection. Development of fertilisers (including biostimulants) is not in scope but proposals can explore synergistic strategies employing crop protection products and fertilisers.Assess the potential risks and benefits of the chosen alternative in view of safety and sustainability in accordance with established scientific risk assessment methodologies and relevant EU regulatory frameworks related to their manufacturing and placing on the market. In addition, include a task to integrate a prospective assessment based on the safe-and-sustainable-by-design (SSbD) framework, developed by the European Commission, for assessing the safety and sustainability of chemicals and materials.[7] Under this context, projects are expected to contribute with and develop recommendations that can advance further the application of the SSbD framework[8]. Where applicable, a comparison with the fossil-based state-of-the-art counterparts should be added.Develop and test the effectiveness of alternatives to chemical synthetic pesticides for selected crops covering a variety of climatic and soil conditions. Address innovative solutions for product delivery on field, including precision farming approaches through enabling digital technologies and/or formulation and optimisation aspects to ensure controlled release at an optimal dosage.Implement a participatory approach fostering the cooperating among farmers and bio-based industries in Europe including the exchange of knowledge and best practices, capacity building, training and education activities enabling farmers/growers to adopt the proposed solution reducing the use and risk of chemical synthetic products for crop protection. Proposals must implement the multi-actor approach and ensure adequate involvement of all key actors in the value chains relevant for this topic, across the sustainable circular bio-based system in particular primary biomass producers, academic community and the bio-based industry.Proposals should also describe their contribution to the Specific CBE JU requirements, presented in section 2.2.3.1 of the CBE JU Annual Work Programme 2024[9].Proposals should seek for links and complementarities and avoid overlaps with past, ongoing and upcoming EU funded projects, including those funded under H2020, HEU and the BBI JU and CBE JU[10], Horizon 2020[11] and Horizon Europe[12]. Collaboration among projects from the same topic are encouraged. Proposals should liaise also with relevant initiatives in EU including the Mission ‘A Soil Deal for Europe’, in particular with activities concerning the objectives ‘reduce soil pollution and enhance restoration’ and ‘improve soil structure to enhance soil biodiversity.’
+[1]Brussels, 11.3.2020, COM(2020) 98 final.[2]Brussels, 12.05.2021, COM(2021) 400 final.[3]With reference to the Farm to Fork target of ‘reducing the use of, and dependency on, chemical pesticides in general, and the use of more hazardous pesticides in particular’ Brussels, 20.5.2020, COM(2020) 381 final.[4]Brussels, 20.5.2020, COM(2020) 380 final.[5]European Commission, Directorate-General for Research and Innovation, Review of the 2012 European Bioeconomy Strategy, Publications Office, 2018, https://data.europa.eu/doi/10.2777/086770.[6]Brussels, 5.5.2021 COM(2021) 350 final.[7]See document defining the framework and criteria: Safe and sustainable by design.[8]More specifically, provide thresholds that can support the criteria definition and improvements for the assessment SSbD methodologies, including any specificities related with bio-based crop protection products. Recommendations should also include identification of data gaps, especially safety, environmental, but also socio-economic factors, as well as priorities for data collection.[9]https://www.cbe.europa.eu/reference-documents[10]B-Ferst (H2020-BBI-JTI-2018), SUSFERT (H2020-BBI-JTI-2017), BIOVEXO (H2020-BBI-JTI-2019), PHERA (H2020-BBI-JTI-2019), BIOBESTicide (H2020-BBI-JTI-2019).[11]LEX4BIO (H2020-RUR-2018-2), SEA2LAND (H2020-RUR-2020-1), Nutri2Cycle (H2020-SFS-2017-2).[12]HORIZON-CL6-2023-FARM2FORK-01-7- Innovations in plant protection: alternatives to reduce the use of pesticides focusing on candidates for substitution and Horizon Europe project RATION (https://cordis.europa.eu/project/id/101084163).
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions:&nbsp;described in section 2.2.3 Calls for proposals in the CBE JU Annual Work Programme 2024
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+CBE JU Call for proposals 2024
+MGA
+HE General MGA v1.0
+Call-specific instructions
+CBE JU Call for proposals 2024
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

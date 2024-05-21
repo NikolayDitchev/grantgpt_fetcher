@@ -1,0 +1,80 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2024-cancer-01-04","file_display_name":"Support a pragmatic clinical trial programme by cancer charities","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:An important aim of Missions is bringing together various disciplines, sectors and actors, such as philanthropy. Hundreds of cancer charities and foundations across Europe support patient-centred research, including clinical trials.Pragmatic clinical trials focus on choosing between care options. Pragmatic trials evaluate effectiveness, the effect of treatment in routine (real-world) clinical practice. Some examples include treatment versus active surveillance in patient management, a combination of treatment interventions, determination of optimal dose and dose schedules, de-escalation of treatment intervention, comparative effectiveness of different treatment interventions.The successful proposal under this topic should aim to deliver results that are directed and tailored towards and contribute to all of the following expected outcomes:Together, a network of registered cancer charities and foundations support multi-centre, transnational pragmatic clinical trials on cancers with a 5-year overall survival less than 50% from time of diagnosis or rare cancers using their own resources.Cancer patients and their caregivers have access to more effective and patient-centred, treatment and care solutions.Researchers, innovators, and professionals from different disciplines and sectors ensure accessibility and re-usability of relevant trial data, to support the UNCAN.eu[1] research data platform, which is currently in preparation.National healthcare providers, policymakers and authorities in European regions, Member States and Associated Countries have the evidence to implement affordable and accessible treatment and care solutions in their healthcare systems. 
+Scope:The EU contribution aims to facilitate the coordination and networking between charities themselves as well as with relevant stakeholders across Member States and Associated Countries. The EU contribution will not co-fund the trials.Proposals should address all of the following:Together, registered cancer charities and foundations across Europe, organise, fund and implement at least two transnational calls for proposals, resulting in grants to academic investigator-led third parties to conduct randomised multi-centre pragmatic clinical trials. The trials should deliver, affordable, accessible and evidence-based treatment or care interventions for implementation by healthcare systems at the level of local communities, European regions, Member States and Associated Countries.Organise annual networking activities between charities, the successful academic investigators, citizen representatives and stakeholders across Member States and Associated Countries across Europe;With respect to the pragmatic trials.The chosen intervention(s) should be adapted to the particular needs of the target population and to the specificities of the provision of care at local, regional, or national level, duly reflecting the diversity across Member States and Associated Countries.The chosen intervention(s) should take into account socio-economic and biological stratification. All data should be disaggregated by sex, gender, age and other relevant variables, such as by measures of socio-economic status.The successful grants to third parties will address interventions for patients with cancers with a 5-year overall survival of less than 50% from time of diagnosis[2] or rare cancers[3], at any stage of the disease, for any cancer subtype, in any age group or part of society.Timely contact with regulatory authorities should be foreseen to inform the trial design and feasibility. This topic requires the effective contribution of SSH disciplines and the involvement of SSH experts, institutions as well as the inclusion of relevant SSH expertise in the successful proposal, to produce meaningful and significant effects enhancing the societal impact of the related research activities.The successful proposal is expected to build on the support of the Knowledge Centre on Cancer (KCC)[4] to foster EU alignment and coordination.The Commission will facilitate coordination. Therefore, successful proposals will be asked to join the 'Diagnostics and Treatment' cluster for the Mission on Cancer established in 2022[5] and should include a budget for networking, attendance at meetings, and potential joint activities without the prerequisite to give details of these at this stage. Examples: organising joint workshops, establishing best practices, joint communication or citizen engagement activities with projects funded under other clusters and pillars of Horizon Europe, or other EU programmes, as appropriate. The details of joint activities will be defined during the grant agreement preparation phase and during the life of the project.
+[1]Under the Mission work programme a Europe-wide research and data platform, UNCAN.eu, will be established, utilising existing, relevant research infrastructures. Once operational, the platform should enable integration of innovative models and technologies with longitudinal patient data, data beyond research, or the health domain, samples and biomarkers for translation to patients.[2]So called ‘refractory cancers’[3]Defined as cancers with an incidence of less than 6 per 100,000 persons per year. See: https://www.rarecarenet.eu/rarecarenet/cancerlist.[4]Hosted by the European Commission's Joint Research Centre (JRC). Especially through the ’European Guidelines and Quality Assurance Schemes for Breast, Colorectal and Cervical Cancer Screening and Diagnosis‘, and the ’European Cancer Information System (ECIS)’ and the ’European Cancer Inequalities Registry (ECIR), see https://knowledge4policy.ec.europa.eu/cancer_en[5]In order to address the objectives of the Mission on Cancer, participants will collaborate in project clusters to leverage EU-funding, increase networking across sectors and disciplines, and establish a portfolio of Cancer Mission R&amp;I and policy actions.
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+The thresholds for each criterion will be 4 (Excellence), 4 (Impact) and 3 (Implementation). The cumulative threshold will be 12.
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions: described in the [specific topic of the Work Programme]
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE CSA)
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE CSA)
+MGA
+HE General MGA v1.0
+Call-specific instructions
+Information on clinical studies (HE)
+
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 12. Missions
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

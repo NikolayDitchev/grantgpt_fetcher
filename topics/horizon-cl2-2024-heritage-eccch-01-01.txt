@@ -1,0 +1,90 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl2-2024-heritage-eccch-01-01","file_display_name":"A European Collaborative Cloud for Cultural Heritage – Innovative tools for digitisation and analysis of dynamic processes, objects and complex combined data","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Projects should contribute to all of the following expected outcomes:The European Collaborative Cloud for Cultural Heritage (ECCCH) is widely used by European cultural heritage professionals and researchers[1] for digitising dynamic objects, processes and practices[2].The ECCCH is widely used by European cultural heritage professionals and researchers for monitoring the evolving status of cultural heritage objects[3] over time.The ECCCH is widely used by European cultural heritage professionals and researchers for advanced interaction with digital content, enabling new ways to interact, cross-mix and re-mix different data types, enhancing insight capabilities and representation potential.European cultural heritage professionals and researchers are provided with clear information as well as targeted training modules on the innovative tools and methods developed. 
+Scope:This topic aims at developing and implementing a set of innovative tools and methods on the European Collaborative Cloud for Cultural Heritage (ECCCH) for digitisation and analysis of dynamic processes, objects and complex combined data. Concrete applications of these tools and methods should be provided for at least the following uses:Digitising dynamic objects, processes and practicesMonitoring the evolving status of cultural heritage objects over timeInteracting with, cross-mixing and re-mixing different data types Digitisation of dynamic objects, processes and practicesThe main focus of 3D digitisation initiatives in the realm of cultural heritage has thus far been the shape and appearance of static objects. Practical techniques and technologies that enable accurate physical simulations of digitised items are mostly unexplored. Mechanical characteristics like stiffness, flexibility, mass distribution and strength, as well as mechanisms and moving parts are still largely undocumented. However, many heritage objects, including human-made devices, machines or practices, exhibit dynamic behaviours. Making adequate and precise digital models of such items and phenomena would enable more realistic simulations of, for instance, ancient artefacts like tissues, mechanisms, tools or practices, which would facilitate more insightful analysis and understanding.For this use, projects funded under this topic should develop new digitisation approaches enabling the correct capture of mechanical and dynamic characteristics of objects and practices.Monitoring the evolving status of cultural heritage objects over timeMonitoring the evolution over time of a heritage object is a key task in many cultural heritage contexts. This involves monitoring very slow phenomena (e.g. changes in the reflection attributes of a painted surface) as well as very rapid ones (for example fractures introduced by an abrupt event, such as damages to a loan artwork while traveling, or to a monument due to a seismic impact). The accurate sampling and detection of such changes occurring over time requires a number of new and integrated technologies: shape &amp; colour sampling, use of networks of sensors displaced in a space, data integration, and software technologies able to make comparisons and to assess the changes. Innovative AI-based solutions may be developed to characterise and detect the changes, subject to the validation of human experts.For this use, projects funded under this topic should develop new digitisation approaches enabling an unprecedented capability to monitor the evolution over time of the status of heritage objects.Interacting with, cross-mixing and re-mixing different data typesMixing and integrating different media and media types in effective ways can expand insight capabilities, and lead to new knowledge generation. Projects funded under this topic should develop innovative tools and methods that give the ECCCH ground-breaking capabilities in this area.For this use, projects funded under this topic should explore how different media can be combined, using both the space and time axes, and how the creative processes involved can be supported. Such new methods will require studying new interaction modes, enabling the navigation over different media types and spaces (2D, 3D, text, …), and creating a common cross-media interaction language. Users should easily be able to use multiple media in a coordinated manner, for instance for the visual presentation and analysis of heritage objects (e.g. interconnecting 3D and text to tell the story of an artwork, intermixing the navigation of a 3D space and panoramic images to present both spatial and surface colour/reflection characteristics in an accurate manner, enabling the navigation of datasets which join 3D scanned external surfaces with computer tomography scanned data of the interior, or using 3D and images in the documentation of restoration). The tools and methods developed should allow the representation of non-static heritage, such as industrial heritage with many complex machines and processes. As an alternative to producing full digital models of complex machinery, which may be excessively expensive, different media may be combined to represent the dynamic essence of such assets with less effort, for instance using 3D models for the static characteristics of a machinery and adding video and sound to enhance the dynamic experience.The work produced may be implemented as new specific tools, and/or as extensions to the functional libraries included in the core ECCCH platform.With a view to use resources efficiently and go beyond the state of the art, projects funded under this topic should, where appropriate, build on previous existing research, methods and solutions. Proposals should therefore ensure that existing tools and methods and their potential (re-)use are properly examined.Ease of use for the target users is of paramount importance. Therefore, tools and methods should be developed in close collaboration with actively involved representative target users. Furthermore, tools and methods should be thoroughly tested and verified with a significant number of users before the end of the project. Financial support to third parties may be used to facilitate the engagement with users. The financial support to third parties can only be provided in the form of grants.In order to facilitate the access for less well-equipped users, the developed software tools should to the extent possible be accessible online without requiring installation nor special or particularly powerful equipment. Also, the developed software tools should to the extent appropriate be designed to allow use and avoid loss of work in situations with unstable or limited connectivity.Projects funded under this topic should demonstrate the potential of the developed tools and methods through representative case studies, conducted in collaboration with relevant users. These case studies should cover a significant share of the range of cultural heritage objects, materials and issues that the tools and methods intend to address. The results of these case studies should produce information that can serve as models for promoting the re-use of the tools and methods in other contexts and by other users within, and where appropriate beyond, the ECCCH.Proposals should, furthermore, foresee appropriate resources to provide clear information and elaborate targeted training modules for users of the developed tools and methods.The tools to be developed should be implemented using the low-level libraries established by the project funded under topic HORIZON-CL2-2023-HERITAGE-ECCCH-01-01. The tools developed should be compliant with the design of the ECCCH, and should be integrated with the ECCCH before the end of the project, together with proper documentation. All software and other related deliverables should be compliant with the data model and the software development guidelines elaborated by the project funded under topic HORIZON-CL2-2023-HERITAGE-ECCCH-01-01. If appropriate these tools should be developed with a view to a wider deployment, including in the Common European Data Space for Cultural Heritage, as well as, when appropriate, for reuse via the European Open Science Cloud. Furthermore, content produced by these tools for the ECCCH should, when appropriate, be interoperable for sharing via the Common European Data Space for Cultural Heritage and/or the European Open Science Cloud.Proposals should furthermore make provisions to actively participate in the common activities of the ECCCH initiative. In particular, projects funded under this topic should coordinate technical work with projects funded under other call topics of the ECCCH initiative, and contribute to the activities and objectives of the project funded under the topic HORIZON-CL2-2023-HERITAGE-ECCCH-01-01. Proposals should include a budget for the attendance to regular joint coordination meetings, and may consider covering the costs of any other joint activities without the prerequisite to detail concrete joint activities at this stage.Projects funded under this topic should moreover set up their project websites under the common ECCCH website, managed by the project funded under topic HORIZON-CL2-2023-HERITAGE-ECCCH-01-01.Furthermore, the Commission expects projects funded under this topic to establish regular coordination mechanisms in order to ensure synchronised planning as well as synergy and/or complementarity of deliverables and outcomes.The Commission recommends considering reporting periods of 12 months when elaborating proposals.Please also refer to the Destination introduction text to consider some key characteristics of the vision for the ECCCH.
+[1]‘Cultural heritage professionals and researchers’ should in the context of the ECCCH be interpreted as including all different professions and disciplines involved in the cultural heritage field, such as curators, conservators, researchers, art managers, educators, etc., that may develop their activities for instance at cultural heritage institutions, research organisations, higher education establishments or in the cultural and creative industries.[2]‘Dynamic objects, processes and practices’ should in the context of the ECCCH be interpreted as including all sorts of heritage where complex movements are important characteristics, and may include for instance complex assemblies, mechanisms, dance, etc.[3]‘Cultural heritage objects’ should in the context of the ECCCH be interpreted as including any form of cultural heritage that can be represented in a digital format: tangible, intangible, born digital; movable objects, buildings, documents, inscriptions, etc.
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+The page limit of the application is 60 pages.
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Beneficiaries will be subject to these additional requirements on outputs:All software developed should be open source, licensed under a CC0 public domain dedication or under an open-source licence as recommended by the Free Software Foundation[[https://www.gnu.org/licenses/license-list#SoftwareLicenses]] and the Open-Source Initiative[[ https://opensource.org/licenses]]. If the use of open source software components would require disproportional efforts or significantly diminish the quality or performance of the software, proprietary components may be used provided that: an open functional replacement is available; they do not introduce proprietary data formats or Application Programming Interfaces; a full user license free of charge for an unlimited period of time is granted to the consortium responsible for the ECCCH and all its users.
+Eligible costs will take the form of a lump sum as defined in the Decision of 7 July 2021 authorising the use of lump sum contributions under the Horizon Europe Programme – the Framework Programme for Research and Innovation (2021-2027) – and in actions under the Research and Training Programme of the European Atomic Energy Community (2021-2025). [[This decision is available on the Funding and Tenders Portal, in the reference documents section for Horizon Europe, under ‘Simplified costs decisions’ or through this link: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf]].
+Beneficiaries may provide financial support to third parties to cultural heritage institutions, in take-up of tools, technologies and for populating and validating the relevant use cases through experiments. A maximum of 15% of the budget may be dedicated to financial support to third parties. The maximum amount to be granted to each third party is EUR 60 000.
+Specific conditions
+7. Specific conditions: described in the [specific topic of the Work Programme]
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE RIA, IA)
+&nbsp;
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE RIA, IA)
+&nbsp;
+MGA
+Lump Sum MGA v1.0
+&nbsp;
+Call-specific instructions
+Detailed budget table (HE LS)
+Information on financial support to third parties (HE)
+&nbsp;
+Guidance: &quot;Lump sums - what do I need to know?&quot;
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 5. Culture, creativity and inclusive society
+HE Main Work Programme 2023&ndash;2024 &ndash; 12. Missions
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

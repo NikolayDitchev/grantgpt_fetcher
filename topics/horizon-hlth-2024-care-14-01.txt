@@ -1,0 +1,73 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-hlth-2024-care-14-01","file_display_name":"Pre-commercial procurement for environmentally sustainable, climate neutral and circular health and care systems","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:This topic aims at supporting activities that are enabling or contributing to one or several expected impacts of destination 4 “Ensuring access to innovative, sustainable and high-quality health care”. To that end, proposals under this topic should aim for delivering results that are directed, tailored towards and contributing, to some of the following expected outcomes:Public procurers, possibly in cooperation with private ones, in the area of health and care stimulate the competitive development of market-ready, environmentally sustainable innovative solutions (materials, technologies and systems/practices). These solutions take into consideration the green deal ambitions on zero pollution, climate neutrality and circular economy, while increasing the overall sustainability of the sector.Procurers open up opportunities for European health and technology industry actors (including start-ups/SMEs) to bring to the market innovations that are cost-efficient, safe and proven to increase environmental sustainability while improving or at least maintaining health outcomes and access to care for patients.Procurers facilitate the commercialisation of environmentally sustainable innovative solutions by their successful suppliers through providing them with first customer references for the validation and first pilot deployment.Policymakers, health care providers and professionals, patients and carers – each in their respective areas – exchange and adopt good practices and the best solutions and technologies that the market can deliver to reduce carbon emissions and minimise waste and pollution stemming from health and care provision, in line with the Green Deal ambitions. 
+Scope:The healthcare sector is responsible for 4-5% of global total carbon emissions[1] contributing significantly to Europe's carbon footprint and to the generation of large amounts of plastics and other waste, including chemical waste through the discharge of pharmaceuticals and diagnostic chemicals as well as disinfectants and antimicrobial resistant pathogens into the wastewater system. Good hygiene and safety are vital in this setting however innovative solutions can help to reduce the environmental impact of the healthcare sector through the efficient use of resources, increasing circularity, and the introduction of “greener” materials, technologies and practices.Up to now the healthcare sector has not significantly embraced the green transition. However, pressure is increasing as demonstrated by the launch of the first ever Declaration on Climate and Health[2] by the UAE COP28 presidency. The declaration calls for action and joint vision on ensuring better health outcomes, in part through the transformation of health and care systems to become climate-resilient, low-carbon, sustainable, circular and equitable. Such a transformation will contribute in the long term to improving patient care by enhancing both the sustainability and overall efficiency of health and care systems.Pre-commercial procurement (PCP) actions target consortia of procurers with similar needs that want to procure together the development of innovative solutions for greening the health and care systems. This topic does not provide direct funding to developers, industry or research organisations to perform R&amp;D. They will be able to respond to the call for tenders launched by consortia of procurers funded under this call. Specific guidance on PCP actions and minimum eligibility requirements can be found in General Annexes H of the Horizon Europe work programme.As every step in health and care delivery has a role in reducing its environmental footprint, the topic can support any of the different dimensions and needs for the greening of the healthcare sector.Proposals should target either:Direct and indirect footprint deriving from the provision and/or delivery of care (excluding infrastructural elements related to building, transport logistics and food footprints).Circularity, waste production and treatment.Footprint from the chain of suppliers in making and delivering products, or services.More efficient use of resources, decreasing the overall sector footprint while addressing the constantly increasing demand for healthcare. Focus should be on solutions that are specific to the healthcare sector therefore proposals targeting general infrastructure (energy efficiency of buildings such cooling, heating and ventilation, vehicles, construction or refurbishment), energy supply or food and catering services do not fall within scope. Within this topic, it is possible to foresee the transfer and adaptation of solutions and/or interventions from other sectors to health and care systems. It is open both to proposals requiring improvements mainly based on one specific solution/technology field, as well as to proposals requiring end-to-end solutions that need combinations of different types of innovation.Continuous dialogue between demand and supply side is required for the success of PCPs, therefore the effective involvement of end users (e.g. clinical teams, patients or hospital structures etc) needs to be considered in the proposal. Furthermore, to stimulate dialogue with the supply side, procurers are required to organise an open market consultation before launching the procurement and to promote the call for tenders widely across Europe to potentially interested suppliers.Involvement of procurement decision makers is needed to ensure that end solution(s) are adopted by health and care systems increasing the societal impact of the related research activities. Therefore, procurers should declare in the proposal their interest to purchase at least one solution resulting from the PCP in case the PCP delivers successful solutions and indicate whether they will (1) procure the solution(s) as part of the PCP or (2) in a separate follow-up procurement after the PCP. In the first case, procurers can implement the project as a fast-track PCP (see general annex H) and foresee the budget to purchase at least one solution during the PCP. In the second case, the procurers must include in the proposal a deliverable that prepares the follow-up procurement to purchase successful solution(s) after the PCP.
+[1]https://www.thelancet.com/action/showPdf?pii=S2542-5196%2820%2930271-0[2]https://reliefweb.int/report/world/cop28-uae-declaration-climate-and-health
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes.
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System.
+&nbsp;
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+&nbsp;
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes.
+The specific conditions for actions with PCP/PPI procurements in section H of the General Annexes apply to grants funded under this topic.
+In recognition of the opening of the US National Institutes of Health’s programmes to European researchers, any legal entity established in the United States of America is eligible to receive Union funding.
+&nbsp;
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes.
+&nbsp;
+5.&nbsp;Evaluation and award:
+Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes.
+The thresholds for each criterion will be 4 (Excellence), 4 (Impact) and 3 (Implementation). The cumulative threshold will be 12.
+Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual.
+Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes.
+&nbsp;
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes.
+The specific conditions are described in General Annex H.
+PCP/PPI procurement costs are eligible.
+&nbsp;
+Specific conditions
+7. Specific conditions:&nbsp;described in the specific topic of the Work Programme.
+&nbsp;
+Documents
+Call documents:
+Standard application form (HE PCP)&nbsp;- call-specific application form is available in the Submission System
+Standard evaluation form (HE PCP PPI)
+
+HE&nbsp;General MGA v1.0
+
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 4. Health
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA&nbsp;&mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

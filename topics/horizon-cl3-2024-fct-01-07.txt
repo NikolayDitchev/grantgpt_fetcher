@@ -1,0 +1,83 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl3-2024-fct-01-07","file_display_name":"CBRN-E detection capacities in small architecture","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Projects’ results are expected to contribute to all of the following outcomes:Improved vulnerability assessments by law enforcement and local managers of public spaces by detection of chemical, biological, radiological, nuclear and explosive (CBRN-E) threats in the public spaces and flow of public transport, in order to provide broader situational awareness to practitioners in the field;Enhanced planning capabilities of security practitioners and policy-makers due to the access of new data and identification of potential vulnerabilities connected to the design/refurbishment and improvement of different public spaces;Recommendations are provided for further improving safety and security-by-design approach to public spaces and mass transportation systems;Improved training of Police Authorities in collaboration with different public and private actors (e. g., crisis management and civil protection authorities, fire brigades, regulatory agencies, emergency health services, security managers, private security organisations, civil society groups etc.) to enhance their preparedness to attacks on public spaces; andEnhanced modelling capabilities for security practitioners and policy-makers due to the identification of potential new vulnerabilities and data available, and improved support to planning of respective resources and activities. 
+Scope:Public spaces such as squares, sport venues, shopping districts, places of worship, and mass transport systems have been the target of terrorist attacks causing significant loss of lives and causing societal insecurity. Means to carry out such attacks range from sophisticated, and well-planned scenarios including several coordinated attackers using explosives and firearms, to low-cost, low-tech attacks making use of common products. Today specific urban furniture like benches, bus shelters, flower boxes, etc. already have double functions controlling access to protected areas, which answers to some of the low-cost attacks. The next logical step seems to expand their functions further and adopt new functionalities to better respond to the terrorist threats, such as for CBRN-E ones. The successful proposal should build on the publicly available achievements and findings of related previous national or EU-funded projects, as well as seek to exploit potential synergies with the successful proposal(s) funded under HORIZON-CL3-2024-BM-01-05: Detection and tracking of illegal and trafficked goods.In recent years, in some pilot actions some street furniture, including bins and bus shelters have become smart as they have been equipped with environmental sensors, wireless modules, or microcontrollers becoming part of the IoT infrastructure, and one of the components of the future smart cities. Proposals should focus on exploitation and integration of existing sensors within the public space small architectures. Traditional sensors and surveillance platforms like the Automatic Number-Plates Recognition (ANPR), cameras or image analysis systems are not in the scope of this topic unless their integration with new sensors is considered, and the added value of networked systems demonstrated. Proposals should present relevant challenges and opportunities for future applications of CBRN-E detection capacities in small architecture, including prospects of scalability, real-time processing, and cooperation of networked systems.Proposals funded under this topic are expected to engage with the Europol Innovation Lab during the lifetime of the project, including validating the outcomes, with the aim of facilitating future uptake of innovations for the law enforcement community.In this topic the integration of the gender dimension (sex and gender analysis) in research and innovation content should be addressed only if relevant in relation to the objectives of the research effort.
+Specific Topic Conditions:Activities are expected to achieve TRL 6-8 by the end of the project – see General Annex B.
+
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).
+The following additional eligibility conditions apply:This topic requires the active involvement, as beneficiaries, of at least 2 Police Authorities[[In the context of this Destination, ‘Police Authorities’ means public authorities explicitly designated by national law, or other entities legally mandated by the competent national authority, for the prevention, detection and/or investigation of terrorist offences or other criminal offences, specifically excluding police academies, forensic institutes, training facilities as well as border and customs authorities.]] and 2 urban municipalities from at least 3 different EU Member States or Associated Countries. For these participants, applicants must fill in the table “Information about security practitioners” in the application form with all the requested information, following the template provided in the submission IT tool.
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions: described in the [specific topic of the Work Programme]
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE RIA, IA)
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE RIA, IA)
+MGA
+HE General MGA v1.0
+&nbsp;
+Call-specific instructions: 
+Template for Security &amp; eligibility conditions in Horizon Europe 
+
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 6. Civil Security for Society
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

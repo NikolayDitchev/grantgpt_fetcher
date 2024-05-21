@@ -1,0 +1,49 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/digital-2024-ai-06-imaging","file_display_name":"AI in support of Quantum-Enhanced Metabolic Magnetic Resonance Imaging Systems","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Outcomes and deliverablesIn phase 1:Validation of the capabilities of metabolic MRI in a pre-clinical context as a diagnostic tool for cancer and neurological diseases and identifying appropriate treatments. This includes benchmarking of the success rate in finding effective cancer therapy within a relevant time frame, treatment responsiveness, recovery time and accuracy of treatment efficacy prediction.The development of AI/machine learning techniques for cancer imaging and/or neurological imaging, e.g. by analysis of datasets accessible via the cloud, via the creation of an experimental AI/machine learning model.Contribution to European and national initiatives on cancer imaging, and the future European Health Data Space. In phase 2:Benchmark metabolic MRI against standard MRI and other standard diagnostic tools by performing clinical trials in patients.Operational impact of introducing metabolic MRI in hospitals, including financial implications and number of patients treated.Assessment of metabolic MRI combined with AI techniques as a means to detect early signs or support the diagnosis of Alzheimer’s disease and/or multiple sclerosis.Standard procedures and best practices for the use of quantum-enhanced metabolic MRI in combination with AI techniques for cancer imaging and/or neurological imaging as a contribution to preparations for the wide use of this technology in European hospitals. Recommendations should be application/diagnosis-specific and mention, among other parameters, the preferred metabolic agent and the number and duration of metabolic MRI scan intervals.Extended AI models as a tool for diagnosis, treatment selection and decision-making, and the evaluation of medical outcomes, including assessment of correlations between metabolic MRI imaging data and treatment success, in line and coordination with the European Cancer Imaging Initiative.Use project results to contribute to European and national initiatives on cancer imaging, and in line with the future European Health Data Space. 
+Objective:Magnetic resonance imaging (MRI) is a powerful tool for detecting, diagnosing and monitoring a wide range of medical conditions. An emerging approach based on quantum-enhanced metabolic MRI enables detection of the tissue metabolism, down to the cell level, leading to a much higher precision of detection and analysis of the human body. In combination with artificial intelligence (AI) and/or machine learning techniques to analyse the vast amount of data generated and for image analysis, it will lead to faster, more accurate and personalized diagnosis, treatment and follow-up notably of cancer and/or neurological disorders. The overall aim of this action is to prepare for the industrialisation and deployment of such emerging systems, with a focus on cancer imaging and/or neurological imaging.
+Scope:Metabolic MRI has the potential to provide information about changes in tissue metabolism which can precede macroscopic tissue changes seen with standard MRI. For example, this emerging technology can provide early detection of changes in tissue metabolism and fast feedback on treatment effectiveness, a crucial aspect of finding effective cancer therapy. The development of AI techniques for the analysis of quantum-enhanced metabolic MRI images could substantially enhance the capabilities of this new technology, transforming the process into a more automated, personalised and efficient one.Therefore, the scope of this call is to develop and experimentally validate in an hospital environment a more precise and faster tool for the study, diagnosis, treatment and follow-up of cancer and/or neurological disorders (such as Alzheimer’s disease and multiple sclerosis) by enhancing existing MRI systems with quantum-enhanced metabolic MRI and AI techniques. The project will include the deployment of innovative automated polariser systems for quantum enhanced metabolic MRI in at least two research hospitals in two different Member States, working in close collaboration. The systems should allow for fast turnover and generation of metabolic agents within a few minutes, without the need for operating such systems at cryogenic temperatures.The polarisation level should be sufficiently high such that a metabolic MRI scan can be performed in a single-shot experiment, shortly after injecting the metabolic agent into a living organism. The project will also underpin the development of one or several AI models for the analysis of metabolic MRI data. To this end the images generated in the course of the project will be collected and annotated. These images, duly anonymised, will, together with images from other European 90 initiatives and other clinical datasets, will be used to train one or several AI models useful for the development of new diagnostic and treatment selection protocols. The project should be designed in in two phases. The start of the second phase should be conditional of the successful completion of the first phase:Project Phase 1: Deployment and validation in a pre-clinical environment of two first-generation polariser systems for the refinement of hyperpolarisation techniques, metabolic agents, MRI sequences, and signal detection to optimise the visualisation of metabolism in a range of tissues with different pathologies.Creation of an initial experimental AI model to analyse the MRI images in combination with inputs from other sources and forms of medical analysis, including, where relevant, datasets accessible via the cloud, with a view to developing future diagnostic and treatment selection protocols. Project Phase 2:The second phase consists of the deployment and validation in a clinical environment of two second-generation polariser systems and associated AI techniques (including the training of new models if necessary) to investigate tumour growth and disease progression, diagnosis, treatment selection and decision-making, and the evaluation of medical outcomes, as well as evaluate and optimise treatment of cancer and/or neurological diseases. 
+
+
+Conditions: 
+Conditions
+
+
+1.&nbsp;Admissibility conditions: described in section 5 of the call document&nbsp;
+Proposal page limits and layout:&nbsp;described in Part B of the Application Form available in the Submission System
+2. Eligible countries:&nbsp;described in section 6 of of the call document
+3. Other eligibility conditions:&nbsp;described in section 6 of the call document
+4. Financial and operational capacity and exclusion:&nbsp;described in&nbsp;section 7 of the call document
+5.&nbsp;Evaluation and award:
+
+    Award criteria, scoring and thresholds:&nbsp;described in section 9 of the call document
+
+
+    Submission and evaluation processes:&nbsp;described&nbsp;section 8 of the call document and the&nbsp;Online Manual
+
+
+    Indicative timeline for evaluation and grant agreement:&nbsp;described in section 4 of the call document
+
+6. Legal and financial set-up of the grants:&nbsp;described&nbsp;in section 10 of the call document
+Documents
+
+Call document is available here
+Standard application form &mdash; call-specific application form is available in the Submission System
+Detailed budget table -&nbsp;available in the Submission System
+&nbsp;
+DIGITAL&nbsp;EUROPE&nbsp;PROGRAMME -&nbsp;General MGA v1
+&nbsp;
+Guidance Classification of information in DIGITAL projects
+Guidelines on&nbsp;How to Complete your Ethics Self-Assessment
+Guidance on participation in DEP - restricted calls&nbsp;
+Digital Europe&nbsp;Work Programme 2023-2024
+Digital Europe Programme&nbsp;Regulation 2021/694
+EU Financial Regulation 2018/1046
+
+Support Info: 
+For help related to this call, please contact us&nbsp;here
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; Submission of proposals.
+IT Helpdesk&nbsp;&ndash; Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+Online Manual&nbsp;&ndash; Step-by-step online guide through the Portal processes from proposal preparation and submission to reporting on your on-going project. Valid for all 2021-2027 programmes.
+

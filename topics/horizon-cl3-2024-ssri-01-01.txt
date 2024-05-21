@@ -1,0 +1,82 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl3-2024-ssri-01-01","file_display_name":"Demand-led innovation through public procurement","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Projects’ results are expected to contribute to some or all of the following outcomes:An identifiable community of EU civil security authorities with common user/functional needs for innovative technology solutions;Tested and validated capacity of EU technology and industrial base to develop and produce technology prototypes that meet the needs of the EU user community;Improved delineation of the EU market (including demand and supply) for innovative civil security systems that can articulate alternative options for uptake in function of different industrialisation needs, commercialisation needs, acquisition needs, deployment needs and additional funding needs (beyond R&amp;I funding). 
+Scope:End-users and public procurers from several countries are invited to send proposals for launching a Pre-Commercial Procurement action for the acquisition of R&amp;D services for the development of innovative civil security technology solutions.The proposals should build on the outcomes of CSA projects funded under previous work programmes aimed at creating Stronger grounds for pre-commercial procurement of innovative security technologies [for example, topic HORIZON-CL3-2022-SSRI-01-03: Stronger grounds for pre-commercial procurement of innovative security technologies.]. The successful proposals could therefore give continuity to the works initiated by those CSA projects.The proposals are expected to provide clear evidence on a number of aspects in order to justify and de-risk the PCP action, including:That the challenge is pertinent and that indeed a PCP action is required to complete the maturation cycle of certain technologies and to compare different alternatives;That there is a consolidated group of end-users and procurers with common needs and requirements which are committed to carry out a PCP action in order to be able to take an informed decision on a future joint procurement of innovative solutions;That there is a quantifiable and identifiable community of potential buyers (including and beyond those proposed as beneficiaries in the proposal) who would share to a wide extent the common needs and requirements defined and who could be interested in exploring further joint-uptake of solutions similar to those developed under the PCP, should these prove to be technologically mature and operationally relevant by the end of the project;That the state of the art and the market (including research) has been explored and mapped to the needs, and that there are different technical alternatives to address the proposed challenge;That the PCP tendering process is clear, that a draft planning has been proposed and that the supporting documentation and administrative procedures will be ready in due time in order to launch the call for R&amp;D services according to the PCP rules.That there is a commitment to pursue the exploitation of results beyond the end of the project through engagement with stakeholders and implementation of exploitation strategies towards future uptake. The open market consultations required prior to launching the PCP call for tenders must have taken place in at least three EU Member States. Market consultations conducted during the previous CSA projects can be used if this requirement is fulfilled, and if it is justified that: i) their purpose was enough to guarantee the viability of the procurement and; ii) that the state-of-the-art has not changed since they were conducted.In relation with the PCP tendering process, the applicants should clarify how they intend to guarantee that:The principles of the EU Directive for public procurement[1] and in particular with the provisions related to PCP will be duly respected;Conflict of interests will be avoided, including through the ineligibility of bids from technology providers who are also beneficiaries of the project or who have been beneficiaries of the previous CSA projects;The confidentiality of the intellectual property of potential bidders will be protected;The technology developments to be conducted in the PCP will be done in compliance with European societal values, fundamental rights and applicable legislation, including in the area of free movement of persons, privacy and protection of personal data;In developing technology solutions, societal aspects (e.g. perception of security, possible side effects of technological solutions, societal resilience) will be taken into account in a comprehensive and thorough manner;All participating public buyers commit to comply with EU data protection legislation in the development of innovative, advanced systems to support security and in particular the principles of data protection by design and by default;The guidance for attracting innovators and innovation, as explained in the European Commission Guidance on Innovation Procurement C(2021) 4320, will be duly taken into account, in particular those measures oriented to reduce the barriers to high-tech start-ups and innovative SMEs. Applicants should propose an implementation of the project that includes:A minimal preparation stage dedicated to finalising the tendering documents package for a PCP call for tenders based on the technical input resulting from the previous CSA projects, and to define clear verification and validation procedures, methods and tools for the evaluation of the prototypes to be developed throughout the PCP phases.Launching the call for tenders for research and development services. The call for tenders should envisage a competitive development composed of different phases that would lead to at least 2 prototypes from 2 different providers to be validated in real operational environment at the end of the PCP cycle;Conducting the competitive development of the prototypes following the PCP principles including a design phase, an integration and technical verification phase and a validation in real operational environment phase. In evaluating the proposals and the results of the PCP phases, the applicants should consider technical merit, feasibility and commercial potential of proposed research efforts.Consolidating the results of the evaluation of the developed prototypes, extracting conclusions and recommendations from the validation process, and defining a strategy for a potential uptake of solutions inspired in the PCP outcomes, including a complete technical specification of the envisaged solutions and standardisation needs and/or proposals. This strategy should consider joint-cross border procurement schemes and exploit synergies with other EU and national non-research funds. The applicants are expected to maximise the visibility of the project outcomes to the wide community of potential EU public buyers. Liaison with other civil security communities beyond those addressed by the project is encouraged in order to assess the possible reuse and extensibility of the identified solutions to different domains.In this topic the integration of the gender dimension (sex and gender analysis) in research and innovation content should be addressed only if relevant in relation to the objectives of the research effort.
+Specific Topic Conditions:Activities are expected to achieve TRL 6-8 by the end of the project – see General Annex B.
+[1]Directive 2014/24/EU and 2014/25/EU
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+The following additional eligibility conditions apply:This topic requires the participation[[see General Annexes p.13-14 on the Consortium Composition as regards Pre-commercial Procurement]], as beneficiaries, of at least 3 end-user organisations and 3 public procurers from 3 different EU Member States or Associated Countries. For participants with practitioner status, applicants must fill in the table “Information about security practitioners” in the application form with all the requested information, following the template provided in the submission IT tool.One organisation can have the role of end-user and public procurer simultaneously, both counting for the overall number of organisations required for eligibility.
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+PCP/PPI procurement costs are eligible.The specific conditions for actions with PCP/PPI procurements in section H of the General Annexes apply to grants funded under this topic.Beneficiaries must ensure that the subcontracted work is performed in at least 3 Member States — unless otherwise approved by the granting authority.
+Specific conditions
+7. Specific conditions: described in the [specific topic of the Work Programme]
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE PCP)
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE PCP PPI)
+MGA
+HE General MGA v1.0
+Call-specific instructions: 
+ Template for Security &amp; eligibility conditions in Horizon Europe 
+
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 6. Civil Security for Society
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

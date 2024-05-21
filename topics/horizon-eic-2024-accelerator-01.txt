@@ -1,0 +1,118 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-eic-2024-accelerator-01","file_display_name":"EIC Accelerator 2024 - Short application","status":"OK"} -->
+
+Description: 
+Scope:The EIC Accelerator supports companies (principally SMEs, including start-ups) to scale up high impact innovations with the potential to create new markets or disrupt existing ones. The EIC Accelerator provides a unique combination of funding from EUR 0.5 to EUR 17.5 million and Business Acceleration Services (see Section V of the EIC Work programme 2024).The EIC Accelerator focuses in particular on innovations building on scientific discovery or technological breakthroughs (‘deep tech’) and where significant funding is needed over a long timeframe before returns can be generated (‘patient capital’). Such innovations often struggle to attract financing because the risks and time period involved are too high. Funding and support from the EIC Accelerator is designed to enable such innovators to attract the full investment amounts needed for scale up in a shorter timeframe.The EIC Accelerator supports the later stages of technology development as well as scale up. The technology component of your innovation must therefore have been tested and validated in a laboratory and other relevant environment (e.g.,at least Technology Readiness Level 5). The EIC Accelerator looks to support companies where the EIC support will act as a catalyst to crowd in other investors necessary for the scale up of the innovation.Applicants to EIC Accelerator can submit proposals through:EIC Accelerator Open, which has no predefined thematic priorities and is open to proposals in any field of technology or application;EIC Accelerator Challenges in predefined areas of emerging and strategic technologies For further information please see the EIC Work Programme 2024.
+
+
+Conditions: 
+&nbsp;General conditions
+
+1. Admissibility conditions:&nbsp;To be an eligible applicant to EIC Accelerator, you must apply as one of the following eligible entities:
+
+    a single company classified as a SME, and established within a Member State or an Associated Country (see&nbsp;Annex 2 of the EIC Work Programme 2024); or
+    a single company classified as a small mid-cap (up to 499 employees) established in a Member State or an Associated Country, but only for exceptional cases for rapid scale up purposes; or
+    one or more natural persons (including individual entrepreneurs) or legal entities, which are either:
+
+a. from a Member State or an Associated Country intending to establish an SME or small mid-cap (as defined above) in a Member State or Associated Country by the time of signing the EIC Accelerator grant agreement or, in case the equity only is awarded, at the latest at the date of signature of the agreement on its investment component;
+b. intending to invest in an SME or small mid-cap established in a Member State or an Associated Country and may submit a proposal on behalf of that SME or small mid-cap, provided that a prior agreement exists with the company. The grant agreement and/or the investment agreement will be signed with the beneficiary/final recipient of funding company only; or
+c. from a non-associated third country intending to establish an SME (including start-ups) or to relocate an existing SME to a Member State or an Associated Country. Your company must prove its effective establishment in a Member State or an Associated Country at the time of submission of the full proposal.
+The standard admissibility and eligibility conditions are detailed in&nbsp;Annex 2 of the EIC Work Programme 2024.
+There are limitations on the number of times you can submit a proposal described in the section&nbsp;Application submission limits&nbsp;of the EIC Work Programme 2024.
+If you are currently a participant in an eligible project funded by Horizon Europe or Horizon 2020 then you may be able to apply through your existing project under the Fast Track scheme (see&nbsp;Annex 3 of the EIC Work Programme 2024). This scheme is managed by the funding body responsible for the existing project and applies to funding bodies listed in&nbsp;Annex 3 of the EIC Work Programme 2024.
+Applicants may also be able to apply if they have a project financed by an eligible programme managed by a Member State or an Associated Country under the pilot Plug-in scheme. The Plug-in scheme to apply to the EIC Accelerator is detailed in&nbsp;Annex 4 of the EIC Work Programme 2024.
+
+Proposal page limits and layout:&nbsp;described in Part B of the Application Form available in the Submission System
+The application process consists of a number of steps:
+Submission of short proposals 
+Which may be submitted at any time via the Funding and Tender Opportunities Portal&nbsp;(as from the 1st January 2024)&nbsp;and will be evaluated remotely by EIC expert evaluators on a first come, first served basis.&nbsp;Within approximately 4-6 weeks, you will receive the evaluation result of your short proposal specifying whether or not your proposal met the admissibility, eligibility and award criteria evaluation elements (set out in the next section) and can therefore proceed to submit a full proposal. In both cases, you will receive feedback from four expert evaluators.
+Submission of full proposals
+If your short proposal is successful, then you will be entitled to receive coaching support to prepare a full proposal from one of the business coaches from the EIC Business Acceleration Services. You can only receive this support once for a proposal.
+The optional coaching support is designed to improve the value proposition, business plan and investor pitch. However, it is your decision how to respond to the feedback and support, and the content of your proposal is your sole responsibility.
+If you succeeded with your short application under the 2024 Work programme, your full proposal can be submitted to any of the following cut-offs during 2024, and any of the cut-offs for 2025. Applicants who succeeded with a positive evaluation of their short proposal under the 2023 EIC Work Programme may apply to any of the following cut-offs in 2024. You may decide which cut-off to apply to.
+The two cut-off dates for 2024 are:
+
+    13 March 2024
+    3 October 2024
+
+The cut-off dates for 2025 will be announced in the 2025 Work Programme due to be adopted in Autumn 2024.
+The applicants&nbsp;that are eligible to apply for a full proposal will receive the links to the submission envirnment and will be able&nbsp;to submit the full proposal through:&nbsp;
+EIC Accelerator Open, which has no predefined thematic priorities and is open to proposals in any field of technology or application;
+If an application falls within the scope of the Challenges topics below, grant funding is subject to eligibility in accordance with the specific conditions applicable to those topics:
+
+    Human centric generative AI made in Europe (Section IV.2.1&nbsp;of the EIC Work Programme 2024)
+    Emerging quantum technology components (Section IV.2.3B&nbsp;of the EIC Work Programme 2024)
+
+EIC Accelerator Challenges in the following predefined areas of emerging and strategic technologies:
+
+    Challenge 01 - Human Centric Generative AI made in Europe
+    Challenge 02 - Enabling virtual worlds and augmented interaction in high-impact applications to support the realisation of Industry 5.0
+    Challenge 03A - Enabling the smart edge
+    Challenge 03B - Emerging quantum technology components
+    Challenge 04 - Food from precision fermentation and algae
+    Challenge 05 - Monoclonal antibody-based therapeutics for new variants of emerging viruses
+    Challenge 06 - Renewable energy sources and their whole value chain including materials development and recycling of components
+
+Once you submit your full proposal, it will be assessed remotely against award criteria evaluation elements (set out in the next section) by three EIC expert evaluators. Within approximately six-weeks you will be informed about the result of the remote evaluation and will receive feedback. If successful, you will be invited to attend an interview (which may be in person or online) with an EIC Jury.
+Interviews with an EIC Jury
+All companies receiving a GO from the remote evaluation stage will be invited to an interview with an EIC jury as the final step in the selection process.&nbsp;Interviews will be organised approximately three to four weeks after applicants are informed of the result of the remote evaluation (or longer if there is a need for a further set of interviews). At the interview, you will be assessed by a panel of maximum six jury members. You will be informed about the result of the&nbsp;interview within approximately two weeks.
+Invitation to negotiate grant component and due diligence process for investment component
+If selected for (potential)funding, you will be invited to negotiate a grant agreement for the requested grant component (if you have applied for it) and to start the due diligence for the investment component (if you have applied for it).
+For further information please see the EIC Work Programme 2024.
+&nbsp;
+2. Eligible countries:&nbsp;described in Annex 2(B. Eligibility) of the EIC Work Programme 2024.
+&nbsp;Applicants from the United Kingdom can apply to the EIC Accelerator, but can only request and receive funding in the form of &ldquo;grant only&rdquo;.
+&nbsp;
+3. Other eligibility conditions:&nbsp;described in&nbsp;Annex 2(General conditions for proposals) of the EIC Work Programme 2024.&nbsp;
+&nbsp;
+4. Financial and operational capacity and exclusion:&nbsp;described in&nbsp;Annex 2(C. Financial and Operational Capacity) of the EIC Work Programme 2024.&nbsp;
+&nbsp;
+5.&nbsp;Evaluation and award:
+Award criteria, scoring and thresholds: described in&nbsp;section IV of the EIC Work Programme 2024
+Submission and evaluation processes: described&nbsp;in&nbsp;section IV&nbsp;of the EIC Work Programme 2024
+Indicative timeline for evaluation and grant agreement: described&nbsp;in&nbsp;section IV&nbsp;of the EIC Work Programme 2024
+&nbsp;
+6. Legal and financial set-up of the grants: described in Annex G of the&nbsp;HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+&nbsp;
+
+Documents
+Call documents:
+EIC Work Programme 2024
+Standard application &amp;&nbsp;evaluation&nbsp;forms - call-specific application form is available in the Submission System
+Standard application form (Short proposal)&nbsp;
+Standard application form (Full proposal)&nbsp;
+Standard evaluation form (Short proposal) - will be uploaded soon
+Standard evaluation form (Full proposal) - will be uploaded soon
+-----------------------------------------------------------------------------------------
+MGA
+MGA for EIC actions under Horizon Europe&nbsp;- will be uploaded soon
+-----------------------------------------------------------------------------------------
+Call-specific instructions
+Detailed budget table (HE LS)- coming soon
+Information on clinical studies (HE)
+Guidance: &quot;Lump sums - what do I need to know?&quot;
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

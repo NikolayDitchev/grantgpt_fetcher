@@ -1,0 +1,49 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/digital-2024-cloud-ai-06-healthrecord","file_display_name":"Demonstrating the in-service use of the European Electronic Health Record Exchange Format (EEHRxF) in healthcare settings","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:DeliverablesAnalysis of the challenges of the use of the structured electronic health data in real clinical settings and methods, processes, tools and/or technologies that can address these challenges;Implementation of the EEHRxF and of tools for structured data entry in operational clinical settings in a user-friendly way for health professionals and health systems;Description of the design, development, deployment and testing of the implementation of the EEHRxF in real clinical settings;Analysis of ways to overcome possible barriers to EEHRxF implementation;Assessment of cost effectiveness in a cross-border setting;Recommendations on the EEHRxF optimal use, management and evolution, with a focus on how to address the challenges related to the collection of high-quality health data and of making it available to patients or to other health professionals at local, regional national or European level. 
+Objective:The objective of this action is to showcase in-service, sustainable implementation of the European Electronic Health Record Exchange Format (EEHRxF) in healthcare settings. In particular, it will aim at demonstrating that the EEHRxF brings value, without introducing undue burden on health professionals and health systems. The result of this action will be real-world demonstrators of the EEHRxF that will guide other stakeholders to adopt the EEHRxF, reduce the costs for its adoption and produce lessons learned.
+Scope:The Commission Recommendation (C (2019) 800 final)1 on a European Electronic Health Record Exchange Format (EEHRxF) defined the scope and baseline for common technical specifications for the transfer of health data in chosen health information domains, or data categories, such as patient summaries and ePrescriptions, but also laboratory results, medical images and imaging reports, and hospital discharge reports. On 3 May 2022, the Commission adopted a legislative proposal on the European Health Data Space (EHDS)2, which takes forward this idea. A number of Union initiatives continue to contribute to the development and adoption of the technical specifications for the EEHRxF, including the MyHealth@EU infrastructure3, X-eHealth4, XpanDH5 and projects funded under HORIZON-HLTH-2023-IND-06-02. The joint action on primary use of health data from work programme 2022 of EU4Health6 aims at providing recommendations for a formal description of the EEHRxF.The readiness of the EEHRxF varies per data category. Thanks to their implementation in MyHealth@EU services for cross-border health data exchanges, certain data categories such as patient summaries, e-prescription and e-dispensation are already at a higher level of maturity for their widespread adoption. However, further development is needed for other data categories, such as laboratory results, medical images/imaging reports, and hospital discharge reports. The scope of proposal(s) thus covers real-world, reference, mature (TRL-9 or equivalent) and complete implementation of EEHRxF demonstrators in operational healthcare settings that fully support collection and exchange of health data in priority categories for the EHDS. Examples of data categories in these demonstrators include ePrescriptions, eDispensations, patient summaries, medical images and imaging reports, laboratory results and hospital discharge reports. The project, or projects, selected as part of this call should go beyond analysis and design and shall focus on the longer term deployment, operation and use of the EEHRxF.Awarded proposal(s) will demonstrate the use of the EEHRxF in healthcare settings and develop guidelines on how to improve the user-friendliness of the format for health professionals and its cost effectiveness for health systems. The specific activities covered by this action are to:Collect information on technical and non-technical challenges in EEHRxF adoption and data entry tools, including those using free text analysis by health professionals;Design, implement and deploy user-friendly EEHRxF demonstrators and data entry tools in operational clinical settings across multiple sites, considering expansion and sustainability;Through real-world implementations, demonstrate the added value of the use of the EEHRxF and its user friendliness for health professionals and cost-effectiveness for health systems, by:    increasing the availability of high-quality and structured health data;increasing interoperability of health data for healthcare services at local, regional, national and European level; increasing quality and completeness of health data included in electronic health records for use at national level and across borders through MyHealth@EU; increasing the accessibility for patients to their health data using the EEHRxF;increasing the cost-effectiveness and sustainability for health systems. Provide guidelines for the implementation of the EEHRxF, following the lessons learnt from the demonstrators, including technical and non-technical aspects. These activities shall build upon the outcomes of other projects aiming at the development and rollout of the EEHRxF, such as X-eHealth, XpanDH, projects funded under HORIZON-HLTH-2023-IND-06-02, and the relevant joint actions supported by EU4Health. The active participation of data providers and users from the project's inception is highly recommended since it will ensure that the action is designed and structured to meet their needs, making the action more relevant and leading to increased adoption rates and a stronger sense of ownership of data providers and users by the end of the project’s runtime.1.Commission Recommendation (EU) 2019/243 of 6 February 2019 on a European Electronic Health Record exchange format, (OJ L 39, 11.2.2019, p.18).2.https://health.ec.europa.eu/ehealth-digital-health-and-care/european-health-data-space_en.3. https://health.ec.europa.eu/ehealth-digital-health-and-care/electronic-cross-border-health-services_en4. https://www.x-ehealth.eu/5. https://xpandh-project.iscte-iul.pt/ 6. wp2022_en - p81 DI-g-22-22.06.pdf (cec.eu.int) 
+
+
+Conditions: 
+Conditions
+
+
+1.&nbsp;Admissibility conditions: described in section 5 of the call document&nbsp;
+Proposal page limits and layout:&nbsp;described in Part B of the Application Form available in the Submission System
+2. Eligible countries:&nbsp;described in section 6 of of the call document
+3. Other eligibility conditions:&nbsp;described in section 6 of the call document
+4. Financial and operational capacity and exclusion:&nbsp;described in&nbsp;section 7 of the call document
+5.&nbsp;Evaluation and award:
+
+    Award criteria, scoring and thresholds:&nbsp;described in section 9 of the call document
+
+
+    Submission and evaluation processes:&nbsp;described&nbsp;section 8 of the call document and the&nbsp;Online Manual
+
+
+    Indicative timeline for evaluation and grant agreement:&nbsp;described in section 4 of the call document
+
+6. Legal and financial set-up of the grants:&nbsp;described&nbsp;in section 10 of the call document
+Documents
+Call document is available here
+Standard application form &mdash; call-specific application form is available in the Submission System
+Detailed budget table -&nbsp;available in the Submission System
+&nbsp;
+DIGITAL&nbsp;EUROPE&nbsp;PROGRAMME -&nbsp;General MGA v1Guidance Classification of information in DIGITAL projects
+Guidelines on&nbsp;How to Complete your Ethics Self-Assessment
+Guidance on participation in DEP - restricted calls&nbsp;
+
+&nbsp;
+Digital Europe&nbsp;Work Programme 2023-2024
+Digital Europe Programme&nbsp;Regulation 2021/694
+EU Financial Regulation 2018/1046
+&nbsp;
+
+Support Info: 
+For help related to this call, please contact us&nbsp;here
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; Submission of proposals.
+IT Helpdesk&nbsp;&ndash; Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+Online Manual&nbsp;&ndash; Step-by-step online guide through the Portal processes from proposal preparation and submission to reporting on your on-going project. Valid for all 2021-2027 programmes.
+

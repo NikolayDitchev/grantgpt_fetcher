@@ -1,0 +1,81 @@
+<!-- DANSWER_METADATA={"link":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2024-clima-01-06","file_display_name":"Demonstration of approaches to improve bankability of solutions by design, addressing the co-benefits (mitigation and adaptation) to improve revenues streams","status":"OK"} -->
+
+Description: 
+ExpectedOutcome:Project results are expected to contribute to all of the following expected outcomes:climate resilience solutions have been developed, tested and brought closer to the market, thanks to improvements in the way their bankability is looked at and assessed by the private and public investors.regions, cities and local communities are empowered for and have actively participated in the development and testing of a whole range of transformative solutions for climate resilience.private investors direct participation in the Mission is significantly increased, stimulating increased private (co-)financing of climate adaptation.regions and local authorities have assured maintaining the solutions in place for the future, beyond the implementation duration of the project, contributing to fostering deployment of innovative solutions for climate resilience, the enabling of their diffusion and the removal of barriers for their uptake. 
+Scope:While evidence suggests that there is financing available to address climate adaptation[1], it is also evident that there is a shortage of bankable opportunities. Most promising climate adaptation projects rely on grants and public investments for their development. In many cases, while they benefit the public good, they struggle to prove any profitability and they risk getting abandoned at the end of the project when the initial financing comes to an end.The European Investment Bank has shown that climate projects succeeding in securing investments are very rarely only addressing adaptation to climate change and in most of the cases they rather add a climate proofing component to a bigger project (for example, over dimensioning of an urban sewage system to take into account future scenarios of extreme rainfall events). The integration of climate change adaptation and mitigation theoretically provides co-benefits: efficiencies in the project implementation can provide capital savings (e.g., realising a green space for a city provides also water storage capacity in addition to a recreational opportunity); the mitigation component of the project can provide measurable outcomes in shorter timelines, reducing the scientific uncertainty of future climate scenarios. Furthermore, implementation can be faster as benefits can be faster monetized, and social acceptance facilitated.Proposals should identify financially valuable cases of climate projects including climate adaptation dimension on top of other benefits, while safeguarding the principle of do-not significantly harm any environment objective (such as, biodiversity and ecosystems, freshwater etc). They should develop and test solutions, based on technological, social and / or business innovation, that deliver at once an increase of the resilience and adaptation capacity to climate change in the involved regions, cities, local authorities and communities, while also contributing to reduce or neutralise carbon emissions, improve water efficiency and/or safeguard biodiversity. To prove the financial viability of the proposed solutions, proposals should include business and/or investor partners and/or private sector actors (for example from the financial and / or insurance sector) in the consortium, interested in investing in the project (by participating directly in the consortium) as more resilient / less risky / more sustainable and assuring that they will maintaining the solutions in place beyond the duration of the project.The proposed solution should address specific climate vulnerabilities identified as relevant at regional and local scale, with tailor-made responses and measures taking into account place-based data, socio-economic, identity characteristics and local governance.Under the Mission approach, collaborations to develop and test effective solutions between regions/local authorities/communities facing similar challenges are highly encouraged and considered as a means to secure a larger impact. To this purpose, while the demonstration is expected to take place in at least three regions, the proposals should already identify other regions/local authorities/ communities (sharing common climate challenges), where reapplication of the proposed approach will be suitable. Inclusion already in the proposal of at least three “replicating” regions/local authorities/communities, interested in reapplying the lessons learnt (totally, partially or with the required adjustments) in their territories is required; this could take the form of inclusion in the consortium of one or more partners providing support for the technical exchanges and the knowledge uptake in the “replicating” regions. Replicating regions are not expected to also conduct a demonstration or carry out on the ground activities already in the course of the project but they should at least prepare, the theoretical framework for implementing the replication through the lessons exchanged with the demonstration regions.Proposals should build (when relevant) upon previous developed or existing knowledge and adaptation solutions, designed and developed from previous projects[2]. Those previous projects and initiatives that address climate change adaptation can be funded by National programmes; EU programmes, in particular the European Union Framework programmes for Research and Innovation (such as Horizon 2020 and Horizon Europe), as well as the LIFE and Cohesion programmes but can also come from beyond the EU. Moreover, proposals should look into opportunities to scale up the solutions demonstrated and to foster their broad deployment across the European Union through the LIFE programme, and its integrated projects in particular, and through the European Regional Development Fund programmes. Projects should also connect to the work of the Climate Resilience Dialogue[3] and link to the EU's sustainable finance agenda and taxonomy work and the use of sustainable investment ratings, when relevant.Proposals should include a mechanism and the resources to establish operational links and collaboration with the Mission Implementation Platform[4] and the Climate-ADAPT platform[5] and should also link with projects awarded under the topic HORIZON-MISS-2022-CLIMA-01-02 on “Unlocking of financial resources for investments into climate resilience”.Projects funded under this topic will get direct access to participate in the Mission Community of Practice and to the networking activities supported by the Mission Implementation Platform. These networking and joint activities could, for example, involve the participation in joint workshops, the exchange of knowledge, the development and adoption of best practices, or joint communication activities. To this extent, proposals should provide for dedicated activities and earmark appropriate resources.In addition, projects will be requested to feed results and contribution to progress towards the objectives of the Mission Implementation Platform, as the central Mission action for monitoring, support and visualisation of the Mission progress in Regions in EU Member States and Associated Countries. Under the facilitation of Mission Implementation Platform, projects might provide an ideal space to improve cooperation with the European Investment Bank (EIB) on adaption finance. Regions participating in the projects will also be required to feed their results to the Climate-ADAPT and EEA assessments. Applicants should acknowledge this request and already account for these obligations in their proposal, making adequate provisions in terms of resources and budget to engage and collaborate with the Mission governance.
+Specific Topic Conditions:Activities are expected to achieve TRL 6 to 7 by the end of the project – see General Annex B. 
+[1]For example, by the EIB: Climate Adaptation Investment Advisory Platform (ADAPT) (eib.org)[2]See for instance NAIAD ( http://naiad2020.eu/) NATURANCE (https://www.naturanceproject.eu/) or Invest4Nature (https://invest4nature.eu/)[3]https://climate.ec.europa.eu/eu-action/adaptation-climate-change/climate-resilience-dialogue_en[4]Currently managed by MIP4Adapt under the contract CINEA/2022/OP/0013/SI2.884597 funded by the European Union. About MIP4Adapt (europa.eu)[5]The European Climate Adaptation Platform Climate-ADAPT is a partnership between the DG Climate Action and the European Environment Agency https://climate-adapt.eea.europa.eu/
+
+Conditions: 
+General conditions
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+The following additional eligibility criteria apply: proposals must include demonstration activities to be carried out in 3 different regions/localities/ communities located in 3 different Member States /Associated Countries, involving and including as beneficiaries in the consortium legal entities established in these three countries.
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+5.&nbsp;Evaluation and award:
+
+    
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+    
+
+
+    
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+    
+
+
+    
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+    
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+&nbsp;
+Specific conditions
+7. Specific conditions: described in the [specific topic of the Work Programme]
+&nbsp;
+
+Documents
+Call documents:
+Standard application form &mdash; call-specific application form is available in the Submission System
+Standard application form (HE RIA, IA)
+Standard application form (HE CSA)
+Standard evaluation form &mdash; will be used with the necessary adaptations
+Standard evaluation form (HE RIA, IA)
+Standard evaluation form (HE CSA)
+MGA
+HE General MGA v1.0
+&nbsp;
+Additional documents:
+HE Main Work Programme 2023&ndash;2024 &ndash; 1. General Introduction
+HE Main Work Programme 2023&ndash;2024 &ndash; 12. Missions
+HE Main Work Programme 2023&ndash;2024 &ndash; 13. General Annexes
+HE Programme Guide
+HE Framework Programme and Rules for Participation Regulation 2021/695
+HE Specific Programme Decision 2021/764
+EU Financial Regulation
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+EU Grants AGA &mdash; Annotated Model Grant Agreement
+Funding &amp; Tenders Portal Online Manual
+Funding &amp; Tenders Portal Terms and Conditions
+Funding &amp; Tenders Portal Privacy Statement
+
+Support Info: 
+Online Manual&nbsp;is your guide on the procedures from proposal submission to managing your grant.
+Horizon Europe Programme Guide&nbsp;contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.
+Funding &amp; Tenders Portal FAQ&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.
+Research Enquiry Service&nbsp;&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.
+
+National Contact Points (NCPs)&nbsp;&ndash; get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (&lsquo;third-countries&rsquo;).
+Enterprise Europe Network&nbsp;&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.
+IT Helpdesk&nbsp;&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.
+European IPR Helpdesk&nbsp;assists you on intellectual property issues.
+
+CEN-CENELEC Research Helpdesk and ETSI Research Helpdesk&nbsp;&ndash;&nbsp;the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;
+
+The European Charter for Researchers and the Code of Conduct for their recruitment &ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.
+Partner Search Services&nbsp;help you find a partner organisation for your proposal.
+&nbsp;
+

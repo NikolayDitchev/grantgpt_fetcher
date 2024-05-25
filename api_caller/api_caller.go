@@ -3,7 +3,7 @@ package api_caller
 import (
 	"bytes"
 	"encoding/json"
-	"fmt"
+	"errors"
 	"io"
 	"mime/multipart"
 	"net/http"
@@ -23,7 +23,7 @@ type API_Caller struct {
 	url    *url.URL
 }
 
-func NewAPI_Caller() (apc *API_Caller, err error) {
+func NewAPI_Caller() (apc *API_Caller) {
 	apc = &API_Caller{
 		client: &http.Client{
 			Timeout: 4 * time.Second,
@@ -35,7 +35,7 @@ func NewAPI_Caller() (apc *API_Caller, err error) {
 	return
 }
 
-func (apc *API_Caller) GetTopicIDs() (topicIDs chan string) {
+func (apc *API_Caller) GetTopicIDs(topicIDsChan chan string, errChan chan error) {
 
 	var bodyParams map[string][]byte = map[string][]byte{
 		"query":     GetTopicQuery(),
@@ -52,85 +52,77 @@ func (apc *API_Caller) GetTopicIDs() (topicIDs chan string) {
 	url, _ := url.Parse(API_ENDPOINT)
 	url.RawQuery = urlParams.Encode()
 
-	topicIDs = make(chan string)
+	topicIDsMap := make(map[string]int)
+	totalResults := 0
 
-	go func() {
+	for i := 0; i < 10; i++ {
 
-		topicIDsMap := make(map[string]int)
-		totalResults := 0
+		pageChan := make(chan *Page)
 
-		for {
-			pagesChan, _ := apc.getPages(bodyParams, url)
+		go func() {
 
-			for page := range pagesChan {
-				totalResults = page.TotalResults
+			err := apc.getPages(bodyParams, url, pageChan)
+			if err != nil {
+				errChan <- err
+			}
 
-				for inx := range page.Results {
+			close(pageChan)
+		}()
 
-					id := page.Results[inx].Metadata["identifier"][0]
+		for page := range pageChan {
+			totalResults = page.TotalResults
 
-					if _, exists := topicIDsMap[id]; !exists {
-						topicIDs <- id
-						topicIDsMap[id] = 1
-					}
+			for inx := range page.Results {
+
+				id := page.Results[inx].Metadata["identifier"][0]
+
+				if _, exists := topicIDsMap[id]; !exists {
+					topicIDsChan <- id
+
+					topicIDsMap[id] = 1
 				}
 			}
-
-			if len(topicIDsMap) >= totalResults {
-				close(topicIDs)
-				return
-
-			}
-
-			fmt.Println(len(topicIDsMap))
-
-			if len(topicIDsMap) < totalResults {
-				time.Sleep(3 * time.Second)
-			}
-
 		}
-	}()
 
-	return topicIDs
+		//fmt.Println(len(topicIDsMap))
+
+		if len(topicIDsMap) >= totalResults {
+			close(topicIDsChan)
+			return
+		}
+	}
+
+	close(topicIDsChan)
+	errChan <- errors.New("not every topic was fetched")
+	close(errChan)
 }
 
-func (apc *API_Caller) getPages(bodyParams map[string][]byte, url *url.URL) (pageChan chan *Page, errorsChan chan error) {
+func (apc *API_Caller) getPages(bodyParams map[string][]byte, url *url.URL, pageChan chan *Page) (err error) {
 
-	pageChan = make(chan *Page)
-	errorsChan = make(chan error)
+	body, err := apc.sendRequest(bodyParams, url.String())
+	if err != nil {
+		return
+	}
 
-	go func() {
+	page := &Page{}
 
-		for {
+	err = json.Unmarshal(body, page)
+	if err != nil {
+		return
+	}
 
-			body, err := apc.sendRequest(bodyParams, url.String())
-			if err != nil {
-				errorsChan <- err
-				return
-			}
+	pageChan <- page
 
-			page := &Page{}
+	if page.PageSize*page.PageNumber >= page.TotalResults {
+		return
+	}
 
-			err = json.Unmarshal(body, page)
-			if err != nil {
-				errorsChan <- err
-				return
-			}
+	err = apc.increasePageNumber(url)
+	if err != nil {
+		return
+	}
 
-			pageChan <- page
-
-			if page.PageSize*page.PageNumber >= page.TotalResults {
-				close(pageChan)
-				break
-			}
-
-			err = apc.increasePageNumber(url)
-			if err != nil {
-				errorsChan <- err
-				return
-			}
-		}
-	}()
+	err = apc.getPages(bodyParams, url, pageChan)
 
 	return
 }

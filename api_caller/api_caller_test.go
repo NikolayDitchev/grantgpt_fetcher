@@ -71,16 +71,19 @@ import (
 
 func TestGetTopicIDs(t *testing.T) {
 
-	apc, _ := NewAPI_Caller()
-	topicChan := apc.GetTopicIDs()
+	apc := NewAPI_Caller()
 
-	counter := 0
+	topicIDsChan := make(chan string)
+	errChan := make(chan error)
+	go apc.GetTopicIDs(topicIDsChan, errChan)
 
-	for id := range topicChan {
+	go func() {
+		for err := range errChan {
+			t.Error(err)
+		}
+	}()
+
+	for id := range topicIDsChan {
 		fmt.Println(id)
-		counter++
 	}
-
-	fmt.Println(counter)
-
 }

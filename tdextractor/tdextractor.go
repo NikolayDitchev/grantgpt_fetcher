@@ -1,6 +1,7 @@
 package tdextractor
 
 import (
+	"bytes"
 	"encoding/json"
 	"fetcher/api_caller"
 	"io"
@@ -43,13 +44,12 @@ func (tdf *TopicDetailsFetcher) FetchData() {
 		log.Fatalln(err)
 	}
 
-	apc, _ := api_caller.NewAPI_Caller()
 	var wgTopics sync.WaitGroup
+	apc := api_caller.NewAPI_Caller()
+	topicIDs := make(chan string)
+	errChan := make(chan error)
 
-	topicIDs := apc.GetTopicIDs()
-	if err != nil {
-		log.Fatalln(err)
-	}
+	go apc.GetTopicIDs(topicIDs, errChan)
 
 	for topicID := range topicIDs {
 
@@ -70,6 +70,25 @@ func (tdf *TopicDetailsFetcher) FetchData() {
 	wgTopics.Wait()
 
 }
+
+// func (tdf *TopicDetailsFetcher) CreateZip(zipPath string) error {
+// 	topicsZip, err := os.Create(zipPath + ".zip")
+// 	if err != nil {
+// 		return err
+// 	}
+
+// 	zipWriter := zip.NewWriter(topicsZip)
+// 	topicDetailsChan := make(chan topicBuffer)
+
+// 	for topicDetails := range topicDetailsChan {
+
+// 		zipFileWriter, err := zipWriter.Create(topicDetails.GetTopicId() + ".txt")
+// 		if err != nil {
+// 			return err
+// 		}
+
+// 	}
+// }
 
 func (tdf *TopicDetailsFetcher) ExtractTopicDetails(topicID string) error {
 	topicID = strings.ToLower(topicID)
@@ -135,4 +154,25 @@ func (tdf *TopicDetailsFetcher) ExtractTopicDetails(topicID string) error {
 		log.Fatalln(err)
 	}
 	return nil
+}
+
+type topicBuffer struct {
+	content *bytes.Buffer
+	topicId string
+}
+
+func (tb *topicBuffer) GetTopicId() string {
+	return tb.topicId
+}
+
+func (tb *topicBuffer) SetTopicId(topicId string) {
+	tb.topicId = topicId
+}
+
+func (tb *topicBuffer) GetContent() *bytes.Buffer {
+	return tb.content
+}
+
+func (tb *topicBuffer) SetContent(content *bytes.Buffer) {
+	tb.content = content
 }

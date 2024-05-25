@@ -75,15 +75,21 @@ func TestGetTopicIDs(t *testing.T) {
 
 	topicIDsChan := make(chan string)
 	errChan := make(chan error)
+	done := make(chan struct{})
+
 	go apc.GetTopicIDs(topicIDsChan, errChan)
 
 	go func() {
 		for err := range errChan {
 			t.Error(err)
 		}
+
+		done <- struct{}{}
 	}()
 
 	for id := range topicIDsChan {
 		fmt.Println(id)
 	}
+
+	<-done
 }

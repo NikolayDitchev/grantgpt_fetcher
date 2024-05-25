@@ -4,6 +4,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"errors"
+	"fmt"
 	"io"
 	"mime/multipart"
 	"net/http"
@@ -55,7 +56,7 @@ func (apc *API_Caller) GetTopicIDs(topicIDsChan chan string, errChan chan error)
 	topicIDsMap := make(map[string]int)
 	totalResults := 0
 
-	for i := 0; i < 10; i++ {
+	for i := 0; i < 100; i++ {
 
 		pageChan := make(chan *Page)
 
@@ -84,10 +85,11 @@ func (apc *API_Caller) GetTopicIDs(topicIDsChan chan string, errChan chan error)
 			}
 		}
 
-		//fmt.Println(len(topicIDsMap))
+		fmt.Println(len(topicIDsMap))
 
 		if len(topicIDsMap) >= totalResults {
 			close(topicIDsChan)
+			close(errChan)
 			return
 		}
 	}

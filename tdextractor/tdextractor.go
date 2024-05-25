@@ -1,17 +1,17 @@
 package tdextractor
 
 import (
+	"archive/zip"
 	"bytes"
 	"encoding/json"
 	"fetcher/api_caller"
+	"fmt"
 	"io"
 	"log"
 	"net/http"
 	"os"
-	"path/filepath"
 	"regexp"
 	"strings"
-	"sync"
 	"time"
 )
 
@@ -39,134 +39,150 @@ func NewTopicDetailsFetcher(folderPath string) *TopicDetailsFetcher {
 
 func (tdf *TopicDetailsFetcher) FetchData() {
 
-	err := os.MkdirAll(tdf.folderPath, 0777)
-	if err != nil {
-		log.Fatalln(err)
-	}
-
-	var wgTopics sync.WaitGroup
-	apc := api_caller.NewAPI_Caller()
-	topicIDs := make(chan string)
-	errChan := make(chan error)
-
-	go apc.GetTopicIDs(topicIDs, errChan)
-
-	for topicID := range topicIDs {
-
-		wgTopics.Add(1)
-
-		go func(topicID string, wg *sync.WaitGroup) {
-			defer wg.Done()
-
-			err := tdf.ExtractTopicDetails(topicID)
-			if err != nil {
-				log.Fatalln(err)
-			}
-
-		}(topicID, &wgTopics)
-
-	}
-
-	wgTopics.Wait()
-
 }
 
-// func (tdf *TopicDetailsFetcher) CreateZip(zipPath string) error {
-// 	topicsZip, err := os.Create(zipPath + ".zip")
-// 	if err != nil {
-// 		return err
-// 	}
-
-// 	zipWriter := zip.NewWriter(topicsZip)
-// 	topicDetailsChan := make(chan topicBuffer)
-
-// 	for topicDetails := range topicDetailsChan {
-
-// 		zipFileWriter, err := zipWriter.Create(topicDetails.GetTopicId() + ".txt")
-// 		if err != nil {
-// 			return err
-// 		}
-
-// 	}
-// }
-
-func (tdf *TopicDetailsFetcher) ExtractTopicDetails(topicID string) error {
-	topicID = strings.ToLower(topicID)
-
-	filePath := filepath.Join(tdf.folderPath, topicID+".txt")
-
-	file, err := os.Create(filePath)
+func (tdf *TopicDetailsFetcher) CreateZip() error {
+	topicsZip, err := os.Create(tdf.folderPath + ".zip")
 	if err != nil {
 		return err
 	}
-	defer file.Close()
+
+	zipWriter := zip.NewWriter(topicsZip)
+	topicBuffersChan := make(chan *topicBuffer)
+
+	go func() {
+		eu_client := api_caller.NewAPI_Caller()
+		topicIDsChan := make(chan string)
+		errChan := make(chan error)
+
+		go eu_client.GetTopicIDs(topicIDsChan, errChan)
+
+		go func() {
+			for err := range errChan {
+				log.Println(err)
+			}
+		}()
+
+		for topicID := range topicIDsChan {
+
+			go func(id string) {
+
+				topicBuffer, err := tdf.ExtractTopicDetails(id)
+				if err != nil {
+					log.Fatal(err)
+				}
+
+				topicBuffersChan <- topicBuffer
+
+			}(topicID)
+		}
+
+		close(topicBuffersChan)
+
+	}()
+
+	counter := 0
+
+	for topicBuffer := range topicBuffersChan {
+
+		zipFileWriter, err := zipWriter.Create(topicBuffer.GetTopicId() + ".txt")
+		if err != nil {
+			return err
+		}
+
+		_, err = io.Copy(zipFileWriter, topicBuffer.GetContent())
+		if err != nil {
+			return err
+		}
+
+		counter++
+	}
+
+	err = zipWriter.Close()
+	if err != nil {
+		return err
+	}
+
+	fmt.Println(counter)
+
+	return nil
+}
+
+func (tdf *TopicDetailsFetcher) ExtractTopicDetails(topicID string) (*topicBuffer, error) {
+	topicID = strings.ToLower(topicID)
+
+	topicBuffer := &topicBuffer{
+		content: &bytes.Buffer{},
+		id:      topicID,
+	}
 
 	var url string = base_url + topicID + json_suffix
 
 	resp, err := tdf.client.Get(url)
 	if err != nil {
-		return err
+		return nil, err
 	}
 	defer resp.Body.Close()
 
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {
-		return err
+		return nil, err
 	}
 
 	var topicJson tdResponse
 
 	err = json.Unmarshal(body, &topicJson)
 	if err != nil {
-		return err
+		return nil, err
 	}
 
 	metadata, err := getMetadataJson(&topicJson.TopicDetails)
 	if err != nil {
-		return err
+		return nil, err
 	}
 
-	_, err = file.WriteString(metadata + "\n\n")
+	err = topicBuffer.WriteString(metadata + "\n\n")
 	if err != nil {
-		return err
+		return nil, err
 	}
 
 	regex, err := regexp.Compile("<.+?>")
 	if err != nil {
-		log.Fatalln(err)
+		return nil, err
 	}
 
 	description := "Description: \n" + regex.ReplaceAllString(topicJson.TopicDetails.Description, "") + "\n\n"
-	_, err = file.WriteString(description)
+	err = topicBuffer.WriteString(description)
 	if err != nil {
-		log.Fatalln(err)
+		return nil, err
 	}
 
 	conditions := "Conditions: \n" + regex.ReplaceAllString(topicJson.TopicDetails.Conditions, "") + "\n\n"
-	_, err = file.WriteString(conditions)
+	err = topicBuffer.WriteString(conditions)
 	if err != nil {
-		log.Fatalln(err)
+		return nil, err
 	}
 
 	supportInfo := "Support Info: \n" + regex.ReplaceAllString(topicJson.TopicDetails.SupportInfo, "") + "\n\n"
-	_, err = file.WriteString(supportInfo)
+	err = topicBuffer.WriteString(supportInfo)
 	if err != nil {
-		log.Fatalln(err)
+		return nil, err
 	}
-	return nil
+
+	return topicBuffer, nil
 }
 
 type topicBuffer struct {
 	content *bytes.Buffer
-	topicId string
+	id      string
 }
 
 func (tb *topicBuffer) GetTopicId() string {
-	return tb.topicId
+	return tb.id
 }
 
 func (tb *topicBuffer) SetTopicId(topicId string) {
-	tb.topicId = topicId
+	tb.id = topicId
 }
 
 func (tb *topicBuffer) GetContent() *bytes.Buffer {
@@ -175,4 +191,9 @@ func (tb *topicBuffer) GetContent() *bytes.Buffer {
 
 func (tb *topicBuffer) SetContent(content *bytes.Buffer) {
 	tb.content = content
+}
+
+func (tb *topicBuffer) WriteString(data string) error {
+	_, err := tb.content.WriteString(data)
+	return err
 }

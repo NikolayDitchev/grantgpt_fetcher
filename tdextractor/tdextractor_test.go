@@ -8,3 +8,12 @@ func TestFetchData(t *testing.T) {
 
 	fetcher.FetchData()
 }
+
+func TestCreateZip(t *testing.T) {
+	fetcher := NewTopicDetailsFetcher(`topicZip`)
+
+	err := fetcher.CreateZip()
+	if err != nil {
+		t.Error(err.Error())
+	}
+}

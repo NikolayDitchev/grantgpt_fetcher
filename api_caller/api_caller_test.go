@@ -88,7 +88,7 @@ func TestGetTopicIDs(t *testing.T) {
 	}()
 
 	for id := range topicIDsChan {
-		fmt.Println(id)
+		fmt.Println("unique topic: " + id)
 	}
 
 	<-done

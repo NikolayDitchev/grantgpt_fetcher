@@ -22,6 +22,8 @@ const (
 type API_Caller struct {
 	client *http.Client
 	url    *url.URL
+
+	uniqueResults map[string]int
 }
 
 func NewAPI_Caller() (apc *API_Caller) {
@@ -29,11 +31,17 @@ func NewAPI_Caller() (apc *API_Caller) {
 		client: &http.Client{
 			Timeout: 4 * time.Second,
 		},
+
+		uniqueResults: make(map[string]int),
 	}
 
 	apc.url, _ = url.Parse(API_ENDPOINT)
 
 	return
+}
+
+func (apc *API_Caller) Reset() {
+	clear(apc.uniqueResults)
 }
 
 func (apc *API_Caller) GetTopicIDs(topicIDsChan chan string, errChan chan error) {
@@ -56,7 +64,7 @@ func (apc *API_Caller) GetTopicIDs(topicIDsChan chan string, errChan chan error)
 	topicIDsMap := make(map[string]int)
 	totalResults := 0
 
-	for i := 0; i < 100; i++ {
+	for i := 0; i < 50; i++ {
 
 		pageChan := make(chan *Page)
 
@@ -78,8 +86,8 @@ func (apc *API_Caller) GetTopicIDs(topicIDsChan chan string, errChan chan error)
 				id := page.Results[inx].Metadata["identifier"][0]
 
 				if _, exists := topicIDsMap[id]; !exists {
-					topicIDsChan <- id
 
+					topicIDsChan <- id
 					topicIDsMap[id] = 1
 				}
 			}
@@ -99,34 +107,34 @@ func (apc *API_Caller) GetTopicIDs(topicIDsChan chan string, errChan chan error)
 	close(errChan)
 }
 
-func (apc *API_Caller) getPages(bodyParams map[string][]byte, url *url.URL, pageChan chan *Page) (err error) {
+func (apc *API_Caller) getPages(bodyParams map[string][]byte, url *url.URL, pageChan chan *Page) error {
 
 	body, err := apc.sendRequest(bodyParams, url.String())
 	if err != nil {
-		return
+		return err
 	}
 
 	page := &Page{}
 
 	err = json.Unmarshal(body, page)
 	if err != nil {
-		return
+		return err
 	}
 
 	pageChan <- page
 
 	if page.PageSize*page.PageNumber >= page.TotalResults {
-		return
+		return err
 	}
 
 	err = apc.increasePageNumber(url)
 	if err != nil {
-		return
+		return err
 	}
 
-	err = apc.getPages(bodyParams, url, pageChan)
+	apc.getPages(bodyParams, url, pageChan)
 
-	return
+	return nil
 }
 
 func (apc *API_Caller) sendRequest(bodyParams map[string][]byte, url string) ([]byte, error) {

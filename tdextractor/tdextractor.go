@@ -7,11 +7,11 @@ import (
 	"fetcher/api_caller"
 	"fmt"
 	"io"
-	"log"
 	"net/http"
 	"os"
 	"regexp"
 	"strings"
+	"sync"
 	"time"
 )
 
@@ -39,10 +39,12 @@ func NewTopicDetailsFetcher(folderPath string) *TopicDetailsFetcher {
 
 func (tdf *TopicDetailsFetcher) FetchData() {
 
+	tdf.CreateZip("topicDetails")
+
 }
 
-func (tdf *TopicDetailsFetcher) CreateZip() error {
-	topicsZip, err := os.Create(tdf.folderPath + ".zip")
+func (tdf *TopicDetailsFetcher) CreateZip(zipName string) error {
+	topicsZip, err := os.Create(zipName + ".zip")
 	if err != nil {
 		return err
 	}
@@ -50,52 +52,68 @@ func (tdf *TopicDetailsFetcher) CreateZip() error {
 	zipWriter := zip.NewWriter(topicsZip)
 	topicBuffersChan := make(chan *topicBuffer)
 
+	errChan := make(chan error)
+	done := make(chan struct{})
+
 	go func() {
 		eu_client := api_caller.NewAPI_Caller()
 		topicIDsChan := make(chan string)
-		errChan := make(chan error)
+		var wgTopics sync.WaitGroup
 
 		go eu_client.GetTopicIDs(topicIDsChan, errChan)
 
-		go func() {
-			for err := range errChan {
-				log.Println(err)
-			}
-		}()
-
 		for topicID := range topicIDsChan {
 
-			go func(id string) {
+			wgTopics.Add(1)
+
+			go func(id string, wg *sync.WaitGroup) {
+				defer wg.Done()
 
 				topicBuffer, err := tdf.ExtractTopicDetails(id)
 				if err != nil {
-					log.Fatal(err)
+					errChan <- err
 				}
 
 				topicBuffersChan <- topicBuffer
 
-			}(topicID)
+			}(topicID, &wgTopics)
 		}
 
+		wgTopics.Wait()
+
 		close(topicBuffersChan)
+		done <- struct{}{}
 
 	}()
 
 	counter := 0
 
-	for topicBuffer := range topicBuffersChan {
+	for {
 
-		zipFileWriter, err := zipWriter.Create(topicBuffer.GetTopicId() + ".txt")
-		if err != nil {
+		select {
+		case topicBuffer := <-topicBuffersChan:
+
+			zipFileWriter, err := zipWriter.Create(topicBuffer.GetTopicId() + ".txt")
+			if err != nil {
+				return err
+			}
+
+			_, err = io.Copy(zipFileWriter, topicBuffer.GetContent())
+			if err != nil {
+				return err
+			}
+
+			counter++
+			continue
+
+		case err := <-errChan:
+			zipWriter.Close()
 			return err
+		case <-done:
 		}
 
-		_, err = io.Copy(zipFileWriter, topicBuffer.GetContent())
-		if err != nil {
-			return err
-		}
+		break
 
-		counter++
 	}
 
 	err = zipWriter.Close()

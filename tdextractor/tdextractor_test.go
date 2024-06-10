@@ -12,7 +12,7 @@ func TestFetchData(t *testing.T) {
 func TestCreateZip(t *testing.T) {
 	fetcher := NewTopicDetailsFetcher(`topicZip`)
 
-	err := fetcher.CreateZip()
+	err := fetcher.CreateZip("topicDetails")
 	if err != nil {
 		t.Error(err.Error())
 	}

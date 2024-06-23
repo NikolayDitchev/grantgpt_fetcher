@@ -1,4 +1,4 @@
-package api_caller
+package eu_client
 
 import (
 	"bytes"
@@ -44,10 +44,10 @@ func (apc *API_Caller) Reset() {
 	clear(apc.uniqueResults)
 }
 
-func (apc *API_Caller) GetTopicIDs(topicIDsChan chan string, errChan chan error) {
+func (apc *API_Caller) GetUIDs(UIDsChan chan string, errChan chan error, query []byte, uidKey string) {
 
 	var bodyParams map[string][]byte = map[string][]byte{
-		"query":     GetTopicQuery(),
+		"query":     query,
 		"languages": []byte(`["en"]`),
 	}
 
@@ -61,7 +61,7 @@ func (apc *API_Caller) GetTopicIDs(topicIDsChan chan string, errChan chan error)
 	url, _ := url.Parse(API_ENDPOINT)
 	url.RawQuery = urlParams.Encode()
 
-	topicIDsMap := make(map[string]int)
+	IDsMap := make(map[string]int)
 	totalResults := 0
 
 	for i := 0; i < 50; i++ {
@@ -83,29 +83,92 @@ func (apc *API_Caller) GetTopicIDs(topicIDsChan chan string, errChan chan error)
 
 			for inx := range page.Results {
 
-				id := page.Results[inx].Metadata["identifier"][0]
+				id := page.Results[inx].Metadata[uidKey][0]
 
-				if _, exists := topicIDsMap[id]; !exists {
+				if _, exists := IDsMap[id]; !exists {
 
-					topicIDsChan <- id
-					topicIDsMap[id] = 1
+					UIDsChan <- id
+					IDsMap[id] = 1
 				}
 			}
 		}
 
-		fmt.Println(len(topicIDsMap))
+		fmt.Println(len(IDsMap))
 
-		if len(topicIDsMap) >= totalResults {
-			close(topicIDsChan)
+		if len(IDsMap) >= totalResults {
+			close(UIDsChan)
 			close(errChan)
 			return
 		}
 	}
 
-	close(topicIDsChan)
-	errChan <- errors.New("not every topic was fetched")
+	close(UIDsChan)
+	errChan <- errors.New("not every item was fetched")
 	close(errChan)
 }
+
+// func (apc *API_Caller) GetTopicIDs(topicIDsChan chan string, errChan chan error) {
+
+// 	var bodyParams map[string][]byte = map[string][]byte{
+// 		"query":     nil,
+// 		"languages": []byte(`["en"]`),
+// 	}
+
+// 	var urlParams url.Values = url.Values{
+// 		"apiKey":     []string{"SEDIA"},
+// 		"text":       []string{"***"},
+// 		"pageSize":   []string{"100"},
+// 		"pageNumber": []string{"1"},
+// 	}
+
+// 	url, _ := url.Parse(API_ENDPOINT)
+// 	url.RawQuery = urlParams.Encode()
+
+// 	topicIDsMap := make(map[string]int)
+// 	totalResults := 0
+
+// 	for i := 0; i < 50; i++ {
+
+// 		pageChan := make(chan *Page)
+
+// 		go func() {
+
+// 			err := apc.getPages(bodyParams, url, pageChan)
+// 			if err != nil {
+// 				errChan <- err
+// 			}
+
+// 			close(pageChan)
+// 		}()
+
+// 		for page := range pageChan {
+// 			totalResults = page.TotalResults
+
+// 			for inx := range page.Results {
+
+// 				id := page.Results[inx].Metadata["identifier"][0]
+
+// 				if _, exists := topicIDsMap[id]; !exists {
+
+// 					topicIDsChan <- id
+// 					topicIDsMap[id] = 1
+// 				}
+// 			}
+// 		}
+
+// 		fmt.Println(len(topicIDsMap))
+
+// 		if len(topicIDsMap) >= totalResults {
+// 			close(topicIDsChan)
+// 			close(errChan)
+// 			return
+// 		}
+// 	}
+
+// 	close(topicIDsChan)
+// 	errChan <- errors.New("not every topic was fetched")
+// 	close(errChan)
+// }
 
 func (apc *API_Caller) getPages(bodyParams map[string][]byte, url *url.URL, pageChan chan *Page) error {
 

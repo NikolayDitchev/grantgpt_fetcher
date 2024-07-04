@@ -1,4 +1,4 @@
-package api_caller
+package eu_client
 
 import (
 	"bytes"
@@ -26,10 +26,10 @@ type API_Caller struct {
 	uniqueResults map[string]int
 }
 
-func NewAPI_Caller() (apc *API_Caller) {
+func NewAPI_Caller(timeout time.Duration) (apc *API_Caller) {
 	apc = &API_Caller{
 		client: &http.Client{
-			Timeout: 4 * time.Second,
+			Timeout: timeout,
 		},
 
 		uniqueResults: make(map[string]int),
@@ -44,10 +44,104 @@ func (apc *API_Caller) Reset() {
 	clear(apc.uniqueResults)
 }
 
+/*
+
+	The pagination of the EU funding and tenders API is broken.
+
+	If the results you want to fetch are more that the pageSize,
+	then it duplicates results which some results not present in any page.
+	This behaviour is unidentified, so the function below is requesting the same pages
+	multiple times, hoping that every unique result will be fetched.
+
+	If the fetched unique results don't match the totalResults value,
+	the function will return an error.
+
+*/
+
+// func (apc *API_Caller) GetUIDs(query Query, uidKey string, tries int) error {
+// 	UIDsChan := make(chan string)
+// 	errChan := make(chan error)
+
+// 	queryJSON, err := json.Marshal(query)
+// 	if err != nil {
+// 		return err
+// 	}
+
+// 	var bodyParams map[string][]byte = map[string][]byte{
+// 		"query":     queryJSON,
+// 		"languages": []byte(`["en"]`),
+// 	}
+
+// 	var urlParams url.Values = url.Values{
+// 		"apiKey":     []string{"SEDIA"},
+// 		"text":       []string{"***"},
+// 		"pageSize":   []string{"100"},
+// 		"pageNumber": []string{"1"},
+// 	}
+
+// 	url, _ := url.Parse(API_ENDPOINT)
+// 	url.RawQuery = urlParams.Encode()
+
+// 	IDsMap := make(map[string]int)
+// 	totalResults := 0
+
+// 	for i := 0; i < tries; i++ {
+
+// 		pageChan := make(chan *Page)
+
+// 		go func() {
+
+// 			err := apc.getPages(bodyParams, url, pageChan)
+// 			if err != nil {
+// 				errChan <- err
+// 			}
+
+// 			close(pageChan)
+// 		}()
+
+// 		for page := range pageChan {
+// 			totalResults = page.TotalResults
+
+// 			for inx := range page.Results {
+
+// 				id := page.Results[inx].Metadata[uidKey][0]
+
+// 				if _, exists := IDsMap[id]; !exists {
+
+// 					UIDsChan <- id
+// 					IDsMap[id] = 1
+// 				}
+// 			}
+// 		}
+
+// 		fmt.Println(len(IDsMap))
+
+// 		if len(IDsMap) >= totalResults {
+// 			close(UIDsChan)
+// 			close(errChan)
+// 			return nil
+// 		}
+// 	}
+
+// 	close(UIDsChan)
+// 	errChan <- errors.New("not every item was fetched")
+// 	close(errChan)
+
+// 	return nil
+// }
+
 func (apc *API_Caller) GetTopicIDs(topicIDsChan chan string, errChan chan error) {
+	defer close(errChan)
+
+	query := NewQuery(WithTypes(TypeTopics), WithStatus(StatusOpen, StatusForthcoming))
+	queryJson, err := json.Marshal(query)
+	if err != nil {
+		errChan <- err
+		return
+	}
 
 	var bodyParams map[string][]byte = map[string][]byte{
-		"query":     GetTopicQuery(),
+		"query":     queryJson,
 		"languages": []byte(`["en"]`),
 	}
 
@@ -97,14 +191,12 @@ func (apc *API_Caller) GetTopicIDs(topicIDsChan chan string, errChan chan error)
 
 		if len(topicIDsMap) >= totalResults {
 			close(topicIDsChan)
-			close(errChan)
 			return
 		}
 	}
 
 	close(topicIDsChan)
 	errChan <- errors.New("not every topic was fetched")
-	close(errChan)
 }
 
 func (apc *API_Caller) getPages(bodyParams map[string][]byte, url *url.URL, pageChan chan *Page) error {

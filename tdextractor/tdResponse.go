@@ -1,4 +1,4 @@
-package tdextractor
+package main
 
 type tdResponse struct {
 	TopicDetails TopicDetails `json:"TopicDetails"`

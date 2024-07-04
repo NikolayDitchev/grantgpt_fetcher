@@ -1,4 +1,4 @@
-package api_caller
+package eu_client
 
 type Page struct {
 	APIVersion    string //`json:"apiVersion"`

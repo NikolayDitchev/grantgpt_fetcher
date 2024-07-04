@@ -164,6 +164,12 @@ func (tdf *TopicDetailsFetcher) ExtractTopicDetails(topicID string) (*topicBuffe
 		return nil, err
 	}
 
+	openingDate := "Opening Date: " + topicJson.TopicDetails.Actions[0].PlannedOpeningDate
+	err = topicBuffer.WriteString(openingDate + "\n\n")
+	if err != nil {
+		return nil, err
+	}
+
 	regex, err := regexp.Compile("<.+?>")
 	if err != nil {
 		return nil, err

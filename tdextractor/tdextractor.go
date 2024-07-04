@@ -1,17 +1,19 @@
-package tdextractor
+package main
 
 import (
 	"archive/zip"
 	"bytes"
 	"encoding/json"
-	"fetcher/api_caller"
 	"fmt"
+	"os"
+	"sync"
+
+	"github.com/NikolayDitchev/grantgpt_fetcher/eu_client"
+
 	"io"
 	"net/http"
-	"os"
 	"regexp"
 	"strings"
-	"sync"
 	"time"
 )
 
@@ -50,13 +52,15 @@ func (tdf *TopicDetailsFetcher) CreateZip(zipName string) error {
 	}
 
 	zipWriter := zip.NewWriter(topicsZip)
+	defer zipWriter.Close()
+
 	topicBuffersChan := make(chan *topicBuffer)
 
 	errChan := make(chan error)
-	done := make(chan struct{})
+	//done := make(chan struct{})
 
 	go func() {
-		eu_client := api_caller.NewAPI_Caller()
+		eu_client := eu_client.NewAPI_Caller(10 * time.Second)
 		topicIDsChan := make(chan string)
 		var wgTopics sync.WaitGroup
 
@@ -82,44 +86,65 @@ func (tdf *TopicDetailsFetcher) CreateZip(zipName string) error {
 		wgTopics.Wait()
 
 		close(topicBuffersChan)
-		done <- struct{}{}
+		//close(errChan)
+		//done <- struct{}{}
 
 	}()
 
 	counter := 0
 
-	for {
+	go func() {
+		for errors := range errChan {
+			panic(errors)
+		}
+	}()
 
-		select {
-		case topicBuffer := <-topicBuffersChan:
+	topicNamesFile, _ := os.Create("topicIds")
 
-			zipFileWriter, err := zipWriter.Create(topicBuffer.GetTopicId() + ".txt")
-			if err != nil {
-				return err
-			}
+	for topicBuffer := range topicBuffersChan {
 
-			_, err = io.Copy(zipFileWriter, topicBuffer.GetContent())
-			if err != nil {
-				return err
-			}
-
-			counter++
-			continue
-
-		case err := <-errChan:
-			zipWriter.Close()
+		zipFileWriter, err := zipWriter.Create(topicBuffer.GetTopicId() + ".txt")
+		if err != nil {
 			return err
-		case <-done:
 		}
 
-		break
+		topicNamesFile.WriteString(topicBuffer.GetTopicId() + "\n")
 
+		_, err = io.Copy(zipFileWriter, topicBuffer.GetContent())
+		if err != nil {
+			return err
+		}
+
+		counter++
 	}
 
-	err = zipWriter.Close()
-	if err != nil {
-		return err
-	}
+	// for {
+
+	// 	select {
+	// 	case topicBuffer := <-topicBuffersChan:
+
+	// 		zipFileWriter, err := zipWriter.Create(topicBuffer.GetTopicId() + ".txt")
+	// 		if err != nil {
+	// 			return err
+	// 		}
+
+	// 		_, err = io.Copy(zipFileWriter, topicBuffer.GetContent())
+	// 		if err != nil {
+	// 			return err
+	// 		}
+
+	// 		counter++
+	// 		continue
+
+	// 	case err := <-errChan:
+	// 		zipWriter.Close()
+	// 		return err
+	// 	case <-done:
+	// 		fmt.Println(counter)
+	// 	}
+
+	// 	break
+	// }
 
 	fmt.Println(counter)
 

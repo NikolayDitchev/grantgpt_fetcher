@@ -1,4 +1,4 @@
-package tdextractor
+package main
 
 import (
 	"encoding/json"

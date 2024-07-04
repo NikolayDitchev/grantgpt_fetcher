@@ -1,14 +1,5 @@
 package eu_client
 
-const (
-	TypeTopics  = "1"
-	TypeGrant   = "2"
-	TypeCascade = "8"
-
-	StatusOpen        = "31094501"
-	StatusForthcoming = "31094502"
-)
-
 type Query struct {
 	Bool struct {
 		Must []struct {
@@ -29,19 +20,19 @@ func NewQuery(opts ...Option) *Query {
 	return query
 }
 
-func WithStatus(status []string) Option {
+func WithStatus(statuses ...string) Option {
 	return func(q *Query) {
 		q.Bool.Must = append(q.Bool.Must, struct {
 			Terms map[string][]string "json:\"terms,omitempty\""
 		}{
 			Terms: map[string][]string{
-				"status": status,
+				"status": statuses,
 			},
 		})
 	}
 }
 
-func WithTypes(types []string) Option {
+func WithTypes(types ...string) Option {
 	return func(q *Query) {
 		q.Bool.Must = append(q.Bool.Must, struct {
 			Terms map[string][]string "json:\"terms,omitempty\""

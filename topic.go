@@ -1,5 +1,139 @@
 package main
 
+import (
+	"bytes"
+	"encoding/json"
+	"fmt"
+	"io"
+	"net/http"
+	"reflect"
+	"strings"
+	"time"
+
+	"github.com/NikolayDitchev/grantgpt_fetcher/eu_client"
+)
+
+var (
+	topicTextFields = []string{
+		"Description",
+		"Conditions",
+		"SupportInfo",
+		"SepTemplate",
+		"DestinationDetails",
+		"MissionDetails",
+		"DestinationDescription",
+		"MissionDescription",
+	}
+)
+
+func extractTopicDetails(topicResult *eu_client.Result) (*fundingBuffer, error) {
+
+	topicId, err := eu_client.GetMetadataField(topicResult, eu_client.TopicIdField)
+	if err != nil {
+		fmt.Println("1")
+		return nil, err
+	}
+
+	topicId = strings.ToLower(topicId)
+
+	topicBuffer := &fundingBuffer{
+		content:  &bytes.Buffer{},
+		fileName: topicId,
+	}
+
+	topicDetails, err := GetTopicDetails(topicId)
+	if err != nil {
+		fmt.Println(topicId)
+		fmt.Println("2")
+		return nil, err
+	}
+
+	danswerMetadata := map[string]string{
+		"link":             eu_client.EUWebsiteTopicURL + "/" + topicId,
+		"file_dislay_name": topicDetails.Title,
+		"status":           "OK",
+	}
+
+	metadataJson, err := json.Marshal(danswerMetadata)
+	if err != nil {
+		fmt.Println("3")
+		return nil, err
+	}
+
+	err = topicBuffer.WriteString(`<!-- DANSWER_METADATA=` + string(metadataJson) + ` -->` + "\n\n")
+	if err != nil {
+		fmt.Println("4")
+		return nil, err
+	}
+
+	topicReflectValue := reflect.ValueOf(*topicDetails)
+
+	for _, textField := range topicTextFields {
+
+		fieldValue := topicReflectValue.FieldByName(textField)
+		if fieldValue.String() == "" {
+			continue
+		}
+
+		fieldValueString := StripHTMLTags(fieldValue.String())
+		_ = topicBuffer.WriteString(fmt.Sprintf("%s: %s\n\n", textField, fieldValueString))
+
+	}
+
+	if len(topicDetails.Links) == 1 {
+		startDate, ok := topicDetails.Links[0]["startDate"]
+		if ok {
+			_ = topicBuffer.WriteString(fmt.Sprintf("Start Date: %s\n\n", startDate))
+		}
+		endDate, ok := topicDetails.Links[0]["endDate"]
+		if ok {
+			_ = topicBuffer.WriteString(fmt.Sprintf("End Date: %s\n\n", endDate))
+		}
+	}
+
+	return topicBuffer, nil
+}
+
+func GetTopicDetails(topicId string) (*TopicDetails, error) {
+
+	client := &http.Client{
+		Timeout: 5 * time.Second,
+	}
+
+	var url string = eu_client.EndpointTopicDetails + "/" + topicId + ".json"
+
+	body := make([]byte, 1024)
+	var err error
+
+	for i := 0; i < 10; i++ {
+
+		resp, err := client.Get(url)
+		if err != nil {
+			continue
+		}
+
+		body, err = io.ReadAll(resp.Body)
+		resp.Body.Close()
+
+		if err == nil {
+			break
+		}
+	}
+
+	if err != nil {
+		return nil, err
+	}
+
+	var topicJson *tdResponse
+
+	err = json.Unmarshal(body, &topicJson)
+	if err != nil {
+		return nil, err
+	}
+
+	return &topicJson.TopicDetails, nil
+}
+
 type tdResponse struct {
 	TopicDetails TopicDetails `json:"TopicDetails"`
 }
@@ -28,6 +162,7 @@ type TopicDetails struct {
 	DestinationDetails     string   `json:"destinationDetails"`
 	DestinationDescription string   `json:"destinationDescription"`
 	MissionDetails         string   `json:"missionDetails"`
+	MissionDescription     string   `json:"missionDescription"`
 	TopicMGAs              []any    `json:"topicMGAs"`
 	Tags                   []string `json:"tags"`
 	Keywords               []string `json:"keywords"`
@@ -60,13 +195,13 @@ type TopicDetails struct {
 		BudgetTopicActionMap map[string][]Action `json:"budgetTopicActionMap"`
 		BudgetYearsColumns   []string            `json:"budgetYearsColumns"`
 	} `json:"budgetOverviewJSONItem"`
-	Description         string `json:"description"`
-	Conditions          string `json:"conditions"`
-	SupportInfo         string `json:"supportInfo"`
-	SepTemplate         string `json:"sepTemplate"`
-	Links               []any  `json:"links"`
-	AdditionalDossiers  []any  `json:"additionalDossiers"`
-	InfoPackDossiers    []any  `json:"infoPackDossiers"`
+	Description         string              `json:"description"`
+	Conditions          string              `json:"conditions"`
+	SupportInfo         string              `json:"supportInfo"`
+	SepTemplate         string              `json:"sepTemplate"`
+	Links               []map[string]string `json:"links"`
+	AdditionalDossiers  []any               `json:"additionalDossiers"`
+	InfoPackDossiers    []any               `json:"infoPackDossiers"`
 	CallDetailsJSONItem struct {
 		LatestInfos          []any `json:"latestInfos"`
 		HasForthcomingTopics bool  `json:"hasForthcomingTopics"`

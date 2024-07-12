@@ -7,34 +7,35 @@ import (
 	"io"
 	"net/http"
 	"os"
+	"strconv"
 	"testing"
 	"time"
 )
 
-func TestGetTopicIDs(t *testing.T) {
+// func TestGetTopicIDs(t *testing.T) {
 
-	topicIds := make(chan string)
-	errChan := make(chan error)
+// 	topicIds := make(chan string)
+// 	errChan := make(chan error)
 
-	apc := NewAPI_Caller(10 * time.Second)
+// 	apc := NewAPI_Caller(10 * time.Second)
 
-	go apc.GetTopicIDs(topicIds, errChan)
+// 	go apc.GetTopicIDs(topicIds, errChan)
 
-	counter := 0
+// 	counter := 0
 
-	go func() {
-		for err := range errChan {
-			t.Error(err)
-		}
-	}()
+// 	go func() {
+// 		for err := range errChan {
+// 			t.Error(err)
+// 		}
+// 	}()
 
-	for topicId := range topicIds {
-		fmt.Println(topicId)
-		counter++
-	}
+// 	for topicId := range topicIds {
+// 		fmt.Println(topicId)
+// 		counter++
+// 	}
 
-	fmt.Println(counter)
-}
+// 	fmt.Println(counter)
+// }
 
 func TestGetQuery(t *testing.T) {
 
@@ -103,4 +104,47 @@ func TestSendRequest(t *testing.T) {
 
 	prettyQuery.WriteTo(os.Stdout)
 
+}
+
+func TestGetPages(t *testing.T) {
+	query := NewQuery(WithTypes(TypeTopics), WithStatus(StatusOpen, StatusForthcoming))
+
+	req, err := NewEURequest(
+		"POST",
+		EndpointSearch,
+		[]RequestBodyOption{
+			WithQuery(query),
+			WithLanguages("en"),
+		},
+		[]RequestURLOption{
+			WithApiKey(ApiKeySedia),
+			WithPageSize(50),
+			WithText(DefaultTest),
+			WithPageNumber(1),
+		},
+	)
+
+	if err != nil {
+		t.Error(err)
+	}
+
+	client := &http.Client{
+		Timeout: 5 * time.Second,
+	}
+
+	pages, err := GetPages(req, client)
+	if err != nil {
+		t.Error(err)
+	}
+
+	for i, page := range pages {
+		file, err := os.Create("pages" + strconv.Itoa(i) + ".txt")
+		if err != nil {
+			t.Error(err)
+		}
+		_, err = file.WriteString(fmt.Sprintf("%+v\n", page))
+		if err != nil {
+			t.Error(err)
+		}
+	}
 }

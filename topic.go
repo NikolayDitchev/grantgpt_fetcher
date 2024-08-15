@@ -49,9 +49,9 @@ func extractTopicDetails(topicResult *eu_client.Result) (*fundingBuffer, error) 
 	}
 
 	danswerMetadata := map[string]string{
-		"link":             eu_client.EUWebsiteTopicURL + "/" + topicId,
-		"file_dislay_name": topicDetails.Title,
-		"status":           "OK",
+		"link":              eu_client.EUWebsiteTopicURL + "/" + topicId,
+		"file_display_name": topicDetails.Title,
+		"status":            "OK",
 	}
 
 	metadataJson, err := json.Marshal(danswerMetadata)

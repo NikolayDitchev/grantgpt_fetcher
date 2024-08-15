@@ -32,7 +32,7 @@ func main() {
 
 	t := time.Now().UTC().Format(time.DateOnly)
 
-	danswerZip, err := os.Create(fmt.Sprintf("danswer-fundings_%s.zip", t))
+	danswerZip, err := os.Create(fmt.Sprintf("danswer-zip-archive/danswer-fundings_%s.zip", t))
 	if err != nil {
 		return
 	}
@@ -42,19 +42,6 @@ func main() {
 	defer zipWriter.Close()
 
 	go FetchData(fundingBufferChan, errChan, done)
-
-	// for fundingBuffer := range fundingBufferChan {
-
-	// 	zipFileWrites, err := zipWriter.Create(fundingBuffer.fileName + ".txt")
-	// 	if err != nil {
-	// 		panic(err)
-	// 	}
-
-	// 	_, err = io.Copy(zipFileWrites, fundingBuffer.content)
-	// 	if err != nil {
-	// 		panic(err)
-	// 	}
-	// }
 
 	for {
 

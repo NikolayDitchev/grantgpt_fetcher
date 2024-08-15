@@ -34,9 +34,9 @@ func extractCascadeDetails(cascadeResult *eu_client.Result) (*fundingBuffer, err
 	}
 
 	danswerMetadata := map[string]string{
-		"link":             eu_client.EUWebsiteCascadeURL + "/" + cascadeId,
-		"file_dislay_name": cascadeResult.Summary,
-		"status":           "OK",
+		"link":              eu_client.EUWebsiteCascadeURL + "/" + cascadeId,
+		"file_display_name": cascadeResult.Summary,
+		"status":            "OK",
 	}
 
 	metadataJson, err := json.Marshal(danswerMetadata)

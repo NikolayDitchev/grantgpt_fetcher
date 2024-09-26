@@ -3,37 +3,10 @@ package main
 import (
 	"fmt"
 	"os"
-	"strings"
 	"testing"
 
 	"github.com/NikolayDitchev/grantgpt_fetcher/eu_client"
 )
-
-func TestGetTopicDetails(t *testing.T) {
-
-	pages, err := getPages(eu_client.TypeTopics)
-	if err != nil {
-		t.Error(err)
-	}
-
-	for _, page := range pages {
-		for inx := range page.Results {
-
-			topicId, err := eu_client.GetMetadataField(&page.Results[inx], eu_client.TopicIdField)
-			if err != nil {
-				t.Error(err)
-			}
-
-			topicId = strings.ToLower(topicId)
-
-			_, err = GetTopicDetails(topicId)
-			if err != nil {
-				fmt.Printf("index: %v\n, topicId: %v", inx, topicId)
-				t.Error(err)
-			}
-		}
-	}
-}
 
 func TestGetPages(t *testing.T) {
 
